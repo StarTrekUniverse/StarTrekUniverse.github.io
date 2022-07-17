@@ -1,0 +1,2590 @@
+1
+00:00:12,116 --> 00:00:14,869
+标记8，接近中
+On mark 8 and closing.
+
+2
+00:00:15,036 --> 00:00:19,290
+稳定前进，相位炮待命
+Steady as she goes. Phaser crew, stand by.
+
+3
+00:00:23,461 --> 00:00:26,339
+射程45,000公里，舰长
+Range 45,000 kilometers, Captain.
+
+4
+00:00:26,506 --> 00:00:28,967
+真迷人
+Fascinating.
+
+5
+00:00:32,971 --> 00:00:35,223
+射程43,000公里，接近中
+Range 43,000 kilometers and closing.
+
+6
+00:00:37,141 --> 00:00:40,937
+- 传感器读数  - 一个未知的机械装置
+- Sensor readings. - An unknown mechanical device.
+
+7
+00:00:41,104 --> 00:00:43,982
+我在船上没有读到生命形式
+I read no life-forms aboard.
+
+8
+00:00:45,316 --> 00:00:48,987
+- 分析  - 显然是想拦截我们
+- Analysis. - Obviously it intends to intercept us.
+
+9
+00:00:49,153 --> 00:00:53,616
+它跟着我们做了几次航线变化
+It has made several course changes corresponding with our own.
+
+10
+00:00:53,783 --> 00:00:59,831
+38,000，接近中...35,000，接近中
+38,000 and closing... 35,000 and closing.
+
+11
+00:00:59,998 --> 00:01:04,752
+不清楚它是打算攻击我们还是仅仅与我们交流
+Unclear whether it intends to attack or merely communicate with us.
+
+12
+00:01:05,586 --> 00:01:08,131
+谢谢，科学官
+Thank you, Science Officer.
+
+13
+00:01:16,097 --> 00:01:19,851
+- 前往181，标记7  - 是的，长官
+- Come to 181, mark 7. - Aye, aye, sir.
+
+14
+00:01:32,071 --> 00:01:34,741
+- 它和我们在一起  - 的确
+- It's staying with us. - Indeed.
+
+15
+00:01:34,907 --> 00:01:38,995
+- 完全停止，契科夫先生，原地待命  - 是的，长官
+- Full stop, Mr. Chekov. Hold position. - Aye, sir.
+
+16
+00:01:52,633 --> 00:01:54,802
+梅尔克特：<i>外星人</i>
+MELKOT: <i>Aliens.</i>
+
+17
+00:01:59,098 --> 00:02:02,310
+<i>你已经侵占了梅尔克特的空间</i>
+<i>You have encroached on the space of the Melkot.</i>
+
+18
+00:02:03,561 --> 00:02:07,190
+<i>你要立即掉头</i>
+<i>You will turn back immediately.</i>
+
+19
+00:02:07,356 --> 00:02:11,444
+<i>这是你会收到的唯一警告</i>
+<i>This is the only warning you will receive.</i>
+
+20
+00:02:11,611 --> 00:02:13,946
+- 瓦肯语，舰长  - 英语
+- Vulcan, Captain. - English.
+
+21
+00:02:14,530 --> 00:02:18,117
+- 是俄语，长官，每个词都是  - 不，是斯瓦希里语
+- It was Russian, sir. Every word. - No, it was Swahili.
+
+22
+00:02:20,703 --> 00:02:24,874
+- 有趣，心灵感应  - 毫无疑问
+- Interesting. Telepathy. - Unquestionably.
+
+23
+00:02:25,041 --> 00:02:28,002
+- 令人印象深刻  - 我们的命令很明确
+- Most impressive. - Our orders are clear.
+
+24
+00:02:28,169 --> 00:02:31,714
+我们要不惜一切代价与梅尔克特人建立联系
+We're to establish contact with the Melkotians at all costs.
+
+25
+00:02:31,964 --> 00:02:36,469
+真正的心灵感应者可能是最强大的，我们已经被警告过了
+True telepaths can be most formidable, and we have been warned.
+
+26
+00:02:36,636 --> 00:02:39,013
+有过哪些接触？
+What contacts have been made?
+
+27
+00:02:39,263 --> 00:02:43,768
+没有过接触，如果他们冒险进入太空，他们会立即撤离
+None. If they ever ventured into space, they withdrew immediately.
+
+28
+00:02:50,316 --> 00:02:52,777
+上尉...
+Lieutenant...
+
+29
+00:02:53,945 --> 00:02:57,323
+- 呼叫频率  - 已连接，长官
+- Hailing frequencies. - Tied in, sir.
+
+30
+00:03:02,120 --> 00:03:05,456
+这是星舰<i>企业号</i>的詹姆斯·T·柯克舰长
+This is Captain James T. Kirk of the starship <i>Enterprise,</i>
+
+31
+00:03:05,623 --> 00:03:08,084
+来自星际联邦
+from the United Federation of Planets.
+
+32
+00:03:08,376 --> 00:03:10,795
+我们了解你的浮标所传达的信息
+We understand your buoy's message.
+
+33
+00:03:10,962 --> 00:03:15,842
+我们的目的是与您建立和平关系
+Our intent is to establish peaceful relations with you.
+
+34
+00:03:21,973 --> 00:03:25,601
+- 有回应吗？  - 没有，所有的频率都很清楚
+- Answer? - Nothing. Clear on all frequencies.
+
+35
+00:03:28,646 --> 00:03:30,940
+再试一次
+Try again.
+
+36
+00:03:32,275 --> 00:03:34,527
+仍然没有回应，长官
+Still no response, sir.
+
+37
+00:03:34,694 --> 00:03:37,238
+有何意见，史波克先生？
+Opinion, Mr. Spock?
+
+38
+00:03:37,530 --> 00:03:41,742
+我更喜欢做一个受欢迎的客人，但似乎别无选择
+I prefer being a welcome guest. But there seems to be little choice.
+
+39
+00:03:41,909 --> 00:03:45,913
+一点也没有，契科夫先生，防护罩调到最大强度
+None whatsoever. Mr. Chekov, deflectors to full intensity.
+
+40
+00:03:46,080 --> 00:03:52,920
+- 提高速度登陆  - 五分钟内进入标准轨道
+- Increase speed to achieve planetfall. - Standard orbit in five minutes.
+
+41
+00:04:05,266 --> 00:04:09,979
+让麦考伊医生和轮机长斯科特在传送室与我碰头
+Advise Dr. McCoy and Engineer Scott to meet me in the transporter room.
+
+42
+00:04:10,146 --> 00:04:15,151
+史波克，契科夫，我们去看看他们在害怕什么
+Spock, Chekov, let's go find out what they're afraid of.
+
+43
+00:04:18,863 --> 00:04:22,241
+柯克：<i>舰长日志，星历4385.3</i>
+KIRK: <i>Captain's log, stardate 4385.3.</i>
+
+44
+00:04:22,408 --> 00:04:25,202
+<i>我们来到了梅尔克特星球</i>
+<i>We have come to the Melkotian planet</i>
+
+45
+00:04:25,369 --> 00:04:30,583
+<i>并且遇到了我们没有准备的情况</i>
+<i>and have encountered conditions which we weren't prepared for.
+</i>
+46
+00:04:30,750 --> 00:04:32,668
+- 这是什么？  - 未知
+- What is this? - Unknown.
+
+47
+00:04:32,835 --> 00:04:37,340
+传感器读数没有显示类似雾的情况
+Sensor readings give no indication of fog-like conditions.
+
+48
+00:04:37,673 --> 00:04:42,970
+通讯器坏得真是时候
+It's a fine time for the transporter mechanism to break down.
+
+49
+00:04:43,137 --> 00:04:46,891
+不可能，我的通讯器工作正常
+Impossible. My transporter was working perfectly.
+
+50
+00:04:47,058 --> 00:04:49,936
+- 那我们在这里做什么？  - 读数呢？
+- Then what are we doing here? - Readings?
+
+51
+00:04:50,102 --> 00:04:54,357
+未知，舰长，这个东西不工作
+Unknown, Captain. This unit is not functioning.
+
+52
+00:04:54,523 --> 00:04:56,692
+那我们离开这里吧
+Then let's get out of here.
+
+53
+00:04:58,694 --> 00:05:01,906
+柯克呼叫<i>企业号</i>，柯克呼叫<i>企业号</i>，请回答
+Kirk to <i>Enterprise</i>. Kirk to <i>Enterprise.</i> Come in.
+
+54
+00:05:02,907 --> 00:05:06,494
+没用，我们的设备都不工作
+No use. None of our devices will function.
+
+55
+00:05:10,164 --> 00:05:13,834
+- 显然那个梅尔克特浮标...- 外星人...
+- Apparently that Melkotian buoy... - Aliens...
+
+56
+00:05:35,106 --> 00:05:38,109
+柯克：<i>宇宙，最后的边疆</i>
+KIRK: <i>Space, the final frontier.</i>
+
+57
+00:05:44,198 --> 00:05:48,452
+<i>这些是星舰</i>企业号<i>的航程</i>
+<i>These are the voyages of the starship</i> Enterprise.
+
+58
+00:05:48,619 --> 00:05:52,581
+<i>它的五年任务：探索未知的新世界</i>
+<i>Its five-year mission: To explore strange new worlds,</i>
+
+59
+00:05:52,748 --> 00:05:56,585
+<i>寻找新生命和新文明</i>
+<i>to seek out new life and new civilizations,</i>
+
+60
+00:05:56,752 --> 00:05:59,880
+<i>勇踏前人未至之境</i>
+<i>to boldly go where no man has gone before.</i>
+
+61
+00:06:43,340 --> 00:06:48,304
+我们的警告很明确，你忽略了它
+Our warning was plain. You have disregarded it.
+
+62
+00:06:48,471 --> 00:06:50,639
+你要受到惩罚
+You shall be punished.
+
+63
+00:06:50,806 --> 00:06:56,687
+你，柯克舰长，不服从是奉你的命令
+You, Captain Kirk. The disobedience was on your orders.
+
+64
+00:06:56,854 --> 00:07:00,107
+责任在你
+Yours is the responsibility.
+
+65
+00:07:00,274 --> 00:07:03,027
+你将是你们死亡的模式
+Yours shall be the pattern of your death.
+
+66
+00:07:03,194 --> 00:07:10,034
+我们为和平而来，但如果有必要，我们会自卫
+We come in peace. But we'll defend ourselves if necessary.
+
+67
+00:07:10,201 --> 00:07:14,747
+你们是外来的，你们是疾病
+You are outside. You are disease.
+
+68
+00:07:14,914 --> 00:07:18,042
+必须消灭疾病
+The disease must be destroyed.
+
+69
+00:07:18,334 --> 00:07:23,672
+你们的请求已被听取，判决已宣布
+Your plea has been heard, and sentence has been pronounced.
+
+70
+00:07:23,839 --> 00:07:26,092
+结束了
+It is done.
+
+71
+00:07:35,142 --> 00:07:37,311
+真有趣
+Fascinating.
+
+72
+00:07:44,151 --> 00:07:46,362
+我们现在在哪里，舰长？
+Where are we now, Captain?
+
+73
+00:07:58,290 --> 00:08:00,417
+史波克，评估
+Spock, evaluation.
+
+74
+00:08:00,584 --> 00:08:05,548
+这是梅尔克特人概念里的美国边陲小镇
+This represents the Melkotian's concept of an American frontier town,
+
+75
+00:08:05,714 --> 00:08:08,509
+大约1880年
+Circa 1880.
+
+76
+00:08:08,676 --> 00:08:12,096
+这只是些零碎的东西，不完整
+It's just bits and pieces. It's incomplete.
+
+77
+00:08:14,014 --> 00:08:17,893
+也许梅尔克特人没有足够的关于这个时代的数据
+Perhaps the Melkotians have insufficient data about this era.
+
+78
+00:08:18,060 --> 00:08:22,481
+或许这就是他们完成我们死亡的模式所需要的一切
+Or perhaps this is all they require to complete the pattern of our death.
+
+79
+00:08:22,648 --> 00:08:24,984
+还有这些，舰长？
+And these, Captain?
+
+80
+00:08:25,151 --> 00:08:29,780
+- 美丽的标本  - 粗糙但危险
+- Beautiful specimen. - Crude but dangerous.
+
+81
+00:08:29,947 --> 00:08:34,118
+无论梅尔克特人有什么计划，都不会令人愉快
+Whatever the Melkotians have planned, it won't be pleasant.
+
+82
+00:08:34,368 --> 00:08:36,829
+这些可能有用
+These could be useful.
+
+83
+00:08:36,996 --> 00:08:43,252
+但对于近距离的人来说，这些可能和相位枪一样致命
+But to individuals at close range, these could be as deadly as phasers.
+
+84
+00:08:43,419 --> 00:08:49,967
+在看似如此不真实的事物中，却是残酷的现实，这不是梦
+In the midst of what seems so unreal, a harsh reality. This is not a dream.
+
+85
+00:08:50,134 --> 00:08:51,427
+[门砰砰响]
+[DOOR BANGS]
+
+86
+00:08:58,809 --> 00:09:02,688
+1881年10月26日
+October 26th, 1881.
+
+87
+00:09:02,855 --> 00:09:05,816
+柯克：亚利桑那州，墓碑镇
+KIRK: Tombstone, Arizona.
+
+88
+00:09:05,983 --> 00:09:09,945
+墓碑镇，勇往直前，源于历史
+Tombstone. Hell for leather, right out of history.
+
+89
+00:09:12,364 --> 00:09:15,284
+但为什么是这里？
+But why here?
+
+90
+00:09:15,451 --> 00:09:21,248
+- 为什么是现在？  - 梅尔克特说你就是模式
+- And why now? - The Melkot said you were the pattern.
+
+91
+00:09:21,415 --> 00:09:26,712
+他洞察了你的思维，选择了惩罚我们的时间和地点
+He looked into your mind and selected a time and place for our punishment.
+
+92
+00:09:26,879 --> 00:09:30,341
+因为我的祖先开拓了美国边疆
+Because my ancestors pioneered the American frontier.
+
+93
+00:09:30,633 --> 00:09:35,804
+你继承自祖先的暴力将成为我们死刑的模式
+The violence of your own heritage is to be the pattern for our execution.
+
+94
+00:09:35,971 --> 00:09:40,684
+我们说得好像我们真的在1881年亚利桑那州的墓碑镇
+We're talking like we really are in Tombstone, Arizona in 1881.
+
+95
+00:09:40,976 --> 00:09:43,854
+确切地说，就梅尔科特人的意图而言
+Precisely, in terms of what the Melkots intend.
+
+96
+00:09:44,146 --> 00:09:48,817
+那个日期有事，1881年10月26日
+There's something about that date. October 26th, 1881.
+
+97
+00:09:48,984 --> 00:09:51,362
+但是什么事呢？
+But what was it?
+
+98
+00:09:51,528 --> 00:09:53,822
+艾克！
+Ike!
+
+99
+00:09:57,826 --> 00:10:03,540
+艾克！弗兰克！比利！汤姆！我还在担心你不会成功呢
+Ike! Frank! Billy! Tom! I was afraid you weren't going to make it.
+
+100
+00:10:03,707 --> 00:10:06,794
+- 我们做到了  - 我就知道他们不会把你吓跑的
+- We did. - I knew they wouldn't scare you away.
+
+101
+00:10:06,961 --> 00:10:09,380
+他们就是一群吹牛大王
+They're a bunch of hot air.
+
+102
+00:10:09,546 --> 00:10:13,926
+- 真的吗？  - 现在他们要打架了
+- Are they really? - Now they'll have to fight.
+
+103
+00:10:14,093 --> 00:10:16,387
+你认识我们吗？
+Do you know us?
+
+104
+00:10:18,681 --> 00:10:23,310
+有趣！这就是我喜欢你的地方，你总能看到有趣的一面
+Funny! That's what I like about you. You always see the funny side.
+
+105
+00:10:23,477 --> 00:10:25,479
+我是个笑料十足的人。
+I'm a barrel of laughs.
+
+106
+00:10:25,646 --> 00:10:29,149
+约翰尼·贝汉很有幽默感
+Johnny Behan has a sense of humor.
+
+107
+00:10:29,316 --> 00:10:31,527
+约翰尼…？
+Johnny...?
+
+108
+00:10:32,319 --> 00:10:35,614
+他叫我艾克，叫你弗兰克，叫骨头汤姆
+He called me Ike, you Frank, Bones Tom.
+
+109
+00:10:35,781 --> 00:10:38,284
+还有比利...
+And Billy...
+
+110
+00:10:41,453 --> 00:10:44,123
+艾克·克兰顿、汤姆和弗兰克·麦克劳里
+Ike Clanton, Tom and Frank McLowery,
+
+111
+00:10:44,290 --> 00:10:46,792
+比利·克莱伯恩，比利·克兰顿
+Billy Claiborne, Billy Clanton.
+
+112
+00:10:47,084 --> 00:10:50,713
+我为自己对地球历史的了解而自豪
+I pride myself on my knowledge of Earth history.
+
+113
+00:10:50,879 --> 00:10:56,010
+这些名字在美国西部开发的编年史中广为人知
+The names were known in the annals of the opening of the American West.
+
+114
+00:10:56,176 --> 00:10:59,555
+美利坚合众国，就是这样
+The United States of America, that is.
+
+115
+00:10:59,722 --> 00:11:02,349
+在19世纪后期的亚利桑那州
+In the late 19th Century in Arizona,
+
+116
+00:11:02,516 --> 00:11:07,521
+两个派系争夺墓碑镇的控制权
+two factions fought for control of the town of Tombstone.
+
+117
+00:11:08,689 --> 00:11:12,609
+厄普兄弟，摩根、维吉尔和怀亚特，是镇上的执法官
+The Earps, Morgan, Virgil and Wyatt, the town marshals.
+
+118
+00:11:12,776 --> 00:11:16,947
+- 与多克·霍利德  - 还有克兰顿帮
+- Along with Doc Holliday. - And the Clanton gang.
+
+119
+00:11:17,239 --> 00:11:22,369
+10月26日，他们进行了火拼
+On October 26th, they had it out.
+
+120
+00:11:22,536 --> 00:11:24,663
+谁赢了？
+Who won?
+
+121
+00:11:26,290 --> 00:11:28,709
+克兰顿兄弟输了
+The Clantons lost.
+
+122
+00:11:29,209 --> 00:11:32,129
+而我们是克兰顿兄弟？
+And we are the Clantons?
+
+123
+00:11:33,172 --> 00:11:38,510
+我们是克兰顿兄弟，如果这是历史的重演……
+We are the Clantons. And if this is a replay of history...
+
+124
+00:11:38,677 --> 00:11:42,431
+历史无法改变
+History cannot be changed.
+
+125
+00:11:44,808 --> 00:11:46,060
+[木头碎片]
+[WOOD SPLINTERS]
+
+126
+00:12:11,543 --> 00:12:15,214
+不可能！这样的事情是不可能发生的
+It's impossible! Things like this can't happen.
+
+127
+00:12:15,381 --> 00:12:19,218
+- 这是一个死人吗，医生？  - 死透了，史波克先生
+- Is this a dead man, Doctor? - Very dead, Mr. Spock.
+
+128
+00:12:19,385 --> 00:12:23,555
+在这儿我们可以确定一件事
+That's one thing we can be sure of here.
+
+129
+00:12:23,847 --> 00:12:25,641
+死亡是真实的
+Death is real.
+
+130
+00:12:25,891 --> 00:12:28,268
+[钢琴演奏]
+[PIANO PLAYS]
+
+131
+00:12:33,232 --> 00:12:36,652
+小伙子们，你们好吗？我没想到我会再见到你
+How are you, boys? I didn't think I'd see you again.
+
+132
+00:12:36,819 --> 00:12:38,987
+女人：比利！
+WOMAN: Billy!
+
+133
+00:12:39,154 --> 00:12:41,156
+哦，比利！
+Oh, Billy!
+
+134
+00:12:43,826 --> 00:12:46,161
+我就知道他们不能把你赶走
+I knew they couldn't keep you away.
+
+135
+00:12:46,328 --> 00:12:49,248
+- 你知道？  - 拜托
+- You knew that? - Come on.
+
+136
+00:12:56,839 --> 00:13:01,885
+- 也许你不该在这儿  - 错过见你的机会？
+- Maybe you shouldn't have. - And miss the chance to see you?
+
+137
+00:13:02,052 --> 00:13:05,848
+这是疯狂的冒险，摩根·厄普在这里
+It's taking crazy chances with Morgan Earp here.
+
+138
+00:13:10,018 --> 00:13:14,148
+是的，当然，那人见人就杀
+Yes, of course. The man who kills on sight.
+
+139
+00:13:14,314 --> 00:13:16,900
+摩根·厄普
+Morgan Earp.
+
+140
+00:13:29,830 --> 00:13:35,377
+既然我们已经看到死亡是这种情况下的一个现实
+Since we have seen that death is the one reality in this situation,
+
+141
+00:13:35,544 --> 00:13:38,630
+我郑重建议你重新找个位置
+I seriously suggest you reseat yourself.
+
+142
+00:13:38,797 --> 00:13:41,842
+两只手都不要动
+Without moving a muscle of either hand.
+
+143
+00:13:42,134 --> 00:13:47,639
+否则将使你卷入所谓的“快速拔枪”
+That would involve you in what was called "the fast draw".
+
+144
+00:13:47,806 --> 00:13:51,977
+它引发了不幸的事件
+It initiated unfortunate events.
+
+145
+00:13:59,276 --> 00:14:03,697
+- 你们要和平常一样的吗？  - 是的，半加仑苏格兰威士忌
+- You boys want your usual? - Yes. A half a gallon of Scotch.
+
+146
+00:14:03,864 --> 00:14:07,409
+你知道我们只有波旁威士忌，或玉米威士忌
+You know we only got bourbon. Or corn whiskey.
+
+147
+00:14:07,576 --> 00:14:11,705
+我希望一切都结束了，我今天早上看到维吉尔在外面巡逻
+I wish it was all over. I saw Virgil out patrolling this morning.
+
+148
+00:14:12,956 --> 00:14:15,042
+我们总是可以指望维吉尔
+We can always count on Virgil.
+
+149
+00:14:15,209 --> 00:14:18,879
+他们一直吹嘘要把克兰顿兄弟赶出去
+They've been boasting about chasing the Clantons out.
+
+150
+00:14:19,046 --> 00:14:21,882
+我猜你现在要给他们点颜色看看，是吗？
+I guess you'll show them now, won't you?
+
+151
+00:14:23,467 --> 00:14:26,178
+我认为我们没有任何选择
+I don't think we're going to have any choice.
+
+152
+00:14:28,180 --> 00:14:32,309
+- 别让这个人渣玷污了你  - 别碰她！
+- You'll dirty yourself with this scum. - Get your hands off her!
+
+153
+00:14:32,476 --> 00:14:36,438
+好吧，我们不想惹任何麻烦
+All right. We don't want any trouble.
+
+154
+00:14:36,605 --> 00:14:42,069
+- 那你来我的镇上做什么？  - 别烦我们，厄普先生
+- Then what are you doing in my town? - Just leave us alone, Mr. Earp.
+
+155
+00:14:43,362 --> 00:14:48,158
+你们五个，你们希望我拔枪，不是吗？好的，我会的
+Five of you. You'd like me to draw, wouldn't you? All right. I will.
+
+156
+00:14:50,410 --> 00:14:52,538
+很快
+Soon enough.
+
+157
+00:14:55,123 --> 00:14:57,376
+很快
+Soon enough.
+
+158
+00:15:10,097 --> 00:15:15,018
+我相信他实际上是想挑起与契科夫先生的争端
+I believe he was actually trying to provoke a dispute with Mr. Chekov.
+
+159
+00:15:17,271 --> 00:15:20,524
+真险，艾克，幸好他们不是两个人
+Close, Ike. Lucky there wasn't two of them.
+
+160
+00:15:20,691 --> 00:15:22,943
+大概吧
+I guess so.
+
+161
+00:15:23,110 --> 00:15:27,739
+西尔维亚说得对，他们一直在恶语相向
+Sylvia's right. They've been badmouthing something fierce.
+
+162
+00:15:27,906 --> 00:15:29,992
+你们看着点
+You boys watch it.
+
+163
+00:15:30,158 --> 00:15:35,914
+我们会盯着的，密切观察一切
+We shall watch it, and everything, extremely closely.
+
+164
+00:15:37,541 --> 00:15:40,335
+比利，你真好
+Billy, you were wonderful.
+
+165
+00:15:47,718 --> 00:15:50,596
+呃……契科夫先生？
+Um... Mr. Chekov?
+
+166
+00:15:52,973 --> 00:15:59,479
+你知道我们总是应该与当地人保持良好的关系
+You know we're always supposed to maintain good relations with natives.
+
+167
+00:16:01,732 --> 00:16:04,359
+小姐...
+Young lady...
+
+168
+00:16:06,945 --> 00:16:09,656
+小姐...- 是的，艾克
+- Young lady... - Yes, Ike.
+
+169
+00:16:09,823 --> 00:16:14,494
+如果你不介意的话，我想单独和先生...比利谈谈
+I'd like to talk to Mr... to Billy alone if you don't mind.
+
+170
+00:16:14,661 --> 00:16:17,748
+好的，我明白
+All right. I understand.
+
+171
+00:16:17,914 --> 00:16:20,500
+比利·克莱伯恩，你要小心
+Billy Claiborne, you be careful.
+
+172
+00:16:23,128 --> 00:16:26,548
+契科夫先生，你要小心
+Mr. Chekov, you be careful.
+
+173
+00:16:26,715 --> 00:16:31,762
+史波克先生，除了我们的手枪，我们没有改变
+Mr. Spock, except for our handguns, we haven't changed.
+
+174
+00:16:31,928 --> 00:16:37,267
+- 还有他们将我们视为克兰顿兄弟  - 我不认为那是件坏事
+- Yet they see us as the Clantons. - I don't think that's such a bad thing.
+
+175
+00:16:37,434 --> 00:16:40,479
+- 时间还早  - 我们知道什么？
+- The day is still young. - What have we got?
+
+176
+00:16:40,646 --> 00:16:45,984
+我们在1881年10月26日的亚利桑那州的墓碑镇
+We're in Tombstone, Arizona, October 26th, 1881.
+
+177
+00:16:47,402 --> 00:16:52,074
+OK畜栏枪战那天，而我们是克兰顿兄弟
+The day of the gunfight at OK Corral. And we're the Clantons.
+
+178
+00:16:52,240 --> 00:16:55,285
+摩根·厄普去告诉他的兄弟们我们在这儿
+Morgan Earp is telling his brothers we're here.
+
+179
+00:16:55,452 --> 00:16:58,705
+如果这是某种历史重演
+And if this is some sort of a replay of history,
+
+180
+00:16:58,872 --> 00:17:06,171
+厄普兄弟将在今天下午5:00在OK畜栏杀死克兰顿兄弟
+the Earps will kill the Clantons at the OK Corral at 5:00 this afternoon.
+
+181
+00:17:09,174 --> 00:17:13,553
+今天下午5:00我们不要去OK畜栏
+We're not going to be at the OK Corral at 5:00 this afternoon.
+
+182
+00:17:13,845 --> 00:17:19,267
+你，酒保，埃德，你呃…你说你认识我们
+You. Bartender. Ed. You er... you claim you know us.
+
+183
+00:17:19,434 --> 00:17:22,771
+我没有夸大其词，就这么发生了
+I ain't making no big claims. It just so happens.
+
+184
+00:17:22,938 --> 00:17:26,441
+- 仔细看看我  - 是的
+- Take a close look at me. - Yeah.
+
+185
+00:17:26,608 --> 00:17:30,320
+- 你觉得我是谁？  - 艾克·克兰顿，你认为是谁？
+- Who do you think I am? - Ike Clanton. Who do you think?
+
+186
+00:17:30,487 --> 00:17:36,618
+我知道这难以理解，但我是詹姆斯·T·柯克舰长
+I know this is hard to understand, but I'm Captain James T. Kirk.
+
+187
+00:17:36,785 --> 00:17:41,164
+这些人是我的船员，我们不是真的在这里，我们来自未来
+These men are my crew. We're not really here. We're from the future.
+
+188
+00:17:43,500 --> 00:17:45,752
+我们还没有出生
+We haven't been born yet.
+
+189
+00:17:50,215 --> 00:17:52,718
+摸摸我衬衫的布料
+Feel the material in my shirt.
+
+190
+00:17:52,884 --> 00:17:55,721
+现在摸摸你衬衫的布料
+Now feel the material in your own shirt.
+
+191
+00:17:57,472 --> 00:18:00,183
+你注意到有什么不同吗？
+Do you notice any difference?
+
+192
+00:18:00,350 --> 00:18:02,227
+没有
+No.
+
+193
+00:18:03,228 --> 00:18:07,065
+- 这些衣服看起来和你的像吗？  - 不完全像
+- Do these clothes look like yours? - Not exactly.
+
+194
+00:18:07,232 --> 00:18:12,237
+- 你见过这样的衣服吗？  - 当然，在克兰顿家的人身上
+- Have you ever seen clothes like this? - Sure. On the Clantons.
+
+195
+00:18:12,404 --> 00:18:16,032
+- 你们克兰顿家的人很会开玩笑  - 我不是在开玩笑
+- You Clantons are great with jokes. - I'm not joking.
+
+196
+00:18:16,283 --> 00:18:18,785
+厄普家的人从不开玩笑
+The Earps never joke.
+
+197
+00:18:18,952 --> 00:18:22,956
+我不是在开玩笑！我不是艾克·克兰顿！
+I'm not joking! I'm not Ike Clanton!
+
+198
+00:18:23,123 --> 00:18:27,419
+随你怎么说，艾克，我认为你是谁并不重要
+Anything you say, Ike. Don't matter who I think you are.
+
+199
+00:18:27,711 --> 00:18:31,465
+你的问题是，怀亚特·厄普认为你是谁？
+Your problem is, who does Wyatt Earp think you are?
+
+200
+00:18:38,680 --> 00:18:42,976
+早上好，我是詹姆斯·柯克，这里有个误会
+Good morning. I'm James Kirk. There's been a misunderstanding.
+
+201
+00:18:43,143 --> 00:18:45,812
+我不知道你想耍什么花招，
+I don't know what you're trying to pull,
+
+202
+00:18:45,979 --> 00:18:50,358
+但我们警告过你别再在镇上露出你的丑恶嘴脸了
+but we warned you not to show your ugly face in town again.
+
+203
+00:18:53,153 --> 00:18:58,158
+- 我想和你谈谈这个  - 我们谈完了，克兰顿
+- I wanted to talk to you about that. - We're done talking, Clanton.
+
+204
+00:18:58,325 --> 00:19:03,455
+- 但这里有个误会，我...- 再给你一次机会，最后一次
+- But there's been a mistake. I... - One more chance. Your last.
+
+205
+00:19:03,622 --> 00:19:08,919
+你必须在今晚5:00之前让你的偷马队出城
+You've got until 5:00 tonight to get your horse-stealing crew out of town.
+
+206
+00:19:11,171 --> 00:19:14,299
+沿着路一直走
+All the way.
+
+207
+00:19:14,466 --> 00:19:20,639
+- 是的，我们不想打架  - 我一直说你胆小
+- Yes. We don't want a fight. - I always said you was yellow.
+
+208
+00:19:23,892 --> 00:19:26,895
+我想再次试着使你理解
+I'll make one more attempt to get through to you.
+
+209
+00:19:27,062 --> 00:19:29,272
+我不叫克兰顿，我叫柯克
+My name is not Clanton. It's Kirk.
+
+210
+00:19:29,439 --> 00:19:33,944
+- 我们听到了你的笑话  - 我不是在开玩笑
+- We heard the talk about your jokes. - I'm not joking.
+
+211
+00:19:35,529 --> 00:19:40,283
+当然，好吧，很高兴见到你，柯克先生
+Sure. Well, I'm glad to meet you, Mr. Kirk.
+
+212
+00:19:48,583 --> 00:19:51,586
+- 拔枪，克兰顿  - 不是我，厄普先生
+- Draw, Clanton. - Not me, Mr. Earp.
+
+213
+00:19:51,753 --> 00:19:55,841
+- 不是你你拔枪就是我拔枪  - 不，怀亚特
+- You draw or I will. - No, Wyatt.
+
+214
+00:19:56,842 --> 00:20:04,099
+让我来，时机一到，我会让他付出代价
+Let me. When the time comes, I'll pay him for this.
+
+215
+00:20:09,271 --> 00:20:12,274
+我们不想有任何麻烦，我们会合作的
+We don't want any trouble. We'll cooperate.
+
+216
+00:20:12,440 --> 00:20:15,026
+5:00，克兰顿，明白了吗？
+5:00, Clanton. Is that clear?
+
+217
+00:20:16,444 --> 00:20:22,951
+如果你在5:01在城里，我们会杀了你们每个人，不管你拔不拔枪
+If you're in town at 5:01, we'll kill every one of you whether you draw or not.
+
+218
+00:20:24,786 --> 00:20:26,496
+明白了吗？
+Is that clear?
+
+219
+00:20:41,761 --> 00:20:45,640
+- 怎么了？  - 他们怎么称呼那种东西？火？
+- What's the matter? - What do they call that stuff? Fire?
+
+220
+00:20:45,807 --> 00:20:50,186
+陶斯闪电，试试看，它被认为是药用的
+Taos Lightning. Try some. It was considered medicinal.
+
+221
+00:20:50,353 --> 00:20:53,648
+他们应该给它贴上标签，“仅供外用”
+They ought to label it, "For external use only."
+
+222
+00:20:53,815 --> 00:20:59,321
+需要一点时间适应，事实上，人会慢慢喜欢上它
+It just takes a bit of getting used to. Actually, a man could grow fond of it.
+
+223
+00:20:59,487 --> 00:21:02,574
+我不愿去想它对你的胃有什么影响。
+I hate to think what it's doing to your stomach.
+
+224
+00:21:02,741 --> 00:21:06,286
+还有你的反应速度，从现在开始，我们需要快速反应
+And your reflexes. We'll need fast reflexes from now on.
+
+225
+00:21:06,453 --> 00:21:11,416
+- 没有与厄普兄弟谈判  - 是的，要是我们有一把相位枪
+- There's no negotiating with the Earps. - Aye. If we only had a phaser.
+
+226
+00:21:11,583 --> 00:21:13,251
+或者通讯器
+Or a communicator.
+
+227
+00:21:13,543 --> 00:21:18,882
+当我们被传送回船上时，看厄普兄弟的反应会很有趣
+It would be a pleasure to watch those Earps as we beamed back to the ship.
+
+228
+00:21:19,049 --> 00:21:21,551
+- 我们可以做一个吗？  - 不可能的
+- Could we make one? - Impossible.
+
+229
+00:21:21,843 --> 00:21:26,306
+没有金属合金或能源来制造我们的设备
+There are no metal alloys or power sources to make our devices.
+
+230
+00:21:26,473 --> 00:21:30,352
+我们得要寻找同时代的解决方案
+We're going to have to seek contemporary solutions.
+
+231
+00:21:30,518 --> 00:21:34,481
+- 契科夫呢？-契科夫先生在恋爱
+- Where's Chekov? - Mr. Chekov is involved.
+
+232
+00:21:34,648 --> 00:21:37,192
+你不应该回镇里
+You shouldn't have come back to town.
+
+233
+00:21:37,484 --> 00:21:40,654
+摩根会杀了你，因为他想要得到我
+Morgan will kill you because he wants me.
+
+234
+00:21:40,820 --> 00:21:42,739
+用他过时的武器？
+With his outdated weapon?
+
+235
+00:21:42,906 --> 00:21:46,743
+如果他向我开枪，我让开就行了
+If he shoots at me, I'll just step out of the way.
+
+236
+00:21:46,910 --> 00:21:52,165
+你可以拿它开玩笑，我见过他们的行动，尤其是摩根
+You can joke about it. I've seen them in action. Especially Morgan.
+
+237
+00:21:52,332 --> 00:21:56,753
+很多人和事都试图杀死我，你会惊讶的
+A lot of people and things have tried to kill me. You'd be surprised.
+
+238
+00:21:56,920 --> 00:22:00,423
+契科夫先生……我是说比利，来吧
+Mr. Chekov... I mean Billy. Come along.
+
+239
+00:22:00,590 --> 00:22:03,051
+是的，长官
+Yes, sir.
+
+240
+00:22:03,760 --> 00:22:06,137
+比利？
+Billy?
+
+241
+00:22:06,304 --> 00:22:08,640
+拜托，不要靠近他
+Please. Don't even go near him.
+
+242
+00:22:08,807 --> 00:22:10,976
+先生们
+Gentlemen.
+
+243
+00:22:16,564 --> 00:22:20,610
+- 我们去哪？  - 锻炼一下勇气
+- Where are we going? - To exercise the better part of valor.
+
+244
+00:22:41,673 --> 00:22:45,176
+问题解决了，一个力场
+That settles that. A force field.
+
+245
+00:22:45,468 --> 00:22:47,220
+[钟声]
+[CLOCK CHIMES]
+
+246
+00:22:51,433 --> 00:22:55,603
+梅尔克特人不会允许我们离开这个城镇
+The Melkotians are not going to permit us to leave this town.
+
+247
+00:22:55,895 --> 00:22:59,107
+- 如果我们能和飞船取得联系就好了  - 但它在哪儿？
+- If we could only contact the ship. - But where is it?
+
+248
+00:22:59,274 --> 00:23:02,318
+如果是你在操控，你会做什么？
+If you were in charge of it, what would you be doing?
+
+249
+00:23:02,485 --> 00:23:05,572
+我会使用传感器，试图定位我们
+I'd be using the sensors, trying to locate us.
+
+250
+00:23:05,739 --> 00:23:08,867
+很好，如果我们能找我们到被传送下来的地方
+Good. If we could find the place where we beamed down,
+
+251
+00:23:09,034 --> 00:23:10,952
+飞船可能会传送我们上去
+the ship might beam us up.
+
+252
+00:23:11,119 --> 00:23:14,789
+- 让我们到那里去  - 我们不知道它在哪里
+- Let's get there. - We can't know where it is.
+
+253
+00:23:14,956 --> 00:23:17,208
+1,000英里内的任何地方
+Anywhere within 1,000 miles.
+
+254
+00:23:17,375 --> 00:23:23,006
+史波克，试着找出一条出去的路，别再解释我们为什么不能出去了
+Spock, try to find a way out and quit explaining why we can't get out.
+
+255
+00:23:23,173 --> 00:23:26,593
+考虑到我们必须在5:00之前找到那个方法
+We have until 5:00 to find that way. Consider this.
+
+256
+00:23:26,760 --> 00:23:30,346
+手头有哪些1881年的材料
+What materials were on hand in 1881
+
+257
+00:23:30,513 --> 00:23:33,892
+可以帮助我们按照厄普兄弟的方式来对抗他们？
+that could help us fight the Earps on their own terms?
+
+258
+00:23:34,059 --> 00:23:37,854
+- 我们有这些  - 他们给我们那些东西来处决我们
+- We have these. - They gave us those to execute us.
+
+259
+00:23:38,021 --> 00:23:40,440
+我们必须让厄普兄弟停止活动
+We have to put the Earps out of action.
+
+260
+00:23:40,732 --> 00:23:44,944
+现在有什么东西可以帮助我们摆脱这个陷阱吗？
+Does anything exist here and now that could help us out of this trap?
+
+261
+00:23:48,073 --> 00:23:53,286
+那些西部哥萨克只有毒蛇和仙人掌植物
+Those Western Cossacks only had poisonous snakes and cactus plants.
+
+262
+00:23:53,453 --> 00:23:57,415
+老骨头，毒液，植物，你能利用它们吗？
+Bones, the venom, the plants. Can you make use of them?
+
+263
+00:23:57,582 --> 00:24:00,835
+当然！我可以做镇静剂！
+Of course! I can make a tranquilizer!
+
+264
+00:24:01,002 --> 00:24:03,421
+我可以制作一个装置来释放它
+I could make a device to deliver it.
+
+265
+00:24:03,588 --> 00:24:05,673
+你需要的原料有什么？
+The ingredients you require?
+
+266
+00:24:05,840 --> 00:24:08,927
+我知道哪里可以买到合适的药物
+I know the place to get the proper drugs.
+
+267
+00:24:09,094 --> 00:24:12,180
+- 我需要研钵和研杵  - 契科夫
+- I'll need a mortar and a pestle. - Chekov.
+
+268
+00:24:12,347 --> 00:24:14,724
+你将如何提供镇静剂？
+How will you deliver the tranquilizer?
+
+269
+00:24:15,016 --> 00:24:19,395
+- 我需要引信和棉絮  - 试试药房
+- I'll need fusing and cotton wadding. - Try the apothecary.
+
+270
+00:24:19,562 --> 00:24:25,110
+我将制造类似老式引发罐的东西
+I shall manufacture the equivalent of an ancient generating canister,
+
+271
+00:24:25,401 --> 00:24:28,613
+更广为人知的名称是毒气手榴弹
+more familiarly known as a gas grenade.
+
+272
+00:24:37,163 --> 00:24:41,751
+我还要等五分钟左右。你可以回来了
+I'll be about five minutes yet. You could come back.
+
+273
+00:24:42,043 --> 00:24:44,879
+谢谢你，介意我环顾四周吗？
+Thank you. Mind if I look around a bit?
+
+274
+00:24:53,596 --> 00:24:57,725
+- 粗糙但非常有用  - 我不会碰那些东西
+- Crude but very usable. - I wouldn't touch that stuff.
+
+275
+00:24:57,892 --> 00:25:00,270
+我知道如何处理这个
+I know how to handle this.
+
+276
+00:25:04,440 --> 00:25:07,902
+我也急需少量的这种药物
+I have an urgent need for a small supply of this drug, too.
+
+277
+00:25:08,194 --> 00:25:11,614
+那是他的，你最好问问他
+That belongs to him. You'd better ask him.
+
+278
+00:25:13,408 --> 00:25:17,036
+所以你是牙医？嗯，我是一名医生
+So you're the dentist? Well, I'm a physician.
+
+279
+00:25:17,203 --> 00:25:22,125
+我想知道你是否介意我借一点这个
+I wonder if you'd mind if I borrowed a small quantity of this.
+
+280
+00:25:29,716 --> 00:25:34,095
+- 你现在要吗？  - 我叫麦考伊，我医生
+- You want it now? - My name is McCoy. I'm a doctor.
+
+281
+00:25:34,345 --> 00:25:39,017
+这个笑话已经传遍整个小镇了，麦克洛韦里
+That joke is all around town already, McLowery.
+
+282
+00:25:39,184 --> 00:25:42,645
+但我的名字仍然是霍利德
+But my name is still Holliday.
+
+283
+00:25:42,812 --> 00:25:45,106
+多克·霍利德
+Doc Holliday.
+
+284
+00:25:50,403 --> 00:25:53,239
+…紧急情况是真的，我需要这些东西
+The... emergency is real. I need these things.
+
+285
+00:25:55,825 --> 00:25:58,870
+你的紧急情况肯定是真的
+Your emergency sure is real.
+
+286
+00:26:02,957 --> 00:26:07,212
+去吧，拿上东西，多找点乐子
+Go on. Take the stuff. Have some more fun.
+
+287
+00:26:11,132 --> 00:26:13,801
+拿上我的包
+Take my bag.
+
+288
+00:26:13,968 --> 00:26:17,013
+你最好在5:00之前完成
+Only best you be finished before 5:00.
+
+289
+00:26:19,140 --> 00:26:21,434
+那是我想要的，医生
+That is my intention, Doctor.
+
+290
+00:26:21,601 --> 00:26:26,689
+因为在五点零一分，你会发现你的脑袋有一个洞
+Because at one minute past five, you'll find a hole in your head.
+
+291
+00:26:29,859 --> 00:26:32,320
+用这把枪打的
+Right from this gun.
+
+292
+00:27:05,561 --> 00:27:07,063
+[清嗓子]
+[CLEARS THROAT]
+
+293
+00:27:07,230 --> 00:27:09,065
+西尔维亚！
+Sylvia!
+
+294
+00:27:11,484 --> 00:27:13,278
+你好
+Hello.
+
+295
+00:27:14,320 --> 00:27:17,824
+比利，你知道我对你有多痴迷吗？
+Billy, do you know how crazy I am about you?
+
+296
+00:27:18,950 --> 00:27:21,035
+那...真不错
+That's... very nice.
+
+297
+00:27:23,663 --> 00:27:27,125
+你不问问我包里有什么吗？
+Aren't you going to ask what's in my bag?
+
+298
+00:27:27,292 --> 00:27:30,420
+这正是我准备要问的
+That's just what I was preparing to inquire.
+
+299
+00:27:32,672 --> 00:27:35,008
+你去购物了吗？
+Have you been shopping?
+
+300
+00:27:35,174 --> 00:27:39,262
+当然，在一个美好的下午，我还能做什么
+Of course. What else would I be doing on a beautiful afternoon,
+
+301
+00:27:39,429 --> 00:27:41,639
+距离舞会只有一周了？
+with the dance only one week away?
+
+302
+00:27:41,806 --> 00:27:46,060
+- 还是说你已经忘记了？  - 不，我没忘记
+- Or have you forgotten that already? - No, I haven't forgotten.
+
+303
+00:27:46,227 --> 00:27:52,358
+我很期待……非常期待
+I am looking forward to it... most eagerly.
+
+304
+00:27:53,526 --> 00:27:57,989
+当我穿着我要做的礼服时你绝对会疯狂
+You'll be absolutely wild when you see me in the gown I'm going to make.
+
+305
+00:27:58,156 --> 00:28:04,120
+我找到了了这种最绝妙的料子，有很多码
+I found this most scrumptious material. Yards and yards of it.
+
+306
+00:28:07,457 --> 00:28:10,710
+你知道我在想什么吗，比利？
+You know what I was thinking, Billy?
+
+307
+00:28:10,877 --> 00:28:15,006
+我在想它能做一件多么漂亮的婚纱啊
+I was thinking what a beautiful wedding gown it would make.
+
+308
+00:28:17,300 --> 00:28:20,595
+我们为什么不把那场舞会变成婚礼舞会呢？
+Why don't we turn that dance into a wedding ball?
+
+309
+00:28:20,845 --> 00:28:23,181
+那将是无比美好的
+It would be so heavenly.
+
+310
+00:28:25,808 --> 00:28:28,478
+结婚？
+Married?
+
+311
+00:28:29,729 --> 00:28:33,649
+恐怕……那不可能
+I'm afraid... that wouldn't be possible.
+
+312
+00:28:37,070 --> 00:28:41,532
+我有把握会准备好礼服，还有什么能阻止我们？
+But I'm positive the gown will be ready. What else is there to stop us?
+
+313
+00:28:41,699 --> 00:28:47,747
+这是绝对不可能的，我不是你可以嫁的人
+It is absolutely impossible. I am not someone you can marry.
+
+314
+00:28:47,914 --> 00:28:54,462
+如果我能告诉你……我的真实身份就好了
+If only I could make clear to you... what I really am.
+
+315
+00:28:54,629 --> 00:28:57,757
+你以为我不知道吗？
+Do you think I don't know?
+
+316
+00:28:57,924 --> 00:29:02,845
+比利·克莱伯恩，你是个偷牛贼和偷马贼
+Billy Claiborne, you are a cattle rustler and a horse thief
+
+317
+00:29:03,012 --> 00:29:05,890
+我不在乎其他的
+and I don't care what else.
+
+318
+00:29:09,560 --> 00:29:12,897
+我警告过你，克莱伯恩，离远点
+I warned you, Claiborne. Stay away.
+
+319
+00:29:13,189 --> 00:29:14,899
+[西尔维亚尖叫]
+[SYLVIA SCREAMS]
+
+320
+00:29:21,447 --> 00:29:25,827
+我在这里的时候，你不必从那个人渣那里拿任何东西
+You don't have to take anything from that scum while I'm here.
+
+321
+00:29:27,829 --> 00:29:32,542
+厄普先生，别碰她
+Mr. Earp. Get your hands off her.
+
+322
+00:29:51,894 --> 00:29:53,479
+[尖叫]
+[SCREAMS]
+
+323
+00:30:20,089 --> 00:30:23,134
+我无能为力，吉姆
+There's nothing I can do, Jim.
+
+324
+00:30:40,776 --> 00:30:43,946
+来吧，克兰顿，现在就决斗吧
+Come on, Clanton. Let's do it now.
+
+325
+00:30:50,870 --> 00:30:55,124
+- 舰长，让我来  - 是的，拜托，舰长，让他来
+- Captain, let me. - Yeah, come on, Captain. Let him.
+
+326
+00:30:55,291 --> 00:30:58,294
+- 我们不能只是站在这里  - 我们可以
+- We can't just stand here. - Yes, we can.
+
+327
+00:30:58,461 --> 00:31:02,006
+- 但他们谋杀了契科夫！- 斯科提
+- But they murdered Chekov! - Scotty.
+
+328
+00:31:02,173 --> 00:31:06,469
+- 他们想逼我们  - 现在还不是我们的时间
+- They're trying to push us. - And it is not yet our time.
+
+329
+00:31:18,022 --> 00:31:19,315
+算了吧，他死了
+Let it go. He's dead.
+
+330
+00:31:19,899 --> 00:31:23,361
+因为我忽略了梅尔克特警告
+Because I ignored the Melkot warning.
+
+331
+00:31:25,655 --> 00:31:31,536
+我们在入伍时都知道有风险，现在让它过去吧
+We all knew the risk when we joined the service. Now let it go.
+
+332
+00:31:31,702 --> 00:31:36,707
+有一件事需要我们立即注意
+There is one thing which requires our immediate attention,
+
+333
+00:31:36,874 --> 00:31:40,503
+具体来说，是我们的未来
+specifically, our future.
+
+334
+00:31:40,670 --> 00:31:44,006
+但不是这一刻，史波克
+But not this minute, Spock.
+
+335
+00:31:44,173 --> 00:31:48,010
+我们需要更长的时间
+It takes us a little longer.
+
+336
+00:31:50,096 --> 00:31:53,558
+我理解这种感受，舰长
+I understand the feeling, Captain.
+
+337
+00:31:53,724 --> 00:31:57,270
+你谈论另一个人的感受，你感受到了什么？
+You talk about another man's feelings. What do you feel?
+
+338
+00:31:57,436 --> 00:32:00,648
+我的感情不是讨论的话题
+My feelings are not a subject for discussion.
+
+339
+00:32:00,815 --> 00:32:06,654
+- 没有感情可谈  - 斯波克先生，契科夫死了！
+- There are no feelings to discuss. - Mr. Spock, Chekov is dead!
+
+340
+00:32:06,821 --> 00:32:10,032
+我现在说出来了，但还是难以相信
+I say it now and I can hardly believe it.
+
+341
+00:32:10,199 --> 00:32:12,868
+但他值得一些纪念
+But he deserves some memorial.
+
+342
+00:32:13,035 --> 00:32:17,582
+史波克不会悲伤，斯科提，悲伤是种人性
+Spock will have no truck with grief, Scotty. It's human.
+
+343
+00:32:18,541 --> 00:32:24,171
+- 老骨头，斯科提...  - 舰长，没关系
+- Bones, Scotty... - Captain, it's quite all right.
+
+344
+00:32:24,338 --> 00:32:27,133
+他们忘记了我是半个人类
+They forget I am half human.
+
+345
+00:32:31,262 --> 00:32:33,639
+[钟声]
+[CLOCK CHIMES]
+
+346
+00:32:40,229 --> 00:32:42,690
+我们没有太多时间
+We don't have much time.
+
+347
+00:32:42,982 --> 00:32:48,988
+我依稀记得我们即将参加的战斗的报道
+I vaguely remember the account of the battle in which we are about to engage.
+
+348
+00:32:49,280 --> 00:32:52,325
+- 但我很困惑  - 关于什么？
+- But I am confused. - About what?
+
+349
+00:32:52,491 --> 00:32:55,745
+既然我们每个人都代表克兰顿帮的成员--
+Since each of us represents members of the Clanton gang --
+
+350
+00:32:55,911 --> 00:32:58,873
+你是艾克·克兰顿，我是弗兰克·麦克劳里
+you Ike Clanton, I Frank McLowery --
+
+351
+00:32:59,040 --> 00:33:03,419
+那么契科夫先生就是另一个比利，不是吗？
+then Mr. Chekov would be the other Billy, would he not?
+
+352
+00:33:03,586 --> 00:33:07,757
+- 威廉·克莱伯恩  - 但是，威廉·克莱伯恩
+- William Claiborne. - But did not William Claiborne
+
+353
+00:33:08,049 --> 00:33:11,761
+不是在OK畜栏的战斗中幸存下来了吗？
+survive the battle at the OK Corral?
+
+354
+00:33:14,930 --> 00:33:17,558
+说重点，史波克
+Get to the point, Spock.
+
+355
+00:33:17,725 --> 00:33:22,688
+契科夫先生死了，但在实际的枪战中，威廉·克莱伯恩活了下来
+Mr. Chekov is dead. But in the actual gunfight, William Claiborne survived.
+
+356
+00:33:24,190 --> 00:33:27,610
+是的，是的，这是正确的
+Yes. Yes, that's right.
+
+357
+00:33:27,777 --> 00:33:32,073
+所以不是非得按原来的情况发生，我们可以改变它
+So it doesn't have to happen the way it happened. We can change it.
+
+358
+00:33:35,701 --> 00:33:38,663
+进展如何？  - 我会在史波克之前做好准备
+- How's that coming? - I'll be ready before Spock.
+
+359
+00:33:38,829 --> 00:33:40,748
+- 史波克？  - 还有一个小时
+- Spock? - Another hour.
+
+360
+00:33:40,915 --> 00:33:43,459
+- 我们会有手榴弹？  - 不准确
+- We'll have a grenade? - Not precisely.
+
+361
+00:33:43,626 --> 00:33:46,629
+- 别管叫法了，它能行吗？  - 应该可以
+- Forget precision. Will it work? - It should.
+
+362
+00:33:46,796 --> 00:33:50,591
+如果我们不让他们镇静下来，我们就必须与他们战斗
+If we don't tranquilize them, we'll have to fight them.
+
+363
+00:33:50,758 --> 00:33:53,761
+如果我们与他们战斗，我们都会死
+And if we fight them, we all die.
+
+364
+00:33:53,928 --> 00:33:56,055
+谈判可以为我们赢得时间
+Negotiating could buy us time.
+
+365
+00:33:56,222 --> 00:34:01,811
+但不是和厄普兄弟，我试过了，一定有办法的
+But not with the Earps. I've tried that. There must be a way.
+
+366
+00:34:05,272 --> 00:34:10,986
+历史已经改变，克莱伯恩没死，但契科夫死了
+History has been changed. Claiborne didn't die but Chekov is dead.
+
+367
+00:34:11,153 --> 00:34:14,240
+这意味着这次一定有办法改变
+That means there must be a way to change this time.
+
+368
+00:34:14,532 --> 00:34:18,285
+值得一试，至少在我们对设备有把握之前
+It would be worth a try, at least until we're certain of the device.
+
+369
+00:34:18,452 --> 00:34:21,372
+然后也许我们可以让事情平息下来
+Then perhaps we could quiet things down.
+
+370
+00:34:21,539 --> 00:34:24,166
+不是和厄普兄弟
+Not with the Earps.
+
+371
+00:34:25,418 --> 00:34:29,380
+还有一个地方我可以试试
+There is one other place I can try.
+
+372
+00:34:37,138 --> 00:34:39,849
+你在找人吗？
+You looking for somebody?
+
+373
+00:34:43,018 --> 00:34:45,271
+是的，警长
+Yes, Sheriff.
+
+374
+00:34:46,564 --> 00:34:49,483
+- 我要你阻止冲突  - 阻止它？
+- I want you to stop the fight. - Stop it?
+
+375
+00:34:49,650 --> 00:34:52,903
+谁想阻止它？我肯定不想，你也不想
+Who wants to stop it? I sure don't. You don't.
+
+376
+00:34:53,070 --> 00:34:55,406
+- 你昨天还不想的  - 我现在想了
+- You didn't yesterday. - I do now.
+
+377
+00:34:55,573 --> 00:34:58,242
+一个克兰顿家的人何时学会向法律求助了？
+When does a Clanton crawl to the law for help?
+
+378
+00:34:58,534 --> 00:35:00,870
+- 他还能怎样伸张正义？  - 用这个
+- How else can he get justice? - From this.
+
+379
+00:35:01,036 --> 00:35:03,998
+你安排这整件事是为了解决厄尔普家族的事
+You set up this whole thing to take care of the Earps.
+
+380
+00:35:04,165 --> 00:35:07,877
+- 决定反对它为时已晚  - 不算太晚
+- It's too late to decide against it. - It's not too late.
+
+381
+00:35:08,961 --> 00:35:10,713
+警长，警长
+Sheriff. Sheriff.
+
+382
+00:35:13,549 --> 00:35:16,594
+让我们把不喜欢厄普兄弟的人组织起来
+Let's organize the people who don't like the Earps.
+
+383
+00:35:16,761 --> 00:35:21,974
+不要胡说八道，他们指望你们除掉厄普兄弟
+Don't talk nonsense. They're counting on you to get rid of the Earps.
+
+384
+00:35:22,141 --> 00:35:24,727
+他们最好让法律为他们所用
+They'd better let the law work for them.
+
+385
+00:35:24,894 --> 00:35:29,106
+今天厄尔普家族对比利做了那样的事，你还能这样说话？
+You can talk that way after what the Earps did to Billy today?
+
+386
+00:35:30,900 --> 00:35:34,945
+这个镇上没有人会拒绝你报仇的权利
+Nobody in this town will deny you your right to your revenge.
+
+387
+00:35:38,449 --> 00:35:43,662
+是的，我要复仇，我想取厄普一家的命
+Yes, I want revenge. I want to crush the life out of the Earps.
+
+388
+00:35:45,331 --> 00:35:48,626
+- 但我不能只是杀了他们  - 你听我说
+- But I can't just kill them. - You listen to me.
+
+389
+00:35:48,793 --> 00:35:50,711
+躲在OK畜栏
+Hide at the OK Corral.
+
+390
+00:35:50,878 --> 00:35:53,923
+当厄普兄弟来找你时，你伏击他们
+When the Earps come looking, you bushwhack them.
+
+391
+00:35:54,089 --> 00:35:57,218
+- 我不能这样杀了他们！- 这是唯一的办法！
+- I can't just kill them! - It's the only way!
+
+392
+00:35:57,384 --> 00:36:00,095
+我不能谋杀他们！我不能杀他们！
+I can't murder them! I can't kill them!
+
+393
+00:36:00,262 --> 00:36:03,057
+尽你所能杀死他们！
+Kill them any way you can!
+
+394
+00:36:05,100 --> 00:36:08,479
+不会有任何问题，真的
+There will be no questions asked. Honest.
+
+395
+00:36:08,646 --> 00:36:12,191
+我保证
+I guarantee that.
+
+396
+00:36:22,368 --> 00:36:26,455
+这些原油效果相当好
+These crude supplies worked quite well.
+
+397
+00:36:26,622 --> 00:36:30,960
+我怀疑这些东西曾经被用于这样的目的
+I doubt these things were ever used for any purpose like this.
+
+398
+00:36:31,126 --> 00:36:35,047
+如果他们有你的聪明才智，也许他们会这样做
+Perhaps they would have been if they'd had your ingenuity.
+
+399
+00:36:41,428 --> 00:36:43,430
+舰长？
+Captain?
+
+400
+00:36:44,473 --> 00:36:47,685
+- 多久能准备好？  - 就现在
+- How soon will that be ready? - Right now.
+
+401
+00:36:49,270 --> 00:36:51,939
+镇静剂要多久才能起作用？
+How long until the tranquilizer works?
+
+402
+00:36:52,189 --> 00:36:55,776
+- 三秒钟  - 你是怎么测试的？
+- Three seconds. - How did you test it?
+
+403
+00:36:56,819 --> 00:37:01,740
+- 没有测试过  - 这很简单，什么都不会出错
+- It has not been tested. - It's simple. Nothing can go wrong.
+
+404
+00:37:01,907 --> 00:37:05,286
+到现在为止，一切都出错了，我要测试一下
+Up to now, everything has gone wrong. I want it tested.
+
+405
+00:37:06,370 --> 00:37:09,498
+志愿者能解决问题吗？
+Would a volunteer solve the problem?
+
+406
+00:37:09,665 --> 00:37:13,502
+- 能  - 好吧，有一个条件
+- It would. - All right. On one condition.
+
+407
+00:37:13,669 --> 00:37:16,672
+我和你要在5:00前清醒
+That I'm wide awake and with you at 5:00.
+
+408
+00:37:17,840 --> 00:37:20,593
+- 我保证  - 好的
+- Guaranteed. - All right.
+
+409
+00:37:25,764 --> 00:37:28,058
+这是为了止痛
+It's to kill the pain.
+
+410
+00:37:28,225 --> 00:37:32,855
+- 但这是无痛的  - 你应该早点告诉我的
+- But this is painless. - You should have warned me sooner.
+
+411
+00:37:33,022 --> 00:37:35,024
+开始吧
+Fire away.
+
+412
+00:38:10,851 --> 00:38:15,189
+- 它应该有用，你吸气了吗？  - 是的，深吸气了
+- It should work. Did you inhale? - Aye. Deeply.
+
+413
+00:38:15,481 --> 00:38:18,233
+- 你还觉得好吗？  - 再好不过了
+- You still feel all right? - Never felt better.
+
+414
+00:38:18,400 --> 00:38:21,862
+- 没有头晕？出汗？  - 它没有用
+- No dizziness? Sweating? - It doesn't work.
+
+415
+00:38:23,155 --> 00:38:26,617
+- 真有趣  - 这是我们最后的机会
+- Fascinating. - It was our last chance.
+
+416
+00:38:29,286 --> 00:38:32,665
+队长，你好像没听懂
+Captain, you don't seem to understand.
+
+417
+00:38:32,831 --> 00:38:35,793
+它没有起作用，但它一定是有效的
+It did not function, but it must function.
+
+418
+00:38:35,960 --> 00:38:38,712
+不会出错的，它应该有效的
+Nothing could go wrong. It should work.
+
+419
+00:38:38,879 --> 00:38:41,006
+一个科学事实
+A scientific fact.
+
+420
+00:38:41,173 --> 00:38:44,760
+但如果镇静剂不起作用
+But if the tranquilizer does not function,
+
+421
+00:38:44,927 --> 00:38:48,722
+那么就必须改变我们的思维模式了
+then an alteration of our thought patterns must be in order.
+
+422
+00:38:48,889 --> 00:38:52,643
+我们需要一把武器，一个解决办法
+We need a weapon. An answer.
+
+423
+00:38:53,602 --> 00:38:57,731
+现在不必担心这个，看看钟
+Don't have to worry about that now. Look at the clock.
+
+424
+00:38:59,400 --> 00:39:04,655
+10分钟，这一切都将在OK畜栏结束
+Ten minutes. It's all going to end at the OK Corral.
+
+425
+00:39:04,822 --> 00:39:09,576
+我们要在这里等到5:00以后
+We're going to wait right here until well after 5:00.
+
+426
+00:39:09,743 --> 00:39:12,454
+我们不会离开这个地方
+We're not going to move from this spot.
+
+427
+00:39:16,834 --> 00:39:18,919
+[马嘶声]
+[HORSE NEIGHS]
+
+428
+00:39:32,307 --> 00:39:34,351
+我们离开这里吧！
+Let's get out of here!
+
+429
+00:39:39,481 --> 00:39:41,692
+斯科提，老骨头
+Scotty, Bones.
+
+430
+00:39:49,742 --> 00:39:51,910
+我们被困住了
+We're trapped.
+
+431
+00:39:52,077 --> 00:39:55,873
+他们如愿以偿，我们必须站起来战斗
+They got their way. We've got to stand and fight.
+
+432
+00:39:56,040 --> 00:39:59,418
+好的，如果他们想打架，那就打吧
+Good. If they want a fight, let's give them a fight.
+
+433
+00:39:59,585 --> 00:40:02,129
+他们是专家，我们不会有机会了
+They're experts. We won't have a chance.
+
+434
+00:40:02,296 --> 00:40:05,799
+- 我们最好成为专家  - 那可能没有必要
+- We'd better become experts. - That may not be necessary.
+
+435
+00:40:05,966 --> 00:40:08,594
+- 你想到什么了吗？  - 一个事实
+- You've got something? - A fact.
+
+436
+00:40:08,761 --> 00:40:11,930
+物理定律是不容忽视的
+Physical laws simply cannot be ignored.
+
+437
+00:40:12,097 --> 00:40:14,475
+没有他们就不能存在
+Existence cannot be without them.
+
+438
+00:40:14,767 --> 00:40:19,646
+- 你是什么意思？  - 我们面临着矛盾
+- What do you mean? - We are faced with a contradiction.
+
+439
+00:40:19,897 --> 00:40:23,734
+你创造的镇静剂应该是有效的
+The tranquilizer you created should have been effective.
+
+440
+00:40:23,901 --> 00:40:28,739
+- 它在任何地方都该有效  - 确实
+- It would have been anywhere else. - Exactly.
+
+441
+00:40:28,906 --> 00:40:33,285
+医生，在您看来，是什么杀死了契科夫先生？
+Doctor, in your opinion, what killed Mr. Chekov?
+
+442
+00:40:33,452 --> 00:40:37,623
+- 他体内的一块铅  - 错
+- A piece of lead in his body. - Wrong.
+
+443
+00:40:37,790 --> 00:40:41,126
+- 他的意识杀死了他  - 如果你有答案，告诉我们！
+- His mind killed him. - If you've got the answer, tell us!
+
+444
+00:40:41,293 --> 00:40:44,880
+物理现实符合普遍规律
+The physical reality is consistent with universal laws.
+
+445
+00:40:45,047 --> 00:40:49,510
+当定律不起作用时，就没有现实
+When the laws do not operate, there is no reality.
+
+446
+00:40:49,676 --> 00:40:52,179
+这一切都是不真实的
+All of this is unreal.
+
+447
+00:40:52,346 --> 00:40:55,474
+你是什​​么意思？我检查了契科夫，他死了
+What do you mean? I examined Chekov. He's dead.
+
+448
+00:40:55,641 --> 00:40:59,186
+你在我们无法信任的条件下进行了检查
+You made your examination under conditions we cannot trust.
+
+449
+00:41:00,145 --> 00:41:03,023
+我们通过感官的反应来判断现实
+We judge reality by the response of our senses.
+
+450
+00:41:03,190 --> 00:41:06,401
+一旦我们确信某种情况的真实性
+Once we are convinced of the reality of a situation,
+
+451
+00:41:06,693 --> 00:41:08,821
+我们遵守它的规则
+we abide by its rules.
+
+452
+00:41:08,987 --> 00:41:12,241
+我们判断子弹是实心的，枪支是真实的
+We judge the bullets to be solid, the guns to be real.
+
+453
+00:41:12,407 --> 00:41:15,160
+因此，他们可以杀人
+Therefore, they can kill.
+
+454
+00:41:16,328 --> 00:41:20,332
+契科夫死了是因为他相信子弹会杀死他？
+Chekov is dead because he believed the bullets would kill him?
+
+455
+00:41:20,499 --> 00:41:23,710
+他可能真的死了，我们不知道
+He may indeed be dead. We do not know.
+
+456
+00:41:23,877 --> 00:41:28,966
+但我们确实知道，梅尔克特人创造了这个环境
+But we do know that the Melkotians created the situation.
+
+457
+00:41:29,133 --> 00:41:34,346
+如果我们不相信子弹是真实的，它们就不能杀死我们
+If we do not believe that the bullets are real, they cannot kill us.
+
+458
+00:41:34,513 --> 00:41:40,185
+确实如此，我知道子弹是不真实的，因此它们不能伤害我
+Exactly. I know the bullets are unreal, therefore they cannot harm me.
+
+459
+00:41:41,854 --> 00:41:44,773
+我们必须都非常确定才能救我们的性命
+We must all be certain to save our lives.
+
+460
+00:41:44,940 --> 00:41:47,484
+- 不错  - 但那是不可能的
+- Precisely. - But that's not possible.
+
+461
+00:41:47,651 --> 00:41:52,030
+- 总会有一些疑问  - 一丁点儿怀疑都会要了你的命
+- There would always be some doubt. - The smallest doubt would kill you.
+
+462
+00:41:52,197 --> 00:41:57,786
+我们只是人类，史波克，我们没有你的发条心脏
+We're just human beings, Spock. We don't have your clockwork ticker.
+
+463
+00:41:57,953 --> 00:42:00,539
+- 我们不能打开和关闭它  - 必须要
+- We can't turn it on and off. - We must.
+
+464
+00:42:00,706 --> 00:42:03,375
+史波克，瓦肯的心灵融合
+Spock, a Vulcan mind-meld.
+
+465
+00:42:05,335 --> 00:42:09,423
+很好，长官，轮机长？
+Very well, sir. Engineer?
+
+466
+00:42:43,165 --> 00:42:47,461
+你的意识到我的意识
+Your mind to my mind.
+
+467
+00:42:48,629 --> 00:42:52,466
+你的想法到我的想法
+Your thoughts to my thoughts.
+
+468
+00:43:12,611 --> 00:43:15,906
+子弹是不真实的
+The bullets are unreal.
+
+469
+00:43:17,324 --> 00:43:19,868
+没有实体
+Without body.
+
+470
+00:43:20,035 --> 00:43:22,788
+它们只是幻觉
+They are illusions only.
+
+471
+00:43:24,122 --> 00:43:28,085
+没有实质的阴影
+Shadows without substance.
+
+472
+00:43:29,920 --> 00:43:34,466
+它们不会穿过你的身体
+They will not pass through your body,
+
+473
+00:43:34,633 --> 00:43:38,053
+因为它们不存在
+for they do not exist.
+
+474
+00:43:39,972 --> 00:43:43,350
+它们不存在
+They do not exist.
+
+475
+00:43:55,070 --> 00:43:57,239
+不真实
+Unreal.
+
+476
+00:43:57,406 --> 00:44:00,867
+只是表象
+Appearances only.
+
+477
+00:44:01,034 --> 00:44:04,663
+他们是影子，假象
+They are shadows. Illusions.
+
+478
+00:44:06,248 --> 00:44:09,960
+只是现实的幽灵
+Nothing but ghosts of reality.
+
+479
+00:44:12,713 --> 00:44:17,009
+他们是谎言，谎言
+They are lies. Falsehoods.
+
+480
+00:44:17,175 --> 00:44:20,887
+没有实体的幽灵
+Spectres without body.
+
+481
+00:44:22,014 --> 00:44:25,058
+忽略他们
+They are to be ignored.
+
+482
+00:44:34,776 --> 00:44:36,862
+舰长
+Captain.
+
+483
+00:44:53,670 --> 00:44:56,548
+拔枪吧
+Draw.
+
+484
+00:46:20,507 --> 00:46:23,301
+舰长，我…不明白
+Captain, I... don't understand.
+
+485
+00:46:23,468 --> 00:46:25,971
+我也没有，他非常jian健康 kang
+Neither do I. He's in perfect health.
+
+486
+00:46:26,138 --> 00:46:29,724
+- 我去哪儿了？  - 似乎就在这里
+- Where have I been? - Right here, it seems.
+
+487
+00:46:29,891 --> 00:46:35,439
+但是那个女孩，她是如此美丽，太真实了
+But that girl. She was so beautiful. So real.
+
+488
+00:46:35,605 --> 00:46:39,526
+- 你还记得别的吗？  - 没有了
+- Do you remember anything else? - No.
+
+489
+00:46:39,693 --> 00:46:44,364
+这就解释了他为什么会在这里，什么都不是真的，除了那女孩
+That explains why he was here. Nothing was real to him except the girl.
+
+490
+00:46:44,656 --> 00:46:47,492
+舰长，梅尔克特物体
+Captain, the Melkotian object.
+
+491
+00:46:51,037 --> 00:46:52,706
+传感器读数
+Sensor readings.
+
+492
+00:46:52,956 --> 00:46:58,628
+该物体正在发射极不稳定的射线
+The object is emitting rays of a highly unstable nature.
+
+493
+00:46:58,795 --> 00:47:02,841
+拉响红色警报，偏转护盾全开
+Sound Red Alert. Deflector shields on full.
+
+494
+00:47:03,008 --> 00:47:05,594
+枪手们，锁定目标
+Gun crews, lock on target.
+
+495
+00:47:05,760 --> 00:47:09,139
+能量输出增加超过可测量的水平
+Energy output increasing beyond measurable levels.
+
+496
+00:47:09,306 --> 00:47:12,100
+相位枪，待命开火
+Phaser guns, stand by to fire.
+
+497
+00:47:25,322 --> 00:47:29,367
+它……它不见了，长官
+It's... It's gone, sir.
+
+498
+00:47:29,534 --> 00:47:33,705
+- 损坏报告  - 没有，所有甲板全面运作
+- Damage report. - None. All decks fully operational.
+
+499
+00:47:33,997 --> 00:47:37,000
+梅尔克特：<i>柯克舰长</i>
+MELKOT: <i>Captain Kirk.</i>
+
+500
+00:47:37,167 --> 00:47:39,753
+<i>你没有杀人</i>
+<i>You did not kill.</i>
+
+501
+00:47:44,007 --> 00:47:47,677
+- <i>这是你们种族的处理方式吗？</i>  - 是的
+- <i>Is this the way of your kind?</i> - It is.
+
+502
+00:47:48,762 --> 00:47:52,140
+我们只有在别无选择的时候才会战斗，我们更喜欢和平
+We fight only when there's no choice. We prefer peace.
+
+503
+00:47:52,307 --> 00:47:56,520
+我代表一个相信同样事物的生物联盟
+I speak for an alliance of creatures who believe in the same thing.
+
+504
+00:47:56,811 --> 00:48:01,441
+我们已邀请你们加入我们，我们的使命是和平
+We have sought you out to join us. Our mission is one of peace.
+
+505
+00:48:07,197 --> 00:48:12,994
+<i>靠近我们的星球，欢迎你们，代表团会出来迎接你</i>
+<i>Approach our planet. Be welcome. A delegation will come out to meet you.</i>
+
+506
+00:48:13,161 --> 00:48:16,665
+<i>我们的警告威胁已经结束</i>
+<i>Our warning threats are over.</i>
+
+507
+00:48:20,335 --> 00:48:25,006
+好极了，上尉，取消红色警报
+Excellent. Lieutenant, cancel Red Alert.
+
+508
+00:48:25,173 --> 00:48:30,136
+- 继续原航线，曲速2  - 曲速2，长官
+- Resume original course, warp 2. - Warp factor 2, sir.
+
+509
+00:48:37,185 --> 00:48:44,109
+舰长，我可以问个问题吗？如果太私人了，你不必回答
+Captain, may I ask a question? You needn't answer if it's too personal.
+
+510
+00:48:44,276 --> 00:48:46,903
+我确定我能回答
+I'm sure I'll be able to answer.
+
+511
+00:48:48,905 --> 00:48:56,079
+今天下午，你想杀人，是吗？
+This afternoon, you wanted to kill, didn't you?
+
+512
+00:48:56,246 --> 00:49:00,458
+- 但他没有杀人，史波克先生  - 但他想，医生
+- But he didn't kill, Mr. Spock. - But he wanted to, Doctor.
+
+513
+00:49:00,625 --> 00:49:03,837
+- 在你看来是这样吗？  - 是的，舰长
+- Is that the way it seemed to you? - Yes, Captain.
+
+514
+00:49:05,046 --> 00:49:10,218
+史波克先生，你说得很对，事实也正是如此
+Mr. Spock, you're absolutely right. That's exactly the way it was.
+
+515
+00:49:11,720 --> 00:49:16,057
+人类，准备杀戮
+Mankind, ready to kill.
+
+516
+00:49:16,224 --> 00:49:18,351
+那是1881年的情况了
+That's the way it was in 1881.
+
+517
+00:49:18,518 --> 00:49:23,440
+我想知道人类是如何生存下来的
+I wonder how humanity managed to survive.
+
+518
+00:49:25,233 --> 00:49:28,945
+我们克服了暴力的本能
+We overcame our instinct for violence.
+

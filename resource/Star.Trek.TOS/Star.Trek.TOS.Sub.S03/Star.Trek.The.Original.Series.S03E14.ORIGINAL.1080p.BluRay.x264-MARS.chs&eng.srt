@@ -1,0 +1,3640 @@
+1
+00:00:04,714 --> 00:00:07,842
+[柯克] 舰长日志，星历5718.3
+[Kirk] Captain's Log : Star date 5718.3.
+
+2
+00:00:07,918 --> 00:00:12,890
+企业号正在绕着厄尔巴二号飞行，这是一颗大气有毒的行星…
+The Enterprise is orbiting Elba 11, a planet with a poisonous atmosphere ...
+
+3
+00:00:12,890 --> 00:00:14,850
+联邦在此建立了一个收容所
+where the Federation maintains an asylum...
+
+4
+00:00:15,074 --> 00:00:19,807
+收治了银河系中少数几个不可救药的犯罪狂人
+for the few remaining incorrigible, criminally insane of the galaxy.
+
+5
+00:00:19,879 --> 00:00:23,110
+我们正在为他们带来革命性的新药
+We are bringing a revolutionary new medicine to them,
+
+6
+00:00:23,182 --> 00:00:27,585
+联邦希望用它永久消除…
+a medicine with which the Federation hopes to eliminate mental illness...
+
+7
+00:00:27,653 --> 00:00:28,783
+精神疾病
+for all time.
+
+8
+00:00:29,655 --> 00:00:31,432
+我正和史波克先生一起传送下去
+I am transporting down with Mr. Spock,
+
+9
+00:00:31,432 --> 00:00:34,751
+把药送给唐纳德·科里医生
+and we're delivering the medicine to Dr. Donald Cory,
+
+10
+00:00:34,827 --> 00:00:36,412
+他是殖民地主管
+the governor of the colony.
+
+11
+00:00:36,929 --> 00:00:38,899
+我是唐纳德，很高兴见到你
+Donald, good to see you.
+
+12
+00:00:39,006 --> 00:00:39,812
+主管
+Governor.
+
+13
+00:00:39,965 --> 00:00:42,360
+先生们，你们不知道我有多开心
+Gentlemen, you don't know what a treat this is for me.
+
+14
+00:00:42,935 --> 00:00:45,501
+我已经很久没有访客了，吉姆
+It's been too long since I've had company, Jim.
+
+15
+00:00:46,939 --> 00:00:48,873
+力场恢复原位
+The force field's back in place now.
+
+16
+00:00:48,941 --> 00:00:50,875
+这意味着你俩被困在这里了
+That means you two are trapped here.
+
+17
+00:00:50,943 --> 00:00:54,131
+我不接受你不和我一起吃饭的借口
+I'm not accepting any excuses for your not dining with me.
+
+18
+00:00:54,297 --> 00:00:55,978
+我们会很高兴的
+We'd be delighted.
+
+19
+00:00:56,048 --> 00:00:58,915
+主管，自从我们上次访问以后，你又收治了一名病人
+Governor, you indicated one additional inmate since our last visit,
+
+20
+00:00:58,985 --> 00:01:00,919
+总共15个，对吗？
+making a total of 15. Is it correct?
+
+21
+00:01:00,987 --> 00:01:01,930
+是的
+It is.
+
+22
+00:01:02,467 --> 00:01:05,855
+康复计划进展得不太好
+The rehabilitation program isn't progressing too well,
+
+23
+00:01:06,264 --> 00:01:10,019
+我怀疑这种药的有效性
+and I have my doubts about the effectiveness of this medicine too.
+
+24
+00:01:10,355 --> 00:01:12,273
+唐纳德，你变成悲观主义者了吗？
+Donald, are you becoming a pessimist?
+
+25
+00:01:12,273 --> 00:01:14,226
+我恐怕是的
+I'm afraid I have.
+
+26
+00:01:14,300 --> 00:01:17,599
+数十亿人里总共有15个无法治愈的疯子…
+A total of 15 incurably insane out of billions...
+
+27
+00:01:17,670 --> 00:01:19,816
+要我说并不多
+is not what I would call an excessive figure.
+
+28
+00:01:20,239 --> 00:01:21,184
+新病人是谁？
+Who is the new inmate?
+
+29
+00:01:21,184 --> 00:01:22,104
+呃，加斯
+Uh, Garth.
+
+30
+00:01:26,285 --> 00:01:27,551
+[科里] 伊扎尔的加斯
+[Cory] Garth of Izar,
+
+31
+00:01:27,618 --> 00:01:30,159
+一位以前的星际舰队舰长
+a former star ship fleet captain.
+
+32
+00:01:30,414 --> 00:01:35,503
+当我还是学院的学员时，他的功绩是必读的
+When I was a cadet at the academy, his exploits were required reading.
+
+33
+00:01:35,503 --> 00:01:38,529
+他是我的英雄之一，我想见他
+He was one of my heroes. I'd like to see him.
+
+34
+00:01:38,609 --> 00:01:39,352
+当然
+Of course.
+
+35
+00:01:41,265 --> 00:01:43,233
+[开门]
+[Door Opens]
+
+36
+00:01:50,704 --> 00:01:51,356
+[咔嗒声]
+[Click]
+
+37
+00:01:56,444 --> 00:01:58,935
+[咔嗒声]
+[Click]
+
+38
+00:02:00,040 --> 00:02:00,881
+舰长！
+Captain!
+
+39
+00:02:02,276 --> 00:02:03,425
+你正在犯一个错误
+You're making a mistake.
+
+40
+00:02:03,425 --> 00:02:06,394
+柯克舰长时间紧迫，玛塔
+Captain Kirk is pressed for time at the moment, Marta.
+
+41
+00:02:07,411 --> 00:02:08,807
+我没有什么问题！
+There's nothing the matter with me!
+
+42
+00:02:09,329 --> 00:02:13,026
+你不能看着我就明白吗？你不能通过听来判断吗？
+Can't you see just by looking at me? Can't you tell by listening?
+
+43
+00:02:13,205 --> 00:02:14,972
+她听起来很理性，舰长
+She sounds rational enough, Captain.
+
+44
+00:02:15,335 --> 00:02:17,309
+我是理性的
+I am rational.
+
+45
+00:02:17,591 --> 00:02:18,743
+你想告诉我什么？
+What is it you want to tell me?
+
+46
+00:02:20,991 --> 00:02:22,602
+我不能在他面前告诉你
+I can't tell you in front of him.
+
+47
+00:02:23,395 --> 00:02:25,441
+你害怕在科里主管面前说话？
+You're afraid to talk in front of Governor Cory?
+
+48
+00:02:26,745 --> 00:02:29,701
+他根本不是真的科里主管，就是这样
+He isn't really Governor Cory at all, that's just it.
+
+49
+00:02:30,248 --> 00:02:32,575
+[轻笑] 这几天她一直在说
+[Chuckles] She's been saying that for days now.
+
+50
+00:02:32,690 --> 00:02:35,310
+我们的医务人员无法弄清楚原因[轻笑]
+Our medical staff can't figure out why. [Chuckles]
+
+51
+00:02:48,658 --> 00:02:49,719
+这是加斯
+Here's Garth.
+
+52
+00:02:50,435 --> 00:02:52,366
+他异常不安
+He's been unusually disturbed,
+
+53
+00:02:52,586 --> 00:02:55,919
+我们不得不施加额外的限制
+and we've had to impose additional restraint.
+
+54
+00:02:57,045 --> 00:02:57,889
+科里？
+Cory?
+
+55
+00:02:57,889 --> 00:02:58,754
+[呼气]
+[Exhales]
+
+56
+00:02:59,052 --> 00:03:01,711
+是的，吉姆，我是科里
+Yes, Jim, I'm Cory.
+
+57
+00:03:02,159 --> 00:03:04,727
+[疯狂地笑]
+[Laughing Maniacally]
+
+58
+00:03:05,087 --> 00:03:07,656
+这是真的，他骗了你
+It's true. He tricked you.
+
+59
+00:03:08,193 --> 00:03:10,213
+[笑]
+[Laughing]
+
+60
+00:03:15,672 --> 00:03:16,337
+[咔嗒声]
+[Click]
+
+61
+00:03:17,961 --> 00:03:21,822
+你说你想见我，舰长，嗯，我在这里
+You said you wanted to see me, Captain. Well, here I am.
+
+62
+00:03:22,078 --> 00:03:23,727
+[加斯笑]
+[Garth Laughing]
+
+63
+00:03:37,745 --> 00:03:40,805
+[柯克] 宇宙，最后的边疆
+[Kirk] Space, the final frontier.
+
+64
+00:03:46,521 --> 00:03:49,667
+这些是星舰企业号的航程
+These are the voyages of the star ship Enterprise.
+
+65
+00:03:50,677 --> 00:03:54,398
+它的五年任务：探索未知的新世界
+Its five-year mission: to explore strange new worlds,
+
+66
+00:03:54,845 --> 00:03:58,804
+寻找新生命和新文明
+to seek out new life and new civilizations,
+
+67
+00:03:58,936 --> 00:04:01,749
+勇踏前人未至之境
+to boldly go where no man has gone before.
+
+68
+00:04:34,632 --> 00:04:37,330
+上帝毁灭之人
+Whom Gods Destroy
+
+69
+00:04:47,080 --> 00:04:49,793
+你的瓦肯朋友还活着，舰长
+Your Vulcan friend is still alive, Captain.
+
+70
+00:04:49,858 --> 00:04:52,603
+我的相位枪设置为击晕，而不是击杀
+My phaser was set to stun, not to kill.
+
+71
+00:04:52,812 --> 00:04:54,785
+他会很舒服
+He'll be quite comfortable,
+
+72
+00:04:54,851 --> 00:04:57,628
+几乎和你以及我们尊敬的主管一样舒适
+almost as comfortable as you and our esteemed governor.
+
+73
+00:05:00,359 --> 00:05:02,183
+加斯，必须让他受罪吗？
+Garth, do you have to make him suffer like that?
+
+74
+00:05:02,304 --> 00:05:04,576
+用我的正式头衔称呼我，柯克
+You will address me by my proper title, Kirk.
+
+75
+00:05:05,079 --> 00:05:07,191
+对不起，我应该说加斯舰长
+I'm sorry. I should've said Captain Garth.
+
+76
+00:05:07,714 --> 00:05:10,972
+我是加斯勋爵，以前是伊扎尔的
+I am Lord Garth, formerly of Izar,
+
+77
+00:05:11,193 --> 00:05:13,446
+我领导着宇宙未来的主人
+and I lead the future masters of the universe.
+
+78
+00:05:13,969 --> 00:05:16,764
+对不起，加斯勋爵
+I'm sorry, Lord Garth.
+
+79
+00:05:17,388 --> 00:05:19,841
+你们地球人是一群顽固的人，不是吗？
+You Earth people are a stiff-necked lot, aren't you?
+
+80
+00:05:24,726 --> 00:05:25,988
+放开他
+Release him.
+
+81
+00:05:26,317 --> 00:05:29,252
+恐怕打倒你还不够
+I'm afraid that subjugating you won't be enough.
+
+82
+00:05:29,320 --> 00:05:31,288
+你必须被监禁
+You must be confined.
+
+83
+00:05:31,355 --> 00:05:35,314
+以及银河系所有不屈服于我的意志的的人
+And all the people of the galaxy who will not bow to my will...
+
+84
+00:05:35,392 --> 00:05:38,589
+都必须被监禁或毁灭
+must be confined or destroyed.
+
+85
+00:05:38,662 --> 00:05:41,790
+加斯舰长，听我说
+Captain Garth, listen to me.
+
+86
+00:05:41,865 --> 00:05:45,665
+嗬嗬！我们敬爱的主管决定向我们发表讲话
+Ho-ho! Our beloved governor has decided to address us,
+
+87
+00:05:45,736 --> 00:05:48,830
+我们还没有允许他说话
+and we have not given him our permission to speak.
+
+88
+00:05:48,906 --> 00:05:52,034
+你这么怕他，以至于你必须让他闭嘴？
+Are you so afraid of him that you must keep him pinned?
+
+89
+00:05:55,805 --> 00:05:57,784
+[咔嗒声]
+[Click]
+
+90
+00:05:58,541 --> 00:06:03,535
+我不怕任何人，你们都没有力量反对我
+I'm afraid of no one. You're all powerless against me.
+
+91
+00:06:04,064 --> 00:06:05,847
+谢谢，你对药做了什么？
+Thank you.
+
+92
+00:06:07,017 --> 00:06:09,251
+你对药做了什么？
+What've you done with the medicine?
+
+93
+00:06:09,251 --> 00:06:10,544
+药？
+The medicine?
+
+94
+00:06:10,620 --> 00:06:12,077
+你是说毒药，我摧毁了它
+You mean the poison. I destroyed it.
+
+95
+00:06:12,077 --> 00:06:12,817
+毁了？
+Destroyed it?
+
+96
+00:06:12,817 --> 00:06:13,492
+这是你唯一的希望
+It was your only hope!
+
+97
+00:06:13,492 --> 00:06:14,260
+安静！
+Silence!
+
+98
+00:06:14,827 --> 00:06:17,627
+弱者的喋喋不休让我厌烦
+The chatter of inferior weaklings wearies me.
+
+99
+00:06:18,173 --> 00:06:22,324
+是时候我来接管企业号了，当然，你会帮助我的
+And it's time I took command of the Enterprise. You'll help me, of course.
+
+100
+00:06:23,250 --> 00:06:24,475
+当然
+Of course.
+
+101
+00:06:24,668 --> 00:06:26,602
+我的船员叛变了
+My crew mutinied.
+
+102
+00:06:26,670 --> 00:06:30,367
+首先我要用企业号去追捕
+The first use I will make of the Enterprise is to hunt them down...
+
+103
+00:06:30,761 --> 00:06:32,408
+并惩罚他们
+and punish them for that.
+
+104
+00:06:32,475 --> 00:06:34,397
+企业号的船员也会叛变
+The crew of the Enterprise will also mutiny.
+
+105
+00:06:34,529 --> 00:06:36,513
+[轻笑] 但他们不会
+[Chuckles] But they won't.
+
+106
+00:06:37,703 --> 00:06:40,609
+你看，舰长，我掌握了一个有用的技巧
+You see, Captain, there's a helpful technique I've mastered.
+
+107
+00:06:41,351 --> 00:06:44,787
+[笑]
+[Laughing]
+
+108
+00:06:48,385 --> 00:06:49,392
+[笑]
+[Laughing]
+
+109
+00:06:49,392 --> 00:06:51,192
+再见，亲爱的，我会想念你
+Good-bye, darling. I'll miss you.
+
+110
+00:06:53,993 --> 00:06:54,406
+[咔嗒声]
+[Click]
+
+111
+00:06:56,030 --> 00:06:58,089
+[咔嗒声]
+[Click]
+
+112
+00:07:02,086 --> 00:07:05,446
+科里主管，你感觉如何？
+Governor Cory, how do you feel?
+
+113
+00:07:05,629 --> 00:07:09,184
+好的，我们任何人都没有办法
+All right. There is no help for any of us...
+
+114
+00:07:09,258 --> 00:07:12,750
+如果那个疯子是企业号的指挥官
+if that madman is in command of the Enterprise.
+
+115
+00:07:12,828 --> 00:07:17,054
+他吹嘘自己创造了宇宙中最强大的爆炸物
+He boasts that he's created the most powerful explosive in the universe,
+
+116
+00:07:17,466 --> 00:07:18,680
+我相信他
+and I believe him.
+
+117
+00:07:19,197 --> 00:07:21,597
+他是如何随意变换形态的？
+How does he manage to change form at will?
+
+118
+00:07:21,666 --> 00:07:26,204
+安托斯人教他细胞变形技术
+The people of Antos taught him the techniques of cellular metamorphosis...
+
+119
+00:07:26,471 --> 00:07:29,406
+来修复他身体被毁坏的部分
+to restore the destroyed parts of his body.
+
+120
+00:07:29,774 --> 00:07:33,410
+后来他自己学会了用这种技术
+By himself, he later learned to use the technique...
+
+121
+00:07:33,478 --> 00:07:37,141
+把自己变成他想要的任何样子
+to recreate himself into any form he wished.
+
+122
+00:07:37,215 --> 00:07:40,742
+我们第一次知道是当一名警卫
+The first time we knew about it was when a guard,
+
+123
+00:07:40,819 --> 00:07:45,051
+在加斯的牢房里看到了以为是我的人，然后放了他
+seeing what he thought was me in Garth's cell, released him.
+
+124
+00:07:49,278 --> 00:07:51,936
+他真是个天才，多么浪费
+He was such a genius. What a waste.
+
+125
+00:07:53,628 --> 00:07:54,686
+力场开启，好的
+Force field is off. Good.
+
+126
+00:07:54,686 --> 00:07:56,862
+在我下达命令之前，留在这里不要被人看到
+Remain here out of sight until I give the order to join me.
+
+127
+00:07:57,384 --> 00:08:01,616
+[控制台哔哔声]
+[Console Beeping]
+
+128
+00:08:03,598 --> 00:08:04,722
+柯克呼叫企业号
+Kirk to Enterprise.
+
+129
+00:08:05,069 --> 00:08:05,992
+我是斯科特，长官
+Scott here, sir.
+
+130
+00:08:07,248 --> 00:08:08,144
+传送我上船
+Beam me aboard.
+
+131
+00:08:08,540 --> 00:08:10,808
+是的，长官，女王到女王三级
+Aye, sir. Queen to queen's level three.
+
+132
+00:08:11,142 --> 00:08:12,788
+我说了传送我上船
+I said beam me aboard.
+
+133
+00:08:12,788 --> 00:08:14,534
+我说女王到女王三级
+I said, queen to queen's level three.
+
+134
+00:08:14,653 --> 00:08:18,421
+我们没有时间解决国际象棋问题，传送我上船
+We have no time for chess problems. Beam me aboard!
+
+135
+00:08:21,819 --> 00:08:24,883
+我正在遵守你的命令，舰长，女王到女王三级
+I'm following your orders, Captain. Queen to queen's level three.
+
+136
+00:08:26,950 --> 00:08:30,692
+只是测试，稍后与你联系
+Just testing. Be in touch with you later.
+
+137
+00:08:36,243 --> 00:08:38,177
+不！
+No!
+
+138
+00:08:39,216 --> 00:08:40,865
+不！
+No!
+
+139
+00:08:44,089 --> 00:08:47,024
+不！
+No!
+
+140
+00:08:47,092 --> 00:08:50,186
+[呻吟]
+[Moaning]
+
+141
+00:08:50,262 --> 00:08:52,249
+哦！
+Oh!
+
+142
+00:08:52,402 --> 00:08:58,245
+[尖叫]
+[Screaming]
+
+143
+00:09:18,647 --> 00:09:22,140
+我给了他暗号，他为什么不给我暗号？
+I gave him the sign. Why didn't he give me the countersign?
+
+144
+00:09:22,890 --> 00:09:24,113
+有问题
+Something's wrong.
+
+145
+00:09:24,182 --> 00:09:27,242
+用国际象棋问题是舰长自己的建议
+Using the chess problem was the captain's own suggestion.
+
+146
+00:09:27,318 --> 00:09:29,873
+他不可能忘记，我不相信他在测试我
+He couldn't have forgotten it, and I can't believe he was testing me.
+
+147
+00:09:30,258 --> 00:09:32,621
+上尉，重新建立通讯
+Lieutenant, re-establish communication.
+
+148
+00:09:32,621 --> 00:09:33,241
+是的，长官
+Aye, sir.
+
+149
+00:09:33,291 --> 00:09:35,919
+[哔哔声]
+[Beeping]
+
+150
+00:09:36,160 --> 00:09:37,982
+没有回应，斯科特先生
+There's no response, Mr. Scott.
+
+151
+00:09:39,278 --> 00:09:41,929
+立刻派一支武装特遣队去传送室
+Send an armed detail to the transporter room immediately.
+
+152
+00:09:42,000 --> 00:09:43,089
+是的，长官
+Aye, aye, sir.
+
+153
+00:09:49,517 --> 00:09:51,007
+苏鲁先生
+Mr. Sulu,
+
+154
+00:09:51,473 --> 00:09:53,236
+你的传感器显示什么？
+what do your sensors show?
+
+155
+00:09:53,311 --> 00:09:56,803
+我们不能传送任何人下去，一个力场正在运行
+We can't beam anybody down. The force field is in full operation,
+
+156
+00:09:56,881 --> 00:10:00,205
+并且所有进入庇护所的交通方式都被封锁了
+and all forms of transport into the asylum dome are blocked off.
+
+157
+00:10:00,391 --> 00:10:02,644
+那我们可以炸开一条通过力场的路
+Well, we could blast our way through the field,
+
+158
+00:10:02,720 --> 00:10:05,746
+但冒着摧毁船长，史波克先生…
+but only at the risk of destroying the captain, Mr. Spock...
+
+159
+00:10:05,823 --> 00:10:07,814
+和厄尔巴二号上其他生物的风险
+and any other living thing on Elba ll.
+
+160
+00:10:09,155 --> 00:10:11,926
+我们为何强大到足以毁灭一个星球…
+How can we be powerful enough to wipe out a planet...
+
+161
+00:10:11,926 --> 00:10:13,398
+却还是那么无助？
+and still be so helpless?
+
+162
+00:10:23,643 --> 00:10:26,908
+我们将带走企业号
+We are going to take the Enterprise,
+
+163
+00:10:27,602 --> 00:10:29,038
+你听到我了吗？
+do you hear me?
+
+164
+00:10:30,116 --> 00:10:32,641
+我们要带走她…
+We are going to take her...
+
+165
+00:10:32,719 --> 00:10:37,151
+哪怕我得打碎柯克舰长身上的每一根骨头
+if I have to shatter every bone in Captain Kirk's body.
+
+166
+00:10:43,529 --> 00:10:45,656
+舰长？
+Captain?
+
+167
+00:10:45,732 --> 00:10:47,666
+柯克舰长？
+Captain Kirk?
+
+168
+00:10:50,403 --> 00:10:52,882
+我希望你没有很难受，舰长
+I hope you haven't been too uncomfortable, Captain.
+
+169
+00:10:52,882 --> 00:10:54,366
+我感谢你的关心
+Thank you for your concern.
+
+170
+00:10:54,440 --> 00:10:56,248
+总的来说，还是比较安逸的
+All in all, it's been rather restful.
+
+171
+00:10:56,248 --> 00:10:57,307
+好的
+Good.
+
+172
+00:10:57,377 --> 00:11:00,813
+不过，作为东道主，我恐怕还是失职了
+Still, I've been quite remiss in my duties as your host.
+
+173
+00:11:00,880 --> 00:11:03,075
+你可能记得我确实邀请你吃饭了
+I did invite you to dinner, as you may recall.
+
+174
+00:11:03,149 --> 00:11:04,645
+我忘记了
+I've forgotten.
+
+175
+00:11:04,645 --> 00:11:06,312
+但我没有
+But I haven't.
+
+176
+00:11:06,386 --> 00:11:08,320
+你和史波克先生会是我的客人
+You and Mr. Spock are to be my guests.
+
+177
+00:11:08,812 --> 00:11:10,107
+史波克先生在哪里？
+Where is Mr. Spock?
+
+178
+00:11:10,107 --> 00:11:12,290
+就在这儿，玛塔！
+Right here. Marta!
+
+179
+00:11:18,797 --> 00:11:22,627
+为什么我不能只炸掉他的一只耳朵？
+Why can't I blow off Just one of his ears?
+
+180
+00:11:22,702 --> 00:11:26,978
+别闹了，史波克先生会认为我们不热情好客的
+Stop that, Marta. Mr. Spock will think we're lacking in hospitality.
+
+181
+00:11:27,538 --> 00:11:29,154
+你不加入我们吗，舰长？
+Won't you join us, Captain?
+
+182
+00:11:32,288 --> 00:11:33,380
+你好吗，史波克先生？
+How are you, Mr. Spock?
+
+183
+00:11:33,380 --> 00:11:35,374
+确实很好，谢谢，舰长
+Very well, indeed. Thank you, Captain.
+
+184
+00:11:35,845 --> 00:11:37,690
+科里主管不加入我们吗？
+Isn't Governor Cory joining us?
+
+185
+00:11:37,764 --> 00:11:40,130
+主管似乎不在客人名单上
+The governor doesn't seem to be on the guest list.
+
+186
+00:11:40,200 --> 00:11:41,997
+哦？疏忽？
+Oh? An oversight?
+
+187
+00:11:42,069 --> 00:11:44,594
+有意的，呃，主管在禁食
+An intentional one. Uh, the governor's fasting.
+
+188
+00:11:44,671 --> 00:11:46,969
+那样的话，我们必须谢绝
+In that case, we must decline with thanks.
+
+189
+00:11:47,040 --> 00:11:49,531
+呃，舰长
+Uh, Captain.
+
+190
+00:11:49,971 --> 00:11:53,307
+别傻了，吉姆，跟着他走
+Don't be a fool, Jim. Go along with him.
+
+191
+00:11:53,380 --> 00:11:57,840
+好建议，主管，嗯，舰长？
+Good advice, Governor. Well, Captain?
+
+192
+00:11:58,152 --> 00:12:00,853
+你会发现我们摆了一张漂亮的桌子
+You'll find we set a handsome table.
+
+193
+00:12:01,175 --> 00:12:03,788
+而且表演非常有趣
+And the entertainment is most enjoyable.
+
+194
+00:12:05,209 --> 00:12:06,841
+你很会说服人
+You're very persuasive.
+
+195
+00:12:07,400 --> 00:12:10,737
+对，我当然是
+Yes, I am. I certainly am.
+
+196
+00:12:12,984 --> 00:12:14,311
+咦 哈！
+Yah-haw!
+
+197
+00:12:14,311 --> 00:12:16,044
+[全笑]
+[Laughter]
+
+198
+00:12:16,120 --> 00:12:19,089
+[笑]
+[Laughing]
+
+199
+00:12:26,938 --> 00:12:28,945
+你的手别碰柯克！
+Keep your hands off Kirk!
+
+200
+00:12:29,657 --> 00:12:32,705
+你这个花心的东西！  [笑]
+You treacherous thing! [Laughing]
+
+201
+00:12:32,705 --> 00:12:34,357
+你嫉妒了
+You're jealous!
+
+202
+00:12:34,357 --> 00:12:36,694
+我才不是那种人
+I am above that sort of thing.
+
+203
+00:12:37,008 --> 00:12:39,743
+你的殷勤惹恼了舰长，仅此而已
+The captain is annoyed by your attentions, that's all.
+
+204
+00:12:41,445 --> 00:12:43,709
+亲爱的，我惹恼你了吗？
+Am I annoying you, dearest?
+
+205
+00:12:43,781 --> 00:12:45,104
+呃，并没有
+Uh, not really.
+
+206
+00:12:45,104 --> 00:12:46,443
+[轻笑]
+[Chuckles]
+
+207
+00:12:46,517 --> 00:12:50,886
+他觉得我很迷人，而你对此很不安，承认吧
+He finds me fascinating and you're bothered by it. Admit it.
+
+208
+00:12:50,955 --> 00:12:53,321
+我可以把你打死
+I may have you beaten to death.
+
+209
+00:12:53,391 --> 00:12:54,733
+不，你不会的
+No, you won't,
+
+210
+00:12:55,013 --> 00:12:58,163
+因为我是这个星球上最美丽的女人
+because I am the most beautiful woman on this planet.
+
+211
+00:12:58,496 --> 00:13:01,171
+你是唯一的女人，你这蠢婆娘
+You're the only woman on this planet, you stupid cow.
+
+212
+00:13:01,599 --> 00:13:04,090
+嗯，我是这个星系里最美丽的女人！
+Well, I'm the most beautiful woman in this galaxy!
+
+213
+00:13:04,168 --> 00:13:05,455
+你令人厌恶！
+You're repulsive!
+
+214
+00:13:05,455 --> 00:13:07,119
+我很美丽！
+I'm beautiful!
+
+215
+00:13:07,513 --> 00:13:09,447
+而且我也很聪明
+And I'm intelligent too.
+
+216
+00:13:09,777 --> 00:13:11,711
+我写诗
+I write poetry,
+
+217
+00:13:11,779 --> 00:13:14,339
+我画绝美的图画
+and I paint marvellous pictures.
+
+218
+00:13:14,414 --> 00:13:17,281
+而且我是一个很棒的舞者
+And I am a wonderful dancer.
+
+219
+00:13:17,351 --> 00:13:20,411
+胡说，一派胡言！
+Lies! All lies!
+
+220
+00:13:20,487 --> 00:13:23,581
+你是我见过的最大的骗子
+You are the greatest liar I have ever met!
+
+221
+00:13:23,657 --> 00:13:25,958
+让我听一首你写的诗
+Let me hear one poem you've written.
+
+222
+00:13:27,305 --> 00:13:28,956
+如你所愿
+If you like.
+
+223
+00:13:30,063 --> 00:13:32,531
+[轻声地] 舰长，如果你能转移注意力
+[Softly] Captain, if you could create a diversion,
+
+224
+00:13:32,531 --> 00:13:35,591
+我也许能找到控制室并打开力场
+I might be able to find the control room and open the forcefield.
+
+225
+00:13:35,669 --> 00:13:39,105
+我们只需要几秒钟，如果斯科提已经通知了警卫
+All we need is a few seconds, if Scotty has alerted security.
+
+226
+00:13:39,173 --> 00:13:42,233
+先生们，尊重一下演员
+Gentlemen, courtesy for the performer.
+
+227
+00:13:44,912 --> 00:13:47,640
+“我怎么能够把你来比作夏天？
+"Shall I compare thee to a summer's day?
+
+228
+00:13:47,711 --> 00:13:50,407
+“你不独比它可爱也比它温婉
+"Thou art more lovely and more temperate.
+
+229
+00:13:50,756 --> 00:13:53,847
+“狂风把五月宠爱的娇蕊作践
+"Rough winds do shake the darling buds of May,
+
+230
+00:13:53,917 --> 00:13:55,812
+夏天出赁的期限…”
+and summer's lease hath all... "
+
+231
+00:13:55,812 --> 00:13:57,375
+你写的？
+You wrote that?
+
+232
+00:13:57,454 --> 00:13:59,251
+昨天，事实上
+Yesterday, as a matter of fact.
+
+233
+00:13:59,322 --> 00:14:02,086
+它是一位名叫莎士比亚的地球人写的…
+It was written by an Earth man named Shakespeare...
+
+234
+00:14:02,158 --> 00:14:03,789
+很久以前！
+a long time ago!
+
+235
+00:14:03,993 --> 00:14:07,257
+这并没有改变我昨天又写了一遍的事实
+Which does not alter the fact that I wrote it again yesterday!
+
+236
+00:14:08,312 --> 00:14:11,423
+我认为这是我最好的诗之一，不是吗？
+I think it's one of my best poems, don't you?
+
+237
+00:14:12,836 --> 00:14:15,248
+我可以赤手空拳地杀了你！
+I may kill you with my bare hands!
+
+238
+00:14:15,248 --> 00:14:16,272
+啊！
+Aah!
+
+239
+00:14:19,609 --> 00:14:22,009
+事实上，舰长，她是个一流的舞者
+Actually, Captain, she is a superb dancer.
+
+240
+00:14:22,078 --> 00:14:25,309
+玛塔，亲爱的，你不为我们的客人跳舞吗？
+Marta, my dear, won't you dance for our guests?
+
+241
+00:14:26,783 --> 00:14:29,013
+那不是请求
+That was not a request.
+
+242
+00:14:53,977 --> 00:14:56,036
+她太棒了，不是吗，舰长？
+Marvellous, isn't she, Captain?
+
+243
+00:14:56,112 --> 00:14:58,821
+是的，呃…难以置信
+Yes, uh... incredible.
+
+244
+00:14:58,821 --> 00:15:00,523
+史波克先生，你有什么感觉？
+What is your reaction, Mr. Spock?
+
+245
+00:15:00,523 --> 00:15:02,222
+我觉得，呃…
+I find it, uh...
+
+246
+00:15:02,485 --> 00:15:04,976
+它有点有趣和怀旧
+mildly interesting and somewhat nostalgic,
+
+247
+00:15:05,055 --> 00:15:07,153
+如果你能理解我的意思
+if I understand the use of that word.
+
+248
+00:15:07,153 --> 00:15:07,985
+怀旧？
+Nostalgic?
+
+249
+00:15:08,254 --> 00:15:11,030
+是的，它有点让人想起
+Yes. It is somewhat reminiscent of the dances...
+
+250
+00:15:11,030 --> 00:15:13,343
+瓦肯小孩在幼儿园跳的舞蹈
+that Vulcan children do in nursery school.
+
+251
+00:15:15,673 --> 00:15:18,529
+当然，孩子们不是那么地…
+Of course, the children are not so...
+
+252
+00:15:18,529 --> 00:15:20,029
+协调
+well-coordinated.
+
+253
+00:16:22,559 --> 00:16:27,155
+[鼓掌]
+[Applause]
+
+254
+00:16:28,973 --> 00:16:31,070
+如果你想，她是你的了
+She's yours if you wish, Captain.
+
+255
+00:16:31,254 --> 00:16:34,338
+哦，呃…谢谢
+Oh, uh... thank you.
+
+256
+00:16:34,411 --> 00:16:38,177
+那个…你很宽宏大量
+That's, um... very magnanimous of you.
+
+257
+00:16:43,428 --> 00:16:47,880
+你会发现我对朋友慷慨，对敌人无情
+You'll find that I am magnanimous to my friends and merciless to my enemies.
+
+258
+00:16:48,291 --> 00:16:50,880
+我希望你们都成为我的朋友
+And I want both of you to be my friends.
+
+259
+00:16:51,261 --> 00:16:55,459
+我们的友谊究竟建立在什么基础上？
+On what, precisely, is our friendship to be based?
+
+260
+00:16:55,698 --> 00:17:00,526
+嗯，在最坚实的基础上，史波克先生，开明的自我利益
+Well, upon the firmest of foundations, Mr. Spock, enlightened self-interest.
+
+261
+00:17:01,969 --> 00:17:03,660
+舰长，你是银河系仅次于我的
+You, Captain, are second only to me...
+
+262
+00:17:03,660 --> 00:17:05,846
+最优秀的军事指挥官
+as the finest military commander in the galaxy.
+
+263
+00:17:06,409 --> 00:17:07,809
+受宠若惊
+That's very flattering.
+
+264
+00:17:08,411 --> 00:17:13,281
+我现在主要是一名探险家，加斯舰长
+I am primarily an explorer now, Captain Garth.
+
+265
+00:17:13,281 --> 00:17:18,066
+我也是，我绘制的新世界地图比历史上任何人都多
+And so have I been. I have charted more new worlds than any man in history.
+
+266
+00:17:18,066 --> 00:17:22,384
+并试图摧毁安托斯四号，为什么？
+And tried to destroy Antos IV. Why?
+
+267
+00:17:22,727 --> 00:17:26,205
+我能说是因为他们对联邦怀有敌意
+Well, I could say because they were actively hostile to the Federation.
+
+268
+00:17:26,333 --> 00:17:28,509
+是的，你能说，但那不是事实
+Yes, you could say, but that would be untrue.
+
+269
+00:17:29,221 --> 00:17:31,366
+同意[轻笑]
+Agreed. [Chuckles]
+
+270
+00:17:31,517 --> 00:17:33,698
+实际上，他们是相当无恶意的
+Actually, they were quite harmless,
+
+271
+00:17:33,770 --> 00:17:36,752
+在我受伤将死时，他们让我变得完整
+and they made me whole when I was maimed and dying.
+
+272
+00:17:37,140 --> 00:17:40,039
+出于感激之情，我给了他们一个星系
+And in my gratitude, I offered them the galaxy.
+
+273
+00:17:40,214 --> 00:17:42,991
+他们拒绝了我，我判处他们死刑
+They rejected me, and I condemned them to death.
+
+274
+00:17:43,437 --> 00:17:46,180
+作为星际舰队的舰长
+How could you, a star ship fleet captain,
+
+275
+00:17:46,249 --> 00:17:48,183
+你怎么会认为联邦船员…
+believe that a Federation crew...
+
+276
+00:17:48,251 --> 00:17:51,880
+会盲目听从你的命令毁灭整个安托斯种族
+would blindly obey your order to destroy the entire Antos race,
+
+277
+00:17:52,117 --> 00:17:55,356
+一个以追求仁爱和平著称的民族？
+a people famous for their benevolence and peaceful pursuits?
+
+278
+00:17:55,425 --> 00:17:58,394
+那是我唯一失算的！
+That was my only miscalculation!
+
+279
+00:17:58,771 --> 00:18:01,021
+我变了
+I had changed!
+
+280
+00:18:01,260 --> 00:18:03,531
+我已经克服了这堕落的弱点…
+I had risen above this decadent weakness...
+
+281
+00:18:03,600 --> 00:18:06,535
+顺便说一下，它仍然由你指挥，舰长
+which still has you in its command, by the way, captain.
+
+282
+00:18:06,603 --> 00:18:10,095
+不包括我的船员，我无法左右他们
+My crew had not. I couldn't sway them.
+
+283
+00:18:10,173 --> 00:18:12,780
+但我的新船员，这个房间里的人
+But my new crew, the men in this room,
+
+284
+00:18:13,099 --> 00:18:15,572
+将毫无疑问地服从我的命令
+will obey my orders without question.
+
+285
+00:18:16,928 --> 00:18:17,942
+先生们
+Gentlemen,
+
+286
+00:18:18,125 --> 00:18:20,502
+你们有眼睛，但你们看不见
+you have eyes but you cannot see.
+
+287
+00:18:21,437 --> 00:18:23,805
+星系围绕着我们
+Galaxies surround us,
+
+288
+00:18:24,188 --> 00:18:25,895
+无限远景
+limitless vistas!
+
+289
+00:18:26,469 --> 00:18:29,038
+然而，联邦会让我们
+And yet the Federation would have us grub away...
+
+290
+00:18:29,038 --> 00:18:30,126
+像蚂蚁一样
+like some ants on some...
+
+291
+00:18:30,251 --> 00:18:33,899
+在比平常大一点的蚁丘上翻掘
+somewhat larger than usual anthill!
+
+292
+00:18:34,236 --> 00:18:35,772
+但我不是昆虫
+But I am not an insect!
+
+293
+00:18:36,872 --> 00:18:40,968
+我是宇宙的主人，我必须申明我的主权
+I am master of the universe, and I must claim my domain.
+
+294
+00:18:41,043 --> 00:18:44,499
+我同意战争曾经是必要的
+I agree there was a time when war was necessary,
+
+295
+00:18:44,579 --> 00:18:46,165
+而你是我们最伟大的战士
+and you were our greatest warrior.
+
+296
+00:18:46,387 --> 00:18:48,981
+我在校时研究过你在阿克纳的胜利
+I studied your victory at Axanar when I was a cadet.
+
+297
+00:18:49,057 --> 00:18:51,753
+实际上，现在仍是学院的必读内容
+In fact, it's still required reading.
+
+298
+00:18:51,826 --> 00:18:53,177
+也应该是
+As well it should be.
+
+299
+00:18:53,177 --> 00:18:53,987
+很好
+Very well.
+
+300
+00:18:54,327 --> 00:18:59,090
+但我第一次访问阿克纳是作为一名执行和平任务的学员
+But my first visit to Axanar was as a new-fledged cadet on a peace mission.
+
+301
+00:18:59,513 --> 00:19:02,034
+和平任务！政客和弱者！
+Peace mission! Politicians and weaklings!
+
+302
+00:19:02,103 --> 00:19:04,970
+他们是人道主义者和政治家，他们有一个梦想…
+They were humanitarians and statesmen, and they had a dream...
+
+303
+00:19:05,350 --> 00:19:08,435
+梦想成为了现实并在星球间传播
+a dream that became a reality and spread throughout the stars,
+
+304
+00:19:08,940 --> 00:19:12,177
+这个梦想让史波克先生和我成为了兄弟
+a dream that made Mr. Spock and me brothers.
+
+305
+00:19:14,325 --> 00:19:19,351
+史波克先生，你认为柯克舰长和你自己是兄弟吗？
+Mr. Spock, do you consider Captain Kirk and yourself brothers?
+
+306
+00:19:19,420 --> 00:19:21,785
+柯克舰长说话有些形象化
+Captain Kirk speaks somewhat figuratively...
+
+307
+00:19:22,150 --> 00:19:23,780
+情绪过度激动
+and with undue emotion:
+
+308
+00:19:23,945 --> 00:19:27,123
+然而，他说的是合乎逻辑的
+however, what he says is logical...
+
+309
+00:19:27,195 --> 00:19:30,130
+我确实同意
+and I do, in fact, agree with it.
+
+310
+00:19:31,365 --> 00:19:33,299
+[笑] 瞎了！
+[Laughing] Blind!
+
+311
+00:19:33,367 --> 00:19:35,460
+真是瞎了眼！
+Truly blind!
+
+312
+00:19:36,033 --> 00:19:38,630
+柯克舰长是你的指挥官！
+Captain Kirk is your commanding officer!
+
+313
+00:19:38,706 --> 00:19:41,586
+而史波克先生，你是他的下属，仅此而已
+You are his subordinate and that is all.
+
+314
+00:19:42,091 --> 00:19:45,737
+然而，史波克先生，你本身就是一位值得称道的指挥官
+Yet, Mr. Spock, you are a worthy commander in your own right,
+
+315
+00:19:45,737 --> 00:19:50,007
+在我的舰队中，你肯定能指挥一艘星舰
+and in my fleet you will surely have a star ship to command.
+
+316
+00:19:50,084 --> 00:19:54,384
+请原谅我，但你的舰队究竟在哪里？
+Please forgive me, but exactly where is your fleet?
+
+317
+00:19:55,161 --> 00:19:58,260
+在那里等我
+Out there waiting for me.
+
+318
+00:19:59,256 --> 00:20:02,579
+他们有充分的理由拥护我的事业
+They will flock to my cause, and for good reason.
+
+319
+00:20:04,613 --> 00:20:08,105
+无限权力，无限财富
+Limitless power! Limitless wealth.
+
+320
+00:20:08,301 --> 00:20:10,861
+由精英统治的太阳系
+And solar systems ruled by the elite.
+
+321
+00:20:10,994 --> 00:20:14,368
+先生们，我们是精英，我们必须拿走我们理应拥有的东西
+We, gentlemen, are that elite, and we must take what is rightfully ours...
+
+322
+00:20:14,442 --> 00:20:16,437
+从现在持有它的颓废弱者手中
+from the decadent weaklings that now hold it.
+
+323
+00:20:17,893 --> 00:20:19,197
+加斯舰长…
+Captain Garth...
+
+324
+00:20:19,197 --> 00:20:21,259
+加斯勋爵！
+Lord Garth!
+
+325
+00:20:23,208 --> 00:20:24,484
+如你所愿
+As you wish.
+
+326
+00:20:24,552 --> 00:20:26,884
+无论如何，你必须意识到这个事实…
+At any rate, you must be aware of the fact...
+
+327
+00:20:26,954 --> 00:20:30,500
+你正试图重现灾难…
+that you are attempting to recreate the disaster...
+
+328
+00:20:30,739 --> 00:20:33,655
+上次这么做让你成为了这个地方的病人
+which resulted in your becoming an inmate in this place.
+
+329
+00:20:35,155 --> 00:20:37,350
+我被背叛了，受到了野蛮的对待
+I was betrayed and treated barbarically.
+
+330
+00:20:37,424 --> 00:20:40,190
+你受到了正义和同情的对待
+You were treated with justice and with compassion,
+
+331
+00:20:40,190 --> 00:20:43,326
+而你对待你的受害者则相反
+which you failed to show towards any of your intended victims.
+
+332
+00:20:43,396 --> 00:20:44,986
+从逻辑上讲，因此，人们必须承担…
+Logically, therefore, one must assume...
+
+333
+00:20:44,986 --> 00:20:47,847
+带走这只动物！
+Remove this animal!
+
+334
+00:20:55,364 --> 00:20:56,906
+尝尝这酒，舰长
+Try some of this wine, Captain.
+
+335
+00:20:57,744 --> 00:21:00,861
+它有一种浓郁，醇厚的风味，能让人感觉愉悦
+It has a robust, full-bodied flavour which you'll find diverting.
+
+336
+00:21:00,973 --> 00:21:03,133
+不，谢谢，我宁愿加入史波克先生
+No, thank you. I prefer to join Mr. Spock.
+
+337
+00:21:03,357 --> 00:21:05,054
+我想要你留在这里
+And I prefer that you remain here.
+
+338
+00:21:06,019 --> 00:21:08,317
+玛塔，亲爱的
+Marta, my dear.
+
+339
+00:21:12,409 --> 00:21:15,867
+我们觉得你的表演很迷人，不是吗，舰长？
+We found your little divertissement enchanting, didn't we, Captain?
+
+340
+00:21:15,946 --> 00:21:19,473
+但后面还有，活动才刚刚开始
+But there's more to come. The entertainment has merely begun.
+
+341
+00:21:20,241 --> 00:21:22,078
+顺便说一下，我猜你会下棋
+By the way, I assume you play chess.
+
+342
+00:21:22,078 --> 00:21:22,882
+偶尔
+Occasionally.
+
+343
+00:21:22,953 --> 00:21:26,548
+我也是，你会如何回应女王到女王三级
+So do l. How would you respond to queen to queen's level three?
+
+344
+00:21:26,623 --> 00:21:30,366
+我相信你知道有无限种反击
+I'm sure you're aware that there are an infinite number of countermoves.
+
+345
+00:21:30,548 --> 00:21:31,925
+我只对一个感兴趣
+I'm interested in only one.
+
+346
+00:21:31,995 --> 00:21:34,896
+拼了老命我也想不到是哪一个？
+I can't for the life of me imagine which one.
+
+347
+00:21:35,078 --> 00:21:37,297
+“拼了老命”是个好选择
+"For the life of me" is a phrase well chosen.
+
+348
+00:21:37,367 --> 00:21:38,598
+可能会到那个地步
+It could literally come to that.
+
+349
+00:21:39,103 --> 00:21:40,928
+我死了对你没好处
+Dead I am of no use to you.
+
+350
+00:21:41,004 --> 00:21:44,963
+但我能让你渴望死亡，乞求死亡
+But I can make you long for death, beg for death.
+
+351
+00:21:45,596 --> 00:21:49,232
+“在十一月的午夜，当死人集市临近
+"In the midnight of November, when the dead man's fare is nigh,
+
+352
+00:21:49,300 --> 00:21:52,700
+“山谷中充满危险，天空中布满愤怒”
+and the danger in the valley, and the anger in the sky."
+
+353
+00:21:53,070 --> 00:21:56,528
+我今天早上写的，你喜欢吗？
+I wrote that this morning. Do you like it?
+
+354
+00:21:56,927 --> 00:21:58,637
+是的，我认为它非常好
+Yes, I think it's very good.
+
+355
+00:22:02,157 --> 00:22:04,413
+[轻声] 告诉他他想知道的
+[Softly] Tell him what he wants to know.
+
+356
+00:22:04,481 --> 00:22:06,676
+我们就一起走
+We'll go away together.
+
+357
+00:22:06,855 --> 00:22:08,684
+[低语] 我不能
+[Whispering] I can't.
+
+358
+00:22:09,753 --> 00:22:12,278
+但你一定要，我求你
+But you must. I beg of you.
+
+359
+00:22:12,356 --> 00:22:15,367
+哦，不要乞求，玛塔！这是有辱人格的
+Oh, don't beg, Marta! It's degrading.
+
+360
+00:22:17,639 --> 00:22:19,168
+女王到女王三级，舰长？
+Queen to queen's level three, Captain.
+
+361
+00:22:20,794 --> 00:22:23,285
+你很快就会
+You'll talk freely...
+
+362
+00:22:23,534 --> 00:22:24,903
+畅所欲言的
+and quite soon.
+
+363
+00:22:36,585 --> 00:22:38,548
+舰长，在你面前的
+What you see before you, Captain,
+
+364
+00:22:38,902 --> 00:22:40,217
+是我的最新发明
+is my latest invention.
+
+365
+00:22:41,058 --> 00:22:45,307
+外表普通，近乎原始，你说是不是？
+Quite ordinary in appearance, almost primitive, wouldn't you say?
+
+366
+00:22:45,462 --> 00:22:46,499
+是的，我认得
+Yes, I recognize it.
+
+367
+00:22:47,580 --> 00:22:49,514
+它用于康复目的
+It's used for rehabilitation purposes.
+
+368
+00:22:49,935 --> 00:22:52,123
+它帮助许多人恢复健康
+It helped many men back to health.
+
+369
+00:22:52,740 --> 00:22:54,605
+外表有欺骗性
+Appearances can be deceiving.
+
+370
+00:22:55,585 --> 00:22:58,167
+曾经它是康复过程的
+Once it was a part of the rehabilitation process,
+
+371
+00:22:58,167 --> 00:22:59,920
+一部分，其本身是不痛的
+and as such, quite painless.
+
+372
+00:23:00,523 --> 00:23:02,416
+而且，我也可以说是无用的
+And I might add useless too.
+
+373
+00:23:02,977 --> 00:23:05,712
+它让人变得温顺，对我毫无用处
+It made men docile and of no use to me.
+
+374
+00:23:06,469 --> 00:23:11,828
+我对超声波的使用进行了一些改进
+I've added certain refinements to the use of ultrasonic waves.
+
+375
+00:23:12,092 --> 00:23:14,084
+椅子不再是无痛的
+The chair is no longer painless.
+
+376
+00:23:15,140 --> 00:23:16,425
+把主管放上去
+Put the governor in it.
+
+377
+00:23:28,850 --> 00:23:31,138
+女王到女王三级，柯克舰长？
+Queen to queen's level three, Captain Kirk?
+
+378
+00:23:34,586 --> 00:23:38,660
+事实上，它极度痛苦
+It is, in fact, exquisitely painful,
+
+379
+00:23:39,578 --> 00:23:40,752
+正如你将看到的
+as you will now see.
+
+380
+00:23:40,868 --> 00:23:42,761
+[尖锐的嗡嗡声]
+[High-Pitched Whirring]
+
+381
+00:23:44,276 --> 00:23:46,043
+[科里呻吟]
+[Cory Groaning]
+
+382
+00:23:46,043 --> 00:23:47,037
+真有趣，不是吗？
+Interesting, isn't it?
+
+383
+00:23:48,184 --> 00:23:50,744
+疼痛是真实的，可以无限地延长
+The pain is real and can be prolonged indefinitely,
+
+384
+00:23:50,820 --> 00:23:53,618
+因为没有组织破坏
+because there is no actual destruction of tissue.
+
+385
+00:23:53,690 --> 00:23:56,124
+住手！
+Stop it!
+
+386
+00:23:57,234 --> 00:23:58,217
+[嗡嗡声停止]
+[Whirring Stops]
+
+387
+00:23:58,294 --> 00:24:01,354
+当然，舰长，只要你开口
+Of course, Captain. You have but to ask.
+
+388
+00:24:03,432 --> 00:24:06,658
+现在，如你所见，他没有受到身体伤害
+Now, as you can see, he has not been harmed physically,
+
+389
+00:24:06,736 --> 00:24:10,584
+然而，对极度折磨的记忆仍然存在
+yet the memory of the exquisite torment remains.
+
+390
+00:24:11,174 --> 00:24:13,066
+女王到女王三级，舰长？
+Queen to queen's level three, Captain.
+
+391
+00:24:14,454 --> 00:24:15,474
+不
+No.
+
+392
+00:24:15,545 --> 00:24:16,372
+真遗憾
+Too bad.
+
+393
+00:24:17,736 --> 00:24:19,742
+带走我们尊贵的主管
+Remove our distinguished governor.
+
+394
+00:24:19,816 --> 00:24:21,662
+把柯克舰长放在椅子上
+Put Captain Kirk in the chair.
+
+395
+00:24:40,468 --> 00:24:42,129
+不，你不能那样做！
+No, you mustn't do that!
+
+396
+00:24:42,361 --> 00:24:44,829
+你对我越来越冒犯了，亲爱的
+You really are becoming offensive to me, my dear.
+
+397
+00:24:44,974 --> 00:24:47,700
+不要逼我把你放进去
+Don't make it necessary for me to put you in it.
+
+398
+00:24:54,751 --> 00:24:57,845
+[尖锐的嗡嗡声]
+[High-Pitched Whirring]
+
+399
+00:25:05,486 --> 00:25:08,318
+女王到女王三级，柯克舰长？
+Queen to queen's level three, Captain Kirk.
+
+400
+00:25:25,704 --> 00:25:26,970
+请住手！
+Please, stop it!
+
+401
+00:25:28,190 --> 00:25:29,775
+你想要他，不是吗？
+You want him, don't you?
+
+402
+00:25:31,766 --> 00:25:35,047
+是的  非常想加入他吗？
+Yes. Badly enough to join him?
+
+403
+00:25:37,716 --> 00:25:39,899
+听我说，我的加斯勋爵
+Listen to me, my Lord Garth.
+
+404
+00:25:40,025 --> 00:25:43,770
+我可以让他告诉我你想知道的
+I can get him to tell me what you want to know.
+
+405
+00:25:44,345 --> 00:25:47,974
+让你试试可能会很有趣
+Might be interesting to have you try.
+
+406
+00:25:48,627 --> 00:25:49,533
+[嗡嗡声停止]
+[Whirring Stops]
+
+407
+00:25:49,674 --> 00:25:50,403
+[呼气]
+[Exhales]
+
+408
+00:26:02,393 --> 00:26:04,462
+没有突破？  没有， 斯科特先生
+No breakthrough? No, Mr. Scott.
+
+409
+00:26:04,533 --> 00:26:06,524
+仍然没有来自这个星球的回应
+Still no response from the planet.
+
+410
+00:26:08,072 --> 00:26:09,433
+传感器读数？
+Sensor readings?
+
+411
+00:26:10,260 --> 00:26:13,233
+星球远端的力场最弱
+The force field is weakest on the far side of the planet.
+
+412
+00:26:13,920 --> 00:26:15,421
+我们可以派一个小队
+We can send down a shuttlecraft
+
+413
+00:26:15,421 --> 00:26:18,618
+穿着环境装置乘穿梭机下去
+carrying a team in environmental suits.
+
+414
+00:26:19,277 --> 00:26:20,623
+没有用的，斯科提
+It won't work, Scotty.
+
+415
+00:26:20,623 --> 00:26:23,470
+他们必须在有毒的大气中跋涉数千英里
+They'd have to cover thousands of miles through poisonous atmosphere...
+
+416
+00:26:23,470 --> 00:26:25,027
+在他们到达收容所前
+before they'd ever reach the asylum.
+
+417
+00:26:25,426 --> 00:26:29,178
+是的，你是对的，即使他们成功了，他们无法携带任何强力的东西
+Aye, you're right. Even if they made it, they couldn't carry anything powerful enough...
+
+418
+00:26:29,178 --> 00:26:30,964
+冲破收容所的防护罩
+to break through the asylum dome.
+
+419
+00:26:31,267 --> 00:26:33,296
+只有船本身才能做到
+Only the ship herself could do that.
+
+420
+00:26:34,086 --> 00:26:35,700
+可能会杀了吉姆和史波克
+Probably kill Jim and Spock.
+
+421
+00:26:36,498 --> 00:26:38,933
+医生，他们可能已经死了
+Doctor, they may already be dead.
+
+422
+00:26:53,298 --> 00:26:54,860
+慢慢来，亲爱的
+Slowly, darling.
+
+423
+00:26:54,928 --> 00:26:55,906
+慢慢地
+Slowly.
+
+424
+00:26:57,743 --> 00:26:59,677
+休息
+Rest.
+
+425
+00:27:02,035 --> 00:27:06,774
+这更多的是加斯的游说吗，玛塔？
+Is this more of Garth's persuasion, Marta?
+
+426
+00:27:08,906 --> 00:27:11,200
+我告诉他我会找到你的秘密
+I told him I'd discover your secret.
+
+427
+00:27:12,216 --> 00:27:13,590
+我撒了谎
+I lied.
+
+428
+00:27:14,179 --> 00:27:17,320
+我会告诉他任何事情来拯救你免受那种折磨
+I would have told him anything to save you from that torment.
+
+429
+00:27:22,411 --> 00:27:24,163
+我相信你说的是实话
+I believe you mean that.
+
+430
+00:27:24,388 --> 00:27:25,556
+我是的
+I do.
+
+431
+00:27:30,631 --> 00:27:32,565
+哦
+Oh.
+
+432
+00:27:32,633 --> 00:27:36,091
+这是我一直渴望的地方
+This is where I've longed to be.
+
+433
+00:27:36,827 --> 00:27:39,707
+我想从我第一次见到你的那一刻起，我就知道我爱你
+I think I knew I loved you from the moment I first saw you.
+
+434
+00:27:41,987 --> 00:27:43,095
+玛塔
+Marta.
+
+435
+00:27:45,179 --> 00:27:46,503
+玛塔
+Marta,
+
+436
+00:27:47,498 --> 00:27:48,831
+我可以帮你
+I can help you,
+
+437
+00:27:49,658 --> 00:27:53,385
+但我必须回到企业号才可以
+but I must get to the Enterprise to do that.
+
+438
+00:27:54,692 --> 00:27:56,221
+那是不可能的
+That's not possible.
+
+439
+00:27:56,221 --> 00:27:57,388
+哦，不，可能的
+Oh, yes, it is.
+
+440
+00:27:58,156 --> 00:28:01,354
+如果我能到达控制室…
+It is. If I can get to the control room...
+
+441
+00:28:01,354 --> 00:28:01,683
+并移除力场，那么加斯就完了
+and remove the force field, then Garth is finished.
+
+442
+00:28:01,683 --> 00:28:06,348
+并移除力场，那么加斯就完了
+and remove the force field, then Garth is finished.
+
+443
+00:28:08,602 --> 00:28:10,048
+加斯是我的领袖
+Garth is my leader.
+
+444
+00:28:10,244 --> 00:28:12,235
+他会带你走向毁灭
+He will lead you to destruction.
+
+445
+00:28:12,235 --> 00:28:13,119
+他…
+He's...
+
+446
+00:28:14,169 --> 00:28:18,105
+已经毁掉了本可以帮助你的药物
+already destroyed the medicine that could have helped you.
+
+447
+00:28:18,645 --> 00:28:21,478
+但是船上还有更多的药
+But there's more medicine aboard the ship.
+
+448
+00:28:22,206 --> 00:28:24,731
+我会帮你，但你必须等
+I'll help you, but you must wait.
+
+449
+00:28:25,285 --> 00:28:27,858
+你明白的，不是吗？
+You do see that, don't you?
+
+450
+00:28:28,082 --> 00:28:29,625
+很快，史波克会来这…
+Soon Spock will be here and...
+
+451
+00:28:29,625 --> 00:28:30,200
+史波克？
+Spock?
+
+452
+00:28:31,139 --> 00:28:33,117
+至少我已经安排了
+At least I've arranged that much.
+
+453
+00:28:33,627 --> 00:28:35,427
+你是怎么做到的？
+How did you manage that?
+
+454
+00:28:36,398 --> 00:28:38,544
+告诉一个觉得我性感的守卫
+A convincing lie told to a guard...
+
+455
+00:28:38,544 --> 00:28:41,411
+一个令人信服的谎言
+who finds me desirable.
+
+456
+00:28:41,545 --> 00:28:42,825
+亲爱的…
+Darling.
+
+457
+00:29:06,605 --> 00:29:08,708
+不，不，你不能阻止我！
+No, no. Y-You mustn't stop me.
+
+458
+00:29:09,258 --> 00:29:11,405
+他是我的爱人，我必须杀了他
+He's my lover and I have to kill him.
+
+459
+00:29:13,504 --> 00:29:14,640
+[呻吟]
+[Moans]
+
+460
+00:29:18,534 --> 00:29:21,007
+她似乎想出了一个万无一失的方法
+She seems to have worked out an infallible method
+
+461
+00:29:21,007 --> 00:29:23,237
+以确保男性永久的忠诚
+for assuring permanent male fidelity.
+
+462
+00:29:23,839 --> 00:29:24,695
+有趣
+Interesting.
+
+463
+00:29:24,905 --> 00:29:25,943
+我很高兴见到你
+I'm very glad to see you.
+
+464
+00:29:26,185 --> 00:29:28,299
+谢谢，舰长，我们现在有武器了
+Thank you, Captain. We're now armed.
+
+465
+00:29:28,411 --> 00:29:30,248
+我想我们应该去控制室
+I presume we shall try to reach the control room.
+
+466
+00:29:30,248 --> 00:29:32,614
+是的，你猜得对
+Yes, you presume correctly.
+
+467
+00:30:02,432 --> 00:30:03,216
+[咔嗒声]
+[Click]
+
+468
+00:30:22,131 --> 00:30:24,065
+力场关着，舰长
+Force field is now off, Captain.
+
+469
+00:30:24,133 --> 00:30:26,624
+柯克呼叫企业号，柯克呼叫企业号
+Kirk to Enterprise. Kirk to Enterprise.
+
+470
+00:30:26,702 --> 00:30:29,330
+斯科特先生，我是舰长
+Mr. Scott, it's the captain.
+
+471
+00:30:31,140 --> 00:30:33,768
+我是斯科特，舰长，你让我们担心了
+Scott here, Captain. You had us worried.
+
+472
+00:30:33,842 --> 00:30:37,875
+斯科特先生，我想要立刻传送一支武装特遣队下来
+Mr. Scott, I want a fully armed security detail beamed down on the double.
+
+473
+00:30:38,024 --> 00:30:40,029
+他们已经在传送室了，长官
+They're already in the transporter room, sir.
+
+474
+00:30:40,493 --> 00:30:44,486
+并让麦考伊医生尽快准备额外的药物
+And have Dr. McCoy prepare additional medicine as quickly as possible.
+
+475
+00:30:44,564 --> 00:30:45,260
+是的，长官
+Aye, aye, sir.
+
+476
+00:30:45,582 --> 00:30:48,034
+舰长，我建议你回到船上
+Captain, I suggest you return to the ship at once.
+
+477
+00:30:48,034 --> 00:30:49,887
+你的安全对企业号至关重要
+Your safety is vital to the Enterprise.
+
+478
+00:30:50,570 --> 00:30:52,595
+等待你的指令，舰长
+Waiting for your order, Captain.
+
+479
+00:30:52,672 --> 00:30:56,699
+我还请求允许留在这负责警卫队
+I also request permission to remain here in charge of the security team.
+
+480
+00:30:56,776 --> 00:30:58,077
+很好，史波克
+Very well, Spock.
+
+481
+00:30:58,077 --> 00:30:59,006
+等待中，舰长
+Still waiting, Captain.
+
+482
+00:30:59,465 --> 00:31:02,707
+斯科特先生，舰长的生命危在旦夕
+Mr. Scott, the captain's life is in immediate danger.
+
+483
+00:31:02,782 --> 00:31:06,081
+把他传送上船，安全小组将委托给我
+Beam him aboard at once. The security team will be entrusted to me.
+
+484
+00:31:06,547 --> 00:31:08,086
+女王到女王三级
+Queen to queen's level three.
+
+485
+00:31:08,314 --> 00:31:10,847
+重复，女王到女王三级
+Repeat. Queen to queen's level three.
+
+486
+00:31:14,498 --> 00:31:16,462
+他在等待正确的答复，舰长
+He's waiting for the proper reply, Captain.
+
+487
+00:31:17,037 --> 00:31:18,579
+[斯科提] 按顺序给出暗号
+[Scotty] Give the countersign as ordered.
+
+488
+00:31:23,039 --> 00:31:26,036
+斯科提，史波克先生会给出暗号
+Scotty, Mr. Spock will give the countersign.
+
+489
+00:31:31,887 --> 00:31:33,438
+给他暗号，舰长
+Give him the countersign, Captain.
+
+490
+00:31:33,668 --> 00:31:36,852
+[斯科提] 安全特遣队，准备好传送下去
+[Scotty] Security detail, standby to beam down.
+
+491
+00:31:42,522 --> 00:31:45,112
+开枪，舰长，如果你能的话
+Blast away, Captain, if you can.
+
+492
+00:31:46,935 --> 00:31:49,936
+你以为我会傻到给你充电的相位枪吗？
+Do you think I'm fool enough to give you a charged phaser?
+
+493
+00:31:59,872 --> 00:32:02,213
+你对史波克做了什么？他在哪儿？
+What have you done with Spock? Where is he?
+
+494
+00:32:02,408 --> 00:32:05,642
+我还没有对他做任何事，但我确实对他有计划
+I have done nothing with him yet, but I do have plans for him.
+
+495
+00:32:06,175 --> 00:32:10,805
+瓦肯人会死得很惨，他的死将取决于你的良心
+The Vulcan will die horribly, and his death will be on your conscience.
+
+496
+00:32:16,440 --> 00:32:17,295
+加斯舰长…
+Captain Garth-
+
+497
+00:32:17,295 --> 00:32:18,557
+加斯勋爵！
+Lord Garth!
+
+498
+00:32:18,628 --> 00:32:19,511
+不，长官
+No, sir.
+
+499
+00:32:20,787 --> 00:32:22,193
+加斯舰长
+Captain Garth,
+
+500
+00:32:22,330 --> 00:32:25,594
+星际舰队舰长
+star ship fleet captain.
+
+501
+00:32:26,186 --> 00:32:27,929
+这是一个光荣的称号
+That's an honourable title.
+
+502
+00:32:28,000 --> 00:32:31,436
+我是他们中最伟大的，不是吗？
+And I was the greatest of them all, wasn't I?
+
+503
+00:32:31,504 --> 00:32:32,791
+对，你是
+Yes, you were.
+
+504
+00:32:34,334 --> 00:32:35,428
+是的
+Yes.
+
+505
+00:32:38,345 --> 00:32:39,789
+但你现在是个病人，长官
+But you're a sick man now, sir.
+
+506
+00:32:39,789 --> 00:32:41,261
+我从未如此健康
+I have never been more healthy.
+
+507
+00:32:41,261 --> 00:32:42,986
+不，不，想想
+No. No, think.
+
+508
+00:32:42,986 --> 00:32:43,253
+不，不，想想
+sdfad
+
+509
+00:32:43,416 --> 00:32:45,941
+回想一下你是谁
+Think back to what you were...
+
+510
+00:32:46,296 --> 00:32:49,213
+在导致你去安托斯四号的事故前
+before the accident that sent you to Antos IV.
+
+511
+00:32:51,400 --> 00:32:52,691
+试试
+Try.
+
+512
+00:32:53,728 --> 00:32:59,193
+我不记得了，就好像我死了又重生了一样
+I can't remember. It's almost as if I had died and was reborn.
+
+513
+00:32:59,265 --> 00:33:02,723
+不，我…我记得
+No, I-I can remember.
+
+514
+00:33:03,250 --> 00:33:04,386
+你…
+You...
+
+515
+00:33:05,517 --> 00:33:08,495
+是学院最优秀的学生
+were the finest student at the academy,
+
+516
+00:33:08,986 --> 00:33:11,766
+最优秀的星舰舰长
+the finest star ship captain.
+
+517
+00:33:11,844 --> 00:33:15,184
+你是模范，我们其他人的榜样
+You were the prototype, the model for the rest of us.
+
+518
+00:33:16,671 --> 00:33:18,760
+是的，我确实记得
+Yes, I do remember that.
+
+519
+00:33:20,019 --> 00:33:22,044
+那是一项重大的责任
+It was a great responsibility,
+
+520
+00:33:22,266 --> 00:33:23,731
+但我很自豪能够承担
+but one I was proud to bear.
+
+521
+00:33:24,622 --> 00:33:26,291
+你表现得很好
+And you bore it well.
+
+522
+00:33:28,450 --> 00:33:32,980
+疾病改变了你
+And the disease that changed you,
+
+523
+00:33:33,569 --> 00:33:34,666
+那不是你的错
+it's not your fault.
+
+524
+00:33:34,957 --> 00:33:38,835
+从那以后你所做的可怕的事情，并不是你的责任
+And the terrible things you did since then, not truly responsible.
+
+525
+00:33:39,539 --> 00:33:42,064
+我不想再听了，你很软弱
+I don't want to hear any more. You're weak,
+
+526
+00:33:42,141 --> 00:33:44,072
+你试图耗尽我的力量
+and trying to drain my strength.
+
+527
+00:33:44,072 --> 00:33:45,076
+不，我没有
+No, I'm not.
+
+528
+00:33:45,405 --> 00:33:47,305
+我想要你找到你曾经拥有的
+I want you to find what you once had,
+
+529
+00:33:47,380 --> 00:33:50,247
+我想要你回溯你失去的伟大，加斯舰长
+I want you to go back to the greatness that you've lost, Captain Garth.
+
+530
+00:33:50,316 --> 00:33:53,080
+我是加斯勋爵！
+I am Lord Garth!
+
+531
+00:33:53,152 --> 00:33:55,848
+宇宙之主
+Master of the universe!
+
+532
+00:33:55,922 --> 00:33:59,624
+你怀疑我，因为我还没有加冕
+You doubt me because I have not yet had my coronation.
+
+533
+00:33:59,624 --> 00:34:00,971
+不，长官，听我说，我
+No, sir, listen to me. I-
+
+534
+00:34:00,971 --> 00:34:01,798
+停！
+Stop!
+
+535
+00:34:03,299 --> 00:34:04,392
+跪下
+On your knees.
+
+536
+00:34:04,392 --> 00:34:04,792
+不
+No.
+
+537
+00:34:05,051 --> 00:34:07,183
+给我跪下！
+On your knees before me!
+
+538
+00:34:07,814 --> 00:34:10,528
+在我之前的所有其他人都失败了
+All the others before me have failed--
+
+539
+00:34:10,603 --> 00:34:12,764
+亚历山大、凯撒、拿破仑、
+Alexander, Caesar, Napoleon,
+
+540
+00:34:13,003 --> 00:34:16,270
+希特勒、李光、克罗图斯！
+Hitler, Lee Kuan, Krotus!
+
+541
+00:34:17,252 --> 00:34:18,822
+他们都化作了尘土！
+All of them are dust!
+
+542
+00:34:20,546 --> 00:34:21,838
+但我会胜利的
+But I will triumph!
+
+543
+00:34:22,861 --> 00:34:27,409
+我会做出最终的征服！
+I will make the ultimate conquest!
+
+544
+00:34:48,875 --> 00:34:50,415
+宝座必须更高
+The throne must be higher.
+
+545
+00:34:50,483 --> 00:34:53,418
+它一定要比这个房间里的任何东西都高
+It must be higher than anything else in this room.
+
+546
+00:34:53,486 --> 00:34:56,080
+唔，把那张桌子当底座
+Mmm, use that table as a pedestal.
+
+547
+00:34:56,155 --> 00:34:58,517
+啊，欢迎回来，柯克舰长
+Ah, welcome back, Captain Kirk.
+
+548
+00:34:58,517 --> 00:35:00,181
+我很高兴你能参加加冕典礼
+I'm glad you could make it for the coronation.
+
+549
+00:35:01,692 --> 00:35:02,822
+加冕？
+Coronation?
+
+550
+00:35:02,896 --> 00:35:07,856
+是的，哦，我知道，即使是真正的宝座也只不过是一把椅子
+Yes. Oh, I know that even a real throne is no more than merely a chair,
+
+551
+00:35:07,934 --> 00:35:10,596
+但象征意义很重要，你不同意吗？
+but the symbolism is important, don't you agree?
+
+552
+00:35:10,670 --> 00:35:14,333
+是的我同意，我想你也会戴上皇冠的
+Yes, I agree. You'll wear a crown too, I presume?
+
+553
+00:35:14,407 --> 00:35:16,773
+但同样，只是一个象征
+But again, just as a token.
+
+554
+00:35:16,843 --> 00:35:20,472
+但它可以作为旗帜，召集我们的追随者
+It will serve as a standard around which our followers will rally.
+
+555
+00:35:20,547 --> 00:35:23,812
+加斯，你只有几个手下
+Garth, you have only a handful of men.
+
+556
+00:35:23,883 --> 00:35:28,445
+你真的拒绝参与这件事，不是吗，舰长？
+You do refuse to enter into the spirit of the thing, don't you, Captain?
+
+557
+00:35:28,521 --> 00:35:31,251
+也许你想在仪式中扮演更重要的角色
+Perhaps you'd like a larger role in the ceremony.
+
+558
+00:35:31,324 --> 00:35:33,952
+你可以充当人类祭品
+You could serve as human sacrifice.
+
+559
+00:35:34,269 --> 00:35:35,961
+不，我一点也不会享受
+No, I wouldn't enjoy that at all.
+
+560
+00:35:36,232 --> 00:35:38,259
+再说，你好像需要我活着
+Besides, you seem to need me alive.
+
+561
+00:35:38,331 --> 00:35:41,698
+不错，那么，呃…
+How true. All right, uh...
+
+562
+00:35:42,402 --> 00:35:43,998
+储君怎么样？
+how about crown prince?
+
+563
+00:35:44,070 --> 00:35:46,129
+那会让你成为我们的继承人
+That would make you our heir apparent.
+
+564
+00:35:46,205 --> 00:35:49,140
+继承人，我相信这是适合你的角色
+Heir apparent, I believe, is the proper role for you.
+
+565
+00:35:49,208 --> 00:35:53,144
+此外，我们还有其他的人类祭品候选人
+Besides, we have other candidates for our human sacrifice.
+
+566
+00:35:53,212 --> 00:35:55,942
+谁知道呢？我们准备好了
+Who knows? Ready.
+
+567
+00:36:21,975 --> 00:36:26,275
+嗯，既然没有足够强大的人来主持这个仪式
+Well, since there is no one mighty enough to perform this ceremony,
+
+568
+00:36:26,346 --> 00:36:28,371
+我就自己主持
+we'll perform it ourselves.
+
+569
+00:36:28,448 --> 00:36:32,382
+因此，我在此宣布我是
+Therefore, we hereby proclaim that I am...
+
+570
+00:36:32,382 --> 00:36:35,818
+加斯勋爵，宇宙的主人
+Lord Garth, master of the universe.
+
+571
+00:36:37,523 --> 00:36:40,600
+我指定我心爱的玛塔
+And we designate our beloved Marta...
+
+572
+00:36:41,539 --> 00:36:43,094
+为我的配偶
+to be our consort.
+
+573
+00:36:48,088 --> 00:36:53,221
+我进一步指定企业号的柯克舰长
+And we further designate Captain James Kirk of the star ship Enterprise...
+
+574
+00:36:53,557 --> 00:36:55,097
+为我的继承人
+to be our heir apparent.
+
+575
+00:37:20,763 --> 00:37:23,125
+现在把我的继承人带走
+Let's now remove our heir apparent,
+
+576
+00:37:23,202 --> 00:37:25,534
+我就可以结束这场仪式了
+that we may conclude this ceremony.
+
+577
+00:37:44,967 --> 00:37:46,532
+[开门]
+[Door Opens]
+
+578
+00:37:46,609 --> 00:37:49,623
+听我说，这可能是我们最后的机会了…
+Listen to me. This may be our last chance...
+
+579
+00:37:52,615 --> 00:37:55,639
+加斯会毁了我们所有人，除非你们帮我阻止他
+Garth will destroy all of us unless you help me stop him.
+
+580
+00:37:55,639 --> 00:37:59,666
+他在利用你们，知道吗，因为他想要自己拥有权力
+And he's using you, you know, because he wants the power for himself.
+
+581
+00:38:00,231 --> 00:38:03,212
+我带来了一些本可能治愈你们的东西，但被他摧毁了
+I brought something that might have cured you, but he destroyed it.
+
+582
+00:38:03,212 --> 00:38:07,071
+如果我让一支巡逻队下来，他们会带更多的...哦！
+If I can get a patrol down, they'd bring more-Oh!
+
+583
+00:38:13,337 --> 00:38:14,402
+做得好
+Well done.
+
+584
+00:38:16,865 --> 00:38:20,028
+好吧，舰长，你继续反抗
+Well, Captain, you continue to resist.
+
+585
+00:38:20,102 --> 00:38:22,195
+你真蠢
+How stupid of you.
+
+586
+00:38:22,270 --> 00:38:23,882
+把他放在这把椅子上
+Put him in that chair right here.
+
+587
+00:38:24,667 --> 00:38:26,462
+我安排了一个小节目
+I've arranged a small entertainment.
+
+588
+00:38:26,715 --> 00:38:29,650
+我不想让他错过任何细节
+I wouldn't want him to miss any of it.
+
+589
+00:38:36,054 --> 00:38:39,416
+舰长，连你都得承认我是个天才
+Well, Captain, even you must admit that I'm a genius.
+
+590
+00:38:39,488 --> 00:38:41,351
+你看到的是我的最新发明
+What you see here is my latest invention.
+
+591
+00:38:42,099 --> 00:38:43,823
+这是一个炸药
+This is an explosive,
+
+592
+00:38:44,726 --> 00:38:46,362
+史上最强的
+the most powerful one in history.
+
+593
+00:38:47,629 --> 00:38:49,265
+如果我丢下这个烧瓶
+If I were to drop this flask,
+
+594
+00:38:49,265 --> 00:38:53,133
+由此产生的爆炸会使这个星球蒸发
+the resulting explosion would vaporize this planet.
+
+595
+00:38:54,874 --> 00:38:57,707
+现在，你明白为什么抵抗我是荒谬的了吗，舰长？
+Now do you see why it is ridiculous to resist me, Captain?
+
+596
+00:38:59,754 --> 00:39:01,940
+好吧，也许你需要
+Well, perhaps you require...
+
+597
+00:39:02,010 --> 00:39:04,442
+我安排的演示
+the demonstration I've arranged.
+
+598
+00:39:07,691 --> 00:39:09,352
+盯紧了
+Watch closely.
+
+599
+00:39:09,426 --> 00:39:13,556
+的确，她像毒蛇一样致命
+Now, it is true that she is deadly as a poisonous serpent:
+
+600
+00:39:13,630 --> 00:39:16,531
+但她也是一个美丽的女人
+but she is also a beautiful woman,
+
+601
+00:39:16,600 --> 00:39:19,626
+你曾经抱她在你的怀里，舰长
+and you have held her in your arms, Captain.
+
+602
+00:39:22,626 --> 00:39:26,301
+我命令我的人把她赶出防护罩
+I've ordered my men to drive her out of the protective dome.
+
+603
+00:39:26,376 --> 00:39:31,143
+当然，几分钟后她会在外面窒息而死
+And, of course, she would choke to death on the outside in minutes,
+
+604
+00:39:31,214 --> 00:39:33,719
+但我为她安排了一个更仁慈的结局
+but I've arranged a more merciful end for her...
+
+605
+00:39:35,107 --> 00:39:38,347
+因为，毕竟，舰长，她是我的配偶
+because after all, Captain, she is my consort.
+
+606
+00:39:40,157 --> 00:39:43,423
+她的项链中植入了一颗微小的晶体
+One tiny crystal implanted in her necklace,
+
+607
+00:39:43,894 --> 00:39:48,177
+一份这种炸药比一粒沙子还小
+a portion of this explosive no bigger than a grain of sand.
+
+608
+00:39:48,724 --> 00:39:50,996
+我打算从这里引爆它
+I propose to detonate it from here.
+
+609
+00:40:03,687 --> 00:40:05,356
+可怜的姑娘
+Oh, poor girl.
+
+610
+00:40:06,548 --> 00:40:08,675
+可怜的受苦受难的孩子
+Poor, dear, suffering child.
+
+611
+00:40:11,933 --> 00:40:14,401
+我现在就帮她
+I will help her now.
+
+612
+00:40:30,570 --> 00:40:32,393
+厄尔巴二号上发生了爆炸
+There's been an explosion on Elba Il!
+
+613
+00:40:33,710 --> 00:40:35,240
+.95
+Point nine five!
+
+614
+00:40:35,240 --> 00:40:36,645
+它一定已经抹除了一切
+It must've wiped out everything!
+
+615
+00:40:36,713 --> 00:40:40,168
+立即探测！力场还在吗，苏鲁先生？
+Immediate probe! Is the force field in place, Mr. Sulu?
+
+616
+00:40:40,232 --> 00:40:41,550
+是的，长官，很坚固
+Yes, sir. Solidly.
+
+617
+00:40:42,364 --> 00:40:44,134
+生命继续存在于这个星球上
+Life continues to exist on the planet.
+
+618
+00:40:44,387 --> 00:40:46,178
+必须以某种方式突围
+Got to break through it somehow!
+
+619
+00:40:46,178 --> 00:40:46,809
+医生
+Doctor,
+
+620
+00:40:46,809 --> 00:40:51,678
+我告诉过你，我们做不到，除非杀死庇护所穹顶中的所有人
+I told you we couldn't do it without killing everyone in the asylum dome.
+
+621
+00:40:51,995 --> 00:40:53,316
+我知道，斯科提
+I know it, Scotty.
+
+622
+00:40:53,821 --> 00:40:57,257
+好吧，最后有件事我们可以试一下
+Well, there's one last thing we might try.
+
+623
+00:40:57,500 --> 00:41:01,730
+也许飞船的相位炮可以在最薄弱的地方切开力场
+Perhaps the ship's phasers can cut through a section of the forcefield at its weakest point.
+
+624
+00:41:02,193 --> 00:41:04,324
+你之前说它在哪里？
+Where did you say that was located?
+
+625
+00:41:04,324 --> 00:41:06,027
+在星球的另一侧
+On the far side of the planet.
+
+626
+00:41:06,243 --> 00:41:08,391
+它会为下面的人留下安全距离吗？
+Will it leave a margin of safety for the people below?
+
+627
+00:41:08,447 --> 00:41:09,204
+是的，长官
+Yes, sir.
+
+628
+00:41:09,204 --> 00:41:11,210
+准备改变轨道，苏鲁先生
+Prepare to change orbital path, Mr. Sulu.
+
+629
+00:41:12,696 --> 00:41:14,316
+解除轨道坐标
+Orbital coordinates released, sir.
+
+630
+00:41:14,617 --> 00:41:18,334
+终止同步轨道,前往航线14，标记68
+Break synchronous orbit. Come to course 14 mark 68.
+
+631
+00:41:21,858 --> 00:41:24,798
+航线14，标记68
+Course 14 mark 68.
+
+632
+00:41:25,570 --> 00:41:27,014
+重新建立同步轨道，长官
+Synchronous orbit re-established, sir.
+
+633
+00:41:27,351 --> 00:41:28,893
+飞船相位炮调到窄波束
+Ship's phasers to narrow beam.
+
+634
+00:41:30,296 --> 00:41:31,642
+飞船相位炮准备好了，长官
+Ship's phasers ready, sir.
+
+635
+00:41:31,642 --> 00:41:33,423
+让我们在上面打个洞，全功率
+Let's punch a hole in it. Full power.
+
+636
+00:41:38,208 --> 00:41:40,267
+再来一次，全功率
+Another blast, full power.
+
+637
+00:41:44,614 --> 00:41:45,988
+力场还在，长官
+Force field's still holding, sir.
+
+638
+00:41:50,453 --> 00:41:51,387
+接着
+Here.
+
+639
+00:41:52,986 --> 00:41:55,420
+[加斯笑]
+[Garth Laughing]
+
+640
+00:41:58,315 --> 00:41:59,953
+柯克，你觉得经怎么样？
+How are your nerves, Kirk?
+
+641
+00:42:01,316 --> 00:42:04,711
+我只能说，加斯，如果它发生在我身上，它也会发生在你身上
+All I can say, Garth, if it happens to me, it happens to you.
+
+642
+00:42:05,835 --> 00:42:08,099
+你真是一个特别的家伙，柯克
+You're an extraordinary fellow, Kirk.
+
+643
+00:42:08,706 --> 00:42:11,104
+你的固执违背了所有的逻辑
+Your stubbornness defies all logic.
+
+644
+00:42:12,366 --> 00:42:15,239
+逻辑，这就是关键
+Logic, that is the key.
+
+645
+00:42:16,573 --> 00:42:19,490
+你的朋友史波克是个有逻辑的人
+Your friend Spock is a logical man.
+
+646
+00:42:20,948 --> 00:42:22,589
+一个很有逻辑的人
+A very logical man.
+
+647
+00:42:24,454 --> 00:42:27,480
+去把瓦肯人带到我这里来
+Go and bring the Vulcan here to me.
+
+648
+00:42:45,153 --> 00:42:46,667
+[电流噼啪声]
+[Electrical Crackling]
+
+649
+00:42:54,787 --> 00:42:56,175
+[咔嗒声]
+[Click]
+
+650
+00:43:01,939 --> 00:43:02,920
+[咔嗒声]
+[Click]
+
+651
+00:43:32,861 --> 00:43:36,460
+史波克不仅比你更有逻辑，舰长
+Spock is not only a more logical man than you, Captain,
+
+652
+00:43:36,530 --> 00:43:38,582
+而且是一个更聪明的人，我肯定
+he's a more intelligent one, I'm sure.
+
+653
+00:43:40,034 --> 00:43:42,509
+我将与他建立融洽的关系
+I shall establish a rapport with him.
+
+654
+00:43:42,663 --> 00:43:44,597
+[哔哔声]
+[Beeping]
+
+655
+00:43:45,678 --> 00:43:47,612
+[咔嗒声]
+[Click]
+
+656
+00:43:54,372 --> 00:43:55,635
+真有趣
+Fascinating.
+
+657
+00:43:57,654 --> 00:44:02,751
+你的瓦肯朋友是一个非常机敏的家伙，这可能是最有趣的
+Your Vulcan friend is a very ingenious fellow. This could be most amusing.
+
+658
+00:44:10,640 --> 00:44:12,631
+那是加斯，击晕他
+That's Garth. Stun him.
+
+659
+00:44:12,631 --> 00:44:14,508
+别开枪，史波克，那是加斯
+Hold it, Spock! That's Garth!
+
+660
+00:44:23,761 --> 00:44:27,527
+仔细看看我，史波克，你看不出来我是你的舰长吗？
+Look at me carefully, Spock. Can't you tell I'm your captain?
+
+661
+00:44:27,598 --> 00:44:29,431
+女王到女王三级
+Queen to queen's level three.
+
+662
+00:44:29,667 --> 00:44:32,783
+我不会回答，这就是他想知道的
+I won't answer that. That's exactly what he wants to know.
+
+663
+00:44:32,783 --> 00:44:36,863
+非常聪明，加斯，这正是我要说的
+Very clever, Garth. That's exactly what I was going to say.
+
+664
+00:44:38,490 --> 00:44:39,822
+你在干什么？
+What are you doing?
+
+665
+00:44:39,935 --> 00:44:43,861
+安排传送一支安全小队下来，有异议吗？
+Arranging to beam down a security team. Are there any objections?
+
+666
+00:44:44,015 --> 00:44:46,142
+是的，他们可能会陷入陷阱
+Yes. They may walk into a trap.
+
+667
+00:44:48,265 --> 00:44:50,290
+没错，加斯能摧毁我们
+That's right. Garth can destroy us.
+
+668
+00:44:52,289 --> 00:44:53,565
+真有趣
+Fascinating.
+
+669
+00:44:56,229 --> 00:44:57,506
+我们用什么策略
+What maneuver did we use...
+
+670
+00:44:57,576 --> 00:44:59,942
+在天仓五附近打败了罗慕伦飞船？
+to defeat the Romulan vessel near Tau Ceti?
+
+671
+00:45:00,175 --> 00:45:02,964
+非常好，史波克，科克伦减速
+Very good, Spock. The Cochran deceleration.
+
+672
+00:45:03,761 --> 00:45:06,370
+史波克，你知道……
+Spock, you know...
+
+673
+00:45:06,370 --> 00:45:08,967
+科克伦减速是经典的战斗策略
+the Cochran deceleration's a classic battle maneuver.
+
+674
+00:45:08,967 --> 00:45:10,707
+每个星舰舰长都知道这一点
+Every star ship captain knows that.
+
+675
+00:45:12,117 --> 00:45:14,142
+同意，舰长
+Agreed, Captain.
+
+676
+00:45:15,973 --> 00:45:18,177
+舰长们
+Captains.
+
+677
+00:45:18,249 --> 00:45:23,949
+先生们，无论你们中的哪一个是加斯舰长
+Gentlemen, whichever one of you is Captain Garth...
+
+678
+00:45:24,021 --> 00:45:28,549
+都必须花费大量精力来维持柯克舰长的形象
+must be expending a great deal of energy to maintain the image of Captain Kirk.
+
+679
+00:45:28,626 --> 00:45:32,494
+这种能量水平不能无限期地保持
+That energy level cannot be maintained indefinitely,
+
+680
+00:45:32,563 --> 00:45:35,123
+而我有时间
+and I have time.
+
+681
+00:46:26,684 --> 00:46:30,381
+我是你的舰长，史波克！你看不出来吗？开枪，开枪！
+I'm your captain, Spock! Can't you tell? Shoot. Shoot!
+
+682
+00:46:32,390 --> 00:46:35,215
+他是对的，史波克，你必须开枪，但你必须朝我们俩开枪
+He's right, Spock, you must shoot. But you must shoot both of us.
+
+683
+00:46:35,591 --> 00:46:37,940
+这是确保企业号安全的唯一途径
+It's the only way to ensure the safety of the Enterprise.
+
+684
+00:46:51,210 --> 00:46:52,940
+我猜你是柯克舰长
+Captain Kirk, I presume.
+
+685
+00:46:54,276 --> 00:46:55,308
+史波克先生
+Mr. Spock.
+
+686
+00:47:00,427 --> 00:47:02,579
+史波克呼叫企业号
+Spock to Enterprise.
+
+687
+00:47:02,579 --> 00:47:03,811
+[斯科提] 这里是企业号
+[Scotty] Enterprise here.
+
+688
+00:47:03,888 --> 00:47:05,822
+女王到女王三级
+Queen to queen's level three.
+
+689
+00:47:05,890 --> 00:47:08,256
+女王到国王一级
+Queen to king's level one.
+
+690
+00:47:10,666 --> 00:47:13,627
+肌内注射可以吗？
+Will intramuscular injection be satisfactory?
+
+691
+00:47:13,966 --> 00:47:17,634
+除非条件不允许，否则需要静脉注射
+Intravenous is indicated unless circumstances make it impossible.
+
+692
+00:47:17,911 --> 00:47:20,762
+麦考伊医生，多久生效？
+How long before it takes effect, Dr. McCoy?
+
+693
+00:47:21,049 --> 00:47:25,673
+动脉和脑损伤的逆转应立即开始
+Reversal of arterial and brain damage should begin almost immediately.
+
+694
+00:47:25,743 --> 00:47:28,712
+[低沉的嗡嗡声]
+[Low-Pitched Whirring]
+
+695
+00:47:34,874 --> 00:47:35,771
+[咔嗒声]
+[Click]
+
+696
+00:47:35,771 --> 00:47:37,349
+[嗡嗡声停止]
+[Whirring Stops]
+
+697
+00:47:41,058 --> 00:47:43,959
+加斯舰长，我是詹姆斯·柯克
+Captain Garth, I'm James Kirk.
+
+698
+00:47:46,190 --> 00:47:47,804
+我是史波克先生
+I am Mr. Spock,
+
+699
+00:47:48,055 --> 00:47:50,300
+星舰上的科学官
+science officer on a star ship.
+
+700
+00:47:52,412 --> 00:47:53,836
+星舰企业号
+The star ship Enterprise.
+
+701
+00:47:54,528 --> 00:47:57,032
+星舰？
+Star ship?
+
+702
+00:47:57,720 --> 00:47:59,042
+星舰？
+Star ship?
+
+703
+00:47:59,110 --> 00:48:03,046
+是的，长官，企业号，我是舰长
+Yes, sir, the Enterprise. I'm the captain.
+
+704
+00:48:13,500 --> 00:48:14,612
+我能帮你吗？
+Can I help you?
+
+705
+00:48:14,827 --> 00:48:18,347
+不，舰长，药似乎起效了
+No, Captain. The medicine seems to be taking effect.
+
+706
+00:48:18,647 --> 00:48:21,247
+我应付得了，这是非常令人鼓舞的
+I can manage. It's very encouraging.
+
+707
+00:48:31,142 --> 00:48:32,705
+先生，我应该认识你吗？
+Should I know you, sir?
+
+708
+00:48:32,705 --> 00:48:36,597
+不，舰长，不
+No, Captain. No.
+
+709
+00:48:43,487 --> 00:48:45,853
+史波克先生  是的，舰长
+Mr. Spock. Yes, Captain.
+
+710
+00:48:45,923 --> 00:48:50,451
+告诉我，为什么无法分辨我们之间的区别？
+Tell me, why was it so impossible to tell the difference between us?
+
+711
+00:48:50,528 --> 00:48:52,462
+并非不可能，舰长
+It was not impossible, Captain.
+
+712
+00:48:52,530 --> 00:48:54,547
+我们在这里的存在证明了这一点
+Our presence here is proof of that.
+
+713
+00:48:54,852 --> 00:48:57,362
+是的，恭喜
+Yes, and congratulations.
+
+714
+00:48:58,689 --> 00:49:00,134
+你怎么花了这么久？
+What took you so long?
+
+715
+00:49:00,204 --> 00:49:04,106
+不确定的间隔实际上相当短，舰长
+The interval of uncertainty was actually fairly brief, Captain.
+
+716
+00:49:04,175 --> 00:49:06,871
+只是对你来说似乎很长
+It only seemed long to you.
+
+717
+00:49:06,944 --> 00:49:09,879
+我在等待打斗的胜利者
+I was waiting for a victor in the struggle,
+
+718
+00:49:09,947 --> 00:49:12,108
+我假定会是加斯舰长
+which I assumed would be Captain Garth.
+
+719
+00:49:13,384 --> 00:49:16,148
+因为你的状况不佳
+Because of your depleted condition.
+
+720
+00:49:17,213 --> 00:49:19,246
+未能解决打斗
+Failing a resolution to the struggle,
+
+721
+00:49:19,323 --> 00:49:23,274
+我被迫使用其他方式来做出决定
+I was forced to use other means to make my determination.
+
+722
+00:49:23,961 --> 00:49:25,013
+我知道了
+I see.
+
+723
+00:49:26,914 --> 00:49:28,564
+史波克先生，唔
+Mr. Spock, um,
+
+724
+00:49:29,353 --> 00:49:31,146
+让自己被击中头部
+letting yourself be hit on the head,
+
+725
+00:49:31,146 --> 00:49:34,589
+我猜你让自己被击中了头部
+and I presume you let yourself be hit on the head,
+
+726
+00:49:35,163 --> 00:49:39,108
+这完全不像聪明人会想出来的方法
+is not exactly a method King Solomon would have approved.
+
+727
+00:49:39,377 --> 00:49:42,073
+斯科特先生，准备好传送上船
+Mr. Scott, ready to beam up.
+
+728
+00:49:42,480 --> 00:49:44,414
+是的，长官
+Aye, aye, sir.
+

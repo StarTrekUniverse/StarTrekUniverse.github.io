@@ -1,0 +1,4485 @@
+1
+00:00:03,975 --> 00:00:04,907
+舰长日志
+Captain's Log :
+
+2
+00:00:04,976 --> 00:00:07,410
+星历4372.5
+Star date 4372.5 .
+
+3
+00:00:07,478 --> 00:00:09,412
+在一次绝密外交任务中
+On a top-secret diplomatic mission,
+
+4
+00:00:09,480 --> 00:00:11,914
+我们进入了特伦星系
+the Enterprise has entered the Tellun star system.
+
+5
+00:00:11,983 --> 00:00:13,416
+维持通讯中断了
+Maintaining communications blackout,
+
+6
+00:00:13,484 --> 00:00:15,511
+我们把佩特里带上了船
+we have taken aboard Petri,
+
+7
+00:00:15,574 --> 00:00:17,007
+来自外行星
+Ambassador from Troyius,
+
+8
+00:00:17,075 --> 00:00:17,941
+特洛伊乌斯的大使
+the outer planet,
+
+9
+00:00:18,207 --> 00:00:21,374
+现在正接近内行星，伊拉斯
+and are now approaching the inner planet Elas.
+
+10
+00:00:21,947 --> 00:00:24,632
+一些书呆子气的星际舰队官僚
+Some desk bound Starfleet bureaucrat
+
+11
+00:00:25,098 --> 00:00:26,890
+下达了这些间谍命令
+cut these cloak-and-dagger orders.
+
+12
+00:00:26,890 --> 00:00:28,746
+是，但为什么要遮遮掩掩？
+Aye, but why the secrecy?
+
+13
+00:00:28,820 --> 00:00:31,084
+该星系受联邦控制
+This star system's under Federation control.
+
+14
+00:00:31,156 --> 00:00:32,771
+它在边境地区，斯科特先生
+It's in a border area, Mr. Scott.
+
+15
+00:00:32,887 --> 00:00:34,445
+克林贡人也声称拥有管辖权
+Klingons also claim jurisdiction.
+
+16
+00:00:35,093 --> 00:00:35,883
+就我看来
+From what I've seen,
+
+17
+00:00:35,883 --> 00:00:37,316
+不值得为争抢
+it's not worth fighting about.
+
+18
+00:00:38,096 --> 00:00:39,358
+我们为什么在这里，舰长？
+Why are we here, Captain?
+
+19
+00:00:39,431 --> 00:00:41,608
+我的命令是配合佩特里大使
+My order is to cooperate with Ambassador Petri
+
+20
+00:00:41,608 --> 00:00:43,533
+处理他在这里的任务的所有事项
+in all matters pertaining to his mission here.
+
+21
+00:00:43,602 --> 00:00:45,035
+[乌乎拉] 舰桥呼叫柯克舰长
+[Uhura] Bridge to Captain Kirk.
+
+22
+00:00:45,103 --> 00:00:46,229
+斯科提
+Scotty.
+
+23
+00:00:47,367 --> 00:00:48,349
+我是柯克，怎么了？
+Kirk here. What is it?
+
+24
+00:00:48,432 --> 00:00:50,537
+舰长，我收到了来自伊拉希人的信号
+Captain, I have a signal from the Elasians.
+
+25
+00:00:50,655 --> 00:00:52,133
+他们准备登船
+They're ready to beam aboard.
+
+26
+00:00:52,274 --> 00:00:54,450
+他们要求对迟到做出解释
+They demand an explanation for the delay.
+
+27
+00:00:54,632 --> 00:00:57,522
+要求？什么迟到？将他们传送到船上
+Demand? What delay? All right. Beam them aboard.
+
+28
+00:00:58,250 --> 00:01:00,047
+听起来是典型的伊拉希人
+Sounds typical of the Elasians.
+
+29
+00:01:00,217 --> 00:01:02,575
+进行调查的科学家说
+The scientists who made the initial investigation
+
+30
+00:01:02,575 --> 00:01:05,009
+这些人恶毒且傲慢
+reported the men were vicious and arrogant.
+
+31
+00:01:05,557 --> 00:01:07,801
+这只是负面的部分，史波克先生
+That's just the negative part, Mr. Spock.
+
+32
+00:01:07,801 --> 00:01:09,234
+我看过那些记录
+I've been over those records.
+
+33
+00:01:09,626 --> 00:01:12,894
+那里的女人很特别
+Now, the women, they're supposed to be something very special.
+
+34
+00:01:12,965 --> 00:01:14,070
+她们有一种
+They're supposed to have
+
+35
+00:01:14,070 --> 00:01:16,895
+微妙的神秘力量
+a kind of subtle, mystical power
+
+36
+00:01:16,895 --> 00:01:19,025
+让男人疯狂
+that drives men wild.
+
+37
+00:01:24,111 --> 00:01:26,579
+佩特里大使，能不能别废话
+Ambassador Petri, would you drop all this nonsense
+
+38
+00:01:26,647 --> 00:01:27,696
+告诉我这是关于什么的
+and tell me what this is about?
+
+39
+00:01:27,715 --> 00:01:29,989
+那必须等多尔曼上船
+That must wait until the Dohlman is aboard.
+
+40
+00:01:29,989 --> 00:01:31,547
+多尔曼？什么是多尔曼？
+Dohlman? What the devil is a Dohlman?
+
+41
+00:01:31,852 --> 00:01:34,650
+我的人民最害怕和最讨厌的东西
+The thing most feared and hated by my people.
+
+42
+00:01:34,943 --> 00:01:36,155
+我们最致命的敌人
+Our most deadly enemy.
+
+43
+00:01:36,223 --> 00:01:38,157
+[传送装置传送]
+[Transporter Beam]
+
+44
+00:01:50,514 --> 00:01:51,285
+欢迎
+Welcome.
+
+45
+00:01:51,611 --> 00:01:54,045
+我是特洛伊乌斯的大使佩特里
+I am Petri, Ambassador of Troyius.
+
+46
+00:01:56,946 --> 00:01:58,673
+我是柯克舰长
+I'm Captain Kirk.
+
+47
+00:01:59,250 --> 00:02:01,140
+我指挥这艘飞船
+This ship is under my command.
+
+48
+00:02:02,706 --> 00:02:03,616
+这里有一个特洛伊人
+There's a Troyian here.
+
+49
+00:02:05,454 --> 00:02:06,856
+我必须确定，一切都是安全的
+I must know that all is secure
+
+50
+00:02:06,856 --> 00:02:08,620
+在多尔曼上船之前
+before the Dohlman is brought on board.
+
+51
+00:02:12,506 --> 00:02:14,288
+这艘船是安全的…
+This ship is secure ...
+
+52
+00:02:15,396 --> 00:02:16,439
+我们已准备好
+and we're prepared
+
+53
+00:02:16,439 --> 00:02:18,255
+应对任何不友好行为
+for any hostile action.
+
+54
+00:02:19,829 --> 00:02:20,833
+传送
+Energize.
+
+55
+00:02:28,228 --> 00:02:31,197
+向伊拉斯的多尔曼致敬
+Do honour to the Dohlman of Elas.
+
+56
+00:02:34,783 --> 00:02:36,182
+荣耀归于伊兰
+Glory to Elaan,
+
+57
+00:02:36,251 --> 00:02:38,048
+伊拉斯的多尔曼
+Dohlman of Elas.
+
+58
+00:03:16,841 --> 00:03:17,957
+宇宙
+Space ...
+
+59
+00:03:18,026 --> 00:03:19,926
+最后的边疆
+the final frontier.
+
+60
+00:03:25,600 --> 00:03:29,593
+这些是星舰企业号的航程
+These are the voyages of the star ship Enterprise.
+
+61
+00:03:29,967 --> 00:03:31,173
+它的五年任务：
+Its five-year mission:
+
+62
+00:03:31,466 --> 00:03:33,661
+探索未知的新世界
+to explore strange new worlds,
+
+63
+00:03:34,041 --> 00:03:37,945
+寻找新生命和新文明
+to seek out new life and new civilizations,
+
+64
+00:03:38,105 --> 00:03:40,954
+勇踏前人未至之境
+to boldly go where no man has gone before.
+
+65
+00:04:14,570 --> 00:04:16,841
+特洛伊乌斯的伊兰
+ Elaan of Troyius
+
+66
+00:04:18,761 --> 00:04:20,194
+你们可以起身了
+You may stand.
+
+67
+00:04:23,675 --> 00:04:24,515
+防弹衣
+Body armour.
+
+68
+00:04:24,593 --> 00:04:25,512
+核武器
+Nuclear weapons.
+
+69
+00:04:26,109 --> 00:04:27,736
+并非没有先例，舰长
+Not without precedent, Captain.
+
+70
+00:04:28,022 --> 00:04:28,619
+记住…
+Remember that --
+
+71
+00:04:28,619 --> 00:04:30,423
+我没有允许你们说话
+Permission to speak was not given.
+
+72
+00:04:35,323 --> 00:04:36,290
+你统治这艘船？
+You rule this ship?
+
+73
+00:04:36,616 --> 00:04:37,855
+我是大副
+I am the first officer.
+
+74
+00:04:38,235 --> 00:04:39,811
+这是詹姆斯·柯克舰长
+This is Captain James Kirk.
+
+75
+00:04:40,246 --> 00:04:41,778
+殿下，我是佩特里
+Your Glory, I am Petri.
+
+76
+00:04:42,288 --> 00:04:43,266
+以我人民的名义…
+In the name of my people --
+
+77
+00:04:43,527 --> 00:04:45,495
+我们都知道你的任务
+Your mission is known to us.
+
+78
+00:04:45,526 --> 00:04:47,732
+舰长，你现在可以
+Captain Kirk, you have now permission
+
+79
+00:04:47,732 --> 00:04:49,791
+带我们去住处了
+to show us to our quarters.
+
+80
+00:04:50,760 --> 00:04:52,230
+好的，现在稍等
+Well, now, Just a moment.
+
+81
+00:04:52,230 --> 00:04:54,273
+我们必须要
+There's going to have to be
+
+82
+00:04:54,479 --> 00:04:55,240
+相互理解
+some kind of understanding.
+
+83
+00:04:55,305 --> 00:04:56,174
+拜托！
+Please ...
+
+84
+00:05:02,653 --> 00:05:04,400
+我的大副史波克先生
+My first officer Mr. Spock
+
+85
+00:05:04,400 --> 00:05:06,334
+会带你去你的住处
+will show you to your quarters.
+
+86
+00:05:07,225 --> 00:05:08,768
+大使我想和你说句话
+Ambassador, I'd like to speak to you.
+
+87
+00:05:08,768 --> 00:05:10,169
+[伊兰] 我还没说可以走
+[Elaan] You have not been dismissed.
+
+88
+00:05:13,570 --> 00:05:15,461
+我可以要求离开吗？
+May I have your permission to go?
+
+89
+00:05:16,808 --> 00:05:18,362
+你现在可以走了
+You are now dismissed.
+
+90
+00:05:19,203 --> 00:05:20,568
+好的，谢谢
+Well, thank you.
+
+91
+00:05:23,936 --> 00:05:25,034
+大使
+Ambassador.
+
+92
+00:05:27,675 --> 00:05:29,336
+大使，是时候
+Ambassador, I think it's time
+
+93
+00:05:29,411 --> 00:05:30,934
+告诉我发生什么了
+you told me what's going on.
+
+94
+00:05:31,413 --> 00:05:33,847
+那个…生物，伊兰
+That creature ... Elaan
+
+95
+00:05:34,584 --> 00:05:36,349
+将成为我们统治者的妻子
+is to be the wife of our ruler
+
+96
+00:05:36,638 --> 00:05:37,692
+带来和平
+to bring peace.
+
+97
+00:05:38,420 --> 00:05:40,126
+我们的两个敌对的星球
+Our two warring planets
+
+98
+00:05:40,126 --> 00:05:42,856
+现在拥有相互毁灭的能力
+now possess the capability of mutual destruction.
+
+99
+00:05:43,396 --> 00:05:46,360
+必须找到某种共存的方法
+Some method of coexistence must be found.
+
+100
+00:05:46,841 --> 00:05:47,493
+我明白了
+I see.
+
+101
+00:05:47,612 --> 00:05:49,307
+所以我们回特洛伊乌斯
+So, we go back to Troyius?
+
+102
+00:05:49,438 --> 00:05:52,365
+是的，但是慢慢走，舰长
+Yes. Ah, but slowly, Captain.
+
+103
+00:05:52,434 --> 00:05:54,368
+我需要时间
+I will need time.
+
+104
+00:05:55,077 --> 00:05:55,869
+在我们到达那里之前
+Before we reach there,
+
+105
+00:05:55,937 --> 00:05:58,371
+必须教她文明礼貌
+she must be taught civilized manners.
+
+106
+00:05:59,097 --> 00:06:00,374
+以她现在的样子
+In her present condition,
+
+107
+00:06:00,442 --> 00:06:02,376
+我的人民永远不会接受她
+my people would never accept her.
+
+108
+00:06:02,770 --> 00:06:05,311
+你要当她的老师？
+And you are to be her teacher?
+
+109
+00:06:05,380 --> 00:06:07,314
+那是给我的命令
+Those are my orders.
+
+110
+00:06:07,931 --> 00:06:09,816
+我必须要求你和你的船员
+I must ask you and your crew
+
+111
+00:06:09,884 --> 00:06:13,320
+尊重，或者至少容忍他们的傲慢
+to respect, or at least tolerate, their arrogance.
+
+112
+00:06:13,788 --> 00:06:16,323
+摩擦必须保持在最低限度
+Friction must be kept at a minimum.
+
+113
+00:06:16,391 --> 00:06:18,325
+好的，我能理解
+Yes, that I can understand.
+
+114
+00:06:18,393 --> 00:06:21,328
+另一件事你应该明白，舰长
+Another thing you should understand, Captain.
+
+115
+00:06:21,600 --> 00:06:23,882
+你和我一样处于危险中
+You have as much at stake as I have.
+
+116
+00:06:24,403 --> 00:06:26,011
+你的上级说
+Your superiors made the statement
+
+117
+00:06:26,011 --> 00:06:27,675
+这次任务要是失败
+that failure of this mission
+
+118
+00:06:27,902 --> 00:06:30,619
+对联邦和我们两个星球来说
+would be as catastrophic for Federation planning
+
+119
+00:06:30,905 --> 00:06:32,574
+都是灾难性的
+as it would be for our two planets.
+
+120
+00:06:33,530 --> 00:06:38,507
+以接受这样的女王为代价换取和平
+To gain peace at the price of accepting such a queen
+
+121
+00:06:39,137 --> 00:06:41,245
+不是胜利
+is no victory.
+
+122
+00:06:42,617 --> 00:06:45,428
+我会送她 我带来的正式礼物
+I will take her the official gifts I bear.
+
+123
+00:06:45,819 --> 00:06:49,362
+也许那会缓和她的情绪
+Perhaps that will soften her mood.
+
+124
+00:06:56,903 --> 00:06:58,663
+契科夫先生，设定前往特洛伊乌斯的航线
+Mr. Chekov, lay in a course for Troyius.
+
+125
+00:06:59,184 --> 00:07:01,292
+苏鲁先生，脉冲引擎
+Mr. Sulu, impulse drive.
+
+126
+00:07:01,444 --> 00:07:03,636
+速度系数.037
+Speed factor .037.
+
+127
+00:07:03,769 --> 00:07:05,098
+脉冲引擎，舰长？
+Impulse drive, Captain?
+
+128
+00:07:05,098 --> 00:07:06,649
+是的，没错，苏鲁先生
+Yes, that's correct, Mr. Sulu.
+
+129
+00:07:07,149 --> 00:07:10,799
+亚光系数.037
+Sub light factor .037.
+
+130
+00:07:11,348 --> 00:07:12,227
+是的，长官
+Aye, aye, sir.
+
+131
+00:07:12,397 --> 00:07:13,179
+舰长
+Captain,
+
+132
+00:07:14,668 --> 00:07:16,352
+你不用曲速引擎？
+you'll not be using the warp drive?
+
+133
+00:07:18,166 --> 00:07:19,481
+全程用脉冲？
+All the way on impulse?
+
+134
+00:07:21,904 --> 00:07:24,164
+这将花费大量时间
+That'll take a great deal of time.
+
+135
+00:07:24,528 --> 00:07:25,696
+你赶时间吗，斯科特先生？
+You in a hurry, Mr. Scott?
+
+136
+00:07:27,228 --> 00:07:27,869
+不
+No.
+
+137
+00:07:30,234 --> 00:07:32,357
+舰长，多尔曼
+Captain, the Dohlman is dissatisfied
+
+138
+00:07:32,357 --> 00:07:33,965
+对提供的住处不满意
+with the quarters provided.
+
+139
+00:07:34,791 --> 00:07:36,192
+他们怎么了，史波克？
+What's the matter with them, Mr. Spock?
+
+140
+00:07:36,268 --> 00:07:37,073
+我不知道
+I do not know,
+
+141
+00:07:37,073 --> 00:07:40,397
+所有伊拉希人看起来都很不理性
+but all the Elasians seem most irrational.
+
+142
+00:07:40,973 --> 00:07:42,386
+我放弃了我的宿舍，因为…
+I gave up my quarters because...
+
+143
+00:07:42,386 --> 00:07:44,450
+是的，我感谢你的牺牲，乌乎拉上尉
+Yes, I appreciate your sacrifice, Lieutenant Uhura.
+
+144
+00:07:44,657 --> 00:07:45,852
+我会亲自和她谈谈
+I'll talk to her myself.
+
+145
+00:07:52,274 --> 00:07:54,121
+猪猡！收回你的礼物
+Swine! Take back your gifts!
+
+146
+00:07:55,359 --> 00:07:56,624
+殿下
+Your Glory ...
+
+147
+00:07:56,891 --> 00:07:59,120
+这是你的婚礼拖鞋
+these are your wedding slippers.
+
+148
+00:07:59,271 --> 00:08:00,993
+你的统治者收买不了
+Your ruler cannot buy the favours
+
+149
+00:08:01,065 --> 00:08:02,396
+埃拉斯的多尔曼的欢心
+of the Dohlman of Elas.
+
+150
+00:08:02,705 --> 00:08:05,435
+这…这是你的婚礼礼服
+This ... This is your wedding dress,
+
+151
+00:08:05,502 --> 00:08:07,993
+来自新郎母亲的礼物
+a gift from the bridegroom's mother.
+
+152
+00:08:08,072 --> 00:08:09,903
+我不要他的任何东西！
+I want nothing of his!
+
+153
+00:08:09,973 --> 00:08:14,532
+这…这是最珍贵的皇家珠宝…
+This ... This is the most prized of royal jewels ...
+
+154
+00:08:14,917 --> 00:08:16,656
+戴在你优美的脖子上
+for your lovely neck.
+
+155
+00:08:16,710 --> 00:08:18,525
+我会勒死，如果我把
+I would strangle if I was to put
+
+156
+00:08:18,525 --> 00:08:20,937
+一只特洛伊狗的礼物戴在脖子上
+the gift of a Troyian dog around my neck.
+
+157
+00:08:23,186 --> 00:08:25,746
+克莱顿，谁允许他进来的？
+Kryton, by whose permission did he enter?
+
+158
+00:08:26,837 --> 00:08:28,695
+他是应您的传召来的
+He came in answer to your summons.
+
+159
+00:08:29,108 --> 00:08:31,773
+我知道你对住处不满意
+I understand you're not happy with your quarters.
+
+160
+00:08:32,313 --> 00:08:33,052
+住处？
+Quarters?
+
+161
+00:08:33,052 --> 00:08:33,661
+[玻璃碎裂]
+[Glass Breaks]
+
+162
+00:08:34,095 --> 00:08:36,825
+是的，一点都不满意
+Yes, not happy at all.
+
+163
+00:08:37,170 --> 00:08:39,269
+我是一只柔弱的特洛伊小鹿
+Am I a soft Troyian fawn
+
+164
+00:08:39,387 --> 00:08:41,203
+需要枕头坐吗？
+to need pillows to sit on?
+
+165
+00:08:41,271 --> 00:08:43,961
+还有这些可笑的女性装饰
+And these ridiculous female trappings.
+
+166
+00:08:43,961 --> 00:08:45,569
+冒犯了我的眼睛
+They are an offense to my eyes.
+
+167
+00:08:46,124 --> 00:08:50,233
+我的通讯官慷慨地腾出房间
+My communications officer generously vacated the rooms
+
+168
+00:08:50,405 --> 00:08:52,374
+希望你能满意
+hoping you would find it satisfactory.
+
+169
+00:08:52,449 --> 00:08:53,708
+我不这么认为
+I do not find them so.
+
+170
+00:08:54,045 --> 00:08:56,541
+而且我更不满意他
+I find him even less satisfactory.
+
+171
+00:08:57,254 --> 00:09:00,053
+一定要让那个大使呆在你的船上
+Must my bitterness be compounded with that ridiculous ambassador
+
+172
+00:09:00,618 --> 00:09:02,400
+增加我的痛苦吗？
+aboard your ship?
+
+173
+00:09:03,107 --> 00:09:05,834
+我向殿下解释说
+I explained to Her Glory
+
+174
+00:09:06,040 --> 00:09:09,165
+她的贵族议会和特洛伊乌斯法庭
+that her council of nobles and the Troyius Tribunal
+
+175
+00:09:09,233 --> 00:09:11,463
+共同同意，我应该教导…
+Jointly agreed that I should instruct ...
+
+176
+00:09:14,352 --> 00:09:15,645
+让她熟悉
+make her acquainted
+
+177
+00:09:15,645 --> 00:09:17,916
+我们人民的习俗和礼仪
+with the customs and manners of our people.
+
+178
+00:09:18,796 --> 00:09:19,731
+克莱顿
+Kryton!
+
+179
+00:09:20,024 --> 00:09:21,035
+把他弄走！
+Remove him!
+
+180
+00:09:24,523 --> 00:09:26,359
+带上那些垃圾！
+And take that garbage with you!
+
+181
+00:09:42,625 --> 00:09:44,197
+他居然敢
+He dare to suggest
+
+182
+00:09:44,268 --> 00:09:47,025
+让我学习他人民的奴性！
+that I adopt the servile manners of his people!
+
+183
+00:09:48,134 --> 00:09:50,205
+殿下似乎没有
+Your Glory doesn't seem to be responding
+
+184
+00:09:50,274 --> 00:09:51,198
+响应指令
+to instruction.
+
+185
+00:09:52,165 --> 00:09:54,209
+我永远不会原谅议会
+I will never forgive the council
+
+186
+00:09:54,686 --> 00:09:56,359
+让我经受这种折磨
+for putting me through this torture.
+
+187
+00:09:59,412 --> 00:10:02,694
+你是应我的要求来解决住处问题的吗？
+Were you responding to my demand for better quarters?
+
+188
+00:10:03,353 --> 00:10:04,399
+没有更好的了
+There are none better.
+
+189
+00:10:04,519 --> 00:10:06,138
+我建议你凑合着住
+I suggest you make do with these.
+
+190
+00:10:06,562 --> 00:10:07,494
+你建议？
+You suggest?
+
+191
+00:10:08,322 --> 00:10:09,854
+没有空余的房间了
+There are no more available.
+
+192
+00:10:09,854 --> 00:10:12,087
+但如果这是你获得满足感的唯一方式
+But if that's the only way you can get gratification,
+
+193
+00:10:12,162 --> 00:10:15,602
+我会让人把整间屋子都装满能砸的东西
+I'll arrange to have the whole room filled from floor to ceiling with breakable objects.
+
+194
+00:10:16,134 --> 00:10:17,829
+我不会让你羞辱我的！
+I will not be humiliated!
+
+195
+00:10:20,035 --> 00:10:21,980
+那就举止文明一点
+Then act in a civilized fashion.
+
+196
+00:10:22,426 --> 00:10:25,862
+我没有允许你离开
+I did not give you permission to leave!
+
+197
+00:10:26,946 --> 00:10:28,441
+我没有请求允许
+I didn't ask for any.
+
+198
+00:10:29,825 --> 00:10:30,694
+哦！
+Oh!
+
+199
+00:10:32,850 --> 00:10:35,866
+舰长，我想联系我的政府
+Captain, I wish to contact my government.
+
+200
+00:10:36,018 --> 00:10:37,508
+我无法完成我的使命
+I cannot fulfil my mission.
+
+201
+00:10:37,637 --> 00:10:39,300
+这是对我们统治者的侮辱
+It would be an insult to our ruler
+
+202
+00:10:39,398 --> 00:10:41,038
+把这个积习难改的怪物当新娘带回去
+to bring this incorrigible monster as a bride!
+
+203
+00:10:41,038 --> 00:10:45,454
+大使！这应该是个和平任务
+Ambassador! This is supposed to be a peaceful mission.
+
+204
+00:10:46,384 --> 00:10:48,068
+我们之间不可能有和平
+There cannot be peace between us.
+
+205
+00:10:48,633 --> 00:10:50,307
+我们自欺欺人了
+We have deluded ourselves.
+
+206
+00:10:51,274 --> 00:10:53,925
+舰长，当我靠近他们时，我不想要和平
+Captain, when I am near them, I do not want peace.
+
+207
+00:10:54,588 --> 00:10:56,522
+我想杀了他们！
+I want to kill them.
+
+208
+00:10:57,554 --> 00:10:58,804
+你和她一样坏
+You're as bad as she is.
+
+209
+00:10:59,282 --> 00:11:00,683
+你们不需要彼此喜欢
+It's not required that you like each other.
+
+210
+00:11:00,683 --> 00:11:02,976
+做你的工作
+Just do your job.
+
+211
+00:11:03,248 --> 00:11:05,867
+工作？这份工作是不可能完成的
+The job? The job is impossible.
+
+212
+00:11:06,127 --> 00:11:07,215
+我们无法与我们厌恶的人
+We cannot make peace
+
+213
+00:11:07,284 --> 00:11:08,717
+和平相处
+with people we detest.
+
+214
+00:11:08,785 --> 00:11:09,930
+不要试图互相残杀
+Stop trying to kill each other!
+
+215
+00:11:10,169 --> 00:11:12,342
+然后友好相处
+Then worry about being friendly.
+
+216
+00:11:12,789 --> 00:11:14,157
+但如果她不听我的…
+But if she won't listen to me ...
+
+217
+00:11:14,157 --> 00:11:15,743
+那就让她听，大使！
+Then make her listen, Ambassador.
+
+218
+00:11:16,276 --> 00:11:18,362
+用别的方法
+Use a different approach.
+
+219
+00:11:18,795 --> 00:11:19,894
+别用外交辞令
+Stop being so diplomatic.
+
+220
+00:11:19,894 --> 00:11:21,327
+她崇尚强权
+She respects strength.
+
+221
+00:11:21,798 --> 00:11:22,860
+强硬点
+Go in strong.
+
+222
+00:11:31,704 --> 00:11:35,071
+起初它似乎是一个传感器幽灵
+At first it appeared to be a sensor ghost,
+
+223
+00:11:35,141 --> 00:11:37,442
+但我已经对所有仪器进行了检查
+but I've run checks on all the instrumentation.
+
+224
+00:11:37,692 --> 00:11:39,702
+所有设备都运行良好
+All the equipment is functioning perfectly.
+
+225
+00:11:40,593 --> 00:11:42,026
+氢云反射？
+Hydrogen cloud reflection?
+
+226
+00:11:42,603 --> 00:11:43,918
+该地区没有
+None in this area.
+
+227
+00:11:43,918 --> 00:11:45,209
+没有东西能解释
+Nothing that would account for it.
+
+228
+00:11:45,689 --> 00:11:47,416
+幽灵断断续续地出现
+The ghost appears intermittently.
+
+229
+00:11:47,894 --> 00:11:49,120
+推测？
+Speculation?
+
+230
+00:11:50,698 --> 00:11:51,513
+没有，舰长
+None, Captain.
+
+231
+00:11:51,741 --> 00:11:53,023
+数据不足
+Insufficient data.
+
+232
+00:11:53,957 --> 00:11:55,526
+这不是仪器故障
+It's not an instrument malfunction.
+
+233
+00:11:55,594 --> 00:11:57,641
+这不是自然现象的反射
+It's not a reflection from a natural phenomenon.
+
+234
+00:11:59,499 --> 00:12:00,357
+一艘飞船？
+A spaceship?
+
+235
+00:12:00,662 --> 00:12:02,590
+[斯科提] 轮机部呼叫柯克舰长
+[Scotty] Engineering to Captain Kirk.
+
+236
+00:12:03,769 --> 00:12:04,895
+我是柯克
+Kirk here.
+
+237
+00:12:04,970 --> 00:12:06,953
+舰长，我懂你说的
+Captain, I know what you said
+
+238
+00:12:06,953 --> 00:12:08,386
+尊重的意思
+about showing respect,
+
+239
+00:12:08,386 --> 00:12:10,377
+但是必须让这些人
+but must I have these persons
+
+240
+00:12:10,821 --> 00:12:12,288
+在我的设备周围闲逛吗？
+fool around with my equipment?
+
+241
+00:12:13,382 --> 00:12:14,450
+坚持一下，斯科提
+Hang on, Scotty.
+
+242
+00:12:14,450 --> 00:12:15,613
+不管多难忍都要友好
+Be pleasant no matter how much it hurts.
+
+243
+00:12:15,613 --> 00:12:17,046
+我马上下来
+I'll be right down.
+
+244
+00:12:22,221 --> 00:12:24,142
+我们现在只靠脉冲引擎运行
+We're only running on impulse engines now.
+
+245
+00:12:24,414 --> 00:12:26,526
+通常我们只用曲速引擎
+Ordinarily, we use the warp engines exclusively.
+
+246
+00:12:26,967 --> 00:12:29,902
+嗯…我想…
+Well ... I suppose ...
+
+247
+00:12:29,970 --> 00:12:30,790
+姑娘…
+lassie ...
+
+248
+00:12:31,336 --> 00:12:33,052
+就算是我们的脉冲引擎
+that even our impulse engines
+
+249
+00:12:33,052 --> 00:12:34,012
+看起来也更快
+must seem fast
+
+250
+00:12:34,171 --> 00:12:36,605
+与你们的核推进装置相比
+compared to your nuclear propulsion units.
+
+251
+00:12:37,550 --> 00:12:38,775
+我们感兴趣的
+We are interested
+
+252
+00:12:38,844 --> 00:12:40,897
+是这艘船如何在战斗中使用
+in how the ship is used in combat,
+
+253
+00:12:41,592 --> 00:12:44,026
+而不是它的引擎
+not in what drives it.
+
+254
+00:12:44,656 --> 00:12:47,284
+引擎是机械师和仆人们操心的
+Engines are for mechanics and menials.
+
+255
+00:12:47,873 --> 00:12:49,786
+仆人？
+Menials?
+
+256
+00:12:50,157 --> 00:12:51,089
+没有引擎
+Without engines,
+
+257
+00:12:51,089 --> 00:12:52,469
+就没有战斗或…
+there'd be no fighting or ...
+
+258
+00:12:52,588 --> 00:12:53,110
+[柯克] 斯科特先生！
+[Kirk] Mr. Scott!
+
+259
+00:12:54,126 --> 00:12:55,787
+你应该告诉我
+I wish you had told me
+
+260
+00:12:55,861 --> 00:12:58,295
+你想要参观轮机部
+you wanted a tour of the engineering department.
+
+261
+00:12:58,363 --> 00:13:00,575
+我们没有在这艘船上的自由吗？
+Do we not have the freedom of this ship?
+
+262
+00:13:01,150 --> 00:13:02,965
+我们准许你的船员
+We have granted your crew the permission
+
+263
+00:13:02,965 --> 00:13:04,399
+不用在我们面前下跪
+not to kneel in our presence.
+
+264
+00:13:04,399 --> 00:13:05,334
+你还想要什么？
+What else do you want?
+
+265
+00:13:06,388 --> 00:13:08,061
+礼貌，记得吗？
+Courtesy. Remember?
+
+266
+00:13:08,807 --> 00:13:10,741
+礼貌不适合低等人
+Courtesy is not for inferiors.
+
+267
+00:13:11,408 --> 00:13:14,020
+礼貌适用于这里的每个人
+Courtesy is for everyone around here,
+
+268
+00:13:14,211 --> 00:13:15,504
+不懂礼貌你会发现你将无法
+and you'll find you won't be able
+
+269
+00:13:15,504 --> 00:13:17,748
+在特洛伊乌斯上生存
+to exist on Troyius without it.
+
+270
+00:13:19,133 --> 00:13:20,567
+斯科特先生，我们的轮机长
+Mr. Scott, our chief engineer,
+
+271
+00:13:20,567 --> 00:13:21,752
+向你展示了他的部门
+has shown you his engineering department.
+
+272
+00:13:21,820 --> 00:13:22,914
+这是一种礼貌
+That's a courtesy.
+
+273
+00:13:22,914 --> 00:13:25,348
+你该说谢谢回应
+You respond by saying thank you.
+
+274
+00:13:30,328 --> 00:13:32,107
+[对讲机哨声]
+[Intercom Whistles]
+
+275
+00:13:32,204 --> 00:13:33,040
+[史波克] 舰桥呼叫舰长
+[Spock] Bridge to Captain.
+
+276
+00:13:37,224 --> 00:13:37,800
+我是柯克
+Kirk here.
+
+277
+00:13:37,800 --> 00:13:40,169
+那个传感器幽灵越来越近了
+That sensor ghost is moving closer.
+
+278
+00:13:41,190 --> 00:13:41,897
+我来了
+On my way.
+
+279
+00:13:44,874 --> 00:13:45,992
+现在失去联系了
+Lost contact now.
+
+280
+00:13:46,188 --> 00:13:47,314
+[开门]
+[Door Opens]
+
+281
+00:13:48,720 --> 00:13:51,078
+舰长，我们对这个物体进行了短暂定位
+Captain, we had a momentary fix on the object,
+
+282
+00:13:51,249 --> 00:13:53,208
+足以确定它是一艘宇宙飞船
+long enough to establish it was a spaceship.
+
+283
+00:13:53,349 --> 00:13:53,860
+谁的？
+Whose?
+
+284
+00:13:54,023 --> 00:13:54,947
+还没有数据
+No data yet.
+
+285
+00:13:55,020 --> 00:13:56,044
+[苏鲁] 舰长！
+[Sulu] Captain!
+
+286
+00:13:56,121 --> 00:13:57,317
+距离方位，长官
+Distant bearing, sir.
+
+287
+00:13:57,317 --> 00:13:59,521
+标记73.5
+Mark 73.5.
+
+288
+00:14:00,249 --> 00:14:01,118
+主屏幕
+Main screen.
+
+289
+00:14:01,335 --> 00:14:02,962
+最大放大倍数
+Extreme magnification.
+
+290
+00:14:14,306 --> 00:14:16,656
+我们的幽灵出现了
+Our ghost has materialized.
+
+291
+00:14:17,275 --> 00:14:19,038
+一艘克林贡军舰
+A Klingon warship.
+
+292
+00:14:33,558 --> 00:14:34,823
+有变化吗，史波克先生？
+Any change, Mr. Spock?
+
+293
+00:14:35,227 --> 00:14:36,246
+没有，舰长
+Negative, Captain.
+
+294
+00:14:36,366 --> 00:14:39,096
+克林贡飞船已进入接触范围
+The Klingon ship has simply moved into contact range.
+
+295
+00:14:39,096 --> 00:14:40,147
+她在根据我们调整
+She is pacing us,
+
+296
+00:14:40,245 --> 00:14:42,387
+精确匹配我们的亚光速
+precisely matching our sub light speed
+
+297
+00:14:42,387 --> 00:14:44,582
+在平行航线上
+and on a parallel course.
+
+298
+00:14:58,750 --> 00:15:00,183
+警卫呼叫柯克舰长
+Security to Captain Kirk.
+
+299
+00:15:00,433 --> 00:15:01,302
+我是柯克，怎么了？
+Kirk here. What is it?
+
+300
+00:15:01,509 --> 00:15:03,084
+多尔曼的住处有骚乱，长官
+Disturbance in the Dohlman's quarters, sir.
+
+301
+00:15:03,084 --> 00:15:03,867
+我来了
+On my way.
+
+302
+00:15:11,326 --> 00:15:12,950
+舰长，是佩特里大使
+Captain, it's Ambassador Petri.
+
+303
+00:15:13,135 --> 00:15:14,862
+他们拒绝解释他们发生了什么
+They refuse to explain what's happening with them.
+
+304
+00:15:17,636 --> 00:15:19,212
+殿下没有召见你
+Her Glory has not summoned you.
+
+305
+00:15:21,606 --> 00:15:24,769
+克莱顿，把那头特洛伊猪弄走
+Kryton, remove that Troyian pig.
+
+306
+00:15:46,885 --> 00:15:49,115
+伤口很深，吉姆
+It was a deep wound, Jim.
+
+307
+00:15:49,187 --> 00:15:52,122
+他失了很多血，但他会康复的
+He lost a lot of blood, but he'll recover.
+
+308
+00:15:52,190 --> 00:15:53,623
+如果我康复了
+If I recover,
+
+309
+00:15:53,692 --> 00:15:56,627
+也不会感谢你，舰长
+it will be no thanks to you, Captain.
+
+310
+00:15:57,206 --> 00:15:59,999
+我说和她谈谈，不是和她打架
+I said talk with her, not fight with her.
+
+311
+00:16:00,671 --> 00:16:02,104
+我就知道不该
+I should've known better
+
+312
+00:16:02,172 --> 00:16:04,106
+手无寸铁地和她谈话
+than to talk to her unarmed,
+
+313
+00:16:04,174 --> 00:16:06,108
+是你强迫我的
+but you forced me.
+
+314
+00:16:06,811 --> 00:16:09,043
+我认为你该对此负责
+I hold you responsible for this.
+
+315
+00:16:09,435 --> 00:16:11,265
+我听说过不情愿的新娘
+Well, I've heard of reluctant brides,
+
+316
+00:16:11,265 --> 00:16:12,353
+但这很荒谬
+but this is ridiculous.
+
+317
+00:16:13,439 --> 00:16:13,744
+柯克舰长
+Captain Kirk.
+
+318
+00:16:14,146 --> 00:16:15,233
+我可以和你谈谈吗，长官？
+May I speak with you, sir?
+
+319
+00:16:15,406 --> 00:16:16,134
+好的，当然
+Yes. Certainly.
+
+320
+00:16:17,362 --> 00:16:19,796
+一条来自星际舰队指挥部的消息
+A message just came from Starfleet Command.
+
+321
+00:16:19,926 --> 00:16:22,129
+属于甲级安全并且加密了
+It was class-A security and scrambled.
+
+322
+00:16:22,129 --> 00:16:23,360
+我把它放入了解码器
+I put it through the decoder.
+
+323
+00:16:23,360 --> 00:16:23,960
+是什么？
+What was it?
+
+324
+00:16:24,207 --> 00:16:25,564
+联邦高级专员
+The Federation high commissioner
+
+325
+00:16:25,633 --> 00:16:28,043
+正在前往特洛伊乌斯参加皇室婚礼
+is on his way to Troyius to attend the royal wedding.
+
+326
+00:16:28,206 --> 00:16:31,490
+大使，如果伊拉希亚女人那么凶狠
+Ambassador, if Elasian women are that vicious,
+
+327
+00:16:31,559 --> 00:16:34,494
+为什么男人对她们如此着迷？
+why are men so overwhelmingly attracted to them?
+
+328
+00:16:34,562 --> 00:16:35,268
+我的意思是
+I mean,
+
+329
+00:16:35,681 --> 00:16:37,579
+她们有什么魔法？
+what magic do they possess?
+
+330
+00:16:37,789 --> 00:16:39,245
+不是魔法
+It's not magic.
+
+331
+00:16:39,860 --> 00:16:41,794
+是生物化学
+It's biochemical.
+
+332
+00:16:41,862 --> 00:16:44,296
+一个男人一旦碰到
+A man whose flesh is once touched
+
+333
+00:16:44,365 --> 00:16:46,217
+伊拉希亚女人的眼泪
+by the tears of a woman of Elas
+
+334
+00:16:46,995 --> 00:16:49,481
+他的心便会永远被奴役
+has his heart enslaved forever.
+
+335
+00:16:50,534 --> 00:16:53,544
+大使，有一个额外的问题
+Ambassador, there's an added complication.
+
+336
+00:16:54,123 --> 00:16:55,556
+联邦高级专员
+The Federation high commissioner
+
+337
+00:16:55,625 --> 00:16:56,923
+将要参加婚礼
+will be attending the wedding.
+
+338
+00:16:57,627 --> 00:16:59,129
+当他知道新娘试图
+The fat will be in the fire
+
+339
+00:16:59,129 --> 00:17:01,150
+谋杀新郎的大使时
+when he learns the bride Just tried to murder
+
+340
+00:17:01,150 --> 00:17:02,583
+会火上浇油
+the groom's ambassador.
+
+341
+00:17:02,912 --> 00:17:04,846
+不会有婚礼
+There will be no wedding.
+
+342
+00:17:05,583 --> 00:17:08,281
+我不会让我们的统治者娶那个怪物
+I would not have our ruler marry that monster
+
+343
+00:17:08,351 --> 00:17:11,286
+哪怕整个银河系都指望它
+if the entire galaxy depended on it,
+
+344
+00:17:13,025 --> 00:17:15,525
+我也不会与你打交道了
+and I will have nothing further to do with you.
+
+345
+00:17:15,525 --> 00:17:17,701
+我不是要你和我打交道
+I'm not asking you to have anything to do with me.
+
+346
+00:17:17,701 --> 00:17:18,752
+和她一起做你的工作
+Do your job with her.
+
+347
+00:17:18,752 --> 00:17:20,241
+他什么时候能站起来？
+How long before he's on his feet?
+
+348
+00:17:20,371 --> 00:17:22,675
+几天，至少一周，吉姆
+A few days. A week, at least, Jim.
+
+349
+00:17:24,157 --> 00:17:26,152
+你害我这样，舰长
+Here you put me, Captain.
+
+350
+00:17:27,160 --> 00:17:28,593
+那我就留在这里
+Here I will stay.
+
+351
+00:17:29,336 --> 00:17:31,607
+我没有什么要对你说的了
+I have nothing further to say to you.
+
+352
+00:17:37,671 --> 00:17:38,539
+所以……
+So ...
+
+353
+00:17:39,158 --> 00:17:41,710
+佩特里大使要康复了
+Ambassador Petri is going to recover?
+
+354
+00:17:42,494 --> 00:17:45,088
+那太糟糕了
+That is too bad.
+
+355
+00:17:45,345 --> 00:17:47,534
+消息送到， 你可以走了
+You have delivered your message. Now you may go.
+
+356
+00:17:47,775 --> 00:17:50,111
+没有什么比这更让我高兴了，殿下
+Nothing would please me more, Your Glory,
+
+357
+00:17:50,850 --> 00:17:52,566
+但你鲁莽的性格…
+but your impetuous nature ...
+
+358
+00:17:52,675 --> 00:17:55,109
+你的特洛伊猪猡在我的住所
+Your Troyian pig was in my quarters
+
+359
+00:17:55,109 --> 00:17:56,424
+未经任何许可
+without any permission,
+
+360
+00:17:56,580 --> 00:17:57,695
+于是我捅了他一刀
+so I stabbed him.
+
+361
+00:17:58,081 --> 00:17:59,401
+身为特洛伊人就是原罪
+Just to be Troyian is enough.
+
+362
+00:18:00,292 --> 00:18:05,801
+你们伊拉希亚人 以自己是一个战士而自豪
+You Elasians pride yourselves on being a warrior people.
+
+363
+00:18:05,801 --> 00:18:07,278
+你必须了解纪律
+You must understand discipline,
+
+364
+00:18:07,702 --> 00:18:09,448
+才能下达和接收命令
+to be able to give and take orders.
+
+365
+00:18:09,526 --> 00:18:12,820
+我的命令是带你
+My orders are to take you to Troyius
+
+366
+00:18:12,890 --> 00:18:14,289
+去特洛伊乌斯结婚
+to be married
+
+367
+00:18:14,359 --> 00:18:16,827
+并监督你学习特洛伊的习俗
+and to see that you learn Troyian customs.
+
+368
+00:18:16,894 --> 00:18:18,655
+我鄙视特洛伊人
+I despise Troyians.
+
+369
+00:18:18,905 --> 00:18:21,067
+和他们接触让我觉得被玷污
+Any contact with them makes me feel soiled.
+
+370
+00:18:21,257 --> 00:18:22,265
+根据我的经验
+It's been my experience
+
+371
+00:18:22,333 --> 00:18:25,097
+当人们相互了解时
+that the prejudices people feel about each other
+
+372
+00:18:25,467 --> 00:18:27,684
+他们对彼此的偏见就会消失
+disappear when they get to know each other.
+
+373
+00:18:28,390 --> 00:18:30,538
+我不这么认为
+It's not my experience.
+
+374
+00:18:34,106 --> 00:18:36,680
+我们仍然面临着同样的问题
+Well, we're still faced with the same problem.
+
+375
+00:18:37,398 --> 00:18:38,604
+问题？
+Problem?
+
+376
+00:18:39,050 --> 00:18:41,418
+是的，你学习特洛伊习俗
+Yes, the problem of your indoctrination
+
+377
+00:18:41,418 --> 00:18:43,265
+和礼仪的问题
+to Troyian customs and manners.
+
+378
+00:18:44,115 --> 00:18:46,049
+我已经解决了这个问题
+I have eliminated that problem.
+
+379
+00:18:46,117 --> 00:18:47,514
+你解决了老师
+You have eliminated the teacher.
+
+380
+00:18:47,514 --> 00:18:48,720
+问题还在
+The problem still remains.
+
+381
+00:18:50,055 --> 00:18:51,121
+哦
+Oh.
+
+382
+00:18:52,164 --> 00:18:54,522
+那我们如何解决这个问题？
+And how do we solve the problem?
+
+383
+00:18:55,402 --> 00:18:57,165
+给你……
+By ...
+
+384
+00:18:57,395 --> 00:19:00,387
+找一个新老师
+giving you a new teacher.
+
+385
+00:19:03,401 --> 00:19:05,062
+告诉我， 你能教我什么？
+Tell me, what can you teach me?
+
+386
+00:19:05,692 --> 00:19:07,170
+餐桌礼仪，比如
+Table manners, for one thing.
+
+387
+00:19:07,494 --> 00:19:08,300
+这是一个盘子
+This is a plate.
+
+388
+00:19:09,462 --> 00:19:11,396
+它能盛食物
+It contains food.
+
+389
+00:19:11,464 --> 00:19:12,602
+这是一把刀
+This is a knife.
+
+390
+00:19:12,744 --> 00:19:14,399
+它能切食物
+It cuts the food.
+
+391
+00:19:14,467 --> 00:19:15,569
+这是一个玻璃杯
+- This is a glass.
+
+392
+00:19:15,569 --> 00:19:16,721
+ 别烦我！
+- Leave me!
+
+393
+00:19:16,849 --> 00:19:19,687
+不管你喜不喜欢，你都要学
+Like it or not, you're going to learn what you've been ordered!
+
+394
+00:19:25,634 --> 00:19:27,966
+立即送我回伊拉斯
+You will return me to Elas immediately.
+
+395
+00:19:28,037 --> 00:19:28,727
+那不可能
+That's impossible.
+
+396
+00:19:28,955 --> 00:19:31,335
+我命令一切都是可能的
+Everything I order is possible.
+
+397
+00:19:31,540 --> 00:19:33,497
+这是我们要解决的第一个问题
+That's the first problem we'll work on.
+
+398
+00:19:33,497 --> 00:19:34,931
+然后我们让你准备去特洛伊乌斯
+Then we'll get you ready to go to Troyius.
+
+399
+00:19:35,145 --> 00:19:36,908
+我不要去特洛伊乌斯
+I will not go to Troyius,
+
+400
+00:19:36,980 --> 00:19:38,572
+我不要嫁给一个特洛伊人
+I will not be mated to a Troyian,
+
+401
+00:19:38,648 --> 00:19:40,582
+而且我不会被羞辱
+and I will not be humiliated,
+
+402
+00:19:40,650 --> 00:19:42,678
+被送给一只绿猪
+and I will not be given to a green pig
+
+403
+00:19:42,678 --> 00:19:45,036
+作为停战的贿赂
+as a bribe to stop a war!
+
+404
+00:19:50,958 --> 00:19:53,595
+你享受成为多尔曼的特权
+You enjoy the privileges and prerogatives of being a Dohlman.
+
+405
+00:19:53,903 --> 00:19:55,489
+就得尽你的义务
+Then be worthy of them.
+
+406
+00:19:57,510 --> 00:19:59,672
+如果你不想尽
+If you don't want the obligations
+
+407
+00:19:59,672 --> 00:20:00,853
+头衔带来的义务
+that go along with the title,
+
+408
+00:20:00,926 --> 00:20:02,359
+那就放弃它
+then give it up.
+
+409
+00:20:02,427 --> 00:20:04,224
+没人敢这样跟我说话
+Nobody speaks to me that way.
+
+410
+00:20:04,296 --> 00:20:05,996
+那是你的另一个问题
+That's another one of your problems.
+
+411
+00:20:06,355 --> 00:20:08,821
+没人告诉你 你是一个未开化野蛮人，
+Nobody's told you that you're an uncivilized savage,
+
+412
+00:20:09,049 --> 00:20:11,059
+一个女人外表的恶毒孩童
+a vicious child in a woman's body,
+
+413
+00:20:11,059 --> 00:20:11,972
+一个傲慢的怪物
+an arrogant monster!
+
+414
+00:20:16,975 --> 00:20:18,875
+你不该这么对待
+That's no way to treat someone
+
+415
+00:20:18,944 --> 00:20:20,111
+对你说实话的人
+who's telling you the truth.
+
+416
+00:20:31,346 --> 00:20:33,556
+明天的课是关于礼貌的
+Tomorrow's lesson will be on courtesy.
+
+417
+00:20:49,483 --> 00:20:52,213
+上尉，开启呼叫频率
+Lieutenant, open up the hailing frequency,
+
+418
+00:20:52,286 --> 00:20:53,218
+表明身份
+Identify us,
+
+419
+00:20:53,218 --> 00:20:55,652
+并询问克林贡人的意图
+and ask the Klingon his intentions.
+
+420
+00:20:55,652 --> 00:20:56,354
+是的，长官
+Aye, sir.
+
+421
+00:21:45,985 --> 00:21:48,010
+舰长，克林贡船只
+Captain, no response from the Klingon vessel
+
+422
+00:21:48,088 --> 00:21:49,453
+在任何频道上都没有回应
+on any channel.
+
+423
+00:21:49,522 --> 00:21:50,853
+我知道了，好的，上尉
+I see. All right, Lieutenant.
+
+424
+00:21:50,924 --> 00:21:52,255
+监听所有频率
+Monitor all frequencies.
+
+425
+00:21:53,349 --> 00:21:54,543
+相位炮待命
+Phaser crews stand by.
+
+426
+00:21:54,617 --> 00:21:55,587
+保持黄色警报
+Maintain yellow alert.
+
+427
+00:21:57,108 --> 00:21:57,988
+你在做什么？
+What are you doing?
+
+428
+00:21:59,389 --> 00:22:01,584
+啊！
+Aah!
+
+429
+00:22:36,746 --> 00:22:38,601
+任何人不得进入多尔曼的住处
+No one may enter the Dohlman's presence.
+
+430
+00:22:38,670 --> 00:22:39,602
+克莱顿在哪里？
+Where's Kryton?
+
+431
+00:22:39,671 --> 00:22:40,638
+他在忙
+On business.
+
+432
+00:22:40,705 --> 00:22:42,209
+任何人不得进入多尔曼的住处
+No one may enter the Dohlman's presence.
+
+433
+00:22:42,335 --> 00:22:43,768
+能不能告诉殿下
+Will you tell Her Glory
+
+434
+00:22:43,837 --> 00:22:46,271
+柯克舰长请求拜访？
+Captain Kirk requests the honour of a visit?
+
+435
+00:22:46,883 --> 00:22:48,828
+多尔曼承诺我会被鞭打至死
+The Dohlman has promised I'll be whipped to death
+
+436
+00:22:48,993 --> 00:22:50,762
+如果我让柯克舰长走过那扇门
+if I let Captain Kirk pass through that door.
+
+437
+00:23:00,127 --> 00:23:00,911
+谢谢，史波克先生
+Thank you, Mr. Spock.
+
+438
+00:23:00,911 --> 00:23:02,628
+他们醒了，把他们带去警卫室
+When they wake up, take them to Security Holding.
+
+439
+00:23:02,694 --> 00:23:05,898
+舰长，你对情况的分析很完美
+Captain, your analysis of the situation was flawless,
+
+440
+00:23:05,898 --> 00:23:08,234
+预料到她会不让你进去
+anticipating that she would deny you admittance.
+
+441
+00:23:08,452 --> 00:23:12,548
+但是你得出结论的逻辑让我无法理解
+However, the logic by which you arrived at your conclusion escapes me.
+
+442
+00:23:12,758 --> 00:23:15,352
+史波克先生，你们星球上的女人是合乎逻辑的
+Mr. Spock, the women on your planet are logical.
+
+443
+00:23:15,677 --> 00:23:17,226
+那是银河系唯一
+That is the only planet in this galaxy
+
+444
+00:23:17,226 --> 00:23:18,763
+可以做到这一点的行星
+that can make that claim.
+
+445
+00:23:19,765 --> 00:23:20,697
+[开门]
+[Door Opens]
+
+446
+00:23:24,326 --> 00:23:27,261
+你竟然敢碰皇室成员
+You dare touch a member of the royal family.
+
+447
+00:23:27,477 --> 00:23:29,705
+只是自卫
+Only in self-defense.
+
+448
+00:23:30,943 --> 00:23:33,638
+现在你还要不要动手动脚？
+Now, are you going to behave or not?
+
+449
+00:23:35,309 --> 00:23:37,745
+你现在的行为是死罪
+The penalty is death for what you are doing.
+
+450
+00:23:38,799 --> 00:23:39,810
+我们不在伊拉斯
+We're not on Elas.
+
+451
+00:23:40,157 --> 00:23:41,342
+我们在我的星舰上
+We're on my star ship.
+
+452
+00:23:41,342 --> 00:23:42,331
+这里我说了算
+I command here.
+
+453
+00:23:49,767 --> 00:23:52,565
+我警告你，舰长，不许再碰我
+You are warned, Captain, never to touch me again.
+
+454
+00:23:52,637 --> 00:23:54,571
+如果我再碰你，殿下
+If I touch you again, Your Glory,
+
+455
+00:23:54,639 --> 00:23:57,199
+那就是在执行一种古老的地球习俗，打屁股
+it'll be to administer an ancient Earth custom called a spanking,
+
+456
+00:23:57,275 --> 00:23:58,585
+一种惩罚
+a form of punishment
+
+457
+00:23:58,716 --> 00:24:00,478
+被宠坏的孩子的方式
+administered to spoiled brats.
+
+458
+00:24:01,052 --> 00:24:02,946
+你可以走了
+You have my leave to go.
+
+459
+00:24:03,014 --> 00:24:04,447
+你忘了，殿下
+You forget, Your Glory,
+
+460
+00:24:04,515 --> 00:24:07,416
+我们还没开始上礼仪课
+we haven't started your lesson in courtesy.
+
+461
+00:24:07,485 --> 00:24:09,350
+你什么都教不了我，舰长
+You can teach me nothing, Captain.
+
+462
+00:24:09,516 --> 00:24:12,237
+哪怕要在这里呆上十光年
+If I have to stay here for 10 light-years,
+
+463
+00:24:12,423 --> 00:24:14,862
+我也不要和你接触而玷污我
+I will not be soiled by any contact with you.
+
+464
+00:24:15,192 --> 00:24:17,956
+很好，那我派史波克先生或麦考伊医生来
+Very well. I'll send in Mr. Spock or Dr. McCoy.
+
+465
+00:24:18,029 --> 00:24:20,034
+无论怎样，你都要为特洛伊乌斯做好充分的准备
+Either way, you'll be properly prepared for Troyius
+
+466
+00:24:20,415 --> 00:24:23,543
+按照议会，统治者和官僚的命令
+as ordered by councils, rulers, and bureaucrats.
+
+467
+00:24:25,293 --> 00:24:26,465
+舰长
+Captain ...
+
+468
+00:24:27,847 --> 00:24:29,631
+你可以教我一件事
+there is one thing you can teach me.
+
+469
+00:24:29,707 --> 00:24:31,054
+不，你一开始就是对的
+No, you were right the first time.
+
+470
+00:24:31,054 --> 00:24:32,399
+我没有东西可以教你
+There's nothing I can teach you,
+
+471
+00:24:32,399 --> 00:24:33,497
+没有事情是你不知道的
+there is nothing you do not know.
+
+472
+00:24:33,743 --> 00:24:36,371
+我不知道如何让人们喜欢我
+I don't know how to make people like me.
+
+473
+00:24:40,798 --> 00:24:43,167
+我不想让每个人都讨厌我
+I don't want everybody to hate me.
+
+474
+00:24:45,062 --> 00:24:46,495
+嗯，不是…
+Well, it's not ...
+
+475
+00:24:46,563 --> 00:24:48,497
+不是人们讨厌你
+it's not that people hate you.
+
+476
+00:24:49,393 --> 00:24:51,664
+只是人们不喜欢被当作
+It's just that people don't like to be treated
+
+477
+00:24:51,664 --> 00:24:53,174
+好像他们不存在
+as though they don't exist.
+
+478
+00:24:55,652 --> 00:24:57,449
+哦……
+Ohh ...
+
+479
+00:25:08,303 --> 00:25:09,266
+它，呃…
+It's, uh ...
+
+480
+00:25:09,831 --> 00:25:11,157
+变得非常，呃…
+gotten very, uh ...
+
+481
+00:25:12,874 --> 00:25:15,264
+一定是通风系统出了问题
+Something must've gone wrong with the ventilation system.
+
+482
+00:25:16,244 --> 00:25:16,992
+舰长……
+Captain ...
+
+483
+00:25:17,111 --> 00:25:19,198
+对不起，殿下
+Pardon me, Your Glory.
+
+484
+00:25:19,969 --> 00:25:21,392
+短暂休息一下
+There will be a short recess.
+
+485
+00:25:21,664 --> 00:25:22,995
+舰长？
+Captain.
+
+486
+00:25:46,264 --> 00:25:47,207
+舰长
+Captain,
+
+487
+00:25:47,275 --> 00:25:51,041
+那个叫做打屁股的古老习俗……
+that ancient Earth custom called spanking ...
+
+488
+00:25:51,112 --> 00:25:51,896
+是什么？
+what is it?
+
+489
+00:25:53,087 --> 00:25:54,391
+它是，呃…
+It's, um ...
+
+490
+00:25:57,933 --> 00:25:59,423
+它是，呃…
+It's, uh ...
+
+491
+00:26:00,606 --> 00:26:02,836
+我们稍后再谈
+We'll talk about it later.
+
+492
+00:26:18,567 --> 00:26:19,761
+舰桥呼叫柯克舰长
+Bridge to Captain Kirk.
+
+493
+00:26:20,126 --> 00:26:20,936
+史波克先生…
+Mr. Spock ...
+
+494
+00:26:20,936 --> 00:26:22,696
+传感器捕捉到它了，上尉
+I have it on my sensor, Lieutenant.
+
+495
+00:26:23,015 --> 00:26:24,448
+舰桥呼叫柯克舰长
+Bridge to Captain Kirk.
+
+496
+00:26:25,825 --> 00:26:26,760
+请回答
+Come in, please.
+
+497
+00:26:26,760 --> 00:26:30,324
+柯克舰长，请回答
+Captain Kirk, please answer.
+
+498
+00:26:30,394 --> 00:26:31,452
+我是柯克
+Kirk here.
+
+499
+00:26:31,528 --> 00:26:33,826
+哦，舰长，我正在企业号内部
+Oh, Captain, I'm picking up transmission
+
+500
+00:26:33,897 --> 00:26:35,583
+捕捉到了信号传输
+from inside the Enterprise.
+
+501
+00:26:36,007 --> 00:26:38,492
+它位于瞄准克林贡船只的密集光束上
+It's on a tight beam aimed at the Klingon vessel.
+
+502
+00:26:40,146 --> 00:26:42,137
+在企业号内部？
+Inside the Enterprise?
+
+503
+00:26:44,069 --> 00:26:45,627
+你能精确定位吗？
+Can you pinpoint it?
+
+504
+00:26:45,883 --> 00:26:47,068
+我是史波克，舰长
+Spock here, Captain.
+
+505
+00:26:47,263 --> 00:26:49,094
+我正在进行三角测量
+I'm triangulating now.
+
+506
+00:26:51,360 --> 00:26:54,389
+它来自轮机部
+It's coming from the engineering section.
+
+507
+00:26:58,522 --> 00:27:00,114
+警卫去轮机部
+Security to Engineering.
+
+508
+00:27:00,190 --> 00:27:01,350
+入侵警报
+Intruder alert.
+
+509
+00:27:03,877 --> 00:27:05,376
+所有甲板安全警报
+Security alert to all decks.
+
+510
+00:27:05,629 --> 00:27:06,561
+通话完毕
+Kirk out.
+
+511
+00:27:28,487 --> 00:27:29,270
+没有人看到他
+Nobody saw him,
+
+512
+00:27:29,270 --> 00:27:31,231
+但那个家伙不知怎地偷偷溜进了这里
+but that devil sneaked in here some way.
+
+513
+00:27:31,769 --> 00:27:33,812
+沃森因抓住他而被杀
+Watson must've caught him and was killed.
+
+514
+00:27:33,983 --> 00:27:34,950
+他有这个
+He had this.
+
+515
+00:27:35,017 --> 00:27:36,917
+看起来像某种发射器
+Looks like some sort of transmitter.
+
+516
+00:27:37,883 --> 00:27:39,201
+是克林贡人，老骨头？
+It's Klingon. Bones?
+
+517
+00:27:39,201 --> 00:27:40,133
+舰长
+Captain.
+
+518
+00:27:40,624 --> 00:27:42,057
+脖子断得很干脆
+Neck snapped clean.
+
+519
+00:27:43,982 --> 00:27:45,744
+你给克林贡飞船发了什么信号？
+What kind of signal did you send the Klingon ship?
+
+520
+00:27:46,025 --> 00:27:48,209
+舰长，你知道我不会告诉你的
+Captain, you must know I will tell you nothing.
+
+521
+00:27:49,002 --> 00:27:52,829
+我们的审讯技巧比你所能忍受的更令人痛苦
+Our interrogation techniques are more excruciating than you're capable of.
+
+522
+00:27:52,898 --> 00:27:55,825
+是的，我知道你可以抵抗身体上的折磨
+Yes, I'm aware you're trained to resist any form of physical torture.
+
+523
+00:27:58,183 --> 00:27:58,926
+柯克呼叫史波克
+Kirk to Spock.
+
+524
+00:27:58,994 --> 00:27:59,911
+我是史波克，舰长
+Spock here, Captain.
+
+525
+00:28:00,139 --> 00:28:02,573
+史波克先生，是克莱顿在发射信号
+Mr. Spock, it was Kryton transmitting.
+
+526
+00:28:02,998 --> 00:28:04,246
+他不肯开口
+He refuses to talk.
+
+527
+00:28:04,431 --> 00:28:06,039
+我需要你来进行瓦肯心灵融合
+I'll need you for the Vulcan mind meld.
+
+528
+00:28:14,047 --> 00:28:15,621
+舰长，对不起，他似乎…
+Captain, I'm sorry. He seemed --
+
+529
+00:28:15,689 --> 00:28:17,383
+他想掩盖什么？
+What was he trying to cover
+
+530
+00:28:17,502 --> 00:28:20,045
+重要到可以为其付出生命
+that was so important he had to die for it?
+
+531
+00:28:20,073 --> 00:28:22,007
+斯科提，他进入轮机部
+Scotty, he didn't come into Engineering
+
+532
+00:28:22,075 --> 00:28:23,283
+不仅仅为了使用发射器
+Just to use the transmitter.
+
+533
+00:28:23,837 --> 00:28:25,967
+我要你检查你的每个继电器
+I want you to heck every relay you've got.
+
+534
+00:28:26,456 --> 00:28:28,184
+舰长，你必须意识到时间…
+Captain, you must realize the time ...
+
+535
+00:28:28,252 --> 00:28:30,527
+不要浪费时间和我说这个，快去做
+Don't waste the time telling me about it. Get to it.
+
+536
+00:28:32,366 --> 00:28:32,997
+是的
+Aye.
+
+537
+00:28:33,160 --> 00:28:35,029
+克莱顿出身于一个贵族家庭
+Kryton was of a noble family.
+
+538
+00:28:36,159 --> 00:28:38,429
+他爱我，想娶我
+He loved me and wanted to marry me.
+
+539
+00:28:39,234 --> 00:28:42,634
+当他听说婚礼计划的公告时，他非常生气
+He was furious when he heard of the announcement of the wedding plans.
+
+540
+00:28:42,776 --> 00:28:46,212
+他因为嫉妒而投靠克林贡人？
+He sold out to the Klingons because of jealousy?
+
+541
+00:28:46,427 --> 00:28:47,687
+也许吧
+Probably.
+
+542
+00:28:48,772 --> 00:28:51,707
+但为什么要谈不重要的事情呢？
+But why speak of unimportant matters
+
+543
+00:28:52,185 --> 00:28:54,335
+我们来说说我们的事
+when we can speak about us?
+
+544
+00:28:56,662 --> 00:28:58,900
+外面有一艘克林贡军舰
+There's a Klingon warship out there.
+
+545
+00:28:59,378 --> 00:29:00,411
+他们来干什么？
+What's their involvement?
+
+546
+00:29:00,411 --> 00:29:01,856
+当然，这一切并不是因为
+Surely all of this isn't because
+
+547
+00:29:02,453 --> 00:29:04,887
+他们想终止婚礼
+they want to stop a marriage.
+
+548
+00:29:05,604 --> 00:29:07,473
+我们应该感谢他们的帮助
+We should welcome their help.
+
+549
+00:29:10,755 --> 00:29:11,667
+伊兰
+Elaan.
+
+550
+00:29:13,645 --> 00:29:16,666
+伊兰，两颗行星
+Elaan, two planets,
+
+551
+00:29:17,024 --> 00:29:20,718
+和整个恒星系统的稳定都指望它
+an entire star system's stability depends on it.
+
+552
+00:29:21,436 --> 00:29:26,972
+我们有责任忘记发生的事情
+We have a duty to forget what happened.
+
+553
+00:29:27,044 --> 00:29:28,671
+你能做到吗？
+Could you do that?
+
+554
+00:29:29,302 --> 00:29:30,910
+你能把我给另一个男人吗？
+Could you give me to another man?
+
+555
+00:29:31,749 --> 00:29:33,312
+你我收到的命令
+My orders and yours
+
+556
+00:29:34,061 --> 00:29:36,908
+都说你属于另一个男人
+say that you belong to another man.
+
+557
+00:29:39,114 --> 00:29:40,450
+发生的事情…
+What happened ...
+
+558
+00:29:43,341 --> 00:29:44,297
+发生的事情…
+What happened ...
+
+559
+00:29:47,031 --> 00:29:47,882
+是个意外
+was an accident.
+
+560
+00:29:49,933 --> 00:29:51,366
+不是意外
+It was no accident.
+
+561
+00:29:52,261 --> 00:29:55,173
+我选择了你，你也选择了我
+I chose you, and you chose me.
+
+562
+00:30:00,144 --> 00:30:01,486
+我有个计划
+I have a plan.
+
+563
+00:30:03,627 --> 00:30:07,940
+有了这艘船，你可以彻底消灭特洛伊乌斯
+With this ship, you could completely obliterate Troyius.
+
+564
+00:30:11,889 --> 00:30:16,187
+然后就没有结婚的必要了
+Then there will be no need for the marriage.
+
+565
+00:30:20,675 --> 00:30:22,229
+出于感激
+And in gratitude,
+
+566
+00:30:23,174 --> 00:30:27,611
+我的人民会让你统治整个星系
+my people will give you the complete rule of this system.
+
+567
+00:30:27,879 --> 00:30:30,150
+什么样的头脑会想到这样的事情？
+What kind of a mind could think of such a thing?
+
+568
+00:30:31,725 --> 00:30:33,283
+他是特洛伊人
+He's a Troyian.
+
+569
+00:30:37,734 --> 00:30:39,361
+[对讲机蜂鸣]
+[Intercom Buzzes]
+
+570
+00:30:39,907 --> 00:30:42,445
+[蜂鸣]
+[Buzz]
+
+571
+00:30:42,519 --> 00:30:43,781
+[史波克] 舰长？
+[Spock] Captain?
+
+572
+00:30:45,155 --> 00:30:47,057
+你无法抗拒我的爱，亲爱的
+You cannot resist my love, my love.
+
+573
+00:30:48,325 --> 00:30:49,099
+舰长？
+Captain?
+
+574
+00:30:49,827 --> 00:30:51,124
+[开门]
+[Door Opens]
+
+575
+00:31:04,441 --> 00:31:06,238
+我们可以见你一会儿吗？
+May we see you a moment?
+
+576
+00:31:10,280 --> 00:31:11,222
+吉姆
+Jim.
+
+577
+00:31:13,004 --> 00:31:16,911
+吉姆，我们可以和你说句话吗？
+Jim, may we please have a word with you?
+
+578
+00:31:32,169 --> 00:31:35,434
+舰长，你没事吧？
+Captain, are you all right?
+
+579
+00:31:36,640 --> 00:31:37,732
+她哭了吗，吉姆？
+Did she cry, Jim?
+
+580
+00:31:37,808 --> 00:31:38,353
+什么？
+What?
+
+581
+00:31:38,546 --> 00:31:39,299
+她哭了吗？
+Did she cry?
+
+582
+00:31:39,299 --> 00:31:40,972
+她的眼泪有没有碰到你？
+Did her tears touch you at any time?
+
+583
+00:31:48,947 --> 00:31:49,822
+噢，我们有麻烦了
+Oh, we're in trouble.
+
+584
+00:31:50,739 --> 00:31:52,894
+吉姆，佩特里告诉克莉丝汀
+Now listen, Jim, Petri told Christine
+
+585
+00:31:53,098 --> 00:31:56,151
+伊拉希亚女人的眼泪里有一种生化物质
+the Elasian women have a biochemical substance in their tears
+
+586
+00:31:56,151 --> 00:31:57,714
+就像超级爱情药水一样
+that acts like a super love potion.
+
+587
+00:31:58,433 --> 00:32:02,025
+根据佩特里的说法，它不会消失
+According to him, it doesn't wear off.
+
+588
+00:32:02,670 --> 00:32:04,401
+那么是真的吗，舰长？
+It is true then, Captain?
+
+589
+00:32:05,017 --> 00:32:06,997
+这是真的
+It's true.
+
+590
+00:32:07,853 --> 00:32:09,941
+老骨头，你得给我找个解药
+Bones, you've got to find me an antidote.
+
+591
+00:32:10,011 --> 00:32:11,504
+我会试试，我需要测试
+I'll try. I'll need tests.
+
+592
+00:32:11,504 --> 00:32:12,436
+[对讲机哨声]
+[Intercom Whistles]
+
+593
+00:32:12,710 --> 00:32:13,802
+[苏鲁] 舰桥呼叫舰长
+[Sulu] Bridge to Captain.
+
+594
+00:32:20,273 --> 00:32:21,331
+我是舰长
+Captain here.
+
+595
+00:32:21,544 --> 00:32:24,097
+舰长，克林贡飞船改变了航向
+Captain, the Klingon ship has changed course.
+
+596
+00:32:24,169 --> 00:32:26,032
+它正以曲速向我们飞来
+It is heading toward us at warp speed.
+
+597
+00:32:27,172 --> 00:32:28,867
+我来了
+On my way.
+
+598
+00:32:28,940 --> 00:32:29,872
+进入战斗岗位
+Battle stations.
+
+599
+00:32:29,941 --> 00:32:31,841
+[警报声]
+[Alarm Sounds]
+
+600
+00:32:42,993 --> 00:32:44,324
+[开门]
+[Door Opens]
+
+601
+00:32:48,360 --> 00:32:49,697
+相位炮待命
+Phasers stand by.
+
+602
+00:32:50,462 --> 00:32:51,486
+相位炮准备好了，长官
+Phasers ready, sir.
+
+603
+00:32:55,782 --> 00:32:57,958
+他们的速度超过曲速6，舰长
+Their speed is better than warp 6, Captain.
+
+604
+00:33:00,605 --> 00:33:03,935
+契科夫先生，设定航线
+Mr. Chekov, lay in a course
+
+605
+00:33:03,935 --> 00:33:05,506
+把我们带出这个星系
+to take us out of this star system.
+
+606
+00:33:08,244 --> 00:33:09,396
+如果他们想打一架
+If they want to fight,
+
+607
+00:33:09,396 --> 00:33:10,733
+让我们有一些回旋余地
+Let's get some maneuvering room.
+
+608
+00:33:11,298 --> 00:33:12,731
+航线已计算，长官
+Course computed, sir.
+
+609
+00:33:13,482 --> 00:33:14,178
+已设定，舰长
+Laid in, Captain.
+
+610
+00:33:14,362 --> 00:33:16,489
+好的，前进，曲速2
+All right. Ahead warp factor 2.
+
+611
+00:33:16,489 --> 00:33:17,784
+[斯科提] 舰长，物质-反物质…
+[Scotty] Captain, the matter- antimatter ...
+
+612
+00:33:18,656 --> 00:33:20,088
+搁置该命令，什么，斯科提？
+Belay that order. What, Scotty?
+
+613
+00:33:20,759 --> 00:33:22,978
+物质-反物质舱被设置为
+The antimatter pods are rigged to blow up
+
+614
+00:33:22,978 --> 00:33:25,742
+在我们进入曲速驱动时爆炸
+the moment we go into warp drive.
+
+615
+00:33:41,700 --> 00:33:43,272
+斯科提，那个炸弹……你能拆除吗？
+Scotty, that bomb ... can you dismantle it?
+
+616
+00:33:43,342 --> 00:33:46,607
+不能，会被被炸飞
+Not without being blown across the galaxy.
+
+617
+00:33:48,317 --> 00:33:49,784
+给我脉冲引擎的
+Give us every ounce of power you can
+
+618
+00:33:49,784 --> 00:33:51,046
+所有动力
+from the impulse drive.
+
+619
+00:33:51,437 --> 00:33:53,304
+找到炸弹的解决方案，通话完毕
+Find a solution to the bomb. Kirk out.
+
+620
+00:33:54,440 --> 00:33:57,292
+苏鲁先生，操控敏捷一点
+Mr. Sulu, stand by to make your maneuvers smartly.
+
+621
+00:33:57,292 --> 00:33:58,520
+她反应有些迟钝
+She'll be sluggish on response.
+
+622
+00:33:58,520 --> 00:33:59,259
+是的，长官
+Aye, sir.
+
+623
+00:33:59,710 --> 00:34:01,258
+10万公里…
+100,000 kilometres.
+
+624
+00:34:01,845 --> 00:34:02,703
+90…
+90.
+
+625
+00:34:04,463 --> 00:34:05,550
+80…
+80.
+
+626
+00:34:10,906 --> 00:34:13,187
+相位炮，听我的命令准备发射
+Phaser crews, stand by to fire on command.
+
+627
+00:34:13,257 --> 00:34:14,451
+60
+60.
+
+628
+00:34:15,481 --> 00:34:16,458
+准备
+Ready.
+
+629
+00:34:16,991 --> 00:34:17,676
+50
+50.
+
+630
+00:34:21,098 --> 00:34:22,087
+先别开火
+Hold your fire.
+
+631
+00:34:26,173 --> 00:34:27,922
+她没有发射就从我们身边经过了
+She's passed us without firing a shot.
+
+632
+00:34:28,302 --> 00:34:30,204
+我认为他们不打算攻击我们
+I don't think they meant to attack us.
+
+633
+00:34:35,191 --> 00:34:37,873
+这次，我们很幸运
+We were very fortunate this time.
+
+634
+00:34:43,797 --> 00:34:46,732
+是的，他们的战术现在很清楚了，史波克先生
+Yes, their tactics are quite clear now, Mr. Spock.
+
+635
+00:34:46,800 --> 00:34:48,632
+他们想让我们切到曲速引擎
+They were trying to make us cut in warp drive.
+
+636
+00:34:49,000 --> 00:34:50,805
+然后我们会炸毁自己
+That way we'd have blown ourselves up
+
+637
+00:34:50,951 --> 00:34:52,544
+并帮他们解决他们的问题
+and solved their problem for them
+
+638
+00:34:52,544 --> 00:34:53,978
+避免和联邦开战的风险
+without risking war with the Federation.
+
+639
+00:34:53,978 --> 00:34:54,673
+非常利索
+Very neat.
+
+640
+00:34:54,793 --> 00:34:57,531
+你是对的，但为什么克林贡人
+You're right. But why do the Klingons
+
+641
+00:34:57,531 --> 00:34:59,988
+认为占有这个星系这么重要？
+consider the possession of this system so vital?
+
+642
+00:35:00,791 --> 00:35:03,203
+是的，很好的问题，史波克先生
+Yes, a very good question, Mr. Spock.
+
+643
+00:35:06,400 --> 00:35:08,334
+我还有个问题，舰长
+I have another question, Captain.
+
+644
+00:35:08,402 --> 00:35:11,098
+多尔曼不应该远离舰桥吗？
+Is not the bridge the wrong place for the Dohlman
+
+645
+00:35:11,172 --> 00:35:12,935
+在这种时候
+at a time like this?
+
+646
+00:35:13,007 --> 00:35:14,099
+我自有判断……
+I'll be the judge ...
+
+647
+00:35:19,480 --> 00:35:20,640
+是的，你…
+Yes, you're ...
+
+648
+00:35:21,716 --> 00:35:22,876
+你说得很对
+you're quite right.
+
+649
+00:35:25,586 --> 00:35:27,112
+谢谢，史波克先生
+Thank you, Mr. Spock.
+
+650
+00:35:37,256 --> 00:35:38,733
+我要你去医务室
+I want you to go to Sick Bay.
+
+651
+00:35:39,744 --> 00:35:41,385
+它是船上最安全的地方
+It's the best protected part of the ship.
+
+652
+00:35:44,047 --> 00:35:45,546
+我希望能在你身边
+I want to be by your side.
+
+653
+00:35:45,546 --> 00:35:48,719
+你在这儿会干扰我的效率…
+Your presence here is interfering with my efficiency ...
+
+654
+00:35:49,816 --> 00:35:51,663
+和我保护你的能力
+my ability to protect you.
+
+655
+00:35:54,239 --> 00:35:55,586
+史波克先生，你来掌舵
+Mr. Spock, you have the con.
+
+656
+00:36:02,725 --> 00:36:03,637
+五号甲板
+Deck five.
+
+657
+00:36:05,300 --> 00:36:06,430
+我爱你
+I love you.
+
+658
+00:36:07,821 --> 00:36:08,994
+我选择了你
+I have chosen you,
+
+659
+00:36:11,037 --> 00:36:13,431
+我仍然不明白你为什么不与克林贡人开战
+ and still I don't understand why you didn't fight the Klingon.
+
+660
+00:36:15,372 --> 00:36:18,005
+如果我能通过逃跑来完成我的使命，
+If I can accomplish my mission by turning tail and running,
+
+661
+00:36:18,005 --> 00:36:19,838
+我会很乐意这样做
+I'll gladly do that.
+
+662
+00:36:20,609 --> 00:36:23,250
+那个任务是带我去特洛伊乌斯？
+And that mission is to take me to Troyius.
+
+663
+00:36:23,945 --> 00:36:24,673
+是的
+Yes.
+
+664
+00:36:28,867 --> 00:36:33,029
+你会让我为另一个男人穿上婚纱
+Would you have me wearing my wedding dress for another man
+
+665
+00:36:33,029 --> 00:36:34,846
+并且再也不见你吗？
+and never see you again?
+
+666
+00:36:37,179 --> 00:36:38,345
+是的，伊兰
+Yes, Elaan.
+
+667
+00:36:39,755 --> 00:36:41,852
+你对这样的设想感到高兴吗？
+Are you happy at the prospect?
+
+668
+00:36:46,263 --> 00:36:46,750
+不
+No.
+
+669
+00:36:46,750 --> 00:36:47,480
+[对讲机哨声]
+[Intercom Whistles]
+
+670
+00:36:47,632 --> 00:36:48,643
+斯科特呼叫舰长
+Scott to Captain.
+
+671
+00:36:50,588 --> 00:36:51,402
+我是柯克
+Kirk here.
+
+672
+00:36:51,472 --> 00:36:52,913
+我有一个坏消息，舰长
+I've got bad news, Captain.
+
+673
+00:36:53,304 --> 00:36:56,966
+整个二锂晶体转换器组件熔毁了
+The entire dilithium crystal converter assembly is fused.
+
+674
+00:36:57,044 --> 00:36:58,335
+不可能修复了
+No chance of repair.
+
+675
+00:36:58,712 --> 00:37:00,454
+完全没用了
+It's completely unusable.
+
+676
+00:37:00,921 --> 00:37:02,648
+不可能恢复曲速引擎？
+No chance of restoring warp drive?
+
+677
+00:37:02,716 --> 00:37:04,506
+没有二锂晶体就不可能
+Not without dilithium crystals.
+
+678
+00:37:04,626 --> 00:37:07,431
+我们甚至不能产生足够的能量来发射武器
+We can't even generate enough power to fire our weapons.
+
+679
+00:37:07,647 --> 00:37:08,418
+通话完毕
+Kirk out.
+
+680
+00:37:09,557 --> 00:37:12,112
+伊兰，我得回舰桥
+Elaan, I have to go back to the bridge.
+
+681
+00:37:12,351 --> 00:37:14,796
+请你你务必去医务室
+Please, you must go to Sick Bay.
+
+682
+00:37:14,796 --> 00:37:14,945
+是的，亲爱的
+Yes, my love.
+
+683
+00:37:14,945 --> 00:37:16,161
+是的，亲爱的
+Yes, my love.
+
+684
+00:37:21,468 --> 00:37:25,404
+测试24，三氧化釦在钣溶液中
+Test number 24. Colladium trioxide in algobarium solution.
+
+685
+00:37:27,912 --> 00:37:29,345
+结果也是阴性
+Results also negative.
+
+686
+00:37:29,345 --> 00:37:31,144
+医生
+Doctor,
+
+687
+00:37:31,290 --> 00:37:34,875
+没有药物能解伊拉希亚人眼泪的毒
+there is no antidote to the poison of Elasian tears.
+
+688
+00:37:35,256 --> 00:37:37,440
+几百年来，伊拉斯的男人
+The men of Elas have tried desperately
+
+689
+00:37:37,518 --> 00:37:39,374
+拼命试图消除它的力量
+for centuries to dispel its power.
+
+690
+00:37:40,020 --> 00:37:42,395
+你在浪费时间，医生
+You're wasting your time, Doctor.
+
+691
+00:37:42,819 --> 00:37:45,274
+浪费的也是我的时间，大使
+It is my time to waste, Ambassador.
+
+692
+00:37:45,274 --> 00:37:49,957
+医生，船长让我来这里，安全起见
+Doctor, the captain asked me to come here for safety.
+
+693
+00:37:50,794 --> 00:37:52,921
+安全？
+Safety?
+
+694
+00:37:52,924 --> 00:37:58,885
+医生，你估计我们的生存几率是多少？
+What is your estimate of our chances for survival, Doctor?
+
+695
+00:37:59,128 --> 00:38:03,155
+这是舰长的责任，大使
+That is the captain's responsibility, Ambassador.
+
+696
+00:38:06,046 --> 00:38:08,514
+舰长，来自克林贡飞船的消息
+Captain, message from the Klingon ship.
+
+697
+00:38:08,514 --> 00:38:11,178
+他们命令我们等待登船或被摧毁
+They're ordering us to stand by for boarding or be destroyed.
+
+698
+00:38:11,363 --> 00:38:12,960
+他们要求立即答复
+They demand an immediate reply.
+
+699
+00:38:13,101 --> 00:38:14,796
+他们试图逼我们开战
+They're trying to force a fight.
+
+700
+00:38:15,748 --> 00:38:17,682
+斯科提，我们的动力状态如何？
+Scotty, what's our energy status?
+
+701
+00:38:17,750 --> 00:38:19,684
+93%的脉冲动力，长官
+93% of impulse power, sir.
+
+702
+00:38:19,752 --> 00:38:20,935
+我们仍然可以机动飞行
+We can still maneuver.
+
+703
+00:38:21,254 --> 00:38:23,402
+机动飞行？是的
+Maneuver? Aye.
+
+704
+00:38:23,923 --> 00:38:25,523
+我们可以像垃圾船一样
+We can wallow like a garbage's cow
+
+705
+00:38:25,591 --> 00:38:27,387
+绕着一艘曲速驱动的星际飞船打滚
+against a warp-driven starship.
+
+706
+00:38:27,748 --> 00:38:29,345
+我们的护盾能坚持几个回合
+Our shields will hold for a few passes,
+
+707
+00:38:29,345 --> 00:38:31,344
+但没有物质-反物质反应堆
+but without the matter- antimatter reactor,
+
+708
+00:38:31,344 --> 00:38:32,368
+我们没有机会
+we've no chance.
+
+709
+00:38:32,670 --> 00:38:36,016
+舰长，在这种紧急情况下你不能呼叫星际舰队吗？
+Captain, can you not call Starfleet on this emergency?
+
+710
+00:38:36,223 --> 00:38:37,696
+让克林贡人知道他们成功地摧毁了我们的曲速引擎？
+And let the Klingons know they succeeded in wiping out our warp engines?
+
+711
+00:38:39,287 --> 00:38:42,699
+在企业号被摧毁前援兵无法到达
+Help could not arrive before the Enterprise was destroyed.
+
+712
+00:38:42,960 --> 00:38:45,344
+既然我们都要死了
+Now that we are all about to die,
+
+713
+00:38:46,480 --> 00:38:51,881
+我再次请求你接受这条项链
+I ask you once again to accept this necklace,
+
+714
+00:38:53,314 --> 00:38:54,804
+并佩戴它
+and to wear it
+
+715
+00:38:55,542 --> 00:38:57,194
+作为尊重的象征
+as a token of respect
+
+716
+00:38:57,618 --> 00:39:02,214
+为了你我的人民的最后愿望
+for the desperate wishes of your people and mine
+
+717
+00:39:02,898 --> 00:39:03,952
+为了和平
+for peace.
+
+718
+00:39:09,196 --> 00:39:11,719
+你们其他世界的男人只会说
+That's all you men of other worlds can speak of,
+
+719
+00:39:12,014 --> 00:39:14,253
+责任和义务
+duty and responsibility.
+
+720
+00:39:14,557 --> 00:39:16,089
+我们会拖延时间
+We'll stall for time.
+
+721
+00:39:16,828 --> 00:39:21,006
+保持航线，希望能唬住克林贡人
+Proceed on course and hope the Klingons can be bluffed,
+
+722
+00:39:21,370 --> 00:39:24,054
+或者他们没有做好全面战争的准备
+or that they're not prepared for a general war.
+
+723
+00:39:24,411 --> 00:39:26,606
+打开呼叫频率
+Open a hailing frequency.
+
+724
+00:39:26,737 --> 00:39:28,671
+频率已打开，长官
+Frequency open, sir.
+
+725
+00:39:30,152 --> 00:39:32,086
+我是联邦星舰企业号的
+This is Captain James Kirk
+
+726
+00:39:32,154 --> 00:39:35,473
+詹姆斯·柯克舰长，正在处理联邦事务
+of the U.S.S. Enterprise on Federation business.
+
+727
+00:39:35,991 --> 00:39:37,668
+我们的使命是和平的
+Our mission is peaceful,
+
+728
+00:39:38,233 --> 00:39:41,087
+但我们不会接受任何干涉
+but we're not prepared to accept any interference.
+
+729
+00:39:46,991 --> 00:39:51,664
+企业号，准备被登船或摧毁
+Enterprise, prepare to be boarded or destroyed.
+
+730
+00:39:56,674 --> 00:39:59,609
+我想说我们的策略并不完全有效
+I'd say our strategy wasn't totally effective.
+
+731
+00:40:00,149 --> 00:40:02,111
+舰长，克林贡飞船正接近
+Captain, the Klingon ship is closing
+
+732
+00:40:02,180 --> 00:40:03,387
+拦截航线
+on an intercept course.
+
+733
+00:40:03,387 --> 00:40:05,397
+50万千米
+500,000 kilometres.
+
+734
+00:40:05,397 --> 00:40:05,412
+升起护盾
+Deflector shields up.
+
+735
+00:40:05,412 --> 00:40:06,690
+升起护盾
+Deflector shields up.
+
+736
+00:40:08,286 --> 00:40:12,134
+斯科提，你能分部分能量给相位炮吗？
+Scotty, can you give me partial power on the phaser banks?
+
+737
+00:40:12,453 --> 00:40:14,546
+不，长官，不可能
+No, sir, not a chance.
+
+738
+00:40:14,622 --> 00:40:16,283
+30万千米
+300,000 kilometres.
+
+739
+00:40:23,249 --> 00:40:26,164
+我告诉过你留在医务室
+I told you to stay in Sick Bay.
+
+740
+00:40:27,748 --> 00:40:29,768
+我想和你一起死
+I want to die with you.
+
+741
+00:40:35,147 --> 00:40:36,397
+我们不会死的
+We're not going to die.
+
+742
+00:40:37,733 --> 00:40:39,059
+现在离开舰桥
+Now get off the bridge.
+
+743
+00:40:39,059 --> 00:40:40,298
+[苏鲁] 10万千米
+[苏鲁] 100,000 kilometres.
+
+744
+00:40:44,419 --> 00:40:46,887
+他掠过了我们，保持护盾升起
+He's past us. All shields held.
+
+745
+00:40:46,955 --> 00:40:49,360
+苏鲁先生，前往143，标记2
+Mr. Sulu, bring her to 143 mark 2.
+
+746
+00:40:49,360 --> 00:40:52,847
+保持我们前护盾对着他
+Keep our forward shields to him.
+
+747
+00:40:52,847 --> 00:40:52,921
+他又来了，长官
+Here he comes again, sir.
+
+748
+00:40:52,921 --> 00:40:54,542
+他又来了，长官
+Here he comes again, sir.
+
+749
+00:40:54,542 --> 00:40:56,476
+稳住
+Stay with the controls.
+
+750
+00:40:56,650 --> 00:40:59,642
+保持我们前护盾对着他
+Keep our forward shields to him.
+
+751
+00:41:06,701 --> 00:41:08,118
+超过曲速7
+Better than warp 7.
+
+752
+00:41:08,244 --> 00:41:09,570
+满舵，苏鲁！掉头！
+Hard over, Sulu. Bring her around.
+
+753
+00:41:09,570 --> 00:41:10,765
+他朝我们的侧翼来了
+He's going for our flank.
+
+754
+00:41:16,350 --> 00:41:17,506
+苏鲁！
+Sulu!
+
+755
+00:41:17,580 --> 00:41:20,411
+对不起，舰长，用脉冲引擎反应不够快
+Sorry, Captain. She won't respond fast enough on impulse.
+
+756
+00:41:20,481 --> 00:41:21,391
+他又掠过我们了
+He's past us again.
+
+757
+00:41:21,391 --> 00:41:23,423
+4号护盾受损
+Damage to number four shield.
+
+758
+00:41:24,336 --> 00:41:25,336
+多严重？
+How bad?
+
+759
+00:41:25,542 --> 00:41:29,237
+它无受再一次承受进攻，舰长
+It will not withstand another full charge, Captain.
+
+760
+00:41:31,192 --> 00:41:33,539
+我得到了一些非常奇特的能量读数
+I'm getting some very peculiar energy readings.
+
+761
+00:41:34,474 --> 00:41:36,367
+他又和我们平行了
+He's paralleling us again.
+
+762
+00:41:37,342 --> 00:41:39,544
+他似乎中断了攻击
+He seems to have broken off the attack.
+
+763
+00:41:41,601 --> 00:41:43,192
+什么样的读数，史波克先生？
+What sort of readings, Mr. Spock?
+
+764
+00:41:50,098 --> 00:41:52,826
+她是源头
+She is the source.
+
+765
+00:41:53,804 --> 00:41:54,750
+伊兰？
+Elaan?
+
+766
+00:42:05,669 --> 00:42:06,571
+项链
+The necklace.
+
+767
+00:42:09,189 --> 00:42:10,558
+这里面是什么宝石？
+What kind of jewels are in this?
+
+768
+00:42:10,721 --> 00:42:11,917
+他们叫它拉丹斯
+They call them radans.
+
+769
+00:42:11,917 --> 00:42:14,349
+项链应该会给你带来好运
+The necklace is supposed to bring you luck.
+
+770
+00:42:15,099 --> 00:42:16,350
+它的价值不大
+It is of little value.
+
+771
+00:42:16,350 --> 00:42:17,588
+它们是普通的石头
+They are common stones.
+
+772
+00:42:21,120 --> 00:42:23,144
+这些是普通石头？
+These are common stones?
+
+773
+00:42:24,836 --> 00:42:25,859
+看到了吗，舰长？
+See, Captain?
+
+774
+00:42:26,109 --> 00:42:27,700
+这里和这里
+Here and here.
+
+775
+00:42:28,302 --> 00:42:29,325
+普通石头？
+Common stones?
+
+776
+00:42:29,758 --> 00:42:32,104
+现在我明白为什么克林贡人对这个星系感兴趣了
+Now I see why the Klingons are interested in this system.
+
+777
+00:42:33,083 --> 00:42:34,515
+可以给我吗？
+May I have this?
+
+778
+00:42:35,039 --> 00:42:36,951
+当然，如果我能帮上忙的话
+If I can be of any help, of course.
+
+779
+00:42:37,233 --> 00:42:39,407
+你也许能救了我们的命
+You may have Just saved our lives.
+
+780
+00:42:39,407 --> 00:42:43,759
+史波克先生，你认为斯科提可以利用二锂晶体吗？
+Mr. Spock, do you think Scotty could make use of dilithium crystals?
+
+781
+00:42:43,916 --> 00:42:45,007
+毫无疑问，舰长
+No doubt, Captain.
+
+782
+00:42:45,480 --> 00:42:47,003
+[苏鲁] 他又过来了，长官
+[Sulu] He's coming in again, sir.
+
+783
+00:42:50,618 --> 00:42:52,551
+苏鲁先生，准备好听我的命令
+Mr. Sulu, prepare on my order
+
+784
+00:42:52,619 --> 00:42:54,380
+迅速转向左舷
+to turn quickly to port.
+
+785
+00:42:54,452 --> 00:42:56,144
+尝试保护4号护盾
+Try and protect the number four shield.
+
+786
+00:42:56,433 --> 00:42:57,364
+是的，长官
+Aye, sir.
+
+787
+00:43:09,385 --> 00:43:10,682
+现在，苏鲁，左满舵！
+Now, Sulu. hard to port!
+
+788
+00:43:15,492 --> 00:43:17,242
+护盾还在但是减弱了，长官
+Shields holding, but weakened, sir.
+
+789
+00:43:17,567 --> 00:43:18,828
+舰长
+Captain.
+
+790
+00:43:19,435 --> 00:43:21,119
+有消息
+Message coming in.
+
+791
+00:43:22,793 --> 00:43:26,802
+[克林贡] 企业号，我们的读数证实你们的能量极低，
+[Klingon] Enterprise, our readings confirm your power extremely low,
+
+792
+00:43:27,064 --> 00:43:28,639
+你们的护盾在变形
+your shields buckling.
+
+793
+00:43:29,269 --> 00:43:32,032
+这是你们最后的投降机会
+This is your last chance to surrender.
+
+794
+00:43:34,126 --> 00:43:36,418
+舰长，4号护盾刚刚破裂了
+Captain, number four shield just collapsed.
+
+795
+00:43:36,886 --> 00:43:39,259
+脉冲动力下降到31%
+Impulse power down to 31%.
+
+796
+00:43:43,405 --> 00:43:45,463
+乌乎拉上尉，打开呼叫频率
+Lieutenant Uhura, open a hailing frequency.
+
+797
+00:43:46,024 --> 00:43:47,136
+频道已打开，长官
+Channel open, sir.
+
+798
+00:43:47,447 --> 00:43:50,000
+这是联邦星舰企业号的
+This is Captain James Kirk
+
+799
+00:43:50,370 --> 00:43:52,695
+詹姆斯·柯克舰长
+of the United Spaceship Enterprise.
+
+800
+00:43:53,325 --> 00:43:57,519
+我可以提投降条件吗？
+May I request your terms for surrender?
+
+801
+00:43:59,410 --> 00:44:00,518
+没有条件
+No terms.
+
+802
+00:44:01,159 --> 00:44:04,649
+必须立即无条件投降
+Surrender must be unconditional and immediate.
+
+803
+00:44:08,311 --> 00:44:09,937
+斯科提，你的估计？
+Scotty, your estimate.
+
+804
+00:44:10,895 --> 00:44:12,140
+我们正在安装，长官
+We're fitting it now, sir,
+
+805
+00:44:12,601 --> 00:44:14,622
+但是我们必须运行测试
+but we'll have to run tests to make sure.
+
+806
+00:44:14,904 --> 00:44:16,302
+在实战中测试吧
+Test it in combat.
+
+807
+00:44:17,023 --> 00:44:19,710
+舰长，这些是粗水晶
+Captain, these are crude crystals.
+
+808
+00:44:19,913 --> 00:44:23,901
+无法判断不规则的形状会对能量流有什么影响
+There's no way to judge what the unusual shapes will do to the energy flow.
+
+809
+00:44:24,250 --> 00:44:26,379
+它们可能炸飞我们……
+That could blow us up ...
+
+810
+00:44:26,379 --> 00:44:28,449
+安装完毕通知我
+Let me know when it's in place.
+
+811
+00:44:28,517 --> 00:44:29,449
+打开呼叫频率
+Open a hailing frequency.
+
+812
+00:44:29,671 --> 00:44:31,103
+打开了，长官
+Hailing frequency open, sir.
+
+813
+00:44:31,398 --> 00:44:32,951
+这是企业号
+This is the Enterprise.
+
+814
+00:44:33,496 --> 00:44:40,134
+你能保证我们的乘客伊拉斯的多尔曼的安全吗？
+Will you guarantee the safety of our passenger, the Dohlman from Elas?
+
+815
+00:44:40,822 --> 00:44:42,123
+没有条件
+No conditions.
+
+816
+00:44:42,405 --> 00:44:43,996
+立即投降
+Surrender immediately.
+
+817
+00:44:45,457 --> 00:44:47,882
+舰长，他开始行动了
+Captain, he's starting his run.
+
+818
+00:44:53,271 --> 00:44:54,582
+[对讲机哨声]
+[Intercom Whistles]
+
+819
+00:44:54,923 --> 00:44:56,956
+斯科特呼叫舰长，安装完毕，长官
+Scott to Captain. It's in place, sir,
+
+820
+00:44:57,183 --> 00:44:59,358
+但后果怎样我不负责
+but I can't answer for what happens.
+
+821
+00:44:59,428 --> 00:45:00,779
+你和史波克上来
+You and Spock get up here.
+
+822
+00:45:01,311 --> 00:45:04,055
+苏鲁，准备进行曲速机动飞行
+Sulu, prepare for warp maneuvers.
+
+823
+00:45:04,130 --> 00:45:04,636
+是，长官
+Aye, sir.
+
+824
+00:45:04,636 --> 00:45:07,068
+契科夫，装备光子鱼雷
+Chekov, arm photon torpedoes.
+
+825
+00:45:07,929 --> 00:45:09,621
+光子鱼雷已准备
+Photon torpedoes ready.
+
+826
+00:45:09,895 --> 00:45:11,167
+曲速动力分配给护盾，舰长？
+Warp power to the shields, Captain?
+
+827
+00:45:11,167 --> 00:45:14,198
+不，他的传感器会检测到我们的能量增加
+Negative. His sensors will pick up our power increase.
+
+828
+00:45:14,567 --> 00:45:16,567
+他越认为我们无法反击
+The more helpless he thinks we are,
+
+829
+00:45:17,067 --> 00:45:18,403
+他就会越靠近
+the closer he'll come.
+
+830
+00:45:18,403 --> 00:45:20,870
+当他经过时，我想切入曲速引擎
+As he passes, I want to cut in warp drive.
+
+831
+00:45:21,489 --> 00:45:25,446
+我们将在曲速2时转身，所有武器瞄准
+We'll pivot at warp 2 and bring all tubes to bear.
+
+832
+00:45:25,604 --> 00:45:26,592
+是的，长官
+Aye, sir.
+
+833
+00:45:26,671 --> 00:45:29,443
+契科夫先生，向他大范围发射
+Mr. Chekov, give him a full spread
+
+834
+00:45:29,443 --> 00:45:30,551
+光子鱼雷
+of photon torpedoes.
+
+835
+00:45:30,757 --> 00:45:31,882
+是的，舰长
+Aye, Captain.
+
+836
+00:45:44,991 --> 00:45:46,423
+10万千米
+100,000 kilometres.
+
+837
+00:45:47,393 --> 00:45:49,511
+斯科提，准备好切入曲速引擎
+Scotty, stand by to cut in warp drive.
+
+838
+00:45:50,250 --> 00:45:51,181
+有波动
+Fluctuation.
+
+839
+00:45:51,391 --> 00:45:52,260
+因为晶体的形状
+It's the shape of the crystals.
+
+840
+00:45:52,260 --> 00:45:53,249
+我就怕这个
+I was afraid of that.
+
+841
+00:45:53,705 --> 00:45:54,636
+75…
+75.
+
+842
+00:45:55,161 --> 00:45:56,093
+70…
+70.
+
+843
+00:45:57,081 --> 00:45:57,900
+60…
+60.
+
+844
+00:45:59,041 --> 00:45:59,972
+50…
+50.
+
+845
+00:46:00,107 --> 00:46:01,029
+在最小射程开火
+Fire at minimum range.
+
+846
+00:46:01,355 --> 00:46:02,167
+40
+40.
+
+847
+00:46:02,278 --> 00:46:03,382
+她不会稳定下来
+She won't steady down.
+
+848
+00:46:03,450 --> 00:46:04,319
+30…
+30.
+
+849
+00:46:10,619 --> 00:46:13,586
+进入曲速，斯科提，所有动力转到护盾
+Warp in, Scotty. Full power to shields.
+
+850
+00:46:21,706 --> 00:46:22,954
+曲速2
+Warp factor 2.
+
+851
+00:46:24,368 --> 00:46:27,172
+设定航线148，标记3
+Lay us a course 148 mark 3.
+
+852
+00:46:33,517 --> 00:46:34,448
+契科夫
+Chekov,
+
+853
+00:46:35,658 --> 00:46:37,124
+光子鱼雷，发射
+photon torpedoes fire!
+
+854
+00:46:37,194 --> 00:46:37,896
+是的，长官
+Aye, sir.
+
+855
+00:46:45,556 --> 00:46:47,628
+直接击中飞船中部
+Direct hit amidships by photon torpedo.
+
+856
+00:46:47,749 --> 00:46:50,131
+克林贡3号盾牌损坏
+Damage to Klingon number three shield.
+
+857
+00:46:50,199 --> 00:46:51,631
+4号盾牌被摧毁
+Number four shield obliterated.
+
+858
+00:46:51,700 --> 00:46:53,428
+失去飞行能力
+Loss of maneuver power.
+
+859
+00:46:53,501 --> 00:46:55,296
+他严重受损，舰长
+He's badly damaged, Captain.
+
+860
+00:46:55,542 --> 00:46:58,664
+继续以低速驶离
+Continuing away at reduced speed.
+
+861
+00:46:59,377 --> 00:47:01,317
+解除战斗部署
+Secure from general quarters.
+
+862
+00:47:02,072 --> 00:47:03,365
+干得好，苏鲁先生
+Well done, Mr. Sulu.
+
+863
+00:47:03,365 --> 00:47:04,297
+斯科提
+Scotty.
+
+864
+00:47:05,125 --> 00:47:07,070
+但我不明白
+But I don't understand you.
+
+865
+00:47:07,548 --> 00:47:09,904
+你的意思是你不会追赶并消灭他？
+You mean you won't pursue and finish him off?
+
+866
+00:47:10,145 --> 00:47:11,133
+不
+No.
+
+867
+00:47:13,296 --> 00:47:15,269
+苏鲁先生，继续去特洛伊乌斯的航线
+Mr. Sulu, resume course for Troyius.
+
+868
+00:47:16,078 --> 00:47:17,137
+是的，长官
+Aye, aye, sir.
+
+869
+00:47:49,109 --> 00:47:51,261
+你不传送下去参加仪式吗？
+You will not beam down for the ceremony?
+
+870
+00:47:52,010 --> 00:47:52,901
+不
+No.
+
+871
+00:47:56,900 --> 00:47:59,054
+我希望你拿着这个
+I want you to have this
+
+872
+00:47:59,122 --> 00:48:02,246
+作为私人纪念品
+as a personal memento.
+
+873
+00:48:03,484 --> 00:48:04,720
+我了解到在特洛伊乌斯上
+I have learned that on Troyius,
+
+874
+00:48:04,791 --> 00:48:06,386
+他们不戴这样的东西
+they do not wear such things.
+
+875
+00:48:11,536 --> 00:48:12,990
+记住我
+Remember me.
+
+876
+00:48:14,698 --> 00:48:16,030
+我别无选择
+I have no choice.
+
+877
+00:48:16,228 --> 00:48:18,592
+我也没有
+Nor have I.
+
+878
+00:48:18,859 --> 00:48:23,466
+我只有责任和义务
+I have only responsibilities and obligations.
+
+879
+00:48:28,443 --> 00:48:29,594
+再见
+Good-bye.
+
+880
+00:48:31,300 --> 00:48:32,527
+再见
+Good-bye.
+
+881
+00:48:44,571 --> 00:48:46,504
+传送
+Energize.
+
+882
+00:49:04,878 --> 00:49:06,640
+现在已经稳定了
+It's stabilized now.
+
+883
+00:49:08,787 --> 00:49:13,405
+史波克，我已经分离出了伊拉希亚眼泪的生化物质
+Spock, I've isolated the biochemical substance of the Elasian tears.
+
+884
+00:49:13,405 --> 00:49:14,837
+它是一种感染
+It's a kind of infection,
+
+885
+00:49:14,837 --> 00:49:16,556
+我想我找到了解药
+and I think I found an antidote.
+
+886
+00:49:16,556 --> 00:49:17,534
+太晚了，医生
+Too late, Doctor.
+
+887
+00:49:17,534 --> 00:49:19,390
+舰长已经找到了他自己的解药
+The captain has found his own antidote.
+
+888
+00:49:19,511 --> 00:49:20,978
+你的瓦肯脑子坏了吗？
+Are you out of your Vulcan mind?
+
+889
+00:49:20,978 --> 00:49:21,684
+你知道我工作了多久吗…
+Do you know how long ...
+
+890
+00:49:21,684 --> 00:49:25,260
+伊拉斯女人的解药是一艘星舰
+The antidote to a woman of Elas is a star ship.
+
+891
+00:49:25,477 --> 00:49:28,725
+企业号在多尔曼之前就感染了舰长
+The Enterprise infected the captain before the Dohlman.
+
+892
+00:49:29,116 --> 00:49:30,877
+苏鲁先生，准备把我们带出轨道
+Mr. Sulu, prepare to take us out of orbit.
+
+893
+00:49:34,268 --> 00:49:35,516
+嗯，我严重怀疑
+Well, I doubt seriously
+
+894
+00:49:35,516 --> 00:49:39,381
+企业号是否有任何解药
+if there's any kind of an antidote for the Enterprise.
+
+895
+00:49:39,710 --> 00:49:41,927
+在这个特殊案例中，医生
+In this particular instance, Doctor,
+
+896
+00:49:42,372 --> 00:49:43,752
+我同意你的看法
+I agree with you.
+
+897
+00:49:44,393 --> 00:49:46,019
+以曲速2前进
+Ahead warp factor 2.
+

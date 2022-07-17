@@ -1,0 +1,3580 @@
+1
+00:00:06,537 --> 00:00:10,290
+麦考伊：<i>企业号医疗日志，星历 5027.3。</i>
+McCOY: <i>Enterprise Medical Log, stardate 5027.3.</i>
+
+2
+00:00:10,374 --> 00:00:12,000
+<i>伦纳德·麦考伊医生记录。</i>
+<i>Dr. Leonard McCoy recording.</i>
+
+3
+00:00:12,126 --> 00:00:14,044
+<i>我很担心柯克舰长。</i>
+<i>I'm concerned about Captain Kirk.</i>
+
+4
+00:00:14,128 --> 00:00:17,965
+<i>他表现出越来越紧张和情绪压力的迹象。</i>
+<i>He shows indications of increasing tension and emotional stress.</i>
+
+5
+00:00:18,090 --> 00:00:19,883
+我完成了任务，舰长。
+I have completed the assignment, captain.
+
+6
+00:00:20,008 --> 00:00:22,678
+- 理论上的入侵-- - 是的，契科夫先生。我会读。
+- A theoretical incursion into-- - Yes, Mr. Chekov. I can read.
+
+7
+00:00:22,803 --> 00:00:26,348
+和往常一样，你的理论评估与我的不一致。
+And as usual, your theoretical evaluations do not tally with mine.
+
+8
+00:00:26,473 --> 00:00:30,185
+回到你的岗位，你的工作令人满意时我会通知你。
+Return to your duty and I'll let you know when your work is satisfactory.
+
+9
+00:00:30,310 --> 00:00:32,980
+史波克，请对该区域进行全传感器扫描。
+Spock, full-sensor scan of the region, please.
+
+10
+00:00:33,063 --> 00:00:35,816
+- 我确实对它做了一份完整的报告-- - 是的，那是过去。
+- I did give a full report on it-- - Yes, that was the past.
+
+11
+00:00:35,858 --> 00:00:37,317
+我关心的是现在。
+I'm concerned with the present.
+
+12
+00:00:37,359 --> 00:00:39,278
+向我展示当前的信息
+Or is it becoming too much for this crew
+
+13
+00:00:39,319 --> 00:00:41,029
+对船员来说这很过分吗？
+to present me with current information?
+
+14
+00:00:41,155 --> 00:00:43,115
+不，先生。合规性没有问题。
+No, sir. Compliance presents no problem.
+
+15
+00:00:43,173 --> 00:00:45,008
+那么，史波克先生，请遵守。
+Then, Mr. Spock, comply.
+
+16
+00:00:45,200 --> 00:00:48,579
+传感器扫描到二分之一秒差距。
+Sensor scan to one-half parsec.
+
+17
+00:00:48,912 --> 00:00:50,998
+- 没问题，舰长。 - 很好。
+- Negative, captain. - Very well.
+
+18
+00:00:51,081 --> 00:00:53,625
+麦考伊：<i>我找不到舰长行为的理由</i>
+McCOY: <i>I can find no reason for the captain's behavior</i>
+
+19
+00:00:53,709 --> 00:00:55,961
+<i>除了，可能，我们已经巡逻太久了</i>
+<i>except, possibly, that we've been on patrol too long</i>
+
+20
+00:00:56,003 --> 00:00:58,046
+<i>没有换班和消遣。</i>
+<i>without relief and diversion.</i>
+
+21
+00:00:58,172 --> 00:01:01,925
+<i>他拒绝了我对他进行心理分析的所有尝试。</i>
+<i>He has resisted all my attempts to run a psychological profile on him.</i>
+
+22
+00:01:02,050 --> 00:01:04,178
+保持航向和速度，长官。
+Maintaining course and speed, sir.
+
+23
+00:01:04,261 --> 00:01:08,015
+改变航线，转到185标记3。
+Change course. Come about to 185 mark 3.
+
+24
+00:01:10,058 --> 00:01:12,853
+但这将导致我们直接进入罗慕伦中立区。
+But that will lead us directly into the Romulan Neutral Zone.
+
+25
+00:01:12,978 --> 00:01:14,480
+苏鲁先生，这很有洞察力。
+That's very perceptive, Mr. Sulu.
+
+26
+00:01:14,563 --> 00:01:16,607
+我知道航线变化会把我们带到哪里。
+I know where the course change takes us.
+
+27
+00:01:17,900 --> 00:01:20,777
+- 执行。 - 是，长官。
+- Execute. - Aye, sir.
+
+28
+00:01:35,834 --> 00:01:39,171
+将传感器扫描增加到一秒差距。
+Increasing sensor scan to one parsec.
+
+29
+00:01:39,963 --> 00:01:43,550
+所有的扫描仪报告没有异常，我们附近没有任何异常。
+All scanners report clear and nothing in our immediate vicinity.
+
+30
+00:01:43,717 --> 00:01:45,594
+越来越好了，史波克先生。
+Better and better, Mr. Spock.
+
+31
+00:01:45,761 --> 00:01:47,846
+舰长，正在离开中立区，
+Captain, leaving neutral zone,
+
+32
+00:01:47,971 --> 00:01:49,556
+现在进入罗慕伦空间。
+now entering Romulan space.
+
+33
+00:01:49,640 --> 00:01:51,558
+很好，苏鲁先生。
+Very well, Mister Sulu.
+
+34
+00:01:53,268 --> 00:01:54,561
+上尉。
+Lieutenant.
+
+35
+00:01:54,645 --> 00:01:56,188
+命令是什么时候下达的？
+When did the order come through?
+
+36
+00:01:56,271 --> 00:01:58,190
+- 命令？ - 来自星际舰队。
+- Order? - From Starfleet.
+
+37
+00:01:58,315 --> 00:02:00,484
+进入中立区的命令。
+The order to enter the neutral zone.
+
+38
+00:02:00,609 --> 00:02:03,570
+我不知道有什么命令，斯科特先生。
+There's been no order I know of, Mr. Scott.
+
+39
+00:02:04,488 --> 00:02:07,115
+但肯定的是，舰长没有权利这样做吧？
+But surely the captain couldn't be doing this on his own authority?
+
+40
+00:02:07,157 --> 00:02:10,786
+如果你们两个有任何抱怨，你可以把它们公开。
+If you two have any complaints, you can bring them out into the open.
+
+41
+00:02:17,960 --> 00:02:19,962
+那是一艘克林贡飞船。
+That's a Klingon ship.
+
+42
+00:02:23,215 --> 00:02:25,300
+但它不可能，在这个领域不可能。
+But it couldn't be, not in this area.
+
+43
+00:02:25,384 --> 00:02:29,263
+情报报告罗慕伦人现在使用克林贡设计。
+Intelligence reports Romulans now using Klingon design.
+
+44
+00:02:29,346 --> 00:02:32,808
+拉红色警报，进入战斗岗位，相位炮待命。
+Sound red alert, man battle stations. Stand by main phasers.
+
+45
+00:02:32,891 --> 00:02:35,435
+战斗岗位，所有人，战斗岗位。
+Battle stations, all hands, battle stations.
+
+46
+00:02:35,519 --> 00:02:37,563
+[警报声]
+[ALARM BLARING]
+
+47
+00:02:37,813 --> 00:02:39,898
+第二艘船出现了。
+A second ship has appeared.
+
+48
+00:02:45,654 --> 00:02:50,117
+更正。现在有三艘。
+Correction. There are now three.
+
+49
+00:02:53,996 --> 00:02:55,414
+我们被包围了。
+We are surrounded.
+
+50
+00:03:10,804 --> 00:03:14,182
+柯克：<i>宇宙，最后的边疆</i>
+KIRK: <i>Space, the final frontier.</i>
+
+51
+00:03:19,896 --> 00:03:23,817
+<i>这些是星舰</i>企业号<i>的航程。</i>
+<i>These are the voyages of the starship</i> Enterprise.
+
+52
+00:03:24,067 --> 00:03:28,196
+<i>它的五年任务：探索未知的新世界，</i>
+<i>Its five-year mission: To explore strange new worlds,</i>
+
+53
+00:03:28,322 --> 00:03:31,908
+<i>寻找新生命和新文明，</i>
+<i>to seek out new life and new civilizations,</i>
+
+54
+00:03:32,242 --> 00:03:35,746
+<i>勇踏前人未至之境。</i>
+<i>to boldly go where no man has gone before.</i>
+
+55
+00:04:18,237 --> 00:04:20,707
+乌乎拉上尉，给星际舰队司令部发一条加密信息。
+Lieutenant Uhura, code a message to Starfleet Command.
+
+56
+00:04:20,832 --> 00:04:23,710
+将我们的情况告知他们，包括到现在为止的所有日志条目。
+Advise them of our situation, include all log entries to this point.
+
+57
+00:04:23,794 --> 00:04:24,920
+是的，长官。
+Aye, aye, sir.
+
+58
+00:04:25,045 --> 00:04:27,881
+史波克先生，你的传感器读数清晰。发生了什么？
+Mr. Spock, your sensors read clear. What happened?
+
+59
+00:04:28,006 --> 00:04:30,759
+- 我有一个理论，舰长-- - 乌乎拉：柯克舰长。
+- I have a theory, captain-- - UHURA: Captain Kirk.
+
+60
+00:04:30,842 --> 00:04:33,679
+我正在从罗慕伦船只接收 2 级信号。
+I'm receiving Class 2 signal from the Romulan vessel.
+
+61
+00:04:33,804 --> 00:04:35,555
+把它放在屏幕上，上尉，
+Put it on the viewing screen, lieutenant,
+
+62
+00:04:35,639 --> 00:04:38,058
+并完成发给星际舰队司令部的消息。
+and complete that message to Starfleet Command.
+
+63
+00:04:41,895 --> 00:04:45,065
+<i>你已被确认为星舰</i>企业号。
+<i>You have been identified as the starship</i> Enterprise.
+
+64
+00:04:45,232 --> 00:04:48,318
+<i>詹姆斯·T·柯克舰长，已知是指挥。</i>
+<i>Captain James T. Kirk, last known to be in command.</i>
+
+65
+00:04:48,402 --> 00:04:51,196
+你的信息是正确的。我是柯克舰长。
+Your information is correct. This is Captain Kirk.
+
+66
+00:04:51,279 --> 00:04:54,741
+<i>我是罗慕伦舰队的副指挥官塔尔。</i>
+<i>I am Sub-Commander Tal of the Romulan fleet.</i>
+
+67
+00:04:55,033 --> 00:04:57,035
+<i>你的船被包围了，舰长。</i>
+<i>Your ship is surrounded, captain.</i>
+
+68
+00:04:57,202 --> 00:05:00,455
+<i>请你立即投降，否则我们会摧毁你。</i>
+<i>You will surrender immediately or we will destroy you.</i>
+
+69
+00:05:01,373 --> 00:05:02,916
+上尉。
+Lieutenant.
+
+70
+00:05:04,459 --> 00:05:06,336
+他们想要什么东西，
+They want something,
+
+71
+00:05:06,712 --> 00:05:08,505
+否则他们早就把我们消灭了。
+or they would have destroyed us by now.
+
+72
+00:05:08,588 --> 00:05:12,342
+没错，舰长。那是标准的罗慕伦程序。
+True, captain. That would be standard Romulan procedure.
+
+73
+00:05:12,592 --> 00:05:15,595
+他们要的是我的飞船。而且非常想要。
+It's my ship they want. And very badly.
+
+74
+00:05:15,679 --> 00:05:18,223
+它将是一个很好的战利品。
+It would be a great prize.
+
+75
+00:05:20,016 --> 00:05:21,393
+上尉。
+Lieutenant.
+
+76
+00:05:21,643 --> 00:05:23,186
+省省你的威胁吧。
+Save your threats.
+
+77
+00:05:23,270 --> 00:05:26,440
+如果你登上这艘船，我就炸了它。你将一无所获。
+If you board this ship, I'll blow it up. You'll gain nothing.
+
+78
+00:05:26,523 --> 00:05:29,735
+<i>- 你旁边的是谁？</i> - 我的大副，史波克上校。
+<i>- Who is that beside you?</i> - My first officer, Commander Spock.
+
+79
+00:05:29,818 --> 00:05:31,027
+<i>瓦肯人。</i>
+<i>Vulcan.</i>
+
+80
+00:05:31,153 --> 00:05:32,779
+[对讲机哔哔声]
+[INTERCOM BEEPS]
+
+81
+00:05:36,032 --> 00:05:37,534
+<i>是的，指挥官。</i>
+<i>Yes, commander.</i>
+
+82
+00:05:39,536 --> 00:05:41,246
+<i>是的，指挥官。</i>
+<i>Yes, commander.</i>
+
+83
+00:05:43,957 --> 00:05:46,752
+<i>任何人都不应该这么快就决定去死，舰长。</i>
+<i>No one should decide quickly to die, captain.</i>
+
+84
+00:05:47,002 --> 00:05:49,129
+<i>我们给你一个小时。</i>
+<i>We give you one of your hours.</i>
+
+85
+00:05:49,254 --> 00:05:52,007
+<i>如果时间到了不交出你的船，</i>
+<i>If you do not surrender your ship at the end of that time,</i>
+
+86
+00:05:52,215 --> 00:05:54,009
+<i>你的毁灭是必然的。</i>
+<i>your destruction is certain.</i>
+
+87
+00:05:54,217 --> 00:05:57,679
+<i>如果你想，我们乐意交流。</i>
+<i>We will be open to communication, should you wish it.</i>
+
+88
+00:05:58,972 --> 00:06:01,516
+你要明白星际舰队司令部
+You understand that Starfleet Command
+
+89
+00:06:01,600 --> 00:06:04,478
+已被告知情况。
+has been advised of the situation.
+
+90
+00:06:04,686 --> 00:06:09,191
+<i>一条子空间消息需要三周时间才能到达星际舰队。</i>
+<i>A sub-space message will take three weeks to reach Starfleet.</i>
+
+91
+00:06:09,524 --> 00:06:12,903
+<i>决定权在你，舰长。一小时。</i>
+<i>The decision is yours, captain. One hour.</i>
+
+92
+00:06:14,821 --> 00:06:17,032
+柯克：这艘船的设计是一样的。
+KIRK: The design of the ship is the same.
+
+93
+00:06:18,200 --> 00:06:19,659
+史波克先生，
+Mr. Spock,
+
+94
+00:06:19,868 --> 00:06:21,995
+你说你有一个理论，为什么你的传感器
+you said you had a theory on why your sensors
+
+95
+00:06:22,078 --> 00:06:25,290
+在新船到达我们面前时才检测到它们？
+didn't pick up the new ships until they were upon us?
+
+96
+00:06:25,540 --> 00:06:28,668
+我相信罗慕伦人已经开发出一种隐形装置
+I believe the Romulans have developed a cloaking device
+
+97
+00:06:28,752 --> 00:06:31,213
+这使我们的跟踪传感器失效。
+which renders our tracking sensors useless.
+
+98
+00:06:31,296 --> 00:06:33,757
+如果是这样，罗慕伦人可以攻击联邦领域
+If so, the Romulans could attack into Federation territory
+
+99
+00:06:33,840 --> 00:06:36,176
+在我们知道他们在那里之前，甚至在一艘船
+before we knew they were there, before a vessel
+
+100
+00:06:36,301 --> 00:06:39,429
+或者一个星球开始建立防线前。
+or a planet could even begin to get their defenses up.
+
+101
+00:06:39,513 --> 00:06:41,473
+他们抓住了我们，没错。
+They caught us, right enough.
+
+102
+00:06:41,556 --> 00:06:45,310
+这是一个绝妙的观察，斯科特先生。你还有其他有用的意见吗？
+That's a brilliant observation, Mr. Scott. Do you have other helpful opinions?
+
+103
+00:06:45,435 --> 00:06:48,438
+- 好吧，我们没有太多选择。 - 我们有三个。
+- Well, we've not got many choices. - We have three.
+
+104
+00:06:48,897 --> 00:06:51,316
+我们可以战斗然后被摧毁。
+We can fight and be destroyed.
+
+105
+00:06:51,525 --> 00:06:54,611
+或者我们可以自己摧毁<i>企业号</i>
+Or we can destroy the <i>Enterprise</i> ourselves
+
+106
+00:06:54,736 --> 00:06:57,280
+让她远离罗慕伦人，或者我们可以……
+and keep her from the Romulans, or we can...
+
+107
+00:06:57,989 --> 00:06:59,407
+...投降。
+...surrender.
+
+108
+00:07:00,700 --> 00:07:02,244
+先生们，意见？
+Opinions, gentlemen?
+
+109
+00:07:02,327 --> 00:07:04,329
+如果<i>企业号</i>被罗慕伦人夺取
+If the <i>Enterprise</i> is taken by the Romulans
+
+110
+00:07:04,412 --> 00:07:07,249
+他们会知道关于星舰的一切。
+they'll know everything there is to know about a starship.
+
+111
+00:07:10,669 --> 00:07:14,256
+如果我们没有遵守你的命令穿过中立区
+If we had not crossed the neutral zone on your order
+
+112
+00:07:14,464 --> 00:07:17,843
+你现在就不需要我们的意见来支持决定
+you would not now need our opinions to support a decision
+
+113
+00:07:17,926 --> 00:07:19,761
+这本不该发生。
+which should never have had to be made.
+
+114
+00:07:19,845 --> 00:07:22,681
+吉姆，你命令我们？
+Jim, you ordered us?
+
+115
+00:07:22,806 --> 00:07:24,307
+你没有权限。
+You had no authority.
+
+116
+00:07:24,432 --> 00:07:26,184
+- 解散，医生。 - 吉姆。
+- Dismissed, doctor. - Jim.
+
+117
+00:07:26,309 --> 00:07:28,770
+我说解散。
+I said dismissed.
+
+118
+00:07:35,986 --> 00:07:37,654
+[对讲机铃声]
+[INTERCOM CHIMES]
+
+119
+00:07:37,737 --> 00:07:39,823
+乌乎拉 [通过对讲机]：<i>舰桥呼叫柯克舰长。</i>
+UHURA [OVER INTERCOM]: <i>Bridge to Captain Kirk.</i>
+
+120
+00:07:44,077 --> 00:07:45,287
+我是柯克
+Kirk here.
+
+121
+00:07:45,412 --> 00:07:47,914
+罗慕伦船只再次发出信号，长官。
+The Romulan vessel is signaling again, sir.
+
+122
+00:07:50,750 --> 00:07:53,879
+- 将它们放在屏幕上。 - 乌乎拉：<i>是的，长官。</i>
+- Put them on the screen. - UHURA: <i>Aye, aye, sir.</i>
+
+123
+00:07:55,839 --> 00:07:59,050
+<i>我的指挥官想和你谈谈，柯克舰长。</i>
+<i>My commander wishes to speak with you, Captain Kirk.</i>
+
+124
+00:07:59,217 --> 00:08:00,468
+接通他
+Put him on.
+
+125
+00:08:00,552 --> 00:08:02,262
+<i>指挥官想见你</i>
+<i>The commander wishes to see you</i>
+
+126
+00:08:02,345 --> 00:08:04,723
+<i>和你在这艘船上的大副。</i>
+<i>and your first officer aboard this vessel.</i>
+
+127
+00:08:05,348 --> 00:08:08,226
+<i>感觉这个问题需要讨论。</i>
+<i>It is felt this matter requires discussion.</i>
+
+128
+00:08:08,310 --> 00:08:11,187
+为什么我们要自投罗网？
+Why should we walk right into your hands?
+
+129
+00:08:11,354 --> 00:08:14,316
+<i>我的两名军官将传送上你的船</i>
+<i>Two of my officers will beam aboard your vessel</i>
+
+130
+00:08:14,441 --> 00:08:16,985
+<i>作为交换人质。</i>
+<i>as exchanged hostages while you are here.</i>
+
+131
+00:08:17,068 --> 00:08:20,989
+我们有什么保证他们会登上我们的船
+What guarantee do we have that they'll beam aboard our ship
+
+132
+00:08:21,281 --> 00:08:22,616
+一旦我们上了你的船？
+once we're on yours?
+
+133
+00:08:22,741 --> 00:08:26,328
+<i>诚然，我们不会轻易信任对方，舰长。</i>
+<i>Granted, we do not easily trust each other, captain.</i>
+
+134
+00:08:26,786 --> 00:08:29,706
+<i>但你们是侵犯我们领土的人。</i>
+<i>But you are the ones who violated our territory.</i>
+
+135
+00:08:29,915 --> 00:08:32,751
+<i>不应该是我们不信任你的动机吗？</i>
+<i>Should it not be we who distrust your motives?</i>
+
+136
+00:08:32,876 --> 00:08:36,504
+<i>但是，我们同意同时交换。</i>
+<i>However, we agree to simultaneous exchange.</i>
+
+137
+00:08:41,635 --> 00:08:44,930
+给我们你的传送坐标。我们正在传送上船。
+Give us your transporter coordinates. We're beaming aboard.
+
+138
+00:08:48,600 --> 00:08:53,104
+最后一个命令，工程师斯科特。如果我们不回来，
+One final order, Engineer Scott. If we do not return,
+
+139
+00:08:53,188 --> 00:08:55,065
+一定不能让<i>企业号</i>被夺走。
+the <i>Enterprise</i> must not be taken.
+
+140
+00:08:55,148 --> 00:08:58,944
+如果罗慕伦人试图这样做，你要战斗，如果有必要的话
+If the Romulans attempt it, you're to fight and if necessary
+
+141
+00:08:59,152 --> 00:09:01,071
+自毁，明白吗？
+destroy yourselves, is that clear?
+
+142
+00:09:01,196 --> 00:09:02,906
+非常明白。
+Perfectly clear.
+
+143
+00:09:09,412 --> 00:09:10,956
+启动。
+Energize.
+
+144
+00:09:35,480 --> 00:09:36,898
+柯克舰长。
+Captain Kirk.
+
+145
+00:09:39,150 --> 00:09:42,070
+指挥官，我很荣幸。
+Commander, I'm honored.
+
+146
+00:09:44,114 --> 00:09:45,949
+我不这么认为。
+I don't think so.
+
+147
+00:09:46,908 --> 00:09:49,661
+但是我们有一件重要的事情要讨论。
+But we have an important matter to discuss.
+
+148
+00:09:50,578 --> 00:09:55,250
+你表面上的礼貌是讨论的序曲。
+And your superficial courtesies are an overture to that discussion.
+
+149
+00:09:57,752 --> 00:09:59,504
+你就是大副。
+You are the first officer.
+
+150
+00:10:00,922 --> 00:10:02,424
+史波克。
+Spock.
+
+151
+00:10:04,092 --> 00:10:06,594
+我先和舰长说话。
+I speak first with the captain.
+
+152
+00:10:07,095 --> 00:10:08,763
+你可以在外面等。
+You may wait outside.
+
+153
+00:10:12,600 --> 00:10:16,563
+侵入罗慕伦空间的事情是银河系的重要事件之一，
+The matter of trespass into Romulan space is one of galactic import,
+
+154
+00:10:16,855 --> 00:10:18,523
+违反了条约。
+a violation of treaties.
+
+155
+00:10:20,025 --> 00:10:22,027
+现在，我简单地问你，
+Now, I ask you simply,
+
+156
+00:10:22,652 --> 00:10:24,070
+你在这里的使命是什么？
+what is your mission here?
+
+157
+00:10:24,195 --> 00:10:27,490
+仪器故障导致导航错误。
+Instrument failure caused navigational error.
+
+158
+00:10:27,657 --> 00:10:29,784
+在我们意识到之前，我们已经穿过了中立区。
+We were across the neutral zone before we realized it.
+
+159
+00:10:29,909 --> 00:10:32,162
+我们还没来得及回来就被你们的船包围了。
+We were surrounded by your ships before we could get back.
+
+160
+00:10:32,245 --> 00:10:33,830
+一艘星舰，
+A starship,
+
+161
+00:10:34,289 --> 00:10:36,958
+星际舰队最好的船只之一。
+one of the Starfleet's finest vessels.
+
+162
+00:10:38,084 --> 00:10:41,963
+你是说仪器故障正如你说的那样根本没有引起注意
+You are saying instrument failure as radical as you suggest went unnoticed
+
+163
+00:10:42,047 --> 00:10:44,007
+直到你完全穿过中立区？
+until you were well past the neutral zone?
+
+164
+00:10:44,090 --> 00:10:46,718
+可能会发生事故，断电、备用系统可能会出现故障。
+Accidents can happen, cut-off, back-up systems can malfunction.
+
+165
+00:10:46,801 --> 00:10:48,511
+我们几个月前就该进行全面检修了。
+We were due for an overhaul months ago.
+
+166
+00:10:48,595 --> 00:10:50,055
+我知道了。
+I see.
+
+167
+00:10:50,138 --> 00:10:52,807
+但是你能在有故障时导航？
+But you were able to navigate with this malfunction?
+
+168
+00:10:52,932 --> 00:10:54,476
+错误已得到纠正。
+The error was corrected.
+
+169
+00:10:54,601 --> 00:10:57,062
+但我怀疑这是否能排除你的间谍嫌疑。
+But I doubt if it will clear you of espionage.
+
+170
+00:10:57,437 --> 00:10:59,481
+我们不是在当间谍，指挥官。
+We were not spying, commander.
+
+171
+00:10:59,564 --> 00:11:02,484
+你的语言对我来说一直是最难的，舰长。
+Your language has always been most difficult for me, captain.
+
+172
+00:11:02,567 --> 00:11:04,360
+也许你有另一种说法？
+Perhaps you have another word for it?
+
+173
+00:11:04,486 --> 00:11:07,030
+如果你认为我们在那里，那你就大错特错了--
+You are grossly mistaken if you think that we were there--
+
+174
+00:11:07,113 --> 00:11:09,240
+- 你听我说-- - 如果是罗慕伦船只
+- You listen to me-- - If a Romulan vessel
+
+175
+00:11:09,324 --> 00:11:13,787
+没有很好的解释就冒险深入联邦领域，
+ventured far into Federation territory without good explanation,
+
+176
+00:11:14,245 --> 00:11:16,539
+星际基地指挥官会做什么？
+what would a starbase commander do?
+
+177
+00:11:16,831 --> 00:11:18,291
+你看，
+You see,
+
+178
+00:11:18,875 --> 00:11:20,502
+它是双向的。
+it works both ways.
+
+179
+00:11:20,835 --> 00:11:23,463
+我几乎不相信你是受害方。
+I hardly believe you are the injured party.
+
+180
+00:11:26,508 --> 00:11:27,634
+史波克。
+Spock.
+
+181
+00:11:27,926 --> 00:11:29,260
+进来吧。
+Come in.
+
+182
+00:11:39,062 --> 00:11:41,481
+舰长发表了声明。
+The captain has made his statement.
+
+183
+00:11:43,858 --> 00:11:45,151
+我明白。
+I understand.
+
+184
+00:11:45,276 --> 00:11:46,820
+我必须承认
+I must admit
+
+185
+00:11:47,070 --> 00:11:49,114
+见到你有点惊喜，史波克。
+some surprise on seeing you, Spock.
+
+186
+00:11:50,406 --> 00:11:52,742
+我们不知道<i>企业号</i>上有瓦肯人。
+We were not aware of Vulcans aboard the <i>Enterprise</i>.
+
+187
+00:11:52,867 --> 00:11:54,744
+星际舰队没有习惯
+Starfleet is not in the habit
+
+188
+00:11:54,911 --> 00:11:57,288
+告知罗慕伦人其舰只的人员情况。
+of informing Romulans of its ships' personnel.
+
+189
+00:11:57,413 --> 00:11:58,748
+的确。
+Quite so.
+
+190
+00:11:58,915 --> 00:12:01,000
+然而有一些船，
+Yet there are certain ships,
+
+191
+00:12:01,835 --> 00:12:05,088
+一些我们认识的官员。
+certain officers that are known to us.
+
+192
+00:12:05,255 --> 00:12:07,674
+你的情况看起来最有趣。
+Your situation appears most interesting.
+
+193
+00:12:07,799 --> 00:12:10,593
+是什么让你对史巴克特别感兴趣？
+What earns Spock your special interest?
+
+194
+00:12:10,718 --> 00:12:12,428
+他是个瓦肯人。
+He is a Vulcan.
+
+195
+00:12:12,887 --> 00:12:15,181
+我们的祖先有着相同的根源
+Our forebears had the same roots
+
+196
+00:12:15,473 --> 00:12:18,476
+和起源，你不会明白的，舰长。
+and origins, something you wouldn't understand, captain.
+
+197
+00:12:18,560 --> 00:12:21,146
+我们能感应瓦肯人，
+We can appreciate the Vulcans,
+
+198
+00:12:21,563 --> 00:12:23,273
+我们远方的兄弟。
+our distant brothers.
+
+199
+00:12:26,234 --> 00:12:30,572
+我听说过瓦肯诚实
+I have heard of Vulcan integrity
+
+200
+00:12:30,989 --> 00:12:32,824
+和个人荣誉。
+and personal honor.
+
+201
+00:12:33,658 --> 00:12:35,785
+有个著名说法，
+There is a well-known saying,
+
+202
+00:12:36,578 --> 00:12:38,413
+抑或是谣传，
+or is it a myth,
+
+203
+00:12:38,830 --> 00:12:41,457
+瓦肯人不会说谎。
+that Vulcans are incapable of lying.
+
+204
+00:12:41,749 --> 00:12:43,418
+这不是谣传。
+It is no myth.
+
+205
+00:12:45,753 --> 00:12:48,089
+那么现在就如实告诉我，
+Then tell me truthfully now,
+
+206
+00:12:48,715 --> 00:12:53,303
+以你作为瓦肯人的荣誉，你们的任务是什么？
+by your honor as a Vulcan, what was your mission?
+
+207
+00:12:54,220 --> 00:12:56,222
+我保留发言权
+I reserve the privilege of speaking
+
+208
+00:12:56,347 --> 00:12:59,976
+只有当它不会侵犯我作为瓦肯人的荣誉时。
+only when it will not violate my honor as a Vulcan.
+
+209
+00:13:01,895 --> 00:13:06,024
+一个瓦肯人不值得诉诸诡计。
+It is unworthy of a Vulcan to resort to subterfuge.
+
+210
+00:13:06,149 --> 00:13:08,276
+你很聪明，指挥官。
+You're being clever, commander.
+
+211
+00:13:08,610 --> 00:13:10,904
+这是罗慕伦人所不配的。
+That is unworthy of a Romulan.
+
+212
+00:13:11,279 --> 00:13:14,741
+对自己隐瞒真相并不是谎言。
+It is not a lie to keep the truth to oneself.
+
+213
+00:13:17,493 --> 00:13:19,746
+那么这里有一个真相
+Then there is a truth here
+
+214
+00:13:20,038 --> 00:13:21,581
+仍然没有说出来。
+that remains unspoken.
+
+215
+00:13:21,706 --> 00:13:23,958
+都告诉你了，没什么好说的。
+You've been told everything, there's nothing else to say.
+
+216
+00:13:24,250 --> 00:13:27,879
+这是史波克先生不肯透露的真相。
+There is Mr. Spock's unspoken truth.
+
+217
+00:13:28,338 --> 00:13:32,258
+你知道我们开发的隐形装置。
+You knew of the cloaking device that we have developed.
+
+218
+00:13:32,717 --> 00:13:35,011
+你故意侵犯罗慕伦空间
+You deliberately violated Romulan space
+
+219
+00:13:35,136 --> 00:13:38,514
+根据联邦司令部的命令公然执行间谍任务。
+with a blatant spy mission by order of the Federation Command.
+
+220
+00:13:38,640 --> 00:13:41,976
+- 我们都经历过。 - 我们甚至还没有开始。
+- We've been all through that. - We have not even begun.
+
+221
+00:13:46,231 --> 00:13:49,275
+我没有能用的手段
+There is no force that I can use
+
+222
+00:13:49,943 --> 00:13:53,905
+来让一个瓦肯人说话。
+on a Vulcan that will make him speak.
+
+223
+00:13:54,364 --> 00:13:56,199
+这是事实。
+That is a fact.
+
+224
+00:13:57,158 --> 00:13:59,327
+但是有罗慕伦人的方法
+But there are Romulan methods
+
+225
+00:13:59,535 --> 00:14:02,372
+对人类和人类弱点
+completely effective against humans
+
+226
+00:14:03,122 --> 00:14:05,250
+完全有效。
+and human weaknesses.
+
+227
+00:14:05,625 --> 00:14:08,086
+你不会求助于他们，指挥官。
+You would not resort to them, commander.
+
+228
+00:14:08,503 --> 00:14:11,547
+他们将证明对舰长无效。
+They would prove ineffective against the captain.
+
+229
+00:14:11,756 --> 00:14:13,758
+然后他们会让他死，
+Then they will leave him dead,
+
+230
+00:14:14,050 --> 00:14:16,928
+或者比死更糟糕的事情。
+or what might be worse than dead.
+
+231
+00:14:17,136 --> 00:14:20,431
+但我会知道你不肯透露的真相。
+But I will know your unspoken truths.
+
+232
+00:14:20,598 --> 00:14:22,517
+让她骂。没什么好说的。
+Let her rant. There's nothing to say.
+
+233
+00:14:22,642 --> 00:14:25,186
+我不能让船长被进一步摧毁。 
+I cannot allow the captain to be further destroyed.
+
+234
+00:14:25,270 --> 00:14:27,438
+指挥的压力给他带来了沉重的负担。
+The strain of command has worn heavily upon him.
+
+235
+00:14:27,522 --> 00:14:30,566
+- 他这几周都不像他自己了。 - 骗人。
+- He's not been himself for weeks. - That's a lie.
+
+236
+00:14:30,650 --> 00:14:34,737
+如你所见，柯克舰长是一个非常敏感和情绪化的人。
+As you can see, Captain Kirk is a highly sensitive and emotional person.
+
+237
+00:14:34,904 --> 00:14:37,407
+我相信他已经失去了理性决策的能力。
+I believe he has lost the capacity for rational decision.
+
+238
+00:14:37,490 --> 00:14:40,660
+- 闭嘴，史波克。 - 我没有泄露任何秘密。
+- Shut up, Spock. - I am betraying no secrets.
+
+239
+00:14:40,743 --> 00:14:42,996
+指挥官怀疑是星际舰队命令
+The commander's suspicion that Starfleet ordered
+
+240
+00:14:43,079 --> 00:14:45,832
+<i>企业号</i>进入中立区的，这是不可接受的。
+the <i>Enterprise</i> into the neutral zone is unacceptable.
+
+241
+00:14:45,957 --> 00:14:48,835
+我们的快速捕获证明了它的鲁莽。
+Our rapid capture demonstrates its foolhardiness.
+
+242
+00:14:48,918 --> 00:14:50,461
+你这个肮脏的骗子。
+You filthy liar.
+
+243
+00:14:50,586 --> 00:14:52,088
+我说的是实话
+I am speaking the truth
+
+244
+00:14:52,213 --> 00:14:54,882
+为了<i>企业号</i>和联邦的利益。
+for the benefit of the <i>Enterprise</i> and the Federation.
+
+245
+00:14:55,008 --> 00:14:57,719
+我说现在并记录在案
+I say now and for the record
+
+246
+00:14:57,844 --> 00:15:01,306
+柯克舰长命令<i>企业号</i>穿越中立区
+that Captain Kirk ordered the <i>Enterprise</i> across the neutral zone
+
+247
+00:15:01,389 --> 00:15:04,267
+靠他自己的主动性和他对荣耀的渴望。
+on his own initiative and his craving for glory.
+
+248
+00:15:04,392 --> 00:15:07,145
+我会为此杀了你，你这个叛徒，我会杀了你。
+I'll kill you for this, you traitor, I'll kill you.
+
+249
+00:15:09,522 --> 00:15:11,607
+我会杀了你。
+I'll kill you.
+
+250
+00:15:11,691 --> 00:15:13,609
+他不理智。
+He is not sane.
+
+251
+00:15:27,582 --> 00:15:31,294
+注意，<i>企业号</i>。我在罗慕伦旗舰上和你们讲话。
+Attention, <i>Enterprise</i>. I am speaking to you from the Romulan flagship.
+
+252
+00:15:31,419 --> 00:15:35,465
+联邦星舰企业号<i>，由詹姆斯·T·柯克舰长指挥</i>
+<i>The</i> USS Enterprise, <i>under command of Captain James T. Kirk</i>
+
+253
+00:15:35,548 --> 00:15:39,093
+<i>正式被指控犯有间谍罪。</i>
+<i>is formally charged with espionage.</i>
+
+254
+00:15:39,344 --> 00:15:41,554
+<i>大副史波克的证词</i>
+<i>The testimony of First Officer Spock</i>
+
+255
+00:15:41,637 --> 00:15:43,973
+<i>非常有助于确认</i>
+<i>was highly instrumental in confirming</i>
+
+256
+00:15:44,098 --> 00:15:48,019
+<i>这次闯入罗慕伦领域并非偶然。</i>
+<i>this intrusion into Romulan space was not an accident.</i>
+
+257
+00:15:48,227 --> 00:15:51,064
+<i>大副史波克的证词很具体</i>
+<i>First Officer Spock's testimony was specific</i>
+
+258
+00:15:51,147 --> 00:15:54,901
+<i>你的船没有受星际舰队司令部或联邦委员会的命令</i>
+<i>that your ship was not under orders from Starfleet Command</i>
+
+259
+00:15:54,984 --> 00:15:58,780
+<i>执行这样的间谍任务。</i>
+<i>or the Federation Council to perform such a spy mission.</i>
+
+260
+00:15:58,905 --> 00:16:02,533
+全权负责的是柯克舰长。
+It was Captain Kirk who was solely responsible.
+
+261
+00:16:02,742 --> 00:16:05,328
+由于船员们不得不服从命令，
+Since the crew had no choice but to obey orders,
+
+262
+00:16:05,411 --> 00:16:07,663
+船员将不承担任何责任。
+the crew will not be held responsible.
+
+263
+00:16:07,747 --> 00:16:10,541
+因此，我命令工程师斯科特，
+Therefore, I am ordering Engineer Scott,
+
+264
+00:16:10,625 --> 00:16:12,794
+目前指挥<i>企业号</i>，
+presently in command of the <i>Enterprise</i>,
+
+265
+00:16:12,919 --> 00:16:14,796
+跟随罗慕伦旗舰
+to follow the Romulan flagship
+
+266
+00:16:15,088 --> 00:16:16,714
+<i>到我们的大本营。</i>
+<i>to our home base.</i>
+
+267
+00:16:16,798 --> 00:16:20,802
+<i>你将在那里接受处理并释放到联邦指挥部。</i>
+<i>You will there be processed and released to Federation Command.</i>
+
+268
+00:16:21,094 --> 00:16:26,641
+<i>在判决通过之前，柯克舰长将被监禁。</i>
+<i>Until judgment is passed, Captain Kirk will be held in confinement.</i>
+
+269
+00:16:29,394 --> 00:16:33,689
+保安。把我们的两个罗慕伦人质关禁闭。
+Security. Put our two Romulan hostages in the brig.
+
+270
+00:16:33,940 --> 00:16:37,693
+乌乎拉上尉，帮我接通那艘船。
+Lieutenant Uhura, give me a channel to that ship.
+
+271
+00:16:40,446 --> 00:16:43,533
+频道开放了，斯科特先生，你被接入了。
+Channel is open, Mr. Scott, and you are tied in.
+
+272
+00:16:44,450 --> 00:16:47,370
+这是斯科特少校。
+This is Lieutenant Commander Scott.
+
+273
+00:16:47,620 --> 00:16:52,250
+<i>企业号</i>只接受柯克舰长的命令。
+The <i>Enterprise</i> takes no orders except those of Captain Kirk.
+
+274
+00:16:52,375 --> 00:16:55,711
+<i>我们会一直待在这里，直到他回来。</i>
+<i>And we will stay right here until he returns.</i>
+
+275
+00:16:56,045 --> 00:17:00,341
+<i>如果你试图登上或征用</i>企业号，
+<i>And if you make any attempt to board or commandeer the</i> Enterprise,
+
+276
+00:17:00,425 --> 00:17:05,763
+<i>我们将尽可能地将你们和飞船一起炸成碎片。</i>
+<i>it will be blown to bits along with as many of you as we can take with us.</i>
+
+277
+00:17:05,847 --> 00:17:08,850
+你们人类发出了勇敢的声音。
+You humans make a brave noise.
+
+278
+00:17:09,642 --> 00:17:13,396
+有很多方法可以让你相信自己的错误。
+There are ways to convince you of your errors.
+
+279
+00:17:13,604 --> 00:17:14,939
+你听到了吗，胆小鬼？
+Did you hear that, you coward?
+
+280
+00:17:15,064 --> 00:17:17,233
+你背叛了你所知道的一切有价值的东西。
+You've betrayed everything of value you ever knew.
+
+281
+00:17:17,316 --> 00:17:19,110
+你听到人类正直的声音了吗？
+Did you hear the sound of human integrity?
+
+282
+00:17:19,193 --> 00:17:21,487
+带他去保安室。
+Take him to the security room.
+
+283
+00:17:31,205 --> 00:17:33,374
+人类中的瓦肯人，
+A Vulcan among humans,
+
+284
+00:17:33,749 --> 00:17:35,543
+与他们一起生活、工作。
+living, working with them.
+
+285
+00:17:36,294 --> 00:17:39,046
+我本以为这种情况会让你无法忍受。
+I would think the situation would be intolerable to you.
+
+286
+00:17:39,255 --> 00:17:42,300
+我是半个瓦肯人。我妈妈是人类。
+I am half-Vulcan. My mother is a human.
+
+287
+00:17:42,425 --> 00:17:44,343
+那你效忠于谁呢？
+To whom is your allegiance then?
+
+288
+00:17:45,178 --> 00:17:47,930
+你称自己为地球人还是瓦肯人？
+Do you call yourself Terran or Vulcan?
+
+289
+00:17:48,389 --> 00:17:50,016
+瓦肯人。
+Vulcan.
+
+290
+00:17:53,478 --> 00:17:56,439
+你当星际舰队军官多久了，史波克？
+How long have you been a Starfleet officer, Spock?
+
+291
+00:17:56,647 --> 00:18:00,151
+- 十八年。 - 你为柯克舰长服务。
+- Eighteen years. - And you serve Captain Kirk.
+
+292
+00:18:00,818 --> 00:18:03,446
+你喜欢他吗？你喜欢你的船员吗？
+Do you like him? Do you like your shipmates?
+
+293
+00:18:03,696 --> 00:18:07,283
+- 这个问题无关紧要。 - 可能。
+- The question is irrelevant. - Possibly.
+
+294
+00:18:07,366 --> 00:18:12,330
+但你服从柯克舰长的命令，甚至服从于他的一时兴起。
+But you are subordinate to Captain Kirk's orders, even to his whims.
+
+295
+00:18:12,413 --> 00:18:15,082
+作为一名军官，我的职责是服从他。
+My duty as an officer is to obey him.
+
+296
+00:18:17,877 --> 00:18:20,296
+你是个更优秀的人。
+You are a superior being.
+
+297
+00:18:21,422 --> 00:18:23,508
+为什么不指挥？
+Why do you not command?
+
+298
+00:18:24,467 --> 00:18:26,844
+我不想要一艘我自己的船。
+I do not desire a ship of my own.
+
+299
+00:18:26,928 --> 00:18:32,183
+还是说没有人给你这个瓦肯人提供这种机会？
+Or is it that no one has offered you, a Vulcan, that opportunity?
+
+300
+00:18:32,391 --> 00:18:36,354
+这样的机会极为罕见。
+Such opportunities are extremely rare.
+
+301
+00:18:36,521 --> 00:18:39,941
+对于有你能力和成就的人，
+For someone with your capabilities and accomplishments,
+
+302
+00:18:40,066 --> 00:18:42,360
+机会来了。
+opportunities are made.
+
+303
+00:18:43,152 --> 00:18:44,820
+将来也是。
+And will be.
+
+304
+00:18:45,071 --> 00:18:47,657
+如果你不再把联邦看成是整个宇宙，
+I will see to that if you will stop looking on the Federation
+
+305
+00:18:47,740 --> 00:18:49,534
+我就会看到这一点。
+as the whole universe.
+
+306
+00:18:49,742 --> 00:18:51,577
+不是的，你知道的。
+It is not, you know.
+
+307
+00:18:53,621 --> 00:18:57,291
+这个想法偶尔会在我脑海中闪过。
+That thought has occasionally crossed my mind.
+
+308
+00:19:03,923 --> 00:19:05,925
+你必须有自己的船。
+You must have your own ship.
+
+309
+00:19:07,093 --> 00:19:09,220
+指挥官，我们说清楚好吗？
+Commander, shall we speak plainly?
+
+310
+00:19:11,097 --> 00:19:13,808
+是你迫切需要一艘船。
+It is you who desperately need a ship.
+
+311
+00:19:14,308 --> 00:19:16,644
+你想要<i>企业号</i>。
+You want the <i>Enterprise</i>.
+
+312
+00:19:20,022 --> 00:19:21,399
+当然。
+Of course.
+
+313
+00:19:22,483 --> 00:19:26,946
+将<i>企业号</i>完好无损地带回家对我来说将是一项了不起的成就。
+It would be a great achievement for me to bring home the <i>Enterprise</i> intact.
+
+314
+00:19:27,488 --> 00:19:30,283
+这将大大拓宽我的权力范围。
+It would broaden the scope of my powers greatly.
+
+315
+00:19:30,491 --> 00:19:32,910
+这将是一生的成就。
+It would be the achievement of a lifetime.
+
+316
+00:19:34,954 --> 00:19:37,873
+它将为你提供平等的机会。
+And it would open equal opportunities for you.
+
+317
+00:19:53,180 --> 00:19:54,724
+[尖叫]
+[SCREAMS]
+
+318
+00:20:01,564 --> 00:20:03,608
+乌乎拉 [通过对讲机]：<i>舰桥呼叫麦考伊医生。</i>
+UHURA [OVER INTERCOM]: <i>Bridge to Dr. McCoy.</i>
+
+319
+00:20:05,234 --> 00:20:07,486
+- 我是麦考伊。 - 医生，你必须立即登船
+- McCoy here. - Doctor, you must beam aboard
+
+320
+00:20:07,570 --> 00:20:10,239
+罗慕伦旗舰有人受伤了。
+the Romulan flagship immediately. There's been an injury.
+
+321
+00:20:10,364 --> 00:20:13,951
+- 我不上门服务。 - 医生，我是柯克舰长。
+- I don't make house calls. - Doctor, it's Captain Kirk.
+
+322
+00:20:29,383 --> 00:20:31,677
+他会康复，但需要进一步关注。
+He'll recover, but he'll need further attention.
+
+323
+00:20:32,011 --> 00:20:34,013
+通知你的上级。
+Inform your superior.
+
+324
+00:20:38,893 --> 00:20:40,436
+[对讲机哔哔声]
+[INTERCOM BEEPS]
+
+325
+00:20:43,022 --> 00:20:44,357
+什么事？
+Yes?
+
+326
+00:20:45,983 --> 00:20:47,652
+我会来的。
+I'll come there.
+
+327
+00:20:49,362 --> 00:20:50,988
+跟我来。
+Attend me.
+
+328
+00:20:56,786 --> 00:21:00,539
+我忘了说，我希望你来吃晚饭。
+I neglected to mention, I'll expect you for dinner.
+
+329
+00:21:00,956 --> 00:21:03,209
+我们有很多事情要讨论。
+We have much to discuss.
+
+330
+00:21:03,751 --> 00:21:05,294
+是吗？
+Indeed?
+
+331
+00:21:08,923 --> 00:21:12,677
+请允许我重新表述。
+Allow me to rephrase.
+
+332
+00:21:13,928 --> 00:21:16,097
+你能和我一起吃晚饭吗？
+Will you join me for dinner?
+
+333
+00:21:16,931 --> 00:21:19,016
+我很荣幸，指挥官。
+I am honored, commander.
+
+334
+00:21:19,517 --> 00:21:22,144
+守卫也请来了？
+Are the guards also invited?
+
+335
+00:21:35,574 --> 00:21:37,159
+史波克先生。
+Mr. Spock.
+
+336
+00:21:39,662 --> 00:21:43,958
+除了忠诚的罗慕伦人，这条走廊是禁止进入的。
+That corridor is forbidden to all but loyal Romulans.
+
+337
+00:21:46,377 --> 00:21:49,046
+当然。我会服从你的限制。
+Of course. I shall obey your restrictions.
+
+338
+00:21:50,923 --> 00:21:52,842
+我希望有一天
+I hope that one day
+
+339
+00:21:53,300 --> 00:21:57,304
+你无需遵守任何限制。
+there will be no need for you to observe any restrictions.
+
+340
+00:21:57,555 --> 00:21:59,640
+这将是不合逻辑的
+It would be illogical
+
+341
+00:21:59,890 --> 00:22:04,103
+假设所有条件保持稳定。
+to assume that all conditions remain stable.
+
+342
+00:22:25,708 --> 00:22:29,003
+- 你是医生吗？ - 麦考伊。
+- Are you the doctor? - McCoy.
+
+343
+00:22:29,837 --> 00:22:31,630
+首席医疗官。
+Chief medical officer.
+
+344
+00:22:31,881 --> 00:22:33,674
+柯克舰长的情况？
+Captain Kirk's condition?
+
+345
+00:22:33,924 --> 00:22:35,760
+嗯，你可以自己看看。
+Well, you can see for yourself.
+
+346
+00:22:35,843 --> 00:22:38,554
+他精神抑郁，身体虚弱，
+He's mentally depressed, physically weak,
+
+347
+00:22:38,637 --> 00:22:42,266
+迷失方向，表现出迫害和反叛的感觉。
+disoriented, displays feelings of persecution and rebellion.
+
+348
+00:22:42,391 --> 00:22:45,186
+那么按照你自己的正常标准，
+Then by your own standards of normality,
+
+349
+00:22:45,519 --> 00:22:47,396
+这个人并不完全能胜任。
+this man is not fully competent.
+
+350
+00:22:47,897 --> 00:22:49,356
+不能，现在不能。
+No, not now.
+
+351
+00:22:49,440 --> 00:22:52,193
+史波克 先生表示他相信
+Mr. Spock has stated that he believes
+
+352
+00:22:52,276 --> 00:22:57,865
+舰长没有权力或命令穿越中立区。
+the captain had no authority or order to cross the neutral zone.
+
+353
+00:22:58,032 --> 00:23:01,827
+早先是不是这种精神上的无能在困扰着他？
+Could this mental incapacity have afflicted him earlier?
+
+354
+00:23:01,911 --> 00:23:03,621
+是的，这是可能的。
+Yes, it's possible.
+
+355
+00:23:05,164 --> 00:23:06,582
+史波克先生，
+Mr. Spock,
+
+356
+00:23:06,832 --> 00:23:10,211
+医生现在已经证实了你的证词。
+the doctor has now confirmed your testimony.
+
+357
+00:23:10,294 --> 00:23:13,005
+至于你们舰长的精神状态，
+As to the mental state of your captain,
+
+358
+00:23:13,214 --> 00:23:16,801
+他过去和现在都不适合继续指挥<i>企业号</i>。
+he was and is unfit to continue in command of the <i>Enterprise</i>.
+
+359
+00:23:17,384 --> 00:23:19,720
+现在这个责任落在了你身上。
+That duty has now fallen on you.
+
+360
+00:23:20,012 --> 00:23:22,556
+你准备好行使这个功能了吗？
+Are you ready to exercise that function?
+
+361
+00:23:22,932 --> 00:23:25,601
+- 我已经准备好了。 - 史波克，我不相信。
+- I am ready. - Spock, I don't believe it.
+
+362
+00:23:26,018 --> 00:23:28,687
+你付不起让他出卖自己的代价。
+There's no price you could pay that would make him sell out.
+
+363
+00:23:28,771 --> 00:23:31,482
+此事不公开讨论，医生。
+The matter is not open for discussion, doctor.
+
+364
+00:23:31,565 --> 00:23:34,401
+- 你的意思是这件事是--？ - 够了，医生。
+- What do you mean the matter is--? - That's enough, doctor.
+
+365
+00:23:35,611 --> 00:23:38,614
+作为医生，你的职责是挽救生命。
+As a physician, your duty is to save lives.
+
+366
+00:23:39,406 --> 00:23:41,826
+史波克先生的职责是领导<i>企业号</i>
+Mr. Spock's duty is to lead the <i>Enterprise</i>
+
+367
+00:23:41,909 --> 00:23:44,495
+和它的船员到一个安全的避风港。
+and its crew to a safe haven.
+
+368
+00:23:44,578 --> 00:23:46,330
+别无选择，医生。
+There is no alternative, doctor.
+
+369
+00:23:46,497 --> 00:23:48,833
+船员的安全现在是最重要的问题。
+The safety of the crew is now the paramount issue.
+
+370
+00:23:48,916 --> 00:23:51,794
+再抵制下去就是误导性的忠诚了。
+It is misguided loyalty to resist any further.
+
+371
+00:23:51,877 --> 00:23:53,712
+你这个叛徒
+You traitor.
+
+372
+00:23:54,421 --> 00:23:56,173
+我会杀了你。
+I'll kill you.
+
+373
+00:23:57,341 --> 00:23:58,968
+我会杀了你。
+I'll kill you.
+
+374
+00:24:00,177 --> 00:24:01,720
+[柯克咕噜声]
+[KIRK GRUNTS]
+
+375
+00:24:10,271 --> 00:24:11,981
+你做了什么？
+What did you do?
+
+376
+00:24:14,775 --> 00:24:16,527
+你做了什么？
+What did you do?
+
+377
+00:24:17,403 --> 00:24:20,030
+我对他的攻击毫无准备。
+I was unprepared for his attack.
+
+378
+00:24:20,739 --> 00:24:24,660
+我本能地使用了瓦肯死亡之握。
+I instinctively used the Vulcan death grip.
+
+379
+00:24:27,746 --> 00:24:30,666
+你的直觉还是不错的，史波克先生。
+Your instincts are still good, Mr. Spock.
+
+380
+00:24:33,002 --> 00:24:35,087
+舰长死了。
+The captain is dead.
+
+381
+00:25:14,126 --> 00:25:16,462
+医生！麦考伊医生！
+Doctor! Dr. McCoy!
+
+382
+00:25:17,713 --> 00:25:19,340
+麦考伊医生。
+Dr. McCoy.
+
+383
+00:25:19,548 --> 00:25:21,592
+我留下了任何人不得进入这里的命令。
+I left orders that no one was to come in here.
+
+384
+00:25:21,675 --> 00:25:24,470
+- 他活着。活着。 - 好吧，既然你知道了，
+- He's alive. Alive. - Well, now that you know it,
+
+385
+00:25:24,595 --> 00:25:27,014
+你不妨帮帮我。把生理刺激器递给我。
+you might as well assist me. Hand me the physio-stimulator.
+
+386
+00:25:27,097 --> 00:25:29,433
+但他已经死了。他们的医生证明他已经死了。
+But he was dead. Their doctors certified he was dead.
+
+387
+00:25:29,516 --> 00:25:32,227
+史波克对他用了神经阻断术来模拟死亡。
+Spock gave him a nerve pinch to simulate death.
+
+388
+00:25:32,311 --> 00:25:34,396
+那么史波克先生不是叛徒。
+Then Mr. Spock isn't a traitor.
+
+389
+00:25:34,480 --> 00:25:36,482
+而你一直都知道，但你没有--
+And you knew that all the time and you didn't--
+
+390
+00:25:36,607 --> 00:25:39,234
+我登上罗慕伦飞船时才知道。
+I didn't know it until I beamed aboard the Romulan ship.
+
+391
+00:25:39,360 --> 00:25:42,237
+吉姆和史波克是在联邦的命令下行动的。
+Jim and Spock were operating under Federation orders.
+
+392
+00:25:56,877 --> 00:25:58,462
+[柯克呻吟]
+[KIRK GROANING]
+
+393
+00:26:04,802 --> 00:26:07,513
+我的脖子感觉像是被扭断了。
+My neck feels like it's been twisted off.
+
+394
+00:26:07,680 --> 00:26:09,848
+这是给你的瓦肯死亡之握。
+That's the Vulcan death grip for you.
+
+395
+00:26:10,140 --> 00:26:12,184
+没有瓦肯死亡之握这样的东西。
+There's no such thing as a Vulcan death grip.
+
+396
+00:26:12,351 --> 00:26:14,687
+哦，但罗慕伦人不知道这一点。
+Oh, but the Romulans don't know that.
+
+397
+00:26:14,770 --> 00:26:16,146
+确实骗过了医生们。
+Sure fooled the doctors.
+
+398
+00:26:16,230 --> 00:26:19,400
+你冒了很大的风险，他们没有开始尸检。
+You took a big chance that they didn't start an autopsy.
+
+399
+00:26:19,650 --> 00:26:22,778
+至于其他船员，我还是死了。
+As far as the rest of crew is concerned, I'm still dead.
+
+400
+00:26:22,861 --> 00:26:24,279
+为什么？
+Why?
+
+401
+00:26:25,406 --> 00:26:27,533
+这就是整个化妆舞会的目的。
+That's what this whole masquerade was about.
+
+402
+00:26:27,658 --> 00:26:30,869
+让<i>企业号</i>和联盟摆脱困境。
+To keep the <i>Enterprise</i> and the Federation off the hook.
+
+403
+00:26:32,079 --> 00:26:34,289
+因此，如果出现任何问题
+So that if any thing went wrong
+
+404
+00:26:34,665 --> 00:26:36,875
+你会受到指责。
+you would be the one to blame.
+
+405
+00:26:37,167 --> 00:26:38,669
+老骨头，
+Bones,
+
+406
+00:26:39,003 --> 00:26:40,963
+我要你为手术做准备。
+I want you to prepare for surgery.
+
+407
+00:26:41,130 --> 00:26:42,673
+做什么的？
+What for?
+
+408
+00:26:44,299 --> 00:26:46,051
+麦考伊 [通过对讲机]：<i>医务室呼叫舰桥。</i>
+McCOY [OVER INTERCOM]: <i>Sickbay to bridge.</i>
+
+409
+00:26:46,343 --> 00:26:47,803
+我是斯科特，医生。
+Scott here, doctor.
+
+410
+00:26:47,886 --> 00:26:50,014
+<i>斯科特先生，你能到医务室报告吗？</i>
+<i>Mr. Scott, will you report to Sickbay?</i>
+
+411
+00:26:50,097 --> 00:26:53,350
+医务室？这种时候我不能离开舰桥。
+Sickbay? I can't leave the bridge at a time like this.
+
+412
+00:26:53,434 --> 00:26:55,060
+你必须来，这事很紧急。
+You have to, it's urgent.
+
+413
+00:26:55,352 --> 00:26:58,230
+我们被准备攻击我们的敌舰包围，
+We're surrounded by enemy vessels ready to attack us,
+
+414
+00:26:58,313 --> 00:27:00,733
+我不知道还有什么比这更紧急。
+I don't know of anything more urgent than that.
+
+415
+00:27:00,858 --> 00:27:02,234
+我知道。
+Well, I do.
+
+416
+00:27:02,359 --> 00:27:04,570
+斯科特先生，拜托。
+Mr. Scott, please.
+
+417
+00:27:05,070 --> 00:27:06,905
+好的，医生。
+All right, doctor.
+
+418
+00:27:07,114 --> 00:27:09,783
+最好是重要的事。斯科特完毕。
+It better be important. Scott out.
+
+419
+00:27:14,288 --> 00:27:17,332
+好的，医生，什么事这么紧急--？
+All right, doctor, what's so urgent that--?
+
+420
+00:27:23,464 --> 00:27:25,090
+舰长。
+Captain.
+
+421
+00:27:28,886 --> 00:27:30,596
+柯克舰长。
+Captain Kirk.
+
+422
+00:27:31,972 --> 00:27:33,057
+是的。
+Yes.
+
+423
+00:27:33,182 --> 00:27:37,478
+好吧，你自己看起来就像是魔鬼，不过你是活的。
+Well, you look like the devil himself, but as long as you're alive.
+
+424
+00:27:37,561 --> 00:27:39,229
+这到底是怎么回事？
+What's it all about?
+
+425
+00:27:40,439 --> 00:27:42,900
+那些罗慕伦军官还在船上吗？
+Are those Romulan officers still aboard the ship?
+
+426
+00:27:42,983 --> 00:27:44,526
+他们在禁闭室，长官。
+They're in the brig, sir.
+
+427
+00:27:44,777 --> 00:27:46,904
+我需要一件罗慕伦制服。
+I'll need a Romulan uniform.
+
+428
+00:27:47,821 --> 00:27:50,783
+是的，我很乐意。
+Aye. It'll be a pleasure.
+
+429
+00:27:53,702 --> 00:27:56,455
+[门打开和关闭]
+[DOORS OPEN AND CLOSE]
+
+430
+00:28:04,838 --> 00:28:08,092
+指挥官：我为你准备了特别的瓦肯菜肴。
+COMMANDER: I've had special Vulcan dishes prepared for you.
+
+431
+00:28:09,009 --> 00:28:11,136
+我希望它们是你喜欢的。
+I hope they're to your liking.
+
+432
+00:28:11,386 --> 00:28:13,388
+我很受宠若惊，指挥官。
+I'm very flattered, commander.
+
+433
+00:28:14,598 --> 00:28:17,434
+毫无疑问，你船上的美食
+There is no doubt that the cuisine aboard your vessel
+
+434
+00:28:17,601 --> 00:28:20,479
+远优于<i>企业号</i>。
+is far superior to that of the <i>Enterprise</i>.
+
+435
+00:28:23,440 --> 00:28:28,320
+这确实有非常强大的招聘吸引力。
+It is, indeed, a very powerful recruiting inducement.
+
+436
+00:28:30,489 --> 00:28:32,783
+我们还有其他奖励。
+We have other inducements.
+
+437
+00:28:58,475 --> 00:29:00,602
+史波克到底在干什么？
+What the devil is Spock doing?
+
+438
+00:29:00,853 --> 00:29:02,604
+是什么耽误了他？
+What's delaying him?
+
+439
+00:29:02,813 --> 00:29:04,565
+我希望我知道。
+I wish I knew.
+
+440
+00:29:07,151 --> 00:29:09,695
+斯科提，你确定我们和史波克的通讯畅通吗？
+Scotty, are you sure we have a clear channel to Spock?
+
+441
+00:29:09,778 --> 00:29:11,363
+是的，长官。毫无疑问。
+Aye, sir. No doubt of it.
+
+442
+00:29:11,488 --> 00:29:14,241
+那我们不能再等了。准备好让我登上旗舰。
+Then we can't wait any longer. Prepare to beam me aboard the flagship.
+
+443
+00:29:14,324 --> 00:29:16,994
+斯科提：但是史波克先生还没有设置正确的坐标。
+SCOTTY: But Mr. Spock hasn't set the proper coordinates yet.
+
+444
+00:29:17,077 --> 00:29:19,830
+- 没办法，斯科提。 - 你冒着很大的风险，吉姆。
+- Can't be helped, Scotty. - You're taking an awful chance, Jim.
+
+445
+00:29:19,913 --> 00:29:23,250
+只要别把我放到舱壁里，传送。
+Just don't put me inside a bulkhead. Energize.
+
+446
+00:29:36,889 --> 00:29:38,807
+百夫长，对不起，不允许任何人--
+Centurion, I'm sorry, no one is allowed--
+
+447
+00:29:38,932 --> 00:29:41,018
+我刚刚成功逃离了联邦船只。
+I have just effected an escape from the Federation vessel.
+
+448
+00:29:41,143 --> 00:29:43,395
+我有给塔尔副指挥官的信息。他在哪里？
+I have information for Sub-Commander Tal. Where is he?
+
+449
+00:29:43,478 --> 00:29:45,147
+他在控制中心，百夫长。
+He's in control central, centurion.
+
+450
+00:29:45,230 --> 00:29:47,774
+好的。我会向他提及你的警觉性。回到你的岗位。
+Good. I shall mention your alertness to him. Return to your duty.
+
+451
+00:29:47,858 --> 00:29:49,526
+谢谢你，百夫长。
+Thank you, centurion.
+
+452
+00:30:16,553 --> 00:30:18,972
+你在星际舰队一无所有
+You have nothing in Starfleet
+
+453
+00:30:19,473 --> 00:30:21,558
+无家可归。
+to which to return.
+
+454
+00:30:22,851 --> 00:30:24,603
+我给--
+I off--
+
+455
+00:30:26,730 --> 00:30:31,068
+我们给你提供一个选择
+We offer you an alternative.
+
+456
+00:30:33,195 --> 00:30:35,364
+我们会为你找到一个地方，
+We will find a place for you,
+
+457
+00:30:36,031 --> 00:30:37,824
+如果你愿意的话。
+if you wish it.
+
+458
+00:30:38,617 --> 00:30:40,118
+一个地方？
+A place?
+
+459
+00:30:44,081 --> 00:30:45,749
+与我一起。
+With me.
+
+460
+00:30:50,128 --> 00:30:53,465
+罗慕伦女性不像瓦肯女性。
+Romulan women are not like Vulcan females.
+
+461
+00:30:54,007 --> 00:30:56,134
+我们不致力于...
+We are not dedicated to...
+
+462
+00:30:57,302 --> 00:30:58,845
+...纯逻辑
+...pure logic
+
+463
+00:30:59,096 --> 00:31:01,765
+和冷漠无情。
+and the sterility of non-emotion.
+
+464
+00:31:09,815 --> 00:31:11,817
+我们的人民是战士，
+Our people are warriors,
+
+465
+00:31:12,808 --> 00:31:14,820
+通常是野蛮人。
+often savage.
+
+466
+00:31:15,737 --> 00:31:18,991
+但我们还有许多其他令人愉快的事情。
+But we are also many other pleasant things.
+
+467
+00:31:23,328 --> 00:31:27,791
+我没注意到罗慕伦社会的这一方面。
+I was not aware of that aspect of Romulan society.
+
+468
+00:31:30,168 --> 00:31:32,713
+作为瓦肯人，你会研究它。
+As a Vulcan, you would study it.
+
+469
+00:31:34,506 --> 00:31:37,718
+作为一个人类，你会找到欣赏它的方法。
+As a human, you would find ways to appreciate it.
+
+470
+00:31:46,727 --> 00:31:48,603
+请相信我，
+Please believe me,
+
+471
+00:31:49,730 --> 00:31:51,398
+我确实...
+I do...
+
+472
+00:31:51,815 --> 00:31:53,567
+……欣赏它。
+...appreciate it.
+
+473
+00:31:54,776 --> 00:31:56,820
+我很高兴。
+I am so glad.
+
+474
+00:32:00,240 --> 00:32:03,827
+现在，完成这一场合的最后一步。
+Now, one final step to make the occasion complete.
+
+475
+00:32:04,995 --> 00:32:09,416
+你将带领一小队罗慕伦人登上<i>企业号</i>。
+You will lead a small party of Romulans aboard the <i>Enterprise</i>.
+
+476
+00:32:10,083 --> 00:32:12,794
+在那里，你将获得你应有的地位
+And there you will take your rightful place
+
+477
+00:32:13,170 --> 00:32:15,130
+作为指挥官。
+as its commander.
+
+478
+00:32:15,630 --> 00:32:18,508
+然后你将带领飞船到罗慕伦港口，
+And you will lead the ship to a Romulan port,
+
+479
+00:32:18,925 --> 00:32:21,053
+我的旗舰就在旁边。
+with my flagship at its side.
+
+480
+00:32:23,680 --> 00:32:25,724
+是的，当然。
+Yes, of course.
+
+481
+00:32:26,058 --> 00:32:28,727
+但不是现在。
+But not just this moment.
+
+482
+00:32:30,270 --> 00:32:34,483
+一个小时后更好。
+An hour from now will do even better.
+
+483
+00:32:35,442 --> 00:32:37,027
+会不会...
+Would it not...
+
+484
+00:32:38,612 --> 00:32:40,322
+...指挥官？
+...commander?
+
+485
+00:32:41,073 --> 00:32:42,532
+是的。
+Yes.
+
+486
+00:32:44,159 --> 00:32:45,911
+是的，会的。
+Yes, it will.
+
+487
+00:32:46,870 --> 00:32:48,663
+史波克先生。
+Mr. Spock.
+
+488
+00:32:50,707 --> 00:32:52,918
+你知道我有名字的。
+You do know I have a first name.
+
+489
+00:32:54,211 --> 00:32:56,505
+我开始怀疑。
+I was beginning to wonder.
+
+490
+00:32:57,756 --> 00:32:59,466
+嗯，我知道。
+Well, I do.
+
+491
+00:33:00,592 --> 00:33:02,677
+你想听吗？
+Would you like to hear it?
+
+492
+00:33:05,722 --> 00:33:07,849
+[不清楚地窃窃私语]
+[WHISPERS INDISTINCTLY]
+
+493
+00:33:10,310 --> 00:33:11,978
+多么罕见
+How rare
+
+494
+00:33:12,396 --> 00:33:14,314
+多么美丽。
+and how beautiful.
+
+495
+00:33:17,359 --> 00:33:21,571
+但是当被一个士兵说出来时就显得格格不入了。
+But so incongruous when spoken by a soldier.
+
+496
+00:33:24,533 --> 00:33:26,868
+如果你给我一点时间
+If you will give me a moment,
+
+497
+00:33:28,787 --> 00:33:32,082
+士兵会改变自己
+the soldier will transform herself
+
+498
+00:33:32,916 --> 00:33:34,543
+变成女人。
+into a woman.
+
+499
+00:33:54,229 --> 00:33:56,898
+- 史波克呼叫柯克舰长。 - 柯克：<i>我是柯克。</i>
+- Spock to Captain Kirk. - KIRK: <i>Kirk here.</i>
+
+500
+00:33:57,190 --> 00:33:59,943
+舰长，你准备好传送过来了吗？
+Captain, are you prepared to beam over?
+
+501
+00:34:00,152 --> 00:34:02,946
+我已经在船上了，史波克。你有消息吗？
+I'm already on board, Spock. Do you have the information?
+
+502
+00:34:03,029 --> 00:34:04,489
+是的，舰长。
+Yes, captain.
+
+503
+00:34:04,573 --> 00:34:07,242
+隐形装置位于指挥官住处附近的区域。
+The cloaking device is in an area near the commander's quarters.
+
+504
+00:34:07,409 --> 00:34:11,746
+它受到严密保护，除授权人员外，所有人员均不得进入。
+It is closely guarded and off-limits to all but authorized personnel.
+
+505
+00:34:11,913 --> 00:34:13,623
+你现在的位置是什么？
+What is your present location?
+
+506
+00:34:14,416 --> 00:34:15,876
+副指挥官塔尔。
+Sub-commander Tal.
+
+507
+00:34:15,959 --> 00:34:18,336
+我从我们的飞船内接收到外星人的信号，长官。
+I'm receiving an alien transmission from within our vessel, sir.
+
+508
+00:34:18,420 --> 00:34:20,630
+- 外星人？你确定吗？ - 是的，副指挥官。
+- Alien? Are you certain? - Yes, sub-commander.
+
+509
+00:34:20,714 --> 00:34:23,633
+- 我必须知道来源。 - 正在进行三角测量，先生。
+- I must know the source. - Triangulating now, sir.
+
+510
+00:34:23,884 --> 00:34:27,345
+史波克，我去拿隐形装置。
+Spock, I'll get the cloaking device.
+
+511
+00:34:27,572 --> 00:34:29,396
+你能回到<i>企业号</i>
+Will you be able to get back to the <i>Enterprise</i>
+
+512
+00:34:29,473 --> 00:34:31,391
+但不引起他们注意吗？
+without attracting their attention?
+
+513
+00:34:32,267 --> 00:34:36,021
+不知道，舰长。目前，我相当沉重--
+Unknown, captain. At present, I'm rather heavily--
+
+514
+00:34:42,027 --> 00:34:43,695
+我的...
+Is my...
+
+515
+00:34:44,279 --> 00:34:46,740
+...装束现在更合适了吗？
+...attire now more appropriate,
+
+516
+00:34:47,324 --> 00:34:48,825
+史波克先生
+Mr. Spock?
+
+517
+00:34:49,826 --> 00:34:53,914
+指挥官，你的装束不仅更合适，
+Commander, your attire is not only more appropriate,
+
+518
+00:34:54,414 --> 00:34:58,793
+它实际能刺激我们的交流。
+it should actually stimulate our conversation.
+
+519
+00:35:25,862 --> 00:35:27,155
+百夫长。
+Centurion.
+
+520
+00:35:27,322 --> 00:35:29,950
+你有这个区域的许可吗？我不认识你。
+Have you clearance for this area? I do not recognize you.
+
+521
+00:35:30,101 --> 00:35:32,608
+船上有入侵者。有人试图进入吗？
+There's an intruder aboard. Has someone tried to gain entrance?
+
+522
+00:35:32,702 --> 00:35:35,580
+- 我必须查看你的授权，先生。 - 在那边。
+- I must see your authorization, sir. - Over there.
+
+523
+00:35:44,256 --> 00:35:46,299
+很难相信
+It's hard to believe
+
+524
+00:35:47,801 --> 00:35:50,220
+我能如此感动
+that I could be so moved
+
+525
+00:35:50,679 --> 00:35:53,306
+被外星人的手触摸。
+by the touch of an alien hand.
+
+526
+00:35:55,475 --> 00:35:57,978
+我必须承认，我也
+I must confess that I, too,
+
+527
+00:35:58,270 --> 00:36:01,481
+很感动。
+am moved emotionally.
+
+528
+00:36:02,399 --> 00:36:04,484
+我知道这是不合逻辑的--
+I know it is illogical--
+
+529
+00:36:04,568 --> 00:36:06,444
+史波克先生...
+Mr. Spock...
+
+530
+00:36:08,363 --> 00:36:10,448
+......我们不应该质疑
+...we mustn't question
+
+531
+00:36:11,199 --> 00:36:13,493
+我们的真实感受。
+what we truly feel.
+
+532
+00:36:15,912 --> 00:36:18,665
+接受我们之间发生的事情，
+Accept what is happening between us,
+
+533
+00:36:18,999 --> 00:36:20,750
+就像我一样。
+even as I do.
+
+534
+00:36:20,875 --> 00:36:22,127
+塔尔：指挥官。
+TAL: Commander.
+
+535
+00:36:22,252 --> 00:36:23,628
+[嗡嗡声]
+[BUZZING]
+
+536
+00:36:23,712 --> 00:36:25,463
+允许进入。
+Permission to enter.
+
+537
+00:36:26,214 --> 00:36:28,091
+不是现在，塔尔。
+Not now, Tal.
+
+538
+00:36:28,258 --> 00:36:30,302
+塔尔：很紧急，指挥官。
+TAL: It is urgent, commander.
+
+539
+00:36:39,185 --> 00:36:40,812
+指挥官：进来。
+COMMANDER: Enter.
+
+540
+00:36:42,230 --> 00:36:45,275
+指挥官。我们截获了外星人的传送。
+Commander. We have intercepted an alien transmission.
+
+541
+00:36:45,942 --> 00:36:47,277
+指挥官：找到它的来源。
+COMMANDER: Locate its source.
+
+542
+00:36:47,360 --> 00:36:48,737
+塔尔：找到了，指挥官。
+TAL: We have, commander.
+
+543
+00:36:48,903 --> 00:36:50,322
+这个房间。
+This room.
+
+544
+00:36:59,831 --> 00:37:02,667
+隐形装置。带上他。
+The cloaking device. Bring him.
+
+545
+00:37:22,854 --> 00:37:25,023
+保持。别动。
+Hold. Don't move.
+
+546
+00:37:25,815 --> 00:37:28,026
+你是谁？你在这里做什么？
+Who are you? What are you doing in here?
+
+547
+00:37:29,069 --> 00:37:32,072
+船上有敌方间谍。他会去寻找隐形装置。
+There's an enemy spy aboard. He'll be after the cloaking device.
+
+548
+00:37:34,491 --> 00:37:36,201
+放下你的武器。
+Drop your weapon.
+
+549
+00:38:18,326 --> 00:38:19,786
+斯科提，
+Scotty,
+
+550
+00:38:20,078 --> 00:38:21,663
+传送。
+energize.
+
+551
+00:38:33,550 --> 00:38:35,176
+斯科提：但是，先生，史波克先生呢？
+SCOTTY: But, sir, what about Mr. Spock?
+
+552
+00:38:35,301 --> 00:38:37,971
+希望他能给我们足够的时间来安装这个隐形装置。
+Hope he can buy us enough time to get this cloaking device installed.
+
+553
+00:38:38,096 --> 00:38:40,432
+它必须连接到我们的偏转护盾控制上。
+It'll have to be hooked into our deflector-shield control.
+
+554
+00:38:40,515 --> 00:38:41,975
+- 你能做到吗？ - 我不知道。
+- Can you do it? - I don't know.
+
+555
+00:38:42,058 --> 00:38:43,893
+你有 15 分钟，斯科提。
+You have 15 minutes, Scotty.
+
+556
+00:38:51,109 --> 00:38:53,570
+指挥官，隐形装置不见了。
+Commander, the cloaking device is gone.
+
+557
+00:38:53,862 --> 00:38:56,281
+全面警戒。搜索所有甲板。
+Full alert. Search all decks.
+
+558
+00:39:00,410 --> 00:39:02,620
+那将是无的，指挥官。
+That will be profitless, commander.
+
+559
+00:39:02,912 --> 00:39:05,582
+我不相信你会找到它。
+I do not believe you will find it.
+
+560
+00:39:07,584 --> 00:39:09,419
+你一定是疯了。
+You must be mad.
+
+561
+00:39:09,544 --> 00:39:11,212
+我向你保证，
+I assure you,
+
+562
+00:39:11,504 --> 00:39:13,715
+我很理智。
+I am quite sane.
+
+563
+00:39:14,132 --> 00:39:16,259
+你为什么要这样对我？
+Why would you do this to me?
+
+564
+00:39:17,260 --> 00:39:20,096
+你有什么资格这样做？
+What are you that you could do this?
+
+565
+00:39:26,644 --> 00:39:29,856
+企业号的大副。
+First Officer of the Enterprise.
+
+566
+00:39:40,074 --> 00:39:42,535
+你们目前的死刑方式是什么？
+What is your present form of execution?
+
+567
+00:39:58,843 --> 00:40:02,180
+柯克：<i>舰长日志，星历 5027.4。</i>
+KIRK: Captain's Log, stardate 5027.4.</i>
+
+568
+00:40:02,263 --> 00:40:04,349
+<i>斯科特上校有不到 15 分钟的时间</i>
+<i>Commander Scott has less than 15 minutes</i>
+
+569
+00:40:04,432 --> 00:40:07,769
+<i>安装罗慕伦人的隐形装置并使其工作。</i>
+<i>to install the Romulans' cloaking device and get it working.</i>
+
+570
+00:40:07,894 --> 00:40:10,939
+<i>我希望史波克先生能为我们争取到我们需要的时间。</i>
+<i>I hope Mr. Spock can buy us the time we need.</i>
+
+571
+00:40:11,231 --> 00:40:12,899
+- 苏鲁：舰长。 - 契科夫：你还活着。
+- SULU: Captain. - CHEKOV: You're alive.
+
+572
+00:40:12,982 --> 00:40:15,610
+- 他们说你被杀了，长官。 - 报告太草率了。
+- They said you'd been killed, sir. - The report was premature.
+
+573
+00:40:15,693 --> 00:40:19,239
+- 舰长，你的耳朵，发生了什么事？ - 我们稍后再讨论。
+- Captain, your ears, what happened? - We'll discuss it later.
+
+574
+00:40:19,322 --> 00:40:21,991
+苏鲁先生，设定回家的航线。 契科夫，带上传感器。
+Mr. Sulu, lay in a course for home. Chekov, take the sensors.
+
+575
+00:40:22,116 --> 00:40:24,035
+史波克先生仍在罗慕伦旗舰上。
+Mr. Spock is still aboard the Romulan flagship.
+
+576
+00:40:24,118 --> 00:40:27,288
+我希望他的身体读数被精确定位和隔离。
+I want his body readings pinpointed and isolated.
+
+577
+00:40:27,956 --> 00:40:30,166
+这不是请求，先生们。
+That was not a request, gentlemen.
+
+578
+00:40:30,291 --> 00:40:31,668
+- 是的，长官。- 是的，长官。
+- Aye, sir. - Aye, sir.
+
+579
+00:40:31,793 --> 00:40:33,211
+- 是的，长官。
+Aye, sir.
+
+580
+00:40:38,716 --> 00:40:40,802
+回到你的岗位，副指挥官。
+Return to your station, sub-commander.
+
+581
+00:40:40,969 --> 00:40:44,514
+听我的命令开始<i>企业号<i>的登船行动。
+The boarding action on the <i>Enterprise</i> will begin with my command.
+
+582
+00:40:44,848 --> 00:40:47,642
+如果他们反抗，摧毁她。
+If they resist, destroy her.
+
+583
+00:40:53,231 --> 00:40:56,526
+处决国家罪犯
+Execution of state criminals
+
+584
+00:40:56,818 --> 00:41:00,238
+既痛苦又不愉快。
+is both painful and unpleasant.
+
+585
+00:41:00,655 --> 00:41:03,491
+我相信细节是不必要的。
+I believe the details are unnecessary.
+
+586
+00:41:04,826 --> 00:41:07,787
+处决将立即执行
+The sentence will be carried out immediately after the charges
+
+587
+00:41:07,871 --> 00:41:09,205
+在指控被记录后。
+have been recorded.
+
+588
+00:41:09,330 --> 00:41:12,125
+我首先要求获得声明权。
+I demand the Right of Statement first.
+
+589
+00:41:13,751 --> 00:41:16,963
+你很了解罗慕伦的传统。
+You understand Romulan tradition well.
+
+590
+00:41:18,006 --> 00:41:19,632
+要求通过。
+The right is granted.
+
+591
+00:41:19,883 --> 00:41:21,426
+谢谢。
+Thank you.
+
+592
+00:41:26,180 --> 00:41:28,266
+我不需要太多时间。
+I shall not require much time.
+
+593
+00:41:28,349 --> 00:41:32,145
+我应该说不超过20分钟。
+No more than 20 minutes, I should say.
+
+594
+00:41:32,645 --> 00:41:35,732
+找到你的盟友应该比这花费更少的时间
+It should take less time than that to find your ally
+
+595
+00:41:35,857 --> 00:41:37,942
+他们偷了隐形装置。
+who stole the cloaking device.
+
+596
+00:41:38,484 --> 00:41:40,737
+你不会孤独地死去。
+You will not die alone.
+
+597
+00:41:42,488 --> 00:41:46,534
+记录罗慕伦的陈述权。
+Recording the Romulan Right of Statement.
+
+598
+00:41:48,036 --> 00:41:50,204
+继续，史波克上校。
+Proceed, Commander Spock.
+
+599
+00:41:50,997 --> 00:41:55,418
+我的罪行是蓄意破坏。我自愿承认我的罪行。
+My crime is sabotage. I freely admit my guilt.
+
+600
+00:42:06,930 --> 00:42:09,557
+我作为星际舰队军官的誓言
+The oath I swore as a Starfleet officer
+
+601
+00:42:09,682 --> 00:42:12,518
+既具体又具有约束力。
+is both specific and binding.
+
+602
+00:42:12,727 --> 00:42:14,604
+只要我穿着制服，
+As long as I wear the uniform,
+
+603
+00:42:14,687 --> 00:42:18,775
+我的职责就是保护联邦的安全。
+my duty is to protect the security of the Federation.
+
+604
+00:42:18,983 --> 00:42:23,863
+很明显，你的新隐形设备对该安全构成了威胁。
+Clearly, your new cloaking device is a threat to that security.
+
+605
+00:42:23,988 --> 00:42:25,782
+我履行了我的职责。
+I carried out my duty.
+
+606
+00:42:25,907 --> 00:42:28,076
+每个人都在履行自己的职责。
+Everyone carries out his duty.
+
+607
+00:42:28,159 --> 00:42:30,203
+你说出了显而易见的事实，史波克。
+You state the obvious, Spock.
+
+608
+00:42:30,328 --> 00:42:34,290
+我的发言内容没有规定。
+There is no regulation regarding the content of my statement.
+
+609
+00:42:34,582 --> 00:42:36,459
+我可以继续吗？
+May I continue?
+
+610
+00:42:36,793 --> 00:42:39,921
+很好。你的 20 分钟快到了。
+Very well. Your 20 minutes is almost up.
+
+611
+00:42:40,088 --> 00:42:42,966
+契科夫先生，那艘船上只有一个瓦肯人，
+Mr. Chekov, there is only one Vulcan aboard that ship,
+
+612
+00:42:43,049 --> 00:42:44,801
+他应该很容易找到。
+he should be easy enough to locate.
+
+613
+00:42:44,884 --> 00:42:48,054
+契科夫：罗慕伦人和瓦肯人读起来几乎一模一样。
+CHEKOV: Romulans and Vulcans appear to read almost exactly alike.
+
+614
+00:42:48,137 --> 00:42:50,473
+只是有一点点不同--
+There is just a slight difference which--
+
+615
+00:42:51,975 --> 00:42:53,476
+找到他了，先生。
+Got him, sir.
+
+616
+00:42:53,768 --> 00:42:56,020
+尽快把坐标发给传送室。
+Feed the coordinates to the transporter room on the double.
+
+617
+00:42:56,145 --> 00:42:58,439
+让他们准备听我的信号将他传送到船上。
+Have them prepare to beam him aboard on my signal.
+
+618
+00:42:58,523 --> 00:43:01,985
+柯克舰长，斯科特先生在线上与您通话，长官。
+Captain Kirk, Mr. Scott is on the intercom for you, sir.
+
+619
+00:43:02,360 --> 00:43:03,653
+说吧，斯科提。
+Go ahead, Scotty.
+
+620
+00:43:03,987 --> 00:43:05,738
+我已经安装了设备。
+I've got the device installed.
+
+621
+00:43:05,863 --> 00:43:08,157
+但如果我知道它是否能运作，保佑我
+But bless me if I know if it's going to work.
+
+622
+00:43:08,241 --> 00:43:09,993
+<i>这是我打过最大的赌</i>
+<i>It's the biggest guess I've ever made.</i>
+
+623
+00:43:10,076 --> 00:43:11,619
+- 准备，斯科提。 - 契科夫：长官。
+- Stand by, Scotty. - CHEKOV: Sir.
+
+624
+00:43:11,703 --> 00:43:15,123
+传送室有坐标，可以传送了。
+Transporter room has the coordinates and is ready for beaming.
+
+625
+00:43:16,165 --> 00:43:19,252
+传送室，传送史波克先生上船。
+Transporter room, beam Mr. Spock aboard.
+
+626
+00:43:19,377 --> 00:43:22,755
+除了瓦肯人忠诚的历史传统外，
+Beyond the historic tradition of Vulcan loyalty
+
+627
+00:43:22,922 --> 00:43:25,466
+还有罗慕兰人和瓦肯人联合起来的
+there is also the combined Romulan-Vulcan history
+
+628
+00:43:25,591 --> 00:43:27,719
+服从职责的历史。
+of obedience to duty.
+
+629
+00:43:29,595 --> 00:43:31,848
+传送室报告史波克先生上船了，指挥官。
+Transporter room reports Mr. Spock aboard, sir.
+
+630
+00:43:31,973 --> 00:43:33,558
+还有罗慕伦指挥官。
+And the Romulan commander.
+
+631
+00:43:33,725 --> 00:43:35,101
+- 指挥官？ - 是的，先生。
+- The commander? - Aye, sir.
+
+632
+00:43:35,226 --> 00:43:36,519
+好的。
+All right.
+
+633
+00:43:36,644 --> 00:43:38,980
+让他们尽快到舰桥报告。
+Have them report to the bridge on the double.
+
+634
+00:43:39,856 --> 00:43:42,025
+苏鲁先生，带我们离开罗慕伦人的地方。
+Mr. Sulu, take us away from the Romulans.
+
+635
+00:43:42,316 --> 00:43:44,485
+曲速9。
+Warp factor 9.
+
+636
+00:43:50,992 --> 00:43:54,495
+副指挥官。敌舰正以极快的速度驶离，长官。
+Sub-Commander. The enemy vessel is moving away at extreme speed, sir.
+
+637
+00:43:54,662 --> 00:43:57,165
+通知所有船只。武器官，
+Alert all vessels. Weapons officer,
+
+638
+00:43:57,248 --> 00:43:59,917
+将主炮台对准企业号。
+bring main batteries to bear on the <i>Enterprise</i>.
+
+639
+00:44:03,212 --> 00:44:05,339
+保持在曲速 9，长官。
+Holding at warp 9, sir.
+
+640
+00:44:06,424 --> 00:44:08,634
+斯科提，打开那个设备的开关。
+Scotty, throw the switch on that device.
+
+641
+00:44:10,053 --> 00:44:12,263
+试过了，长官。它不管用。
+I did, sir. It's not working.
+
+642
+00:44:17,143 --> 00:44:20,605
+我本会称赞你能走到这一步，舰长。
+I would give you credit, captain, for getting this far.
+
+643
+00:44:21,105 --> 00:44:23,024
+但你马上就要死了
+But you will be dead in a moment
+
+644
+00:44:23,316 --> 00:44:24,984
+称赞是不必要的。
+and the credit would be gratuitous.
+
+645
+00:44:25,109 --> 00:44:27,445
+上尉，打开通往罗慕伦飞船的频道。。
+Lieutenant, open a channel to the Romulan vessel.
+
+646
+00:44:27,528 --> 00:44:28,863
+乌乎拉：是的，长官。
+UHURA: Aye, sir.
+
+647
+00:44:31,783 --> 00:44:33,576
+我接通了副指挥官塔尔，长官。
+I have Sub-Commander Tal, sir.
+
+648
+00:44:33,659 --> 00:44:35,912
+建立双向可视通讯。
+Establish two-way visual contact.
+
+649
+00:44:43,086 --> 00:44:45,797
+<i>我们有你在我们的武器下。你无法逃脱。</i>
+<i>We have you under our weapons. You cannot escape.</i>
+
+650
+00:44:45,880 --> 00:44:47,548
+这是柯克舰长。停火。
+This is Captain Kirk. Hold your fire.
+
+651
+00:44:47,673 --> 00:44:50,551
+- 我们有你的指挥官在船上。 - <i>指挥官。</i>
+- We have your Commander aboard. - <i>Commander.</i>
+
+652
+00:44:50,760 --> 00:44:54,847
+摧毁这艘船。我给你下了直接命令，塔尔。
+Destroy this vessel. I gave you a direct command, Tal.
+
+653
+00:44:56,390 --> 00:44:59,268
+舵手，侧翼速度。武器官，
+Helmsman, flank speed. Weapons officer,
+
+654
+00:44:59,352 --> 00:45:03,272
+准备发射主炮，一旦我们达到最佳射击距离。
+stand by to fire main batteries as soon as we reach optimum range.
+
+655
+00:45:04,482 --> 00:45:08,486
+- 斯科提，我们的时间不多了。 - 舰长，我正在尽可能快地工作。
+- Scotty, we're running out of time. - Captain, I'm working as fast as I can.
+
+656
+00:45:08,653 --> 00:45:11,781
+你看，舰长，你的努力白费了。
+You see, captain, your effort has been wasted.
+
+657
+00:45:13,950 --> 00:45:16,869
+史波克先生，离罗慕伦飞船的距离？
+Mr. Spock, distance from the Romulan vessel?
+
+658
+00:45:16,953 --> 00:45:20,748
+十五万公里，舰长，接近地非常快。
+One hundred fifty thousand kilometers, captain, and closing very rapidly.
+
+659
+00:45:21,207 --> 00:45:23,334
+准备，相位炮。
+Stand by, phasers.
+
+660
+00:45:24,669 --> 00:45:26,963
+指挥官，请原谅我的反抗。
+Commander, you'll forgive me if I put up a fight.
+
+661
+00:45:27,964 --> 00:45:30,466
+当然，这是意料之中的。
+Of course, it's expected.
+
+662
+00:45:30,550 --> 00:45:33,803
+十万公里。他们应该开始向我们开火
+One-hundred thousand kilometers. They should commence firing at us
+
+663
+00:45:33,886 --> 00:45:37,640
+在接下来的 12.7 秒内。
+within the next 12.7 seconds.
+
+664
+00:45:38,099 --> 00:45:40,393
+- 斯科提。 - 现在准备好了，舰长，
+- Scotty. - It's ready now, captain,
+
+665
+00:45:40,476 --> 00:45:43,688
+但我不知道我们的电路是否可以应付这个外星装置。
+but I don't know whether our circuits can handle this alien contraption.
+
+666
+00:45:48,109 --> 00:45:50,695
+- 打开开关。 - 它可能会超载。
+- Throw the switch. - It'll likely overload.
+
+667
+00:45:50,820 --> 00:45:52,697
+打开开关。
+Throw the switch.
+
+668
+00:45:56,784 --> 00:45:59,162
+武器官，开始--
+Weapons officer, commence fi--
+
+669
+00:46:02,874 --> 00:46:05,710
+消失了。他们有隐形装置。
+Gone. They have the cloaking device.
+
+670
+00:46:05,835 --> 00:46:09,255
+快。根据最后的位置计算敌人的路线并开火。
+Quickly. Compute enemy course from last position and open fire.
+
+671
+00:46:09,338 --> 00:46:13,092
+- 是的，长官。 - 苏鲁，转向 318 标记 7。
+- Yes, sir. - Sulu, come about 318 mark 7.
+
+672
+00:46:13,176 --> 00:46:17,346
+318标记 7，长官。执行中。
+Three-one-eight mark 7, sir. Executing.
+
+673
+00:46:29,984 --> 00:46:31,986
+隐形装置工作正常。
+The cloaking device is working perfectly.
+
+674
+00:46:32,069 --> 00:46:33,654
+指挥官告诉我
+And the commander has informed me
+
+675
+00:46:33,738 --> 00:46:37,742
+即使是罗慕伦人的传感器也无法跟踪如此装备的船只。
+that even the Romulans' sensors cannot track a vessel so equipped.
+
+676
+00:46:39,368 --> 00:46:41,579
+谢谢你，史波克先生。
+Thank you, Mr. Spock.
+
+677
+00:46:45,499 --> 00:46:47,376
+取消红色警报。
+Cancel red alert.
+
+678
+00:46:47,835 --> 00:46:51,047
+我们会让你在最近的联邦前哨站下船。
+We'll let you off at the nearest Federation outpost.
+
+679
+00:46:51,672 --> 00:46:53,883
+你很慷慨，舰长。
+You are very generous, captain.
+
+680
+00:46:54,717 --> 00:46:56,886
+如果我可以被带到你的禁闭室，
+If I may be taken to your brig,
+
+681
+00:46:57,094 --> 00:46:59,639
+我将作为你的俘虏。
+I will take my place as your prisoner.
+
+682
+00:46:59,764 --> 00:47:02,934
+史波克先生将有幸护送你到你的住所。
+Mr. Spock will have the honor of escorting you to your quarters.
+
+683
+00:47:07,855 --> 00:47:09,523
+舰长。
+Captain.
+
+684
+00:47:10,316 --> 00:47:11,817
+指挥官。
+Commander.
+
+685
+00:47:23,287 --> 00:47:24,747
+2号甲板。
+Deck 2.
+
+686
+00:47:27,583 --> 00:47:32,046
+很遗憾你成为了一个不情愿的乘客。
+It is regrettable that you were made an unwilling passenger.
+
+687
+00:47:32,338 --> 00:47:34,215
+这不是故意的。
+It was not intentional.
+
+688
+00:47:34,548 --> 00:47:37,718
+联邦想要的只是隐形装置。
+All the Federation wanted was the cloaking device.
+
+689
+00:47:38,719 --> 00:47:40,346
+联邦？
+The Federation?
+
+690
+00:47:41,806 --> 00:47:43,641
+你想要什么？
+And what did you want?
+
+691
+00:47:45,977 --> 00:47:50,106
+当我登上你的船时，那是我唯一的关注点。
+It was my only interest when I boarded your vessel.
+
+692
+00:47:50,481 --> 00:47:53,192
+这就是你离开的全部原因。
+And that's exactly all you came away with.
+
+693
+00:47:56,279 --> 00:47:59,073
+你低估了自己，指挥官。
+You underestimate yourself, commander.
+
+694
+00:48:01,117 --> 00:48:02,493
+你会意识到很快
+You realize that very soon
+
+695
+00:48:02,576 --> 00:48:05,663
+我们就会破解你偷来的隐形装置。
+we will learn to penetrate the cloaking device you stole.
+
+696
+00:48:05,746 --> 00:48:07,373
+很明显。
+Obviously.
+
+697
+00:48:08,249 --> 00:48:11,252
+军事机密是最短暂的。
+Military secrets are the most fleeting of all.
+
+698
+00:48:13,045 --> 00:48:19,176
+我希望你我交换的东西更永久。
+I hope that you and I exchanged something more permanent.
+
+699
+00:48:25,099 --> 00:48:26,726
+[开门]
+[DOORS OPEN]
+
+700
+00:48:35,693 --> 00:48:37,611
+这是你的选择。
+It was your choice.
+
+701
+00:48:38,863 --> 00:48:41,407
+这是唯一可能的选择。
+It was the only choice possible.
+
+702
+00:48:41,907 --> 00:48:44,660
+你不会尊重任何其他人。
+You would not respect any other.
+
+703
+00:48:45,786 --> 00:48:47,747
+这将是我们的秘密。
+It will be our secret.
+
+704
+00:48:51,792 --> 00:48:54,211
+进入中立区，舰长。
+Entering neutral zone, captain.
+
+705
+00:48:54,295 --> 00:48:57,006
+很好，契科夫先生。谢谢你，莱斯利先生。
+Very good, Mr. Chekov. Thank you, Mr. Leslie.
+
+706
+00:48:57,118 --> 00:48:58,643
+麦考伊 [通过对讲机]：<i>医务室呼叫舰桥。</i>
+McCOY [OVER INTERCOM]: <i>Sickbay to bridge.</i>
+
+707
+00:48:58,716 --> 00:48:59,925
+怎么了，老骨头？
+What is it, Bones?
+
+708
+00:49:00,076 --> 00:49:01,870
+如果所有的争吵都结束了,
+If all the shouting's over up there,
+
+709
+00:49:01,965 --> 00:49:04,009
+我想让你到医务室报告。
+I'd like for you to report to Sickbay.
+
+710
+00:49:04,263 --> 00:49:06,557
+- 做什么的？ - <i>你该做手术了。</i>
+- What for? - <i>Well, you're due in surgery.</i>
+
+711
+00:49:06,640 --> 00:49:08,559
+<i>我要恢复你的耳朵。</i>
+<i>I'm going to bob your ears.</i>
+
+712
+00:49:09,060 --> 00:49:11,854
+舰长，请你离开。
+Captain, please go.
+
+713
+00:49:12,104 --> 00:49:16,025
+不知何故，它们在人类身上看起来并不美观。
+Somehow, they do not look aesthetically agreeable on humans.
+
+714
+00:49:17,777 --> 00:49:20,321
+嗯，你来了吗，吉姆？还是你想一辈子
+Well, are you coming, Jim? Or do you want to go through life
+
+715
+00:49:20,417 --> 00:49:22,377
+<i>看起来像你的大副吗？</i>
+<i>looking like your first officer?</i>
+
+716
+00:49:22,448 --> 00:49:24,116
+我来了。
+I'm on my way.
+

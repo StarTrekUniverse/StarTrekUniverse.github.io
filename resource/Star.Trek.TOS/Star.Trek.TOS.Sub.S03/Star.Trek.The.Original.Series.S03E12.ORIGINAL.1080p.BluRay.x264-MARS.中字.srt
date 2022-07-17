@@ -1,0 +1,2130 @@
+1
+00:00:14,911 --> 00:00:18,039
+柯克：舰长日志，星历5121.5
+KIRK: Captain's log, stardate 5121.5.
+
+2
+00:00:18,331 --> 00:00:21,667
+绕着米纳里亚星系的第二颗行星运行
+Orbiting the second planet in the Minarian star system.
+
+3
+00:00:21,876 --> 00:00:25,129
+有证据表明这颗恒星进入了新星爆发阶段
+This star has given evidence of entering a nova phase
+
+4
+00:00:25,296 --> 00:00:30,468
+六个月前，建了一个站点来研究
+and six months ago, a station was established to make studies of the star
+
+5
+00:00:30,676 --> 00:00:33,137
+这颗恒星的最后阶段
+as its end approaches.
+
+6
+00:00:36,140 --> 00:00:38,935
+米纳拉正进入临界时期
+Minara is now entering a critical period
+
+7
+00:00:39,227 --> 00:00:45,024
+和企业号被命令来撤离研究站
+and the Enterprise has been ordered to evacuate the station.
+
+8
+00:00:45,233 --> 00:00:52,156
+然而，我们试图联系该站工作人员的尝试并未成功
+Yet our attempts to contact the station's personnel have been unsuccessful.
+
+9
+00:00:52,323 --> 00:00:58,121
+灰尘，显然这些仪器最近没有使用过
+Dust. Apparently these instruments have not been recently used.
+
+10
+00:00:58,287 --> 00:01:02,750
+录音带，也许它会告诉我们一些关于人员的事情[通讯器哔哔声]
+Record tape. Maybe it'll tell us something about the personnel that lived here. [Communicator Beeps]
+
+11
+00:01:05,569 --> 00:01:07,895
+斯科提[通过无线电]：企业号呼叫柯克舰长，请回答
+SCOTTY [OVER RADIO]: Enterprise to Captain Kirk. Come in.
+
+12
+00:01:08,011 --> 00:01:09,281
+我是柯克，怎么了，企业号？
+Kirk here. What is it, Enterprise?
+
+13
+00:01:09,423 --> 00:01:13,177
+我是斯科特，我们的仪器发现了巨大的太阳耀斑
+Scott here, sir. Our instruments have picked up a gigantic solar flare
+
+14
+00:01:13,344 --> 00:01:16,848
+伴随着高强度的宇宙射线
+with high levels of cosmic rays accompanying it.
+
+15
+00:01:17,014 --> 00:01:19,851
+- 有多糟糕？  - 极其巨大
+- How bad? - An enormous one.
+
+16
+00:01:20,017 --> 00:01:25,231
+我们的传感器显示宇宙射线为里特3.51级
+Our sensors indicate the cosmic ray measures 3.51 on the Ritter scale.
+
+17
+00:01:25,398 --> 00:01:28,317
+那对船员和飞船来说都很糟糕
+That will play the devil with the crew and ship.
+
+18
+00:01:28,484 --> 00:01:32,989
+按照这个速度，风暴需要74.1个太阳小时才能过去
+At that rate, it will take 74.1 solar hours for the storm to pass.
+
+19
+00:01:33,156 --> 00:01:36,784
+让船离开这里，保持最小距离
+Get the ship out of here. Stay at minimum distance.
+
+20
+00:01:36,993 --> 00:01:41,455
+- 是的，长官，我们会传送你们上来…  - 不用，我们留在这里，大气层会保护我们
+- Aye, aye, sir. We'll beam you up in... - Negative. We're staying here. The atmosphere will protect us.
+
+21
+00:01:41,622 --> 00:01:45,293
+- 让飞船离开这里  - 那好吧，通话完毕
+- Get that ship out of here. - Very well. Scott out.
+
+22
+00:01:45,459 --> 00:01:47,503
+那盘磁带呢？
+What about that tape?
+
+23
+00:01:47,712 --> 00:01:52,675
+请记住，舰长，我们在此录像带上看到的内容发生在约三个月前
+Remember, Captain, what we see on this tape happened three months ago.
+
+24
+00:01:52,842 --> 00:01:57,180
+我认为我不能在这个被上帝遗忘的地方再坚持一周
+I don't think I can stand another week in this godforsaken place.
+
+25
+00:02:01,726 --> 00:02:04,854
+“地的深处在他手中”
+"In His hand are the deep places of the earth."
+
+26
+00:02:05,021 --> 00:02:09,275
+诗篇第95章，第4段，看起来他在听
+Psalm 95, verse 4. Looks like he was listening.
+
+27
+00:02:10,776 --> 00:02:13,279
+[尖锐的噪音]
+[HUMMING]
+
+28
+00:02:18,075 --> 00:02:20,203
+谁在下面？
+Who's down there?
+
+29
+00:02:22,288 --> 00:02:24,415
+他们发生了什么？
+What happened to them?
+
+30
+00:02:24,749 --> 00:02:26,834
+[尖锐的噪音]
+[HUMMING]
+
+31
+00:02:29,003 --> 00:02:32,715
+那声音是从哪里来的？史波克，你能定位吗？
+Where's that sound coming from? Spock, can you pinpoint it?
+
+32
+00:02:32,882 --> 00:02:35,843
+否定的，舰长，它没有显示
+Negative, Captain. It doesn't register.
+
+33
+00:02:48,397 --> 00:02:49,899
+老骨头
+Bones.
+
+34
+00:02:52,068 --> 00:02:53,569
+史波克！
+Spock!
+
+35
+00:03:00,284 --> 00:03:02,370
+[隆隆声]
+[EXPLOSION]
+
+36
+00:03:19,303 --> 00:03:22,473
+柯克：太空，最后的边界
+KIRK: Space, the final frontier.
+
+37
+00:03:27,979 --> 00:03:32,149
+这些是星舰的航行企业号
+These are the voyages of the starship Enterprise.
+
+38
+00:03:32,316 --> 00:03:36,696
+它的五年使命：探索陌生的新世界
+Its five-year mission: To explore strange new worlds,
+
+39
+00:03:36,904 --> 00:03:40,324
+寻找新生命和新文明
+to seek out new life and new civilizations,
+
+40
+00:03:40,491 --> 00:03:44,078
+勇敢地去以前没有人去过的地方
+to boldly go where no man has gone before.
+
+41
+00:04:30,958 --> 00:04:33,836
+史波克，老骨头
+Spock. Bones.
+
+42
+00:04:35,629 --> 00:04:38,090
+我们在哪？
+Where are we?
+
+43
+00:04:38,257 --> 00:04:43,387
+正好在行星表面以下121.32米，舰长
+Exactly 121.32 metres beneath the planet's surface, Captain.
+
+44
+00:04:43,554 --> 00:04:48,517
+- 我们是怎么到这里来的？  - 被一个物质能量扰频器传送过来的
+- How did we get here? - Beamed by a matter-energy scrambler
+
+45
+00:04:48,726 --> 00:04:51,270
+类似于我们的传送装置
+similar to our transporter mechanism.
+
+46
+00:04:51,562 --> 00:04:54,148
+- 伤口很严重，痛吗？  - 不
+- That's a nasty cut. Does it hurt? - No.
+
+47
+00:04:54,315 --> 00:04:57,276
+测量到一个生命读数，方为42，标记7
+Getting a life-form reading, bearing 42, mark 7.
+
+48
+00:04:57,485 --> 00:05:02,365
+- 失踪的科学家之一？  - 不，类人动物，但绝不是智人
+- One of the missing scientists? - No. Humanoid but not homo sapiens.
+
+49
+00:05:02,531 --> 00:05:05,201
+- 鉴定？  - 不可能
+- Identification? - Impossible.
+
+50
+00:05:05,409 --> 00:05:08,996
+我无法鉴定非类人生物
+I can make no identification other than it being humanoid.
+
+51
+00:05:09,330 --> 00:05:12,583
+让我们来弄明白，相位枪击晕模式
+Let's find out. Phasers on stun.
+
+52
+00:05:24,053 --> 00:05:26,222
+接近生命形式，舰长
+Approaching the life-form.
+
+53
+00:05:26,389 --> 00:05:29,350
+- 它是什么？  - 仍然难以辨别
+- What is it? - Still undistinguishable.
+
+54
+00:05:45,324 --> 00:05:49,578
+- 当心  - 为何，她看起来足够无害
+- Be careful. - Why? She seems harmless enough.
+
+55
+00:05:49,745 --> 00:05:53,833
+马纳克四号的沙蝙蝠似乎是无生命的水晶，医生
+The sand bats of Manark IV appear to be inanimate rock crystals, Doctor...
+
+56
+00:05:53,999 --> 00:05:56,127
+直到他们进攻
+until they attack.
+
+57
+00:06:09,306 --> 00:06:11,392
+我们不会伤害你
+We're not gonna hurt you.
+
+58
+00:06:14,478 --> 00:06:18,107
+这是你的家吗？你住在这里吗？
+Is this your home? Do you live here?
+
+59
+00:06:21,318 --> 00:06:23,320
+怎么样，史波克？分析
+What about it? Analysis.
+
+60
+00:06:23,654 --> 00:06:28,242
+根据我们对这个星球的重力和其他因素的了解
+From what we know of the gravity and other factors of this planet,
+
+61
+00:06:28,492 --> 00:06:32,329
+像她这样的生命体无法在这里进化
+life-forms such as hers could not evolve here.
+
+62
+00:06:42,506 --> 00:06:45,759
+你负责把我们带到这里吗？
+Are you responsible for bringing us here?
+
+63
+00:06:46,010 --> 00:06:51,182
+不要害怕，老骨头，她怎么了？
+Don't be afraid. Bones, what's wrong with her?
+
+64
+00:06:59,857 --> 00:07:03,861
+她是个哑巴，吉姆，没有声带
+She's a mute. No vocal chords.
+
+65
+00:07:04,028 --> 00:07:08,199
+甚至没有退化迹象，而且我不认为这是一种病理状态
+Not even vestigials. And I don't think it's a pathological condition.
+
+66
+00:07:08,532 --> 00:07:11,160
+- 解释  - 她看起来很健康
+- Explain. - She appears to be healthy.
+
+67
+00:07:11,368 --> 00:07:17,917
+换句话说，缺少声带是她这个人种的正常生理结构
+Lack of vocal chords could be normal for her species, whatever that is.
+
+68
+00:07:18,167 --> 00:07:22,713
+一个哑巴种族，类似伽马维迪斯四号上的文明
+A race of mutes. Like the civilization on Gamma Vertis IV.
+
+69
+00:07:22,880 --> 00:07:25,716
+这就是我的观察，不管对不对
+That's my observation, for what it's worth.
+
+70
+00:07:25,883 --> 00:07:30,054
+没有语言，她怎么能理解我们的意思呢？
+Without speech, how's she going to be able to understand us?
+
+71
+00:07:30,221 --> 00:07:34,141
+- 除非她是心灵感应者  - 一种不太可能的可能性，舰长
+- Unless she's a telepath. - An unlikely possibility.
+
+72
+00:07:34,308 --> 00:07:39,688
+因为98%的心灵感应物种发送思想并且接收思想
+Since 98% of the telepathic species send thoughts as well as receive them.
+
+73
+00:07:39,939 --> 00:07:43,234
+她没有试图接触我们的思想
+She's made no attempt to contact our minds.
+
+74
+00:07:43,400 --> 00:07:47,613
+我们不能一直称她为“她”，就好像她不在这里一样
+We can't keep referring to her as "she" as if she weren't here.
+
+75
+00:07:49,073 --> 00:07:51,116
+你有何高见？
+Do you have any idea?
+
+76
+00:07:51,450 --> 00:07:55,079
+我不知道你们，但我要叫她宝石
+I don't know about you but I'm gonna call her Gem.
+
+77
+00:07:55,287 --> 00:07:59,458
+- 宝石，医生？  - 嗯，总比“嘿，你”要好
+- Gem, Doctor? - That's better than "Hey, you".
+
+78
+00:08:00,834 --> 00:08:04,463
+我想知道我们为什么在这里
+I want to know why we're here.
+
+79
+00:08:04,630 --> 00:08:06,715
+我想知道这是怎么回事
+I want to know what's going on.
+
+80
+00:08:08,801 --> 00:08:11,095
+而她知道
+And she knows.
+
+81
+00:08:22,314 --> 00:08:26,610
+- 我是舰长  - 我们知道你的身份，舰长
+- I'm Captain... - We are aware of your identity.
+
+82
+00:08:26,777 --> 00:08:30,739
+你们是谁？你们为什么带我们来这里？
+Who are you? Why did you bring us here?
+
+83
+00:08:30,948 --> 00:08:34,034
+我们是维恩人，不要插手
+We are Vians. Do not interfere.
+
+84
+00:08:38,455 --> 00:08:42,334
+- 你打算对我们做什么？  - 不要再耽误我们了
+- What do you intend to do with us? - Delay us no longer.
+
+85
+00:08:42,543 --> 00:08:44,169
+我们来…
+We come...
+
+86
+00:08:59,184 --> 00:09:04,982
+既然你已经知道我们是谁，你也一定知道我们是和平而来的
+Since you already know who we are, you must also know we come in peace.
+
+87
+00:09:06,525 --> 00:09:10,988
+我们的首要指令明确禁止我们干涉…
+Our Prime Directive specifically prohibits us from interference...
+
+88
+00:09:37,348 --> 00:09:40,517
+我好像站不起来了
+I can't seem to stand up.
+
+89
+00:09:40,684 --> 00:09:43,520
+不要对抗力场
+Don't fight the force field.
+
+90
+00:09:43,729 --> 00:09:48,692
+有一些东西会扰乱身体的新陈代谢
+There's something about it that upsets the body metabolism.
+
+91
+00:09:48,859 --> 00:09:54,114
+不完全是，医生，场从你的身体中汲取能量
+Not quite, Doctor. The field draws its energy from your bodies.
+
+92
+00:09:55,199 --> 00:09:59,453
+你越抵抗，力场就越强
+The more you resist, the stronger the force field becomes.
+
+93
+00:10:04,333 --> 00:10:06,543
+哈，足够了
+Sufficient.
+
+94
+00:10:17,221 --> 00:10:19,264
+史波克
+Spock.
+
+95
+00:10:20,391 --> 00:10:24,061
+除了我们刚才看到的那个出口之外，肯定还有一个出口
+There must be an exit other than the one we just saw.
+
+96
+00:10:24,228 --> 00:10:26,230
+正确，舰长
+Correct, Captain.
+
+97
+00:10:28,440 --> 00:10:32,236
+- 你感觉还好吗？  - 别担心我
+- Do you feel all right? - Don't worry about me.
+
+98
+00:10:32,403 --> 00:10:34,571
+他们可能伤害了她
+They may have hurt her.
+
+99
+00:10:42,162 --> 00:10:44,373
+他们伤害了你吗？
+Did they hurt you?
+
+100
+00:11:31,920 --> 00:11:33,839
+疼痛消失了
+The pain is gone.
+
+101
+00:11:34,047 --> 00:11:37,676
+她摸了摸我的头，疼痛消失了
+She touched my head and the pain is gone.
+
+102
+00:11:37,843 --> 00:11:40,304
+伤口已经完全愈合
+The wound is completely healed.
+
+103
+00:11:40,637 --> 00:11:43,974
+痊愈了，吉姆，她一定是个同理心
+It fits, Jim. She must be an empath.
+
+104
+00:11:49,646 --> 00:11:56,528
+她的神经系统非常敏感，她能感觉到我们的情绪和生理反应
+Her nervous system is so sensitive she can feel our emotional reactions.
+
+105
+00:11:56,695 --> 00:11:59,656
+- 它们成为她的一部分  - 谢谢
+- They become part of her. - Thank you.
+
+106
+00:11:59,823 --> 00:12:04,995
+舰长，在那个方向上，我的三录仪读取到大量的物体
+Captain, in that direction, my tricorder is picking up a substantial collection of objects.
+
+107
+00:12:05,162 --> 00:12:07,831
+- 详细说？  - 电子设备
+- Details? - Electronic devices.
+
+108
+00:12:07,998 --> 00:12:12,544
+我不明白为什么我的三录仪之前没有给出任何指示
+I fail to understand why my tricorder previously gave no indication of them.
+
+109
+00:12:12,711 --> 00:12:15,506
+他们在那里，让我们检查一下
+They're there now. Let's check them out.
+
+110
+00:12:16,340 --> 00:12:20,344
+一个人呆在这里可能很危险，跟我们来
+Staying here alone could be dangerous. Come with us.
+
+111
+00:12:59,633 --> 00:13:01,718
+真有趣
+Fascinating.
+
+112
+00:13:02,052 --> 00:13:04,263
+看看这东西
+Look at this stuff.
+
+113
+00:13:21,572 --> 00:13:25,033
+老骨头，史波克，过来
+Bones, Spock, come here.
+
+114
+00:13:48,056 --> 00:13:50,267
+吉姆，史波克
+Jim, Spock.
+
+115
+00:14:10,287 --> 00:14:15,959
+你们按时到了，一些进一步的简单测试是必要的
+We are on schedule. Some further simple tests are necessary.
+
+116
+00:14:16,126 --> 00:14:21,632
+- 我们已经看到了你们的一些测试结果  - 我找到了我们失踪的人，死了
+- We've seen the results of your tests. - I found our missing men. Dead.
+
+117
+00:14:21,798 --> 00:14:26,470
+- 你的另一个实验？  - 你错了，他们自己的不完美杀死了他们
+- Another one of your experiments? - You're wrong. Their own imperfections killed them.
+
+118
+00:14:26,637 --> 00:14:30,641
+他们不是合适的主题，来
+They were not fit subjects. Come.
+
+119
+00:14:30,807 --> 00:14:34,561
+- 时间不多了  - 是的，你的时间不多了
+- Time is short. - Yes. Your time is running out.
+
+120
+00:14:34,728 --> 00:14:40,484
+太阳即将新星爆发，当它发生时，它会摧毁你们，这个星球和这个疯狂的刑讯室
+The sun is about to nova. When it does, it'll destroy you, this planet,  it will destroy this torture chamber.
+
+121
+00:14:45,197 --> 00:14:48,158
+我们离开这里吧
+Let's get out of here.
+
+122
+00:14:48,325 --> 00:14:52,746
+读数表明通向地表的通道位于这个方向
+Readings indicate the passage to the surface lies in this direction.
+
+123
+00:15:20,732 --> 00:15:22,818
+[风啸]
+[WIND HOWLS]
+
+124
+00:15:28,991 --> 00:15:32,869
+柯克呼叫企业号，柯克呼叫企业号，请回答
+Kirk to Enterprise. Kirk to Enterprise. Come in.
+
+125
+00:15:34,329 --> 00:15:37,207
+超出范围，史波克先生，读数？
+Out of range. Readings, Mr. Spock?
+
+126
+00:15:37,374 --> 00:15:40,544
+研究站在那个方向6公里
+Research station 6km in that direction.
+
+127
+00:15:40,711 --> 00:15:44,715
+我们快过去，如果企业号派了搜查队，一定在那里
+Let's get there. If there's a search party, it'll be there.
+
+128
+00:16:04,568 --> 00:16:06,361
+史波克？
+Spock?
+
+129
+00:16:08,155 --> 00:16:10,240
+还有多远？
+Much further?
+
+130
+00:16:10,407 --> 00:16:12,242
+就在前面
+Just ahead.
+
+131
+00:16:12,409 --> 00:16:15,787
+嘿，吉姆，看，斯科提和搜查队
+Hey, Jim, look. Scotty and the search party.
+
+132
+00:16:17,205 --> 00:16:18,373
+斯科提！斯科提！
+Scotty!
+
+133
+00:16:18,582 --> 00:16:20,250
+呆着那儿！
+Stay there!
+
+134
+00:16:20,417 --> 00:16:22,794
+- 快来  - 我们来了！
+- Come on. - We're coming!
+
+135
+00:16:32,929 --> 00:16:34,514
+继续前进
+Keep going.
+
+136
+00:16:47,944 --> 00:16:51,114
+他们的生存意志是伟大的
+Their will to survive is great.
+
+137
+00:16:54,868 --> 00:16:59,456
+- 他们非常热爱生活，因此而奋斗  - 首要因素
+- They love life greatly to struggle so. - The prime ingredient.
+
+138
+00:17:05,087 --> 00:17:07,130
+他们去哪儿了？
+Where did they go?
+
+139
+00:17:07,297 --> 00:17:11,384
+我想他们从来没有真正出现过，那是海市蜃楼
+I believe they were never actually present. It was a mirage.
+
+140
+00:17:16,640 --> 00:17:18,725
+柯克在哪里？
+Where's Kirk?
+
+141
+00:17:59,391 --> 00:18:00,475
+吉姆
+Jim.
+
+142
+00:18:00,684 --> 00:18:03,436
+你在这里做什么？斯科提在哪里？
+What are you doing here? Where's Scotty?
+
+143
+00:18:03,645 --> 00:18:06,398
+- 舰长，那是海市蜃楼  - 柯克舰长？
+- It was a mirage. - Captain Kirk?
+
+144
+00:18:06,606 --> 00:18:09,985
+我们已经决定一个样本就足够了
+We have decided that one specimen will be sufficient.
+
+145
+00:18:10,152 --> 00:18:13,029
+- 你和我们一起来  - 其他人呢？
+- You will come with us. - What about the others?
+
+146
+00:18:13,196 --> 00:18:16,283
+我们对他们没有兴趣，他们可以走了
+We have no interest in them. They may go.
+
+147
+00:18:19,161 --> 00:18:23,456
+- 很好  - 你不能回去，你会像那两个人一样
+- Very well. - You can't go back. You'll end up like the other two.
+
+148
+00:18:23,623 --> 00:18:26,543
+- 舰长，我请求许可…  - 拒绝
+- Captain, I request permission... - Denied.
+
+149
+00:18:26,710 --> 00:18:28,628
+但是，舰长…
+But, Captain...
+
+150
+00:18:31,715 --> 00:18:34,009
+你接到命令了
+You have your orders.
+
+151
+00:18:44,227 --> 00:18:46,646
+- 我的人怎么了？  - 他们很安全
+- What happened to my men? - They are safe.
+
+152
+00:18:46,813 --> 00:18:50,567
+你说的一个标本，我的人怎么了？
+One specimen, you said. What happened to my men?
+
+153
+00:18:50,734 --> 00:18:55,071
+- 的确，首要因素  - 他们在哪？告诉我！
+- Indeed. Prime ingredient. - Where are they? Tell me!
+
+154
+00:18:57,866 --> 00:19:00,535
+你说你会让他们走
+You said you'd let them go.
+
+155
+00:19:02,913 --> 00:19:04,581
+苏鲁先生
+Mr. Sulu.
+
+156
+00:19:04,748 --> 00:19:09,586
+你能估计一下太阳耀斑还要多久才减弱吗？
+Estimate how much longer we'll have until the solar flares subside.
+
+157
+00:19:09,753 --> 00:19:11,755
+好的，长官
+Aye, sir.
+
+158
+00:19:12,672 --> 00:19:17,010
+读数现在显示里特2.721级
+Readings now indicate 2.721 on the Ritter scale.
+
+159
+00:19:17,177 --> 00:19:19,846
+按照目前的消减速度
+At the present rate of decrease,
+
+160
+00:19:20,013 --> 00:19:25,018
+我们必须等待17个小时才能尝试进入轨道
+we'll have to wait 17 hours before we even attempt to enter orbit.
+
+161
+00:19:25,185 --> 00:19:26,227
+是的
+Aye.
+
+162
+00:19:27,687 --> 00:19:31,399
+好吧，既然我们被困在这里
+Well, as long as we're stuck out here,
+
+163
+00:19:31,608 --> 00:19:35,070
+我们不妨放松一下，直到暴风雨过去
+we might as well relax until the storm passes.
+
+164
+00:19:35,278 --> 00:19:39,699
+风暴持续的时间比我们预期的要长四个小时
+Storm's already lasted four hours longer than we'd anticipated.
+
+165
+00:19:41,534 --> 00:19:45,622
+- 我们的登陆小队会不会有危险？  - 那不太可能
+- Could our landing party be in danger? - That's not likely.
+
+166
+00:19:45,789 --> 00:19:48,750
+这颗行星的大气层将提供保护
+The planet's atmosphere will give protection.
+
+167
+00:19:48,959 --> 00:19:53,505
+如果我了解柯克舰长，他担心我们更甚于我们担心他，哈
+If I know Captain Kirk, he'll be more worried about us than we are about him.
+
+168
+00:20:04,766 --> 00:20:09,062
+- 你想知道什么？  - 我们不寻求你所说的信息
+- What is it you want to know? - We seek no information as you mean.
+
+169
+00:20:09,229 --> 00:20:13,483
+你们的文明太不成熟，对我们来说没有有价值的知识
+Your civilization is too immature to have knowledge of value to us.
+
+170
+00:20:13,650 --> 00:20:18,405
+你不需要我们提供任何知识，但你愿意为此进行杀戮
+You don't need any knowledge from us yet you're willing to kill for it.
+
+171
+00:20:18,571 --> 00:20:22,325
+那就是林克和小坂的遭遇吗？
+Is that what happened to Linke and Ozaba?
+
+172
+00:20:22,492 --> 00:20:25,787
+我们没有杀死他们，他们自己的恐惧杀死了他们
+We did not kill them. Their own fears killed them.
+
+173
+00:20:25,954 --> 00:20:30,834
+那么，你对他们有什么期望？你想从我这里得到什么？
+What did you expect from them? And what do you want from me?
+
+174
+00:20:31,084 --> 00:20:34,337
+我们观察了你激情的强度
+We've observed the intensity of your passions,
+
+175
+00:20:34,546 --> 00:20:37,507
+并衡量了你爱他人的能力
+and gauged your capacity to love others.
+
+176
+00:20:37,674 --> 00:20:42,470
+现在我们希望你向我们展示你的勇气和意志的力量
+Now we want you to reveal to us your courage and strength of will.
+
+177
+00:20:42,637 --> 00:20:44,639
+为什么？
+Why?
+
+178
+00:20:44,848 --> 00:20:48,601
+你希望证明什么？
+What is it you hope to prove?
+
+179
+00:20:48,768 --> 00:20:52,355
+如果我的死有任何意义
+If my death is to have any meaning,
+
+180
+00:20:52,647 --> 00:20:54,858
+至少告诉我我为什么而死
+at least tell me what I'm dying for.
+
+181
+00:20:55,025 --> 00:20:58,069
+如果你活着，你会得到答案的
+If you live, you will have your answer.
+
+182
+00:21:07,537 --> 00:21:09,039
+[呐喊]
+[SHOUTS]
+
+183
+00:21:29,559 --> 00:21:34,147
+过来，史波克，这条通道之前在那里，它一定在那里
+Come on. Spock, The passageway was there before. It's gotta be there.
+
+184
+00:21:34,314 --> 00:21:39,319
+我无法锁定以前的读数，我找不到离开这里的出口
+I'm unable to lock in on the previous readings. I can find no exit out of here.
+
+185
+00:21:41,362 --> 00:21:43,114
+舰长！
+Captain!
+
+186
+00:21:46,326 --> 00:21:49,412
+吉姆，怎么了？他们对你做了什么？
+Jim, what is it? What have they done to you?
+
+187
+00:22:04,719 --> 00:22:07,430
+帮助他，不要害怕帮助他
+Help him. Don't be afraid to help him.
+
+188
+00:23:56,539 --> 00:23:57,874
+吉姆…
+Jim...
+
+189
+00:23:58,041 --> 00:24:00,752
+你躺着别动，我马上去检查她
+You lie still. I'll check her out right away.
+
+190
+00:24:12,805 --> 00:24:15,808
+- 她会活下来吗？  - 她现在看起来很好
+- Will she live? - She seems fine now.
+
+191
+00:24:16,976 --> 00:24:19,395
+你能解释一下发生了什么吗？
+Can you explain what happened?
+
+192
+00:24:19,646 --> 00:24:23,024
+完全的移情作用，她一定是个完全功能性移情者
+Complete empathy. She must be a totally functional empath.
+
+193
+00:24:23,191 --> 00:24:27,904
+她的神经系统与你的神经系统相连，以抵消你最坏的症状
+Her nervous system connected to yours to counteract the worst of your symptoms.
+
+194
+00:24:28,196 --> 00:24:32,700
+她实际上用她的力维持着你身体的生理反应
+With her strength, she sustained your body's physiological reactions.
+
+195
+00:24:32,867 --> 00:24:36,829
+她变虚弱了，我能感觉到，她有生命危险吗？
+She weakened. I could feel it. Is her life in danger?
+
+196
+00:24:36,996 --> 00:24:42,210
+还很难说，但为你的身体提供生命支持确实耗尽了她
+It's hard to say yet, but supplying your body with life did drain her.
+
+197
+00:24:42,377 --> 00:24:46,047
+她退缩似乎暗示了对死亡的恐惧，医生
+Her withdrawal suggested the fear of death, Doctor.
+
+198
+00:24:46,214 --> 00:24:48,716
+只是你催促了，她才继续
+Only your urging caused her to continue.
+
+199
+00:24:48,925 --> 00:24:51,511
+的确，恐惧自然是她的第一反应
+That's true. Fear would be a first reaction.
+
+200
+00:24:51,678 --> 00:24:56,599
+也许她对我们的舰长不够了解，无法为他献出生命
+Perhaps she doesn't know our captain well enough to offer her life for him.
+
+201
+00:24:57,600 --> 00:24:59,686
+这样的损耗会杀死她吗？
+Could the strain have killed her?
+
+202
+00:24:59,852 --> 00:25:04,691
+是的，但我认为她的自我保护本能会插手阻止
+I would assume that her instinct for self-preservation would take over to prevent it.
+
+203
+00:25:04,857 --> 00:25:07,902
+你感觉怎么样？
+How do you feel?
+
+204
+00:25:09,278 --> 00:25:12,407
+我累了
+I'm... tired.
+
+205
+00:25:12,573 --> 00:25:15,243
+你能回忆起发生了什么吗，舰长？
+Can you recall what happened, Captain?
+
+206
+00:25:15,410 --> 00:25:21,958
+我记得实验室，而且…他们想知道一些事情
+I remember the laboratory and... they wanted to know something.
+
+207
+00:25:23,626 --> 00:25:27,755
+- 我不记得了  - 放松
+- I can't remember. - Take it easy.
+
+208
+00:25:27,964 --> 00:25:31,592
+- 我怎么了？  - 你有减压病的症状
+- What's the matter with me? - You have symptoms of the bends.
+
+209
+00:25:31,759 --> 00:25:35,388
+血液中的氮气气泡会导致疼痛
+Nitrogen bubbles in your blood cause the pain.
+
+210
+00:25:35,596 --> 00:25:40,101
+- 但是你怎么会在这儿得减压病？  - 你得去问维恩人
+- How do you get the bends down here? - You'll have to ask the Vians.
+
+211
+00:25:42,395 --> 00:25:46,441
+- 我会活下来吗？  - 你需要在减压室里呆一会儿
+- Will I live? - Well, you could use some time in a decompression chamber.
+
+212
+00:25:46,607 --> 00:25:49,652
+否则，我会说你的康复是奇迹
+Otherwise I'd say your recovery is miraculous.
+
+213
+00:25:49,861 --> 00:25:53,990
+我希望是我的功劳，可惜是她干的
+I wish I could take the credit but she did the work.
+
+214
+00:25:54,157 --> 00:26:00,288
+舰长，我注意到当你从维恩人的实验室回来时，有一束光在你前面
+Captain, I noted that a light preceded you when you returned from the Vians' laboratory.
+
+215
+00:26:00,455 --> 00:26:04,000
+- 为什么你这么喜欢分析？  - 他是对的，继续
+- Why are you getting analytical? - He's right. Continue.
+
+216
+00:26:04,167 --> 00:26:09,338
+我推断这种光是将设备连接到能源的能量传输点
+Such a light is an energy transfer point linking this device to the power source.
+
+217
+00:26:09,505 --> 00:26:11,674
+你能利用它吗？
+Can you tap into it?
+
+218
+00:26:11,841 --> 00:26:16,679
+如果我确定它使用的频率，我也许能让它为我们工作
+If I determine the frequency it uses, I can cause it to function for us.
+
+219
+00:26:16,888 --> 00:26:19,849
+并按照他们带我们进来的方式带我们出去
+And get us out the way they brought us in.
+
+220
+00:26:20,016 --> 00:26:22,894
+- 我也这样认为  - 继续研究
+- I would say so. - I would say proceed.
+
+221
+00:26:25,772 --> 00:26:28,941
+你被称为舰长
+You are called Captain.
+
+222
+00:26:29,275 --> 00:26:32,528
+你对你的船员负责，对吗？
+You are responsible for your crew. Is this correct?
+
+223
+00:26:32,695 --> 00:26:38,659
+- 是的  - 我们的工作需要你的一个手下的合作
+- It is. - We find it necessary to have the cooperation of one of your men in our efforts.
+
+224
+00:26:38,826 --> 00:26:43,372
+- 我们不会合作  - 当我们继续我们的审讯时
+- We will not cooperate. - When we resume our interrogations,
+
+225
+00:26:43,539 --> 00:26:47,168
+你会决堤个我们将用你的哪个手下
+you will decide which of your men we shall use.
+
+226
+00:26:47,335 --> 00:26:52,215
+重要的是，医生有87%的死亡几率
+It is essential. There is an 87% chance that the doctor will die.
+
+227
+00:26:53,216 --> 00:26:58,721
+虽然史波克的生命没有危险，但有93%的几率
+And while Spock's life is not in danger, the possibility is 93%
+
+228
+00:26:58,888 --> 00:27:04,685
+遭受脑损伤，导致永久性精神失常
+that he will suffer brain damage resulting in permanent insanity.
+
+229
+00:27:18,491 --> 00:27:21,911
+- 怎么样了，史波克？  - 我不知道，舰长
+- How's it going? - I do not know.
+
+230
+00:27:22,078 --> 00:27:25,665
+我了解它的运行原理，但仅此而已
+I understand its operating principles but that is all.
+
+231
+00:27:25,832 --> 00:27:30,169
+用不了多久，维恩人就会回来，尽快了解它是如何工作的
+It won't be long before the Vians come back. Find out how it works. Soon.
+
+232
+00:27:30,336 --> 00:27:31,921
+别紧张
+Take it easy.
+
+233
+00:27:32,088 --> 00:27:35,383
+人并不打算生活在这么深的地下，不自然
+Men can't live underground. It's not natural.
+
+234
+00:27:35,550 --> 00:27:37,844
+太空旅行自然吗？
+And space travel is?
+
+235
+00:27:38,010 --> 00:27:41,722
+有些人在地面以下的矿井中度过一生
+Some men spend their lives in mines beneath the surface.
+
+236
+00:27:41,889 --> 00:27:45,268
+我是医生，不是煤矿工人
+I'm a doctor, not a coal miner.
+
+237
+00:27:45,434 --> 00:27:48,938
+医生，我已经在三录仪上记录了我的原理和理论
+I've recorded my principles and theories.
+
+238
+00:27:49,105 --> 00:27:54,193
+如果维恩人回来，有足够的数据供你何舰长完成调整
+Should the Vians return, there's sufficient data for you and the captain to complete the adjustments.
+
+239
+00:27:54,402 --> 00:27:58,781
+我不是机械师，不管你留下了多少笔记，我都没法让它工作
+I'm not a mechanic. I couldn't get that to work however many notes you left.
+
+240
+00:27:58,990 --> 00:28:03,369
+可能不是，但是你和舰长一起就能做到
+Possibly not. But you and the captain together will be able to do so.
+
+241
+00:28:03,536 --> 00:28:07,790
+无论如何，你是合乎逻辑的与舰长一起离开的人
+In any case, you are the logical one to leave with the captain.
+
+242
+00:28:07,999 --> 00:28:10,042
+决定权在我
+The decision is mine.
+
+243
+00:28:12,128 --> 00:28:15,715
+如果要做任何决定，我来做…
+If there are any decisions to be made, I'll make them...
+
+244
+00:28:17,592 --> 00:28:20,761
+如果有必要
+if and when it becomes necessary.
+
+245
+00:28:36,402 --> 00:28:40,031
+- 我不需要任何…  - 我仍然是首席医疗官
+- I don't need any... - I'm still chief medical officer.
+
+246
+00:28:40,239 --> 00:28:44,619
+我会告诉你你需要什么，什么时候，你宁愿得减压病吗？
+I'll tell you what you need and when. Would you rather have the bends?
+
+247
+00:28:44,785 --> 00:28:48,497
+就这样，只是躺下来放松一下
+That's it. Just lie down and relax.
+
+248
+00:28:48,664 --> 00:28:51,250
+他要睡多久，医生？
+How long will he be asleep, Doctor?
+
+249
+00:28:53,294 --> 00:28:57,924
+在情绪紧张和减压病发作之间，他的状态很糟糕
+Between the emotional strain and that attack of bends, he's in bad shape.
+
+250
+00:28:58,090 --> 00:29:01,302
+我不是在批评你的行为，相反
+I'm not criticising your action. On the contrary.
+
+251
+00:29:01,469 --> 00:29:07,308
+我很感激它，他将免于做出如此艰难的决定所带来的压力
+I'm grateful for it. He will be spared the strain of making so difficult a decision.
+
+252
+00:29:07,516 --> 00:29:11,687
+- 你大大简化了情况  - 如何？
+- You simplify the situation considerably. - How?
+
+253
+00:29:11,854 --> 00:29:15,024
+当舰长睡着后，我负责指挥
+While the captain is asleep, I am in command.
+
+254
+00:29:15,191 --> 00:29:18,277
+当维恩人回来时，我就跟他们一起去
+When the Vians return, I shall go with them.
+
+255
+00:29:19,028 --> 00:29:23,950
+- 如果我没有给他那一针…  - 选择权会是他的
+- If I hadn't given him that shot... - The choice would have been his.
+
+256
+00:29:24,116 --> 00:29:26,202
+现在它是我的了
+Now it is mine.
+
+257
+00:30:27,096 --> 00:30:29,724
+你的行为是非常不道德的
+Your action is highly unethical.
+
+258
+00:30:29,890 --> 00:30:32,601
+我的决定…成立
+My decision... stands.
+
+259
+00:30:32,768 --> 00:30:35,354
+嗯…嗯…
+Um... Um...
+
+260
+00:30:40,234 --> 00:30:42,403
+不是这次，史波克
+Not this time, Spock.
+
+261
+00:30:43,904 --> 00:30:45,906
+选择已经做好了
+The choice has been made.
+
+262
+00:30:47,950 --> 00:30:51,704
+和我的朋友一起呆在这里，他们会照顾你的
+Stay here with my friends. They'll take care of you.
+
+263
+00:30:53,873 --> 00:30:56,292
+你明白吗？
+Do you understand?
+
+264
+00:31:00,254 --> 00:31:01,964
+那就来吧
+Come, then.
+
+265
+00:31:26,614 --> 00:31:28,282
+医生
+Doctor.
+
+266
+00:31:28,449 --> 00:31:31,911
+如果有任何其他方法可以实现我们的目的…
+If there was any other way to accomplish our purpose...
+
+267
+00:31:38,084 --> 00:31:40,961
+那就做吧
+Get on with it.
+
+268
+00:31:52,848 --> 00:31:57,436
+- 你为什么让他这么做？  - 我和你一样被说服了
+- Why did you let him do it? - I was convinced just like you were.
+
+269
+00:31:57,603 --> 00:32:01,023
+- 被我们的好医生用针  - 有进展吗？
+- By the good doctor's hypo. - Anything?
+
+270
+00:32:01,190 --> 00:32:02,525
+唔…
+Hmm...
+
+271
+00:32:02,733 --> 00:32:08,280
+很少见的设备，是一个控制单元，但不是一个控制装置
+A most unusual device. A control unit, but not a control mechanism.
+
+272
+00:32:08,447 --> 00:32:11,617
+- 它不是机械装置  - 它究竟是什么？
+- It is not a mechanical device. - What is it?
+
+273
+00:32:11,867 --> 00:32:15,538
+这个装置与一种电能量模式相协调
+It's attuned to only one electrical pattern of energy,
+
+274
+00:32:15,704 --> 00:32:19,375
+这种模式是由拥有它的人的精神冲动产生的
+the pattern produced by the mental impulses of the person who possesses it.
+
+275
+00:32:19,625 --> 00:32:23,045
+它仅由精神命令激活
+It is activated solely by mental commands.
+
+276
+00:32:23,337 --> 00:32:27,508
+你能重新调整它，以适应我们的大脑模式吗？
+Can you adapt it, re-attune it, to fit our brain patterns?
+
+277
+00:32:27,675 --> 00:32:34,890
+我会尝试的，但是一次不能适应多个模式
+I shall attempt it. But it is not possible to fit more than one pattern at a time.
+
+278
+00:32:35,141 --> 00:32:39,687
+我熟悉我自己的模式，有了你的许可…
+I am familiar with my own pattern. With your permission...
+
+279
+00:32:39,854 --> 00:32:41,730
+随你做什么只要让它工作
+Do what you have to do to make it work.
+
+280
+00:32:41,897 --> 00:32:46,569
+令我不安的是为什么维恩人让我们保留它
+What disturbs me is why the Vians let us keep it.
+
+281
+00:32:47,695 --> 00:32:52,324
+真有趣，他们一定知道我们有能力理解和使用这个装置
+They must know we are capable of comprehending and using this control.
+
+282
+00:32:52,491 --> 00:32:56,245
+- 我们会用它来逃脱  - 合逻辑假设是
+- And that we would use it to escape. - The logical assumption
+
+283
+00:32:56,412 --> 00:32:58,414
+他们想让我们走
+is that they wish to let us go.
+
+284
+00:32:58,664 --> 00:33:03,502
+- 他们留下了麦考伊  - 那显然是他们的意图
+- And they keep McCoy. - That is evidently their intention.
+
+285
+00:33:08,674 --> 00:33:14,221
+不知何故，你是这一切的症结和焦点
+Somehow, you're the crux, the focal point of all this.
+
+286
+00:33:15,806 --> 00:33:20,269
+在我们到达这里之前，她是一名囚犯，他们没有伤害或威胁她
+Before we got here, she was a prisoner. They didn't hurt or threaten her.
+
+287
+00:33:20,436 --> 00:33:24,273
+事实表明她对他们的目的至关重要
+The facts would indicate she is essential to their purpose.
+
+288
+00:33:24,440 --> 00:33:28,402
+是的，有目的，但目的是什么？
+Yes, there is a purpose, but what is it?
+
+289
+00:33:32,823 --> 00:33:40,623
+对你来说，所有的痛苦和恐惧是自己发生的，还是故意为之？
+Has all the pain and terror happened, or been made to happen, for you?
+
+290
+00:33:42,458 --> 00:33:48,714
+好了，舰长，调整很脆弱，可能无法使用一次以上
+Completed. Adjustments are delicate and may not survive more than one use.
+
+291
+00:33:48,881 --> 00:33:53,719
+但是，应该有足够的能量将我们传送到企业号上
+However, there should be sufficient energy to transfer us to the Enterprise.
+
+292
+00:33:55,304 --> 00:33:58,849
+- 能带我们去找麦考伊吗？  - 如果你想的话
+- Will it take us to McCoy? - If you so desire.
+
+293
+00:34:06,148 --> 00:34:10,986
+最好的防守是强大的进攻，我打算现在就开始进攻
+The best defense is a strong offense. I intend to start offending right now.
+
+294
+00:34:15,950 --> 00:34:18,327
+以实验室为目标
+Aim for the lab.
+
+295
+00:34:24,250 --> 00:34:25,876
+老骨头…
+Bones...
+
+296
+00:34:39,098 --> 00:34:40,391
+史波克
+Spock.
+
+297
+00:34:41,433 --> 00:34:43,519
+把他弄下来
+Get him down.
+
+298
+00:34:44,937 --> 00:34:47,022
+他的手腕
+His wrists.
+
+299
+00:35:02,621 --> 00:35:05,124
+他的脉搏几乎没有了
+His pulse is almost gone.
+
+300
+00:35:07,543 --> 00:35:10,379
+- 他怎么样？  - 严重的心脏损伤
+- How is he? - Severe heart damage.
+
+301
+00:35:10,546 --> 00:35:15,551
+双肺充血的迹象，循环衰竭的症状
+Signs of congestion in both lungs. Evidence of circulatory collapse.
+
+302
+00:35:17,344 --> 00:35:18,637
+[喘气]
+[GASPS]
+
+303
+00:35:18,804 --> 00:35:20,723
+别说话
+Don't talk.
+
+304
+00:35:20,973 --> 00:35:26,061
+别说话，放轻松，直到我们把你送回船上
+Don't speak. Take it easy until we get you back to the ship.
+
+305
+00:35:37,906 --> 00:35:41,160
+怎么了？有什么麻烦？  - 他快死了，吉姆
+- What is it? What's the matter? - He's dying, Jim.
+
+306
+00:35:41,368 --> 00:35:45,706
+- 我们能让他舒服一些，但仅此而已  - 你不知道，你不是医生
+- We can only make him comfortable. - You don't know. You're not a doctor.
+
+307
+00:35:45,873 --> 00:35:47,541
+[麦考伊耳语]
+[MCCOY WHISPERS]
+
+308
+00:35:55,341 --> 00:36:00,596
+内伤，胸部和腹部出血
+Internal injuries. Bleeding in chest and abdomen.
+
+309
+00:36:00,763 --> 00:36:03,432
+脾脏和肝脏大出血
+Haemorrhage of the spleen and liver.
+
+310
+00:36:03,599 --> 00:36:05,726
+70%肾衰竭
+70% kidney failure.
+
+311
+00:36:05,893 --> 00:36:12,107
+他是对的，做医生有它的缺点
+He's right. Being a doctor has its drawbacks.
+
+312
+00:36:13,609 --> 00:36:16,695
+我一直想知道为什么我…[咳嗽]
+I always wondered why I... [COUGHS]
+
+313
+00:36:23,410 --> 00:36:25,496
+麦考伊：谢谢
+McCOY: Thanks.
+
+314
+00:36:27,790 --> 00:36:29,792
+还能活多久？
+How long?
+
+315
+00:36:30,000 --> 00:36:32,252
+随时可能死亡
+It could happen any time.
+
+316
+00:36:33,796 --> 00:36:37,007
+正确的医学用语，嗯，史波克？
+The correct medical phrase, eh, Spock?
+
+317
+00:36:49,019 --> 00:36:53,816
+你对病人的态度很好，史波克
+You've got a good bedside manner, Spock.
+
+318
+00:37:06,286 --> 00:37:08,580
+我们不能做点什么吗？
+Can't we do something?
+
+319
+00:37:09,957 --> 00:37:12,626
+恐怕不能
+I'm afraid not.
+
+320
+00:37:24,972 --> 00:37:28,016
+宝石或许能帮助他，像她帮助我一样
+Gem might be able to help him the way she helped me.
+
+321
+00:37:28,183 --> 00:37:31,645
+但他的濒临死亡会杀死她吗？
+But could his nearness to death also kill her?
+
+322
+00:37:31,812 --> 00:37:34,982
+不确定，麦考伊对她反应的分析
+Uncertain. McCoy's analysis of her reaction
+
+323
+00:37:35,149 --> 00:37:39,027
+假设自我保护本能会阻止它
+assumes that her instinct for self-preservation would prevent it.
+
+324
+00:37:39,194 --> 00:37:43,115
+- 但我们不能确定  - 如果她能让他变得强壮
+- But we cannot be positive. - If she could just strengthen him
+
+325
+00:37:43,323 --> 00:37:47,703
+不让他陷入死亡，我们说不定还能救他
+and keep him from sinking into death, we might be able to save him.
+
+326
+00:37:51,874 --> 00:37:54,460
+不允许干扰
+No interference will be permitted.
+
+327
+00:37:57,838 --> 00:38:02,217
+她可以救他一命，让我们帮她去找他
+She can save his life. Let us help her to go to him.
+
+328
+00:38:02,384 --> 00:38:05,137
+不应敦促她采取行动
+She must not be urged to take action.
+
+329
+00:38:05,304 --> 00:38:10,017
+一切都必须在不受干扰的情况下进行  - 把我们带到一起的目的…
+- All must proceed without interference. - The purpose that brought us...
+
+330
+00:38:10,184 --> 00:38:14,146
+除了满足你们的需要之外，这一切还有什么目的？
+What purpose can all this serve except to fulfil a need of yours?
+
+331
+00:38:14,313 --> 00:38:19,902
+我们的一生只剩下一种需要，看看我们测试的完成情况
+We have but one need left in life. To see the completion of our test.
+
+332
+00:38:20,110 --> 00:38:23,572
+- 要有耐心  - 耐心？我们的朋友快死了
+- Be patient. - Patient? Our friend is dying.
+
+333
+00:38:23,739 --> 00:38:25,407
+也许
+Perhaps.
+
+334
+00:38:25,616 --> 00:38:29,369
+除了带给你愉悦之外，还有什么目的？
+What purpose can be served except to bring you pleasure?
+
+335
+00:38:29,536 --> 00:38:34,082
+当然你知道你们的星系很快就会灭绝
+Surely you know that your star system will soon be extinct.
+
+336
+00:38:34,249 --> 00:38:36,835
+- 你们的太阳会新星爆发  - 我们知道
+- Your sun will nova. - We know.
+
+337
+00:38:37,127 --> 00:38:40,547
+它行星上的数百万居民注定要灭亡
+The millions of inhabitants on its planets are doomed.
+
+338
+00:38:40,714 --> 00:38:43,425
+这就是为什么我们在此
+That is why we are here.
+
+339
+00:38:43,634 --> 00:38:47,429
+你为了取悦自己而设计的这个死亡竞技场
+This arena of death that you've devised for your pleasure.
+
+340
+00:38:47,679 --> 00:38:51,892
+- 能阻止这场灾难吗？  - 不，不会
+- Will it prevent this catastrophe? - No, it will not.
+
+341
+00:38:52,059 --> 00:38:54,853
+但也许能拯救宝石的星球
+But it may save Gem's planet.
+
+342
+00:38:55,020 --> 00:39:00,901
+在米纳拉的所有行星中，我们只能将其中一个行星的居民运送到安全的地方
+Of all the planets of Minara, we can only transport inhabitants of one to safety.
+
+343
+00:39:01,151 --> 00:39:04,780
+如果宝石的星球是将被拯救的星球
+If Gem's planet is the one that will be saved,
+
+344
+00:39:04,947 --> 00:39:10,244
+我们必须毫无疑问地确定他们值得幸存
+we must make certain beyond any doubt they are worthy of survival.
+
+345
+00:39:10,744 --> 00:39:15,374
+我们朋友的死对这个目的有什么用？
+How will the death of our friend serve this purpose?
+
+346
+00:39:15,582 --> 00:39:17,876
+他的死没有帮助
+His death will not serve it.
+
+347
+00:39:18,043 --> 00:39:22,047
+但她为他付出生命的意愿有
+But her willingness to give her life for him will.
+
+348
+00:39:22,214 --> 00:39:25,968
+- 你们是她的老师  - 我们是？
+- You were her teachers. - We were?
+
+349
+00:39:26,885 --> 00:39:30,973
+- 她能从我们身上学到什么？  - 你的生存意志
+- What could she learn from us? - Your will to survive.
+
+350
+00:39:31,181 --> 00:39:35,477
+你对生活的热爱，你们求知的激情
+Your love of life. Your passion to know.
+
+351
+00:39:35,644 --> 00:39:38,480
+她的种族会记住这些
+They're recorded in her being.
+
+352
+00:39:38,647 --> 00:39:42,484
+她的星球将是幸运的
+Her planet will be fortunate.
+
+353
+00:39:42,693 --> 00:39:46,780
+你们每个人都愿意为他人献出自己的生命
+Each of you would give his life for the others.
+
+354
+00:39:46,947 --> 00:39:51,159
+我们必须查明这种本能是否已经传递给了宝石
+We must find out whether that instinct has been transmitted to Gem.
+
+355
+00:39:51,326 --> 00:39:53,328
+[隆隆声]
+[RUMBLING]
+
+356
+00:39:54,746 --> 00:39:58,500
+- 时间越来越短  - 你是对的，舰长
+- Time grows short. - You were correct, Captain.
+
+357
+00:39:58,709 --> 00:40:02,671
+这里发生的一切都是他们造成的
+Everything that has occurred here has been caused by them.
+
+358
+00:40:02,838 --> 00:40:07,509
+这是一个很棒的实验室，我们一直是研究对象
+This has been a great laboratory and we have been the subjects.
+
+359
+00:40:07,676 --> 00:40:14,016
+不，我们只创造了环境，那是必要的
+No. We only created the circumstances. That was necessary.
+
+360
+00:40:14,224 --> 00:40:16,643
+你的行为是自发的
+Your actions were spontaneous.
+
+361
+00:40:17,519 --> 00:40:23,275
+你已经揭示了所有物种中最真实和最好的一切
+Everything truest and best in all species of beings has been revealed by you.
+
+362
+00:40:23,442 --> 00:40:27,738
+那些是使文明值得生存的品质
+Those are the qualities that make a civilization worthy to survive.
+
+363
+00:40:30,115 --> 00:40:32,034
+看吧
+Behold.
+
+364
+00:40:58,852 --> 00:41:02,147
+那是最重要的
+That is most significant.
+
+365
+00:41:02,314 --> 00:41:06,193
+她的种族正在产生一种新的本能
+An instinct new to the essence of her being is generating.
+
+366
+00:41:06,360 --> 00:41:08,904
+同情他人
+Compassion for another
+
+367
+00:41:09,071 --> 00:41:12,741
+正在成为她生命的一部分
+is becoming part of her functioning life system.
+
+368
+00:43:09,691 --> 00:43:11,818
+她害怕
+She's afraid.
+
+369
+00:43:15,197 --> 00:43:18,617
+她在自救
+She's saving herself.
+
+370
+00:43:18,784 --> 00:43:22,662
+她还没有拯救她的人民的本能
+She does not yet have the instinct to save her people.
+
+371
+00:43:29,377 --> 00:43:32,714
+- 我们失败了？  - 不
+- We have failed? - No.
+
+372
+00:43:33,715 --> 00:43:36,134
+还没有
+No, not yet.
+
+373
+00:43:38,970 --> 00:43:43,725
+舰长，麦考伊医生的生活不仅仅依赖于宝石
+Captain. Dr. McCoy's life is not solely dependant on Gem.
+
+374
+00:43:43,934 --> 00:43:46,853
+维恩人也一定能挽救他的生命
+The Vians too must be capable of saving his life.
+
+375
+00:43:47,020 --> 00:43:49,815
+- 是的  - 你不能让他死
+- True. - You cannot let him die.
+
+376
+00:43:49,981 --> 00:43:52,734
+他的死并不重要
+His death is not important.
+
+377
+00:43:52,901 --> 00:43:56,238
+我们必须看看她的自我牺牲的本能
+We must see whether her instinct for self-sacrifice
+
+378
+00:43:56,446 --> 00:44:00,575
+是否已经超过了她的自我保护本能
+has become stronger than her instinct for self-preservation.
+
+379
+00:44:09,000 --> 00:44:10,585
+[咳嗽]
+[COUGHS]
+
+380
+00:44:29,604 --> 00:44:32,941
+别碰我，离我远点
+Don't touch me. Stay away.
+
+381
+00:44:35,610 --> 00:44:42,117
+- 吉姆，史波克，你在这里？  - 是的，老骨头
+- Jim. Spock. Are you here? - Yes, Bones.
+
+382
+00:44:42,284 --> 00:44:45,245
+不要让她碰我，她会死的
+Don't let her touch me. She'll die.
+
+383
+00:44:46,621 --> 00:44:48,456
+吉姆…
+Jim...
+
+384
+00:44:49,583 --> 00:44:54,921
+就算是为了救我自己，我也不能毁灭生命
+I can't destroy life even if it's to save my own.
+
+385
+00:44:55,088 --> 00:45:00,135
+我不能，你知道的，我不能让你这样做
+I can't. You know that. I can't let you do it.
+
+386
+00:45:06,308 --> 00:45:07,601
+舰长？
+Captain?
+
+387
+00:45:07,767 --> 00:45:11,563
+- 怎么了？  - 强烈的情绪正耗尽我们
+- What is it? - The intensity of emotion is draining us
+
+388
+00:45:11,730 --> 00:45:14,399
+并增强力场
+and building up the force field.
+
+389
+00:45:14,566 --> 00:45:17,903
+- 我知道  - 它从我们身上汲取能量，舰长
+- I know. - It draws its energy from us, Captain.
+
+390
+00:45:18,111 --> 00:45:22,282
+不管我们看到什么，所有的情绪都必须被压制
+In spite of what we see, all emotion must be suppressed.
+
+391
+00:45:22,449 --> 00:45:25,410
+它可能会削弱力场
+It might weaken the field.
+
+392
+00:45:25,577 --> 00:45:27,412
+我会尽力
+I'll try.
+
+393
+00:45:37,339 --> 00:45:39,132
+是的
+Yes.
+
+394
+00:45:53,980 --> 00:45:55,815
+史波克
+Spock.
+
+395
+00:45:59,319 --> 00:46:03,156
+我们不能利用我们的力量来改变正在发生的事情
+We cannot use our powers to change what is happening.
+
+396
+00:46:03,323 --> 00:46:08,703
+- 你必须拯救我们朋友的生命  - 不，我们不会
+- You must save the life of our friend. - No. We will not.
+
+397
+00:46:11,373 --> 00:46:16,544
+必须充分发挥她的本能，测试必须完成
+Her instinct must be developed to the fullest. The test must be complete.
+
+398
+00:46:16,711 --> 00:46:22,300
+成功了，宝石为她的星球赢得了生存权，她献出了自己的生命
+It is. Gem earned the right of survival for her planet. She offered her life.
+
+399
+00:46:22,467 --> 00:46:27,138
+- 只是献出生命还不够充分  - 如果死亡就是你想要的
+- To offer is not proof enough. - If death is all you understand,
+
+400
+00:46:29,391 --> 00:46:31,977
+这里有四条生命给你
+here are four lives for you.
+
+401
+00:46:35,730 --> 00:46:38,400
+我们不会离开我们的朋友
+We will not leave our friend.
+
+402
+00:46:38,650 --> 00:46:43,738
+你已经失去了感受情感的能力，你让宝石体验的情感
+You can't feel the emotions you brought Gem here to experience.
+
+403
+00:46:43,905 --> 00:46:47,826
+你不明白活着是什么意思
+You don't understand what it is to live.
+
+404
+00:46:49,911 --> 00:46:54,249
+爱和同情在你心里已经死了，你你们除了智力什么都没有
+Love and compassion are dead in you. You're nothing but intellect.
+
+405
+00:47:52,307 --> 00:47:54,100
+永别了
+Farewell.
+
+406
+00:48:14,829 --> 00:48:17,665
+- 奇怪的  - 什么让你困惑，舰长？
+- Strange. - What is puzzling you?
+
+407
+00:48:17,832 --> 00:48:22,003
+我并不困惑，我…敬畏
+I'm not puzzled. I am... awed.
+
+408
+00:48:23,213 --> 00:48:25,715
+我同意你，她让我敬畏
+I'm with you. She awed me.
+
+409
+00:48:25,924 --> 00:48:28,510
+不，不，我不是说宝石
+I wasn't thinking of Gem.
+
+410
+00:48:28,718 --> 00:48:31,513
+我在想这是多么难以置信的几率
+I was thinking of that element of chance
+
+411
+00:48:31,763 --> 00:48:35,975
+在无限的空间里，我们遇见宝石
+that out in limitless space we should come together with Gem.
+
+412
+00:48:36,142 --> 00:48:42,148
+舰长，像维恩这样的文明可以消除偶然因素
+Captain, the element of chance can be eliminated by a civilization like the Vians.
+
+413
+00:48:42,315 --> 00:48:45,026
+不是质疑你的计算
+Not to dispute your computer,
+
+414
+00:48:45,235 --> 00:48:50,115
+但从你告诉我的来看，我会说她是一颗价值不菲的珍珠
+but from what little you've told me, I'd say she was a pearl of great price.
+
+415
+00:48:50,323 --> 00:48:51,366
+什么，斯科特？
+What, Scott?
+
+416
+00:48:51,533 --> 00:48:54,702
+你不知道商人的故事吗？
+You don't know the story of the merchant?
+
+417
+00:48:58,706 --> 00:49:02,377
+当商人发现了一颗价值不菲的珍珠时
+The merchant, who when he found one pearl of great price,
+
+418
+00:49:02,669 --> 00:49:05,296
+就去变卖他所有的东西，买了它
+went and sold all that he had and bought it.
+
+419
+00:49:05,463 --> 00:49:10,385
+是的，她就是珍宝，维恩人是买到她还是找到了她
+Yes, she was all that. But whether the Vians bought or found her,
+
+420
+00:49:10,552 --> 00:49:12,554
+都无关紧要，她非常珍贵
+makes little difference, she was of great value.
+
+421
+00:49:12,804 --> 00:49:18,810
+就个人而言，我觉得令人着迷的是，凭借他们所有的科学知识
+Personally, I find it fascinating that with all their scientific knowledge,
+
+422
+00:49:18,977 --> 00:49:23,064
+他们最看重的是善良传统的人类情感
+it was good old-fashioned human emotion that they valued the most.
+
+423
+00:49:23,273 --> 00:49:26,734
+也许瓦肯人应该听听这个
+Perhaps the Vulcans should hear about this.
+
+424
+00:49:26,901 --> 00:49:31,072
+史波克先生，你能给他们讲讲这个新闻吗？
+Mr. Spock, can you be prevailed upon to bring them the news?
+
+425
+00:49:31,281 --> 00:49:36,828
+可能，舰长，我当然会考虑这个想法
+Possibly. I shall certainly give the thought all the consideration it is due.
+
+426
+00:49:41,916 --> 00:49:46,588
+- 苏鲁先生，以曲速2前进，- 是的，长官，曲速2
+- Mr. Sulu. Ahead warp factor 2. - Aye, sir. Warp factor 2.
+

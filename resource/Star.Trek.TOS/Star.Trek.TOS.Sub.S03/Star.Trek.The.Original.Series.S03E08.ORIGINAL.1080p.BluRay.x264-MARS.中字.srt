@@ -1,0 +1,2590 @@
+1
+00:00:17,622 --> 00:00:22,919
+- 这是最大放大倍数吗，上尉？  - 是的，长官
+- Is this full magnification, Lieutenant? - Yes, sir.
+
+2
+00:00:27,840 --> 00:00:31,594
+- 导弹详情，史波克先生？  - 古老的类型，亚光速
+- Missile spread, Mr. Spock? - Archaic type. Sublight speed.
+
+3
+00:00:31,761 --> 00:00:33,972
+是的，用化学燃料推进
+Aye, and chemically fueled to boot.
+
+4
+00:00:34,138 --> 00:00:37,100
+- 有任何通讯吗？  - 没有，长官
+- Anything on communication? - No, sir.
+
+5
+00:00:37,267 --> 00:00:42,939
+- 导弹航向，史波克先生？  - 目标是<i>企业号</i>
+- Course of the missile, Mr. Spock? - The <i>Enterprise</i> is the target.
+
+6
+00:00:43,815 --> 00:00:46,359
+准备相1号和2号位炮台，苏鲁先生
+Prepare phaser banks one and two, Mr. Sulu.
+
+7
+00:00:47,402 --> 00:00:51,322
+契科夫先生，确定导弹的发射点
+Mr. Chekov, get a fix on the missile's point of origin.
+
+8
+00:00:51,489 --> 00:00:56,244
+1号和2号相位炮台已锁定并准备好，长官
+Phasers one and two locked in and ready, sir.
+
+9
+00:00:56,411 --> 00:00:58,663
+发射相位炮
+Fire phasers.
+
+10
+00:01:03,668 --> 00:01:08,089
+契科夫先生，改变航线到导弹的原点
+Mr. Chekov, alter course to the missile's point of origin.
+
+11
+00:01:08,256 --> 00:01:10,842
+- 曲速3，苏鲁先生  - 是的，长官
+- Warp factor 3, Mr. Sulu. - Yes, sir.
+
+12
+00:01:16,889 --> 00:01:21,269
+我首先是一名护士，麦考伊医生，然后是一名船员
+I am a nurse first, Dr. McCoy, and a member of the crew second.
+
+13
+00:01:21,436 --> 00:01:23,604
+你被解除职务了，去你的宿舍
+You're excused. Go to your quarters.
+
+14
+00:01:23,771 --> 00:01:28,609
+抱歉，我已经呼叫舰长了，我会等他来
+I'm sorry. I've called the captain and I'll wait until he comes.
+
+15
+00:01:29,944 --> 00:01:34,282
+- 有什么急事？  - 我说你被解除职务了，护士
+- What's the emergency? - I said you were excused, Nurse.
+
+16
+00:01:34,449 --> 00:01:38,995
+拜托，克里斯汀，我向你保证我会给舰长一份完整的报告
+Please, Christine. I promise you I'll give the captain a full report.
+
+17
+00:01:48,046 --> 00:01:50,506
+那场面真壮观
+That was quite a scene.
+
+18
+00:01:50,673 --> 00:01:53,718
+我已经完成了船员的身体检查
+I've completed physical examinations for the crew.
+
+19
+00:01:53,926 --> 00:01:56,512
+- 有什么紧急情况？  - 船员身体健康
+- What's the emergency? - The crew is fit.
+
+20
+00:01:56,804 --> 00:02:00,224
+我没有发现任何异常，只有一个例外
+I found nothing unusual, with one exception.
+
+21
+00:02:00,391 --> 00:02:02,393
+- 严重吗？  - 已经是晚期了
+- Serious? - Terminal.
+
+22
+00:02:02,560 --> 00:02:06,898
+- 什么病？  - 异种红细胞增多症，它无法治愈
+- What is it? - Xenopolycythemia. It has no cure.
+
+23
+00:02:08,858 --> 00:02:11,402
+- 谁？  - 他最多只能活一年
+- Who? - He has one year to live at the most.
+
+24
+00:02:11,569 --> 00:02:15,573
+- 是谁？  - 船上的首席医疗官
+- Who is it? - The ship's chief medical officer.
+
+25
+00:02:17,241 --> 00:02:19,911
+- 你？  - 如果你保守这个秘密
+- You? - I'll be most effective on the job
+
+26
+00:02:20,078 --> 00:02:23,373
+我才能好好工作
+if you'll keep this to yourself.
+
+27
+00:02:34,842 --> 00:02:38,554
+柯克：<i>宇宙，最后的边疆</i>
+KIRK: <i>Space, the final frontier.</i>
+
+28
+00:02:43,768 --> 00:02:48,022
+<i>这些是星舰</i>企业号<i>的航程</i>
+<i>These are the voyages of the starship</i> Enterprise.
+
+29
+00:02:48,189 --> 00:02:52,193
+<i>它的五年任务：探索未知的新世界</i>
+<i>Its five-year mission: To explore strange new worlds,</i>
+
+30
+00:02:52,360 --> 00:02:55,947
+<i>寻找新生命和新文明</i>
+<i>to seek out new life and new civilizations,</i>
+
+31
+00:02:56,239 --> 00:02:59,575
+<i>勇踏前人未至之境</i>
+<i>to boldly go where no man has gone before.</i>
+
+32
+00:03:43,619 --> 00:03:46,789
+柯克：<i>舰长日志，星历5476.3</i>
+KIRK: <i>Captain's log, stardate 5476.3.</i>
+
+33
+00:03:47,081 --> 00:03:50,835
+<i>我已将麦考伊医生的病情告知星际舰队</i>
+<i>I have informed Starfleet about Dr. McCoy's condition</i>
+
+34
+00:03:51,043 --> 00:03:55,590
+<i>并要求立即更换人员</i>
+<i>and have requested an immediate replacement.</i>
+
+35
+00:03:56,799 --> 00:03:59,093
+- 史波克先生  - 是的，舰长？
+- Mr. Spock. - Yes, Captain?
+
+36
+00:03:59,260 --> 00:04:02,263
+确认导弹原点的坐标
+Confirm coordinates for the missile's origin.
+
+37
+00:04:02,430 --> 00:04:05,808
+正确，我们正在接近这些坐标
+Correct. We are approaching those coordinates.
+
+38
+00:04:05,975 --> 00:04:11,689
+- 屏幕上的那个物体？  - 一颗直径为200英里的小行星
+- That object on the screen? - An asteroid, 200 miles in diameter.
+
+39
+00:04:11,856 --> 00:04:14,692
+敌舰会躲在它后面吗？
+Could the enemy vessel be hiding behind it?
+
+40
+00:04:14,859 --> 00:04:18,863
+不会，舰长，我们一直在扫描这个区域
+Negative, Captain. We've had that area on scanners constantly.
+
+41
+00:04:20,573 --> 00:04:23,784
+那么小行星是导弹的原点吗？
+Then the asteroid is the missile's point of origin?
+
+42
+00:04:23,951 --> 00:04:26,829
+是的，舰长
+Correct, Captain.
+
+43
+00:04:29,373 --> 00:04:32,710
+用全部传感器进行探测，史波克先生
+Full sensor probe, Mr. Spock.
+
+44
+00:04:34,629 --> 00:04:39,383
+典型的小行星化学组成，但它不绕轨道运行
+Typical asteroid chemically, but it is not orbiting.
+
+45
+00:04:39,592 --> 00:04:43,804
+它沿着一条穿过太阳系的独立路线
+It is pursuing an independent course through this solar system.
+
+46
+00:04:43,971 --> 00:04:46,307
+怎么会这样？
+How could that be?
+
+47
+00:04:46,599 --> 00:04:52,063
+除非它是…有动力的，一艘太空飞船？
+Unless it's... powered. A spaceship?
+
+48
+00:04:52,230 --> 00:04:56,234
+它是有动力的，舰长
+It is under power, Captain.
+
+49
+00:04:56,400 --> 00:04:59,362
+- 动力源？  - 核动力，非常古老
+- Power source? - Atomic, very archaic.
+
+50
+00:04:59,528 --> 00:05:02,740
+留下一串碎片和硬辐射
+Leaving a trail of debris and hard radiation.
+
+51
+00:05:02,907 --> 00:05:05,868
+契科夫先生，绘制小行星飞船的路线图
+Mr. Chekov, plot the course of the asteroid vessel.
+
+52
+00:05:06,035 --> 00:05:09,997
+小行星有一个外壳，是空心的
+Asteroid has an outer shell, which is hollow.
+
+53
+00:05:10,998 --> 00:05:16,003
+它包含着一个独立的内核，由可呼吸的大气
+It surrounds an independent core, which has a breathable atmosphere.
+
+54
+00:05:16,170 --> 00:05:21,384
+- 传感器没有探测到生命形式  - 它一定处于自动控制状态
+- Sensors read no life-forms. - It must be on automatic controls.
+
+55
+00:05:21,550 --> 00:05:26,430
+乘客或建造者死了
+The passengers or builders are dead.
+
+56
+00:05:27,932 --> 00:05:34,188
+小行星的航向，我是说，飞船的航向，241，标记17
+Course of asteroid, I mean, spaceship, 241, mark 17.
+
+57
+00:05:34,522 --> 00:05:36,857
+- 真有趣  - 是的
+- Interesting. - Yes.
+
+58
+00:05:37,024 --> 00:05:43,864
+那个航向将使小行星与达兰五号发生碰撞
+That course would put the asteroid on a collision course with Daran V.
+
+59
+00:05:45,700 --> 00:05:50,454
+- 达兰五号？有人居住吗？  - 是的
+- Daran V? Inhabited? - Correct.
+
+60
+00:05:50,663 --> 00:05:55,710
+人口大约37.24亿，如果我没记错的话
+Population approximately three billion, 724 million, if my memory is correct.
+
+61
+00:05:55,876 --> 00:05:59,922
+预计冲撞时间，396天
+Estimated time of impact, 396 days.
+
+62
+00:06:02,425 --> 00:06:07,305
+苏鲁先生，调整<i>企业号</i>速度与小行星飞船相同
+Mr. Sulu. Match <i>Enterprise</i> speed with that of the asteroid vessel.
+
+63
+00:06:07,471 --> 00:06:11,475
+史波克先生和我要传送登船，斯科特先生，指挥操舵
+Mr. Spock and I are transporting aboard. Mr. Scott, you have the conn.
+
+64
+00:06:18,482 --> 00:06:23,988
+一年可以发生很多事情，请珍惜每一分钟
+A lot can happen in a year. Please, give yourself every minute.
+
+65
+00:06:29,076 --> 00:06:32,413
+麦考伊医生，史波克先生和我会处理这件事
+Dr. McCoy, Mr. Spock and I will handle this.
+
+66
+00:06:32,580 --> 00:06:36,417
+不带上我，吉姆？你会连回来的路都找不到
+Without me, Jim? You'd never find your way back.
+
+67
+00:06:36,584 --> 00:06:38,669
+呃…
+Well...
+
+68
+00:06:38,836 --> 00:06:44,508
+- 我认为更明智的做法是…  - 我想去，我很好，舰长
+- I think it would be wiser if... - I'd like to go. I'm fine, Captain.
+
+69
+00:06:45,718 --> 00:06:49,847
+好的，医生，如果那是你想要的
+All right, Doctor. If that's what you want.
+
+70
+00:07:11,243 --> 00:07:14,038
+麦考伊：我发誓我在一颗行星上
+McCOY: You'd swear you were on a planet.
+
+71
+00:07:14,205 --> 00:07:17,792
+史波克：造一艘看起来像行星的船的逻辑是什么？
+SPOCK: What is the logic in making a ship look like a planet?
+
+72
+00:07:17,958 --> 00:07:21,337
+真看不出这是艘太空飞船，柯克呼叫<i>企业号</i>
+Wouldn't know this was a spaceship. Kirk to <i>Enterprise</i>.
+
+73
+00:07:21,504 --> 00:07:26,050
+- 企业号，<i>我是斯科特</i>  - 安全到达，完毕
+- Enterprise, <i>Scott here.</i> - Transported without incident. Out.
+
+74
+00:07:50,366 --> 00:07:53,411
+没有可见的入口
+No apparent opening.
+
+75
+00:07:53,577 --> 00:07:57,415
+你没有发现智能生命形式，但肯定…
+You've found no intelligent life-forms, but surely...
+
+76
+00:07:57,581 --> 00:08:00,543
+这艘船已经有10,000多年的历史了，医生
+The ship is over 10,000 years old, Doctor.
+
+77
+00:08:00,709 --> 00:08:04,088
+仍然没有生命形式的迹象，舰长
+Still no sign of life-forms, Captain.
+
+78
+00:08:51,886 --> 00:08:54,763
+这些是武器？
+These are weapons?
+
+79
+00:08:54,930 --> 00:08:59,226
+算是一种，武器，通讯设备
+Of a sort. Weapons, communication devices.
+
+80
+00:08:59,393 --> 00:09:01,645
+让我去找我的朋友
+Let me go to my friend.
+
+81
+00:09:12,948 --> 00:09:16,660
+- 你没事吧？  - 我没事
+- You all right? - I think so.
+
+82
+00:09:19,163 --> 00:09:23,959
+我是纳提拉，人民的高级女祭司
+I am Natira, the high priestess of the people.
+
+83
+00:09:24,126 --> 00:09:27,087
+欢迎来到尤纳达的世界
+Welcome to the world of Yonada.
+
+84
+00:09:27,254 --> 00:09:30,633
+我得说这可不算什么欢迎
+I can't say I think much of your welcome.
+
+85
+00:09:30,799 --> 00:09:32,843
+带他们走
+Take them.
+
+86
+00:10:37,324 --> 00:10:39,493
+你们要跪下
+You will kneel.
+
+87
+00:10:56,343 --> 00:11:01,348
+她称这个为“世界”，这些人不知道他们在船上
+She called this "the world". These people don't know they're on a ship.
+
+88
+00:11:01,515 --> 00:11:06,770
+它们已经飞行了10,000年，也许他们没有意识到
+They've been in flight 10,000 years. Maybe they don't realize it.
+
+89
+00:11:09,773 --> 00:11:15,404
+哦，人民的神谕，最完美和最明智的
+Oh, Oracle of the people, most perfect and wise.
+
+90
+00:11:15,571 --> 00:11:18,866
+陌生人来到了我们的世界
+Strangers have come to our world.
+
+91
+00:11:19,033 --> 00:11:22,119
+他们带着我们不懂的器械
+They bear instruments we do not understand.
+
+92
+00:11:37,134 --> 00:11:40,262
+你是谁？
+Who are you?
+
+93
+00:11:43,390 --> 00:11:46,977
+我是星舰<i>企业号</i>的柯克舰长
+I am Captain Kirk of the starship <i>Enterprise.</i>
+
+94
+00:11:47,144 --> 00:11:52,149
+这是我的医疗官，麦考伊医生，我的大副，史波克先生
+This is my medical officer, Dr. McCoy. My first officer, Mr. Spock.
+
+95
+00:11:53,400 --> 00:11:58,656
+- 你为什么要来到这个世界？  - 我们是出于友谊而来的
+- Why do you visit this world? - We've come in friendship.
+
+96
+00:11:58,822 --> 00:12:00,074
+[雷声]
+[THUNDER CRACK]
+
+97
+00:12:00,324 --> 00:12:02,451
+神谕：<i>了解成为我们的敌人意味着什么</i>
+ORACLE: <i>Learn what it means to be our enemy</i>
+
+98
+00:12:02,618 --> 00:12:06,121
+<i>在你了解成为我们的朋友意味着什么之前</i>
+<i>before you learn what it means to be our friend.</i>
+
+99
+00:12:24,264 --> 00:12:27,184
+史波克
+Spock.
+
+100
+00:12:28,352 --> 00:12:32,022
+麦考伊医生，老骨头
+Dr. McCoy. Bones.
+
+101
+00:12:33,023 --> 00:12:35,150
+老骨头？
+Bones?
+
+102
+00:12:35,317 --> 00:12:38,362
+医生一定是受到了过度的电击
+The doctor must have received an excessive shock.
+
+103
+00:12:38,529 --> 00:12:40,489
+不，不是这样
+No, that's not it.
+
+104
+00:12:40,656 --> 00:12:43,450
+没有其他原因可以造成这种情况，舰长
+Nothing else could have caused this, Captain.
+
+105
+00:12:43,617 --> 00:12:46,203
+至少，这里没有发生过什么
+At least, nothing that has happened here.
+
+106
+00:12:47,204 --> 00:12:51,834
+你说得对，由于麦考伊的虚弱状况，电击很严重
+You're right. The shock was serious due to McCoy's weakened condition.
+
+107
+00:12:52,000 --> 00:12:56,171
+请问医生究竟有什么问题？
+May I ask precisely what is troubling the doctor?
+
+108
+00:12:59,633 --> 00:13:05,806
+我认为他不会告诉你，但我认为你现在应该知道了
+I don't think he would have told you, but I think you should know now.
+
+109
+00:13:05,973 --> 00:13:09,518
+是异种红细胞增多症
+It's xenopolycythemia.
+
+110
+00:13:10,602 --> 00:13:15,149
+好吧，我知道这个，舰长
+Yes. I know of it, Captain.
+
+111
+00:13:15,315 --> 00:13:18,610
+那你就知道它是绝症
+Then you know that nothing can be done.
+
+112
+00:13:26,410 --> 00:13:29,580
+老骨头，怎么样？
+Bones, how is it?
+
+113
+00:13:30,998 --> 00:13:33,917
+我很好
+I'm all right.
+
+114
+00:13:34,084 --> 00:13:37,546
+- 你还好吗，史波克先生？  - 很好，医生
+- Are you all right, Mr. Spock? - Very well, Doctor.
+
+115
+00:13:37,713 --> 00:13:41,091
+舰长和我似乎没有受到任何不良影响
+The captain and I seem to have suffered no ill effects.
+
+116
+00:13:41,258 --> 00:13:43,886
+那个“神谕”真的吓到我了
+That "Oracle" really got to me.
+
+117
+00:13:44,052 --> 00:13:48,348
+我一定对它的魔咒特别敏感
+I must be especially susceptible to its magic spells.
+
+118
+00:13:54,438 --> 00:13:56,565
+史波克知道了
+Spock knows.
+
+119
+00:14:02,112 --> 00:14:05,949
+好吧，我们最好去控制室
+Well, we better get to the control room.
+
+120
+00:14:07,451 --> 00:14:11,538
+- 你可以起来吗？  - 别担心，我能做到，吉姆
+- Are you in any condition to get up? - Don't worry, I can make it, Jim.
+
+121
+00:14:11,705 --> 00:14:14,875
+告知这些人他们在船上
+Informing these people they're on a ship
+
+122
+00:14:15,167 --> 00:14:18,420
+可能违反星际舰队的最高指令
+may violate Starfleet's Prime Directive.
+
+123
+00:14:18,587 --> 00:14:21,799
+不，尤纳达的人民可能会因知识而改变
+No, the people of Yonada may be changed by the knowledge,
+
+124
+00:14:21,965 --> 00:14:24,593
+但总比消灭它们好
+but it's better than exterminating them.
+
+125
+00:14:24,760 --> 00:14:28,138
+- 合乎逻辑，舰长  - 还有达兰五号上的30亿人
+- Logical, Captain. - And the three billion on Daran V.
+
+126
+00:14:28,305 --> 00:14:30,307
+也是合乎逻辑的，舰长
+Also logical, Captain.
+
+127
+00:14:30,474 --> 00:14:34,144
+先生们，我想我们有个客人
+Gentlemen, I believe we have a visitor.
+
+128
+00:14:52,913 --> 00:14:54,498
+能增强力量
+For strength.
+
+129
+00:14:54,832 --> 00:14:58,335
+我们中的许多人都感受到了我们神谕的力量
+Many of us have felt the power of our oracle.
+
+130
+00:14:58,502 --> 00:15:01,338
+这很有用
+This has been of benefit.
+
+131
+00:15:02,589 --> 00:15:05,509
+尝起来像一种古代的草药制品
+Tastes like an ancient herb derivative.
+
+132
+00:15:11,682 --> 00:15:16,812
+- 你不是尤纳达人  - 不，我们来自你的世界之外
+- You are not of Yonada. - No, we're from outside your world.
+
+133
+00:15:17,980 --> 00:15:20,607
+哪里…是外面？
+Where... is outside?
+
+134
+00:15:22,943 --> 00:15:25,028
+上面
+Up there.
+
+135
+00:15:25,195 --> 00:15:27,239
+外面，上面，到处
+Outside, up there, everywhere.
+
+136
+00:15:30,868 --> 00:15:33,537
+他们也这么说
+So they say, also.
+
+137
+00:15:38,208 --> 00:15:41,211
+很多年前
+Many years ago,
+
+138
+00:15:41,378 --> 00:15:46,884
+我爬上了山，尽管这是被禁止的
+I climbed the mountains, even though it is forbidden.
+
+139
+00:15:50,387 --> 00:15:52,681
+为什么被禁止？
+Why is it forbidden?
+
+140
+00:15:52,848 --> 00:15:54,892
+我不知道
+I am not sure.
+
+141
+00:15:58,061 --> 00:16:01,648
+但事情并非…
+But things are not...
+
+142
+00:16:01,815 --> 00:16:04,693
+他们教我们的那样
+as they teach us.
+
+143
+00:16:06,069 --> 00:16:09,239
+因为世界是空心的
+For the world is hollow,
+
+144
+00:16:09,406 --> 00:16:13,702
+而我触碰到了天空
+and I have touched the sky.
+
+145
+00:16:19,499 --> 00:16:23,754
+- 这是什么，老骨头？  - 皮肤下有东西
+- What is it, Bones? - There's something under the skin.
+
+146
+00:16:29,176 --> 00:16:31,803
+他死了
+He's dead.
+
+147
+00:16:32,888 --> 00:16:36,892
+“因为世界是空心的，而我触碰到了天空”
+"For the world is hollow and I have touched the sky."
+
+148
+00:16:37,059 --> 00:16:40,687
+- 禁止爬山  - 当然
+- It's forbidden to climb the mountains. - Of course.
+
+149
+00:16:40,854 --> 00:16:44,858
+因为如果你这样做了，你会发现你生活在一个大球上
+Because if you did, you'd find out you were living on a big ball.
+
+150
+00:16:45,025 --> 00:16:50,447
+不是一颗行星而是一艘宇宙飞船，而这种知识似乎是被禁止的
+Not a planet but a spaceship. And that knowledge seems to be forbidden.
+
+151
+00:16:51,907 --> 00:16:53,116
+发生了什么？
+What happened?
+
+152
+00:16:53,283 --> 00:16:56,203
+我们不知道，他痛苦地尖叫着死去了
+We don't know. He screamed in pain and died.
+
+153
+00:16:56,370 --> 00:16:58,956
+叫守卫来
+Fetch the guard.
+
+154
+00:17:03,085 --> 00:17:05,921
+原谅他，因为他是个老人
+Forgive him, for he was an old man.
+
+155
+00:17:06,213 --> 00:17:08,966
+而老人有时是愚蠢的
+And old men are sometimes foolish.
+
+156
+00:17:09,299 --> 00:17:15,097
+但书上说，那些犯罪或说坏话的人
+But it is written that those of the people who sin or speak evil
+
+157
+00:17:15,263 --> 00:17:18,308
+将受到惩罚
+shall be punished.
+
+158
+00:17:25,607 --> 00:17:28,485
+多年来他认真工作
+He served well for many years.
+
+159
+00:17:28,652 --> 00:17:31,488
+把他带走，轻轻地
+Take him away, gently.
+
+160
+00:17:43,000 --> 00:17:46,420
+你看起来不太好，这让我很难受
+You do not seem well. It is distressing to me.
+
+161
+00:17:46,586 --> 00:17:49,131
+我很好，谢谢
+I'm quite all right, thank you.
+
+162
+00:17:50,465 --> 00:17:55,846
+您现在被视为贵宾，这是神谕的意愿
+It is the will of the Oracle that you now be treated as honored guests.
+
+163
+00:18:00,892 --> 00:18:03,020
+你似乎受到特别的喜爱
+You seem to be the special favorite.
+
+164
+00:18:03,186 --> 00:18:06,606
+这位年轻女士确实很喜欢你的陪伴
+The young lady did show a preference for your company.
+
+165
+00:18:06,773 --> 00:18:11,445
+- 没有人可以为此责怪她  - 我觉得她的品味值得怀疑
+- Nobody can blame her for that. - I find her taste questionable.
+
+166
+00:18:11,611 --> 00:18:16,783
+但她显然更喜欢你，而你似乎并不介意
+But she obviously prefers you and you obviously don't seem to mind.
+
+167
+00:18:17,034 --> 00:18:21,329
+如果你能安排和那位小姐单独相处
+If you could arrange to be alone with the young lady,
+
+168
+00:18:21,496 --> 00:18:26,043
+史波克和我可以找到这个…世界的能量控制器
+Spock and I could find the power controls of this... world.
+
+169
+00:18:29,004 --> 00:18:32,174
+是时候让自己焕然一新了
+It is time to refresh yourselves.
+
+170
+00:18:36,928 --> 00:18:38,722
+谢谢你，史波克先生
+Thank you, Mr. Spock.
+
+171
+00:18:42,225 --> 00:18:45,520
+敬我们尤纳达的好朋友
+To our good friends of Yonada.
+
+172
+00:18:47,564 --> 00:18:51,651
+- 我们对你们的世界很感兴趣  - 这让我们高兴
+- We are very interested in your world. - That pleases us.
+
+173
+00:18:51,818 --> 00:18:53,737
+你介意我们到处看看吗？
+You mind if we looked around?
+
+174
+00:18:53,945 --> 00:18:56,740
+一点也不，人民现在认识你们了
+Not at all. The people know of you now.
+
+175
+00:18:56,948 --> 00:18:58,450
+[咳嗽]
+[COUGHS]
+
+176
+00:18:58,742 --> 00:19:01,578
+你可以走动吗？
+Are you well enough to go about?
+
+177
+00:19:03,246 --> 00:19:05,207
+也许不行
+Perhaps not.
+
+178
+00:19:05,373 --> 00:19:10,712
+那为什么不留在这里呢？休息一下，我们聊聊天
+Then why not remain here? Rest, we will talk.
+
+179
+00:19:10,879 --> 00:19:13,548
+你真体贴
+You are very kind.
+
+180
+00:19:14,591 --> 00:19:17,094
+你们可以自由地四处走动并见见我们的人民
+You are free to go about and meet our people.
+
+181
+00:19:17,260 --> 00:19:19,221
+谢谢
+Thank you.
+
+182
+00:19:19,387 --> 00:19:22,891
+感谢你照顾麦考伊医生
+And thank you for taking care of Dr. McCoy.
+
+183
+00:19:23,058 --> 00:19:26,186
+不用谢，我们会让他好起来的
+Not at all. We shall make him well.
+
+184
+00:19:31,441 --> 00:19:32,776
+史波克先生
+Mr. Spock.
+
+185
+00:19:39,950 --> 00:19:41,576
+不，谢谢
+No, thank you.
+
+186
+00:19:45,455 --> 00:19:47,415
+请离开吧
+Leave us.
+
+187
+00:19:50,127 --> 00:19:55,215
+我很好奇，神谕是如何惩罚那位老人的？
+I'm curious. How did the Oracle punish the old man?
+
+188
+00:19:56,216 --> 00:19:57,634
+我…
+I...
+
+189
+00:19:58,426 --> 00:20:00,303
+…现在不能告诉你
+...cannot tell you now.
+
+190
+00:20:01,429 --> 00:20:05,142
+神谕有办法知道你说了什么，不是吗？
+There is some way the Oracle knows what you say, isn't there?
+
+191
+00:20:06,143 --> 00:20:08,895
+我们说的，我们想的
+What we say, what we think.
+
+192
+00:20:09,062 --> 00:20:13,984
+神谕知道所有人的想法和内心
+The Oracle knows the minds and the hearts of all the people.
+
+193
+00:20:17,529 --> 00:20:21,408
+我不知道你会受到如此严重的伤害
+I did not know you would be hurt so badly.
+
+194
+00:20:21,575 --> 00:20:24,411
+没关系
+It's all right.
+
+195
+00:20:24,578 --> 00:20:27,414
+我想我们必须学习神谕的力量
+I suppose we had to learn the power of the Oracle.
+
+196
+00:20:27,581 --> 00:20:32,669
+有件事我必须说，自从我…
+There is something I must say. Since the moment I...
+
+197
+00:20:40,010 --> 00:20:45,140
+隐藏自己的感情不符合人民的方式
+It is not in the manner of the people to hide their feelings.
+
+198
+00:20:47,601 --> 00:20:52,063
+诚实是…通常是明智的
+Honesty is... usually wise.
+
+199
+00:20:52,355 --> 00:20:55,108
+你有女人吗？
+Is there a woman for you?
+
+200
+00:21:00,363 --> 00:21:02,365
+不，没有
+No, there isn't.
+
+201
+00:21:03,533 --> 00:21:07,120
+麦考伊觉得我有吸引力吗？
+Does McCoy find me attractive?
+
+202
+00:21:07,287 --> 00:21:10,373
+哦，是的，是的，你有
+Oh, yes. Yes, I do.
+
+203
+00:21:14,294 --> 00:21:17,047
+我希望你们来自太空的
+I hope you men of space,
+
+204
+00:21:17,214 --> 00:21:19,716
+来自其他世界的人
+of other worlds,
+
+205
+00:21:19,883 --> 00:21:23,678
+像我们一样珍视真理
+hold truth as dear as we do.
+
+206
+00:21:23,845 --> 00:21:26,014
+我们的确是
+We do.
+
+207
+00:21:28,475 --> 00:21:32,020
+我希望你留在这里，在尤纳达
+I wish you to stay here, on Yonada,
+
+208
+00:21:33,146 --> 00:21:35,607
+作为我的伴侣
+as my mate.
+
+209
+00:21:52,540 --> 00:21:55,418
+但我们彼此还是陌生人
+But we're strangers to each other.
+
+210
+00:21:55,585 --> 00:21:59,256
+但这不正是人的天性吗？
+But is not that the nature of men and women?
+
+211
+00:21:59,422 --> 00:22:03,927
+乐趣不就是互相了解的过程吗？
+That the pleasure is in the learning of each other?
+
+212
+00:22:04,135 --> 00:22:05,929
+是的
+Yes.
+
+213
+00:22:07,555 --> 00:22:10,058
+让思想在你心中安息
+Let the thought rest in your heart.
+
+214
+00:22:16,147 --> 00:22:20,277
+这些人不知道他们生活在宇宙飞船上
+These people have no idea they're living on a spaceship.
+
+215
+00:22:20,443 --> 00:22:23,571
+多少代人度过了他们的一生
+How many generations have lived out their lives,
+
+216
+00:22:23,738 --> 00:22:26,283
+并被埋葬在这里
+and been buried here,
+
+217
+00:22:26,449 --> 00:22:29,744
+但不知道他们的世界其实是空心的？
+without ever knowing their world is hollow?
+
+218
+00:22:29,911 --> 00:22:33,039
+人民，在充实的时间里，
+The people, in the fullness of time,
+
+219
+00:22:33,206 --> 00:22:35,583
+将到达一个新的世界
+will reach a new world.
+
+220
+00:22:35,750 --> 00:22:39,212
+富饶，充满生机，赏心悦目
+Rich, green, lovely to the eyes,
+
+221
+00:22:39,379 --> 00:22:40,964
+以及善良
+and of a goodness
+
+222
+00:22:41,131 --> 00:22:45,468
+将使人们的心中充满喜悦的泪水。
+that will fill the hearts of the people with tears of joy.
+
+223
+00:22:47,262 --> 00:22:50,307
+你我一起分享那个世界
+You can share that world with me,
+
+224
+00:22:50,473 --> 00:22:52,976
+一起统治它
+rule it by my side.
+
+225
+00:22:55,061 --> 00:22:59,149
+你需要多久才能到达这个新世界？
+How long will it take you to reach this new world?
+
+226
+00:23:00,442 --> 00:23:04,195
+很快，神谕只会说“很快”
+Soon. The Oracle will only say "soon".
+
+227
+00:23:06,489 --> 00:23:11,453
+要是你知道我多么需要某种未来就好了，纳提拉
+If you only knew how I needed some kind of future, Natira.
+
+228
+00:23:11,619 --> 00:23:13,997
+你过着孤独的生活吗？
+You have lived a lonely life?
+
+229
+00:23:15,290 --> 00:23:18,710
+是的，很孤独
+Yes, very lonely.
+
+230
+00:23:21,504 --> 00:23:23,840
+不会了，麦考伊
+No more, McCoy.
+
+231
+00:23:26,009 --> 00:23:29,137
+你将不再孤独
+There will be no more loneliness for you.
+
+232
+00:23:31,222 --> 00:23:34,809
+- 有件事我需要告诉你  - 不要说
+- There's something I need to tell you. - There's not.
+
+233
+00:23:35,101 --> 00:23:37,854
+- 但必须说  - 那就告诉我吧
+- But there is. - Then tell me.
+
+234
+00:23:38,188 --> 00:23:40,357
+如果你真的要说
+If the telling is such a need.
+
+235
+00:23:41,524 --> 00:23:45,153
+我得了一种绝症
+I have an illness for which there is no cure.
+
+236
+00:23:48,656 --> 00:23:51,326
+我还有一年的寿命
+I have one year to live.
+
+237
+00:23:55,538 --> 00:23:58,541
+遇见你之前，我的心是一片空白
+Until I saw you, there was nothing in my heart.
+
+238
+00:23:58,750 --> 00:24:03,338
+它维持着我的生命，但仅此而已
+It sustained my life, but nothing more.
+
+239
+00:24:03,505 --> 00:24:06,049
+现在它会唱歌
+Now it sings.
+
+240
+00:24:07,050 --> 00:24:11,054
+我很高兴有这种感觉，哪怕一天
+I could be happy to have that feeling for a day
+
+241
+00:24:11,221 --> 00:24:14,391
+一个星期，一个月…
+a week, a month...
+
+242
+00:24:14,724 --> 00:24:17,394
+…一年
+...a year.
+
+243
+00:24:17,560 --> 00:24:20,522
+无论创造者为我们安排了什么
+Whatever the creators hold in store for us.
+
+244
+00:24:45,088 --> 00:24:48,383
+舰长，神谕室
+Captain, the Oracle room.
+
+245
+00:24:54,597 --> 00:24:57,934
+问题：进入
+The problem: to get in.
+
+246
+00:24:58,101 --> 00:25:00,061
+我相信我可以…
+I believe that I can...
+
+247
+00:25:05,942 --> 00:25:09,070
+这些字绝对是法布里尼语，我认得
+The writing is definitely Fabrini. I recognize it.
+
+248
+00:25:09,237 --> 00:25:12,574
+法布里尼的太阳不是变成了新星并摧毁了它的行星吗？
+Didn't the Fabrini sun go nova and destroy its planets?
+
+249
+00:25:12,740 --> 00:25:16,244
+到最后，法布里尼人住在地下
+Towards the end, the Fabrini people lived underground
+
+250
+00:25:16,411 --> 00:25:18,371
+来保护自己
+to protect themselves.
+
+251
+00:25:18,538 --> 00:25:23,126
+他们中的一些人肯定已经被安置在这艘船上
+Some of them must have been put aboard this ship.
+
+252
+00:25:23,293 --> 00:25:27,338
+而这些都是他们的后代
+And these are their descendants.
+
+253
+00:25:29,841 --> 00:25:31,134
+现在
+Now.
+
+254
+00:25:52,822 --> 00:25:56,493
+神谕似乎不知道我们在这里
+The Oracle doesn't seem to know we're here.
+
+255
+00:25:59,078 --> 00:26:03,082
+- 我想知道第一次是什么提醒了它  - 舰长…
+- I wonder what alerted it the first time. - Captain...
+
+256
+00:26:03,249 --> 00:26:09,672
+当纳提拉跪在那里时，神谕不友好的行为就开始了
+The Oracle's reprehensible conduct was initiated when Natira knelt there.
+
+257
+00:26:09,881 --> 00:26:13,635
+我觉得你是对的，继续调查
+I think you're right. Continue investigating.
+
+258
+00:26:13,801 --> 00:26:19,933
+控制器位置的线索一定在附近
+The clue to the location of the control room must be around somewhere.
+
+259
+00:26:28,525 --> 00:26:32,487
+这里没有任何迹象表明这绝不是一颗行星
+Nothing here would indicate that this is anything but a planet.
+
+260
+00:26:38,701 --> 00:26:43,540
+毫无疑问，但创造者会被认为是神
+There's no question but the creators would have been considered gods.
+
+261
+00:26:49,796 --> 00:26:53,383
+这代表一颗恒星及其太阳系
+This is a representation of a star and its solar system.
+
+262
+00:26:53,550 --> 00:26:57,512
+八颗，法布里尼太阳系中行星的数量
+Eight planets, the number in the Fabrina solar system.
+
+263
+00:26:57,679 --> 00:27:00,557
+这些人是法布里尼人的后裔
+These people are descendants of the Fabrini.
+
+264
+00:27:00,723 --> 00:27:05,061
+他们已经在这艘小行星船上生活了10,000年
+They've been on this asteroid ship for 10,000 years.
+
+265
+00:27:05,228 --> 00:27:07,021
+[门打开]
+[DOOR OPENS]
+
+266
+00:27:20,577 --> 00:27:21,744
+神谕：<i>说吧</i>
+ORACLE: <i>Speak.</i>
+
+267
+00:27:23,913 --> 00:27:27,375
+- 是我，纳提拉  - <i>是的，纳提拉</i>
+- It is I, Natira. - <i>Yes, Natira.</i>
+
+268
+00:27:28,585 --> 00:27:33,256
+书上说只有人民的最高女祭司可以选择她的伴侣
+It is written that only the high priestess of the people may select her mate.
+
+269
+00:27:33,464 --> 00:27:36,092
+<i>是这么写的</i>
+<i>It is so written.</i>
+
+270
+00:27:37,719 --> 00:27:40,930
+我们中间的陌生人，三个访客
+The strangers among us, the three visitors,
+
+271
+00:27:41,222 --> 00:27:44,058
+有一个叫麦考伊
+there is one called McCoy.
+
+272
+00:27:44,350 --> 00:27:47,520
+我希望他留在这里
+I wish him to remain here,
+
+273
+00:27:47,687 --> 00:27:50,231
+作为我的伴侣
+as my mate.
+
+274
+00:27:50,523 --> 00:27:52,692
+<i>他同意吗？</i>
+<i>Does he agree to this?</i>
+
+275
+00:27:52,859 --> 00:27:56,404
+我已经问过他了，他还没有给我他的答案
+I have asked him. He has not yet given me his answer.
+
+276
+00:27:56,571 --> 00:28:00,950
+<i>他必须成为人民中的一员，敬奉创造者</i>
+<i>He must become one of the people, worship the creators,</i>
+
+277
+00:28:01,117 --> 00:28:04,287
+<i>并同意植入服从器</i>
+<i>and agree to have the Instrument of Obedience.</i>
+
+278
+00:28:04,454 --> 00:28:06,623
+他会被告知必须做什么
+He will be told what must be done.
+
+279
+00:28:06,789 --> 00:28:09,959
+<i>如果他同意所有的事情，那就可以</i>
+<i>If he agrees to all things, it is permitted.</i>
+
+280
+00:28:10,126 --> 00:28:14,213
+<i>仔细教他我们的法律，这样他就不会亵渎</i>
+<i>Teach him our laws carefully so he commits no sacrilege,</i>
+
+281
+00:28:14,505 --> 00:28:18,885
+<i>冒犯人民或创造者</i>
+<i>no offense against the people or the creators.</i>
+
+282
+00:28:19,052 --> 00:28:23,973
+我会的，哦，至高智慧
+It will be done, oh, most wise.
+
+283
+00:28:40,948 --> 00:28:44,827
+- <i>入侵者是谁？</i>  - 两个陌生人，柯克和史波克
+- <i>Who are the intruders?</i> - Two strangers, Kirk and Spock.
+
+284
+00:28:44,994 --> 00:28:47,121
+- <i>麦考伊没有和他们在一起？</i>  - 没有
+- <i>McCoy is not with them?</i> - No.
+
+285
+00:28:47,288 --> 00:28:49,499
+<i>他们犯了亵渎罪</i>
+<i>They have committed sacrilege.</i>
+
+286
+00:28:49,666 --> 00:28:52,251
+- <i>你知道必须做什么</i>  - 我知道
+- <i>You know what must be done.</i> - I know.
+
+287
+00:28:55,254 --> 00:28:58,549
+当神谕释放他们时，带他们走
+When the Oracle releases them, take them.
+
+288
+00:28:59,342 --> 00:29:01,928
+蠢人，你以为我们是孩童？
+Fools. You think we are children?
+
+289
+00:29:02,095 --> 00:29:03,513
+你认为你可以随心所欲
+You think you can do as you please,
+
+290
+00:29:03,680 --> 00:29:07,016
+犯下任何让你开心的罪行？
+commit whatever offense amuses you?
+
+291
+00:29:22,990 --> 00:29:25,201
+你要对我的朋友们做什么？
+What are you going to do to my friends?
+
+292
+00:29:25,368 --> 00:29:27,870
+他们闯入了神谕室
+They entered the Oracle room.
+
+293
+00:29:28,871 --> 00:29:32,166
+- 惩罚是死亡？  - 是的
+- And the punishment is death? - Yes.
+
+294
+00:29:32,333 --> 00:29:37,463
+我不能做其他决定，我们相信他们，他们背叛了我们
+I can make no other decision. We gave them our trust, they betrayed us.
+
+295
+00:29:37,630 --> 00:29:42,385
+- 他们是出于无知，纳提拉  - 他们说他们是出于友谊而来的
+- They acted out of ignorance, Natira. - They said they came in friendship.
+
+296
+00:29:42,552 --> 00:29:46,139
+- 请让他们回到船上  - 我不能
+- Please, let them return to the ship. - I cannot.
+
+297
+00:29:48,558 --> 00:29:50,893
+为了我？
+For me?
+
+298
+00:29:54,897 --> 00:29:56,899
+我已经做出了决定
+I've made my decision.
+
+299
+00:29:57,066 --> 00:30:00,194
+我会留在这，留在尤纳达
+I'm staying here, on Yonada.
+
+300
+00:30:05,241 --> 00:30:07,368
+纳提拉
+Natira.
+
+301
+00:30:07,535 --> 00:30:10,538
+无论他们做了什么，都是因为他们觉得他们必须做
+They did what they did because they felt they had to.
+
+302
+00:30:10,705 --> 00:30:14,917
+请让他们回到船上，你不会后悔的
+Please, let them return to the ship. You won't regret it.
+
+303
+00:30:15,084 --> 00:30:19,922
+你认为如果我为了幸福留下来，但我的朋友死了
+How do you think I'd I feel if I stayed, with a chance to be happy,
+
+304
+00:30:20,131 --> 00:30:23,176
+我会有什么感觉？
+but knowing my friends had died?
+
+305
+00:30:24,135 --> 00:30:25,762
+是的
+Yes.
+
+306
+00:30:29,432 --> 00:30:33,060
+就这样吧，我将为麦考伊做这件事
+So be it. This I will do for McCoy.
+
+307
+00:30:35,688 --> 00:30:39,776
+为了我们的幸福和未来
+For our happiness and future.
+
+308
+00:30:58,461 --> 00:31:00,254
+你和我们一起回去？
+You're returning with us?
+
+309
+00:31:00,546 --> 00:31:02,298
+不，我不回去
+No, I'm not.
+
+310
+00:31:02,590 --> 00:31:08,221
+这不是一颗行星，而是一艘宇宙飞船，在与达兰五号发生碰撞的航向上
+This isn't a planet, it's a spaceship, on a collision course with Daran V.
+
+311
+00:31:08,387 --> 00:31:11,098
+我自己也在毁灭的路上了
+I'm on a kind of collision course myself.
+
+312
+00:31:11,265 --> 00:31:13,809
+我命令你和我们一起回去
+I order you to return with us.
+
+313
+00:31:14,143 --> 00:31:17,438
+我拒绝
+And I refuse.
+
+314
+00:31:19,315 --> 00:31:25,821
+如果我们不能校正这艘船的航向，我们就必须把它炸出太空
+If we can't correct the course of this ship, we'll have to blast it out of space.
+
+315
+00:31:25,988 --> 00:31:30,284
+我打算和这些人呆在这艘船上，不管发生什么
+I intend to stay on this ship with these people, whatever happens.
+
+316
+00:31:30,451 --> 00:31:33,621
+你的决定是不合逻辑的，医生
+Your decision is most illogical, Doctor.
+
+317
+00:31:34,997 --> 00:31:37,083
+是吗，史波克先生？
+Is it, Mr. Spock?
+
+318
+00:31:37,250 --> 00:31:39,835
+这是真的？
+Is it really?
+
+319
+00:31:40,127 --> 00:31:42,255
+我和纳提拉在一起
+I'm staying with Natira.
+
+320
+00:31:42,421 --> 00:31:45,716
+- 作为她的丈夫？  - 是的
+- As her husband? - Yes.
+
+321
+00:31:48,803 --> 00:31:52,223
+吉姆，这样问是不是太过分了？
+Is that too much to ask, Jim?
+
+322
+00:31:53,182 --> 00:31:55,768
+- 柯克呼叫<i>企业号</i>  - <i>我是斯科特</i>
+- Kirk to Enterprise. - <i>Scott here.</i>
+
+323
+00:31:55,935 --> 00:31:59,855
+我们要传送过去，锁定我们的信号
+We're beaming over. Lock in on our signal.
+
+324
+00:32:00,022 --> 00:32:02,692
+传送史波克先生和我
+Transport Mr. Spock and myself.
+
+325
+00:32:02,858 --> 00:32:06,279
+<i>麦考伊医生呢？</i>
+<i>What about Dr. McCoy?</i>
+
+326
+00:32:18,249 --> 00:32:21,127
+他要留下来，斯科提，通话完毕
+He's staying, Scotty. Kirk out.
+
+327
+00:32:36,142 --> 00:32:38,269
+神谕：<i>成为尤纳达人民的一员</i>
+ORACLE: <i>To be one of the people of Yonada,</i>
+
+328
+00:32:38,561 --> 00:32:43,190
+<i>服从器必须成为你肉体的一部分</i>
+<i>the Instrument of Obedience must be made part of your flesh.</i>
+
+329
+00:32:44,400 --> 00:32:47,069
+<i>你现在同意吗？</i>
+<i>Do you now give your consent?</i>
+
+330
+00:32:48,195 --> 00:32:51,324
+- 我同意  - <i>开始</i>
+- I do. - <i>Proceed.</i>
+
+331
+00:32:58,706 --> 00:33:03,919
+有异议现在说，因为一旦完成，就不可改变
+Say now. Because once done, it is done.
+
+332
+00:33:04,086 --> 00:33:06,922
+没有异议
+Let it be done.
+
+333
+00:33:13,596 --> 00:33:17,767
+现在你成为我们中的一员了
+You are now one with my people.
+
+334
+00:33:26,108 --> 00:33:28,944
+愿我给你你想要的爱
+May I give you the love you want,
+
+335
+00:33:29,111 --> 00:33:32,114
+让你拥有美好的时光
+and make the time you have beautiful.
+
+336
+00:33:33,449 --> 00:33:38,245
+- 我们现在有同样的思想  - 同一颗心
+- We are now of one mind. - One heart.
+
+337
+00:33:38,412 --> 00:33:41,207
+同一个生命
+One life.
+
+338
+00:33:53,803 --> 00:33:58,057
+完成了，哦，至高智慧
+It is done, oh, most wise.
+
+339
+00:33:58,224 --> 00:34:01,102
+我们的生活与创造者相连
+Our living link with the creators.
+
+340
+00:34:01,268 --> 00:34:05,773
+<i>那么，教他作为人民必须知道的东西</i>
+<i>Teach him, then, what he must know as one of the people.</i>
+
+341
+00:34:29,505 --> 00:34:32,174
+这是人民之书
+This is the Book of the People,
+
+342
+00:34:32,383 --> 00:34:35,845
+当我们到达诺言的新世界时才能阅读
+to be read when we reach the new world of the promise.
+
+343
+00:34:36,011 --> 00:34:38,848
+这是创造者给予的
+It was given by the creators.
+
+344
+00:34:39,014 --> 00:34:41,308
+人民知道它的内容吗？
+Do the people know its contents?
+
+345
+00:34:41,600 --> 00:34:43,644
+只知道这里是我们的世界
+Only that it tells of our world here
+
+346
+00:34:43,811 --> 00:34:48,274
+以及为什么我们必须尽快离开它到新世界
+and why soon we must leave it for the new world.
+
+347
+00:34:48,441 --> 00:34:52,653
+人民必须离开这里的原因告诉你了吗？
+Has the reason that the people must leave here been revealed to you?
+
+348
+00:34:52,820 --> 00:34:54,697
+不，它没有
+No, it has not.
+
+349
+00:34:55,906 --> 00:34:59,326
+- 你不想知道它的秘密吗？  - 不
+- Don't you long to know its secrets? - No.
+
+350
+00:34:59,493 --> 00:35:05,541
+对我来说，只要知道我们到家后会明白一切就足够了
+It is enough for me to know we shall understand all when we reach home.
+
+351
+00:35:09,879 --> 00:35:13,883
+柯克：<i>舰长日志，星历5476.4</i>
+KIRK: <i>Captain's log, stardate 5476.4.</i>
+
+352
+00:35:14,049 --> 00:35:16,510
+<i>我们和尤纳达在一条平行的航线上</i>
+<i>We are on a parallel course with Yonada.</i>
+
+353
+00:35:16,677 --> 00:35:19,388
+<i>它仍在与达兰五号发生碰撞的航向上</i>
+<i>It is still on a collision course with Daran V.</i>
+
+354
+00:35:19,555 --> 00:35:23,559
+<i>由于我们未能校正它的航向，以及麦考伊医生的病</i>
+<i>Our failure to correct its course, and Dr. McCoy's illness,</i>
+
+355
+00:35:23,726 --> 00:35:27,730
+<i>使得我们必须与星际舰队司令部联系</i>
+<i>made contact with Starfleet Command imperative.</i>
+
+356
+00:35:28,814 --> 00:35:31,901
+韦斯特弗利特：<i>柯克舰长，我同意你留下的愿望</i>
+WESTERVLIET: <i>Captain Kirk, I sympathize with your wish to stay.</i>
+
+357
+00:35:32,067 --> 00:35:36,071
+<i>但我希望你认识到继续你的使命的必要性</i>
+<i>But I hope you recognize the need to continue your mission.</i>
+
+358
+00:35:36,238 --> 00:35:40,743
+- 这就是问题所在，长官  - <i>可能我没说清楚</i>
+- That is the problem, sir. - <i>Perhaps I haven't made myself clear.</i>
+
+359
+00:35:41,076 --> 00:35:42,870
+<i>让我重申一下</i>
+<i>Let me restate it.</i>
+
+360
+00:35:43,162 --> 00:35:47,249
+<i>你已被免除对尤纳达的所有责任</i>
+<i>You have been relieved of all responsibility for Yonada.</i>
+
+361
+00:35:47,416 --> 00:35:50,753
+<i>星际舰队司令部会处理这种情况</i>
+<i>Starfleet Command will take care of the situation.</i>
+
+362
+00:35:57,426 --> 00:36:01,096
+我相信是时候继续前进了
+I believe it is time to move on.
+
+363
+00:36:01,263 --> 00:36:04,433
+是的，这些就是命令
+Yes, those are the orders.
+
+364
+00:36:04,600 --> 00:36:07,279
+乌乎拉[通过对讲机]：<i>柯克舰长，舰桥呼叫柯克舰长</i>
+UHURA [OVER INTERCOM]: <i>Captain Kirk. Bridge to Captain Kirk.</i>
+
+365
+00:36:07,414 --> 00:36:08,717
+我是柯克
+Kirk here.
+
+366
+00:36:08,854 --> 00:36:12,733
+- <i>麦考伊医生的紧急呼叫，长官</i>  - 接通
+- <i>An urgent call from Dr. McCoy, sir.</i> - Put him on.
+
+367
+00:36:12,900 --> 00:36:15,611
+- 麦考伊：<i>吉姆？</i>  - 是我，老骨头
+- McCOY: <i>Jim?</i> - Yes, Bones.
+
+368
+00:36:15,778 --> 00:36:20,241
+- <i>我们可以让他们回到正轨</i>  - 你找到控制器了吗？
+- <i>We can get them back on course.</i> - You found the controls?
+
+369
+00:36:20,407 --> 00:36:24,787
+没有，但我看过包含创造者知识的书
+No, but I've seen the book that contains knowledge of the creators.
+
+370
+00:36:24,995 --> 00:36:27,540
+如果你…
+And if you...
+
+371
+00:36:29,291 --> 00:36:31,585
+如果你能得到它…
+If you can get to it...
+
+372
+00:36:31,752 --> 00:36:33,963
+史波克…
+Spock...
+
+373
+00:36:34,255 --> 00:36:37,299
+- <i>…挖掘信息</i>  - 它在哪里？
+- <i>...dig out the information.</i> - Where is it?
+
+374
+00:36:37,466 --> 00:36:39,134
+[呐喊]
+[SHOUTS]
+
+375
+00:36:39,468 --> 00:36:42,221
+老骨头，你没事吧？回答我！
+Bones, are you all right? Answer me!
+
+376
+00:36:43,305 --> 00:36:45,391
+<i>老骨头，是什么？</i>
+<i>Bones, what is it?</i>
+
+377
+00:36:47,017 --> 00:36:49,019
+<i>老骨头，是什么？</i>
+<i>Bones, what is it?</i>
+
+378
+00:36:50,938 --> 00:36:53,399
+<i>麦考伊，怎么了？</i>
+<i>McCoy, what's happening?</i>
+
+379
+00:36:53,566 --> 00:36:55,317
+<i>怎么了，麦考伊？</i>
+<i>What's happening, McCoy?</i>
+
+380
+00:37:15,546 --> 00:37:17,506
+你杀了你朋友
+You are killers of your friend.
+
+381
+00:37:17,673 --> 00:37:19,675
+我要把你处死
+I will have you put to death.
+
+382
+00:37:19,842 --> 00:37:22,177
+除非你死了，否则他不会服从
+Until you are dead, he will disobey.
+
+383
+00:37:22,344 --> 00:37:25,472
+- 我要看着你死！- 照顾好麦考伊
+- I will see you die! - Take care of McCoy.
+
+384
+00:37:54,501 --> 00:37:57,546
+他不是我们人民的一部分
+He is not part of our people.
+
+385
+00:37:57,713 --> 00:38:00,883
+你已经解除了他服从的誓言
+You've released him from his vow of obedience.
+
+386
+00:38:01,050 --> 00:38:05,387
+我们已经将他从你们的神谕的暴行中解放出来了
+We have freed him from the cruelty of your Oracle.
+
+387
+00:38:05,596 --> 00:38:06,639
+[呻吟]
+[GROANS]
+
+388
+00:38:06,805 --> 00:38:08,724
+麦考伊
+McCoy.
+
+389
+00:38:10,809 --> 00:38:11,894
+老骨头
+Bones.
+
+390
+00:38:12,061 --> 00:38:15,731
+你说了一些关于一本书的事情，它在哪里？
+You said something about a book. Where is it?
+
+391
+00:38:16,065 --> 00:38:18,067
+一定不能让他们知道
+They must not know.
+
+392
+00:38:18,233 --> 00:38:20,694
+…神谕室
+The... Oracle room.
+
+393
+00:38:20,861 --> 00:38:24,114
+你们绝不能看这本书，这是亵渎
+You will never see the book. It is sacrilege.
+
+394
+00:38:24,406 --> 00:38:26,200
+守卫！
+Guards!
+
+395
+00:38:26,492 --> 00:38:28,202
+守卫！
+Guards!
+
+396
+00:38:28,827 --> 00:38:33,248
+现在听我说，你必须听我要说的话
+Now listen to me, you must listen to what I have to say.
+
+397
+00:38:36,335 --> 00:38:38,587
+给我一点时间和你说话
+Give me one moment to speak to you.
+
+398
+00:38:38,754 --> 00:38:41,048
+就一会儿，纳提拉…
+One moment. Natira...
+
+399
+00:38:41,215 --> 00:38:44,426
+如果你不相信我的话，就叫守卫
+If you don't believe what I say, call the guards.
+
+400
+00:38:44,635 --> 00:38:48,097
+我们将接受您下达的任何惩罚
+We'll accept any punishment you decree.
+
+401
+00:38:48,389 --> 00:38:51,934
+- 你想说什么？  - 你必须相信这是事实
+- What do you wish to say? - You must believe it's the truth.
+
+402
+00:38:52,142 --> 00:38:57,189
+- 你们的真相，你们世界的真相  - 是的，我的世界和你的世界
+- Your truth. Of your world. - Yes, my world and your world.
+
+403
+00:38:57,356 --> 00:39:01,110
+你不服从创造者，你怎么了解我们的世界？
+You do not obey the creators. How can you understand my world?
+
+404
+00:39:01,276 --> 00:39:03,737
+我了解
+I understand.
+
+405
+00:39:04,697 --> 00:39:06,532
+我了解，纳蒂拉
+I understand, Natira.
+
+406
+00:39:08,951 --> 00:39:14,581
+10,000年前，一个太阳正在消亡，它的世界也随之消亡
+10,000 years ago, a sun was dying and with it, its world.
+
+407
+00:39:14,748 --> 00:39:18,127
+正是你在神谕室的饰板上看到的世界
+The world you see on the plaque in the Oracle room.
+
+408
+00:39:18,293 --> 00:39:22,965
+- 尤纳达是那个世界的一部分  - 不
+- The world of which Yonada is a part. - No.
+
+409
+00:39:23,173 --> 00:39:27,219
+那是你们祖先的世界，你们的…创造者
+It is the world of your ancestors, your... creators.
+
+410
+00:39:27,386 --> 00:39:30,180
+它不再存在
+It no longer exists.
+
+411
+00:39:31,432 --> 00:39:34,435
+- 你疯了  - 不，我没有，听我说！
+- You are mad. - No, I'm not. Listen to me!
+
+412
+00:39:34,601 --> 00:39:36,478
+听我说！
+Hear me out!
+
+413
+00:39:38,439 --> 00:39:42,735
+当你们的祖先发现他们的世界即将消亡时
+When your ancestors discovered their world was dying,
+
+414
+00:39:43,986 --> 00:39:50,159
+他们建造了一艘巨大的船并挑选了他们最优秀的人
+they built a great ship and chose their best people.
+
+415
+00:39:50,325 --> 00:39:54,580
+他们希望自己的种族能够延续下去，他们将飞船送入太空
+They wished for their race to survive. They sent the ship out into space.
+
+416
+00:39:56,415 --> 00:40:00,502
+你想让我相信尤纳达是一艘船吗？
+You wish me to believe that Yonada is a ship?
+
+417
+00:40:00,711 --> 00:40:02,588
+是的
+Yes.
+
+418
+00:40:02,755 --> 00:40:06,133
+但我们有太阳，它没有死，晚上，我能看到星星
+But we have a sun. It did not die. At night I see the stars.
+
+419
+00:40:07,009 --> 00:40:08,969
+不
+No.
+
+420
+00:40:10,137 --> 00:40:14,975
+你住在一个空心球里
+You are living inside a hollow ball.
+
+421
+00:40:15,142 --> 00:40:20,189
+你们的祖先创造它，带你踏上旅程
+Your ancestors created it to take you on a journey.
+
+422
+00:40:20,355 --> 00:40:23,442
+前往一颗充满希望的新星球
+To a promised new planet.
+
+423
+00:40:28,238 --> 00:40:34,036
+为什么你们来到尤纳达我们才知道真相？
+Why should the truth wait for you to come to Yonada?
+
+424
+00:40:34,203 --> 00:40:37,873
+控制器有缺陷，除非我们纠正它
+A flaw developed in the controls, and unless we correct it,
+
+425
+00:40:38,040 --> 00:40:41,627
+尤纳达将杀死数百万人并摧毁一个它不知道的世界
+Yonada will kill millions and destroy a world it doesn't know.
+
+426
+00:40:41,794 --> 00:40:43,670
+为什么要对我们隐瞒真相？
+Why should the truth be kept from us?
+
+427
+00:40:43,837 --> 00:40:47,007
+为什么创造者要向我们隐瞒？
+Why should the creators hide it from us?
+
+428
+00:40:47,299 --> 00:40:51,720
+不，不，你没有说实话
+No. No, you do not speak the truth.
+
+429
+00:40:51,887 --> 00:40:55,140
+我相信只有神谕，我相信…
+I believe only the Oracle. I believe...
+
+430
+00:40:55,307 --> 00:40:58,477
+让我们移除服从器
+Let us remove the Instrument of Obedience,
+
+431
+00:40:58,769 --> 00:41:01,271
+就像我们为麦考伊所做的
+the way we did for McCoy.
+
+432
+00:41:03,023 --> 00:41:04,066
+纳提拉…
+Natira...
+
+433
+00:41:14,868 --> 00:41:17,830
+你觉得她相信我说的吗？
+Do you think she understood me?
+
+434
+00:41:28,924 --> 00:41:31,760
+她有点相信，她没叫守卫
+She understood something. There are no guards.
+
+435
+00:41:32,052 --> 00:41:35,597
+神谕：<i>你听了非信徒的话</i>
+ORACLE: <i>You have listened to the words of the non-believers.</i>
+
+436
+00:41:35,806 --> 00:41:38,767
+是的，我听了
+Yes, I have listened.
+
+437
+00:41:38,934 --> 00:41:43,772
+<i>那是初犯，你感受到警告的痛苦了吗？</i>
+<i>That was the first transgression. You felt the pain of warning?</i>
+
+438
+00:41:43,939 --> 00:41:46,942
+- 是的，我感受了  - <i>你为什么还要听？</i>
+- Yes, I did. - <i>Why did you listen further?</i>
+
+439
+00:41:47,109 --> 00:41:51,238
+- 他们说他们说的是实话  - <i>他们的真相</i>
+- They said they spoke the truth. - <i>Their truth.</i>
+
+440
+00:41:52,072 --> 00:41:57,578
+- 真相不是所有人的真相吗？  - <i>尤纳达的真相就是你的真相</i>
+- Is truth not truth for all? - <i>The truth of Yonada is your truth.</i>
+
+441
+00:41:57,744 --> 00:42:02,583
+<i>你不必知道别的，悔改你的不顺服</i>
+<i>There can be no other for you. Repent your disobedience.</i>
+
+442
+00:42:02,749 --> 00:42:06,753
+我必须知道世界的真相
+I must know the truth of the world.
+
+443
+00:42:28,775 --> 00:42:32,070
+你的朋友告诉我你的世界
+Your friends have told me of your world.
+
+444
+00:42:32,237 --> 00:42:37,159
+- 他们说的是实话  - 我相信你
+- They spoke the truth. - I believe you.
+
+445
+00:42:38,327 --> 00:42:44,124
+我相信，创造者让我们处于黑暗之中
+I believe. The creators kept us in darkness.
+
+446
+00:42:44,291 --> 00:42:46,877
+我无能为力
+There's nothing I can do.
+
+447
+00:42:47,169 --> 00:42:50,631
+我相信你，丈夫
+I believe with you, husband.
+
+448
+00:43:11,193 --> 00:43:14,613
+- 她还好吗？  - 她会好的，我会陪她
+- Is she all right? - She will be. I'll stay with her.
+
+449
+00:43:14,780 --> 00:43:17,699
+那本书在石碑中
+The book is in the monolith.
+
+450
+00:43:20,911 --> 00:43:23,163
+神谕：<i>这是对圣殿的亵渎</i>
+ORACLE: <i>It is sacrilege to the temple.</i>
+
+451
+00:43:23,330 --> 00:43:26,833
+我们这样做是为了尤纳达人民的生存
+We do this for the survival of the people of Yonada.
+
+452
+00:43:27,000 --> 00:43:30,504
+<i>你们不相信，你们被禁止看这本书</i>
+<i>You do not believe. You are forbidden to gaze at the book.</i>
+
+453
+00:43:30,671 --> 00:43:35,342
+我们无意亵渎你的信仰，我们必须查阅这本书
+We mean no desecration to your faith. We must consult the book.
+
+454
+00:43:35,509 --> 00:43:39,888
+<i>这是亵渎，禁止这么做，惩罚是死</i>
+<i>It is blasphemy. You are forbidden. The punishment is death.</i>
+
+455
+00:43:40,055 --> 00:43:41,723
+[雷声]
+[THUNDER CRACK]
+
+456
+00:43:53,068 --> 00:43:56,071
+温度111度并不断上升
+Temperature 111 degrees and rising.
+
+457
+00:43:56,238 --> 00:43:59,741
+- 你怎么打开这个东西？  - 115度
+- How do you open this thing? - 115 degrees.
+
+458
+00:43:59,908 --> 00:44:04,830
+同时按下左侧的三个下方行星
+Press the three lower planets on the left hand side, simultaneously.
+
+459
+00:44:06,081 --> 00:44:08,750
+120度
+120 degrees.
+
+460
+00:44:12,087 --> 00:44:14,464
+计划一定在那里面
+The plan must be in there.
+
+461
+00:44:16,091 --> 00:44:17,592
+- 有索引吗？  - 是的
+- Is it indexed? - Yes, it is.
+
+462
+00:44:18,677 --> 00:44:21,096
+快点，史波克
+Hurry, Spock.
+
+463
+00:44:28,270 --> 00:44:30,689
+它指的是祭坛
+It refers to the altar.
+
+464
+00:44:34,026 --> 00:44:37,195
+向中心施加压力，直到它打开
+Apply pressure to the center until it opens.
+
+465
+00:44:59,885 --> 00:45:04,056
+- 让她摆脱炎热  - 我已经摧毁了加热元件
+- Get her out of the heat. - I've neutralized the heating elements.
+
+466
+00:45:05,807 --> 00:45:08,643
+现在我们在这儿没事了
+We'll be all right here, now.
+
+467
+00:45:15,567 --> 00:45:18,320
+神谕不能再惩罚我们了
+The Oracle can no longer punish us.
+
+468
+00:45:18,528 --> 00:45:21,990
+- 你的朋友们阻止了它吗？  - 是的
+- Your friends have prevented it? - Yes.
+
+469
+00:45:22,157 --> 00:45:26,078
+他们会让这个…船
+And will they send this... ship,
+
+470
+00:45:26,244 --> 00:45:28,955
+再次前往创造者想去的地方？
+again to the land the creators intended?
+
+471
+00:45:29,122 --> 00:45:30,624
+是的
+Yes.
+
+472
+00:45:32,334 --> 00:45:34,252
+那很好
+That is good.
+
+473
+00:45:36,338 --> 00:45:39,674
+可运行，与<i>企业号</i>没有太大区别
+Functional. Not too different from the <i>Enterprise.</i>
+
+474
+00:45:39,841 --> 00:45:43,929
+八根管子里有一根似乎有问题
+There seems to be a weakness in one of the eight tubes.
+
+475
+00:45:44,096 --> 00:45:46,681
+- 足以校正它的航线吗？  - 是的
+- Enough to turn it off course? - Yes.
+
+476
+00:45:46,848 --> 00:45:49,184
+让我检查一下那个引擎
+Let me check that engine.
+
+477
+00:45:56,191 --> 00:46:00,779
+史波克：一个非常简单的问题，很容易纠正
+SPOCK: A very simple problem, easy to correct.
+
+478
+00:46:03,365 --> 00:46:04,783
+那就来吧
+Then come.
+
+479
+00:46:06,701 --> 00:46:10,038
+- 不  - 不要害怕
+- No. - Don't be afraid.
+
+480
+00:46:10,205 --> 00:46:13,291
+我不怕不服从的惩罚
+I do not fear the punishment of disobedience.
+
+481
+00:46:13,583 --> 00:46:17,212
+- 那就来吧，我们得快点…  - 不，我不能和你一起去
+- Then come, we must hurry... - No, I cannot go with you.
+
+482
+00:46:17,379 --> 00:46:19,214
+这不是恐惧
+It is not fear.
+
+483
+00:46:19,381 --> 00:46:23,969
+我理解创造者的伟大目的
+I understand the great purpose of the creators.
+
+484
+00:46:24,136 --> 00:46:26,721
+我会尊重它
+I shall honor it.
+
+485
+00:46:26,888 --> 00:46:29,891
+你打算留在这里，在尤纳达？
+You intend to stay here, on Yonada?
+
+486
+00:46:31,393 --> 00:46:37,357
+我会心甘情愿地留下来，因为那是我必须做的
+I shall stay willingly, and because that is what I must do.
+
+487
+00:46:39,693 --> 00:46:42,529
+那我就不离开你了
+Then I won't leave you.
+
+488
+00:46:44,322 --> 00:46:48,076
+麦考伊会留在这里等死吗？
+Will McCoy stay here to die?
+
+489
+00:46:48,243 --> 00:46:55,083
+不，麦科伊不会在年富力强的时候放弃生命
+No, McCoy will not let go of life in the fullness of years.
+
+490
+00:46:55,375 --> 00:46:59,212
+现在，我比以往任何时候都更想探索宇宙
+Now, more than ever, I wish to search through the universe
+
+491
+00:46:59,504 --> 00:47:02,757
+为我自己和所有像我一样的人找到治愈方法
+to find a cure for myself and all others like me.
+
+492
+00:47:03,425 --> 00:47:06,553
+我希望你和我在一起
+And I want you to be with me.
+
+493
+00:47:09,556 --> 00:47:14,352
+这是我的宇宙
+This is my universe.
+
+494
+00:47:14,519 --> 00:47:17,272
+你带着伟大的使命来到这里
+You came here with a great mission,
+
+495
+00:47:17,439 --> 00:47:20,066
+拯救我的人民
+to save my people.
+
+496
+00:47:20,358 --> 00:47:23,028
+我要放弃他们吗？
+Shall I abandon them?
+
+497
+00:47:28,074 --> 00:47:32,078
+也许有一天，如果可能的话
+Perhaps one day, if it is permitted,
+
+498
+00:47:32,245 --> 00:47:35,415
+你会再次找到尤纳达
+you will find Yonada again.
+
+499
+00:47:44,633 --> 00:47:48,261
+我相信我们可以尝试校正航线
+I believe we can attempt the course correction.
+
+500
+00:47:49,304 --> 00:47:51,139
+好的
+Good.
+
+501
+00:47:57,979 --> 00:48:00,607
+回到标记的航向
+Going back to marked headings.
+
+502
+00:48:01,816 --> 00:48:04,236
+制导控制接管
+Guidance controls taking over.
+
+503
+00:48:04,402 --> 00:48:07,405
+我们可以让船回到自动状态
+We can allow the ship to go back to automatic.
+
+504
+00:48:07,572 --> 00:48:11,409
+保持在红色标记的航线上
+Steadying on course marked in red.
+
+505
+00:48:14,829 --> 00:48:16,206
+舰长
+Captain.
+
+506
+00:48:17,165 --> 00:48:19,000
+信息档案
+Intelligence files.
+
+507
+00:48:19,209 --> 00:48:23,255
+他们的库包含法布里尼的全部知识
+Their banks contain the total knowledge of the Fabrini,
+
+508
+00:48:23,421 --> 00:48:27,634
+准备供人们在到达目的地时进行咨询
+ready for the people to consult when they arrive at their destination.
+
+509
+00:48:27,801 --> 00:48:32,973
+而且他们似乎积累了大量的医学知识
+And they seem to have amassed a great deal of medical knowledge.
+
+510
+00:48:58,790 --> 00:49:03,837
+太好了，医生，白细胞计数恢复正常
+Excellent, Doctor. The white corpuscle count is back to normal.
+
+511
+00:49:09,301 --> 00:49:11,469
+你的血红蛋白计数正常
+Your hemoglobin count is normal,
+
+512
+00:49:11,636 --> 00:49:15,223
+这表明流向每个细胞的氧气
+which indicates that the flow of oxygen to each cell
+
+513
+00:49:15,390 --> 00:49:19,853
+恢复到其丰富的能量水平
+is back up to its abundantly energetic level.
+
+514
+00:49:20,020 --> 00:49:24,566
+谢谢你，史波克先生，你带回了法布里尼的知识
+Thank you, Mr. Spock, for bringing back the knowledge of the Fabrini.
+
+515
+00:49:24,733 --> 00:49:28,194
+法布里尼的后代计划在390天内
+The Fabrini descendants are scheduled to disembark
+
+516
+00:49:28,361 --> 00:49:31,740
+登陆他们既定的行星
+on their promised planet in 390 days.
+
+517
+00:49:31,906 --> 00:49:37,078
+想那个时候我们可以设法到达那附近
+I think we could manage to be in that vicinity at that time.
+
+518
+00:49:37,245 --> 00:49:41,583
+如果你想亲自感谢法布里尼人的话
+If you wanted to thank the Fabrini personally.
+
