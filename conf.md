@@ -1,5 +1,3 @@
-
-
 Make Jelly site have a GitBook look! xxx
 
 ## Demo
