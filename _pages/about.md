@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+author: youthred
+date: 2022-07-18
+category: about
 layout: post
 ---
 
-This is an about page.
+[Jekyll Gitbook](https://github.com/sighingnow/jekyll-gitbook)
